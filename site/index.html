@@ -76,44 +76,87 @@
               </p>
             </div>
 
-            <!-- DRAWN, NOT PHOTOGRAPHED, and every fill is a mix of the app's own
-                 tokens (see .scene-* in styles.css) so the picture follows the
-                 brand rather than pinning it. -->
-            <div class="scene">
-              <svg viewBox="0 0 640 430" role="img" aria-label="A van on a road at dusk, below mountains and a rising moon">
-                <rect class="scene-sky" width="640" height="430" />
-                <rect class="scene-sky-low" y="150" width="640" height="280" />
-                <circle class="scene-sun" cx="470" cy="150" r="34" />
-                <g class="scene-star">
-                  <circle cx="72" cy="52" r="1.9" /><circle cx="148" cy="96" r="1.4" />
-                  <circle cx="228" cy="44" r="1.7" /><circle cx="316" cy="88" r="1.3" />
-                  <circle cx="392" cy="40" r="1.8" /><circle cx="556" cy="66" r="1.5" />
-                  <circle cx="604" cy="118" r="1.3" /><circle cx="108" cy="140" r="1.2" />
-                  <circle cx="268" cy="132" r="1.5" />
-                </g>
-                <path class="scene-ridge-far" d="M0 214 L96 140 L166 196 L246 126 L338 206 L410 158 L498 212 L570 166 L640 218 L640 250 L0 250 Z" />
-                <path class="scene-ridge-mid" d="M0 258 L84 200 L162 250 L252 188 L340 252 L436 202 L530 254 L640 206 L640 300 L0 300 Z" />
-                <path class="scene-ridge-near" d="M0 300 L120 254 L228 300 L330 258 L448 304 L556 262 L640 300 L640 340 L0 340 Z" />
-                <rect class="scene-ground" y="322" width="640" height="108" />
-                <path class="scene-road" d="M262 430 L318 330 L360 330 L470 430 Z" />
-                <g class="scene-tree">
-                  <path d="M84 352 l16 40 h-32 Z" /><path d="M84 336 l13 34 h-26 Z" />
-                  <path d="M138 364 l14 36 h-28 Z" />
-                  <path d="M548 350 l17 42 h-34 Z" /><path d="M548 334 l14 34 h-28 Z" />
-                  <path d="M600 366 l13 34 h-26 Z" />
-                </g>
-                <g>
-                  <rect class="scene-van" x="296" y="352" width="94" height="42" rx="11" />
-                  <rect class="scene-van-dark" x="296" y="380" width="94" height="14" rx="7" />
-                  <rect class="scene-glass" x="352" y="359" width="30" height="19" rx="5" />
-                  <circle class="scene-van-dark" cx="320" cy="396" r="10" />
-                  <circle class="scene-van-dark" cx="370" cy="396" r="10" />
-                </g>
-                <circle class="scene-pin-sleep" cx="176" cy="292" r="6" />
-                <circle class="scene-pin-act" cx="466" cy="286" r="6" />
-                <circle class="scene-pin-nomad" cx="252" cy="316" r="6" />
-              </svg>
-            </div>
+            <!-- The hero art, ported from the earlier marketing build. DRAWN, NOT
+                 PHOTOGRAPHED -- no stock sunset, no licence to buy. Its 25
+                 hardcoded colours are now .s-* classes in styles.css, every one
+                 a mix of the app's own tokens, so the picture follows the brand
+                 instead of pinning it. Add a real photograph and an og:image
+                 together, or neither. -->
+            <svg class="scene" viewBox="0 0 800 620" role="img" aria-label="A dusk landscape of layered ridges with a road winding toward the horizon and a camper van pulled over for the night.">
+              <defs>
+                <linearGradient id="scSky" x1="0" y1="0" x2="0" y2="1">
+                  <stop offset="0%" class="s-sky-0"/>
+                  <stop offset="42%" class="s-sky-1"/>
+                  <stop offset="74%" class="s-sky-2"/>
+                  <stop offset="100%" class="s-sky-3"/>
+                </linearGradient>
+                <radialGradient id="scGlow" cx="50%" cy="50%" r="50%">
+                  <stop offset="0%" class="s-glow" stop-opacity=".95"/>
+                  <stop offset="100%" class="s-glow" stop-opacity="0"/>
+                </radialGradient>
+                <linearGradient id="scRoad" x1="0" y1="0" x2="0" y2="1">
+                  <stop offset="0%" class="s-road-0"/>
+                  <stop offset="100%" class="s-road-1"/>
+                </linearGradient>
+                <linearGradient id="scGround" x1="0" y1="0" x2="0" y2="1">
+                  <stop offset="0%" class="s-ground-0"/>
+                  <stop offset="100%" class="s-ground-1"/>
+                </linearGradient>
+              </defs>
+            
+              <rect width="800" height="620" fill="url(#scSky)"/>
+            
+              <g class="s-star">
+                <circle cx="92" cy="58" r="2.1" opacity=".9"/><circle cx="168" cy="112" r="1.5" opacity=".65"/>
+                <circle cx="243" cy="44" r="1.7" opacity=".75"/><circle cx="333" cy="96" r="1.3" opacity=".55"/>
+                <circle cx="408" cy="38" r="2" opacity=".85"/><circle cx="497" cy="88" r="1.4" opacity=".6"/>
+                <circle cx="586" cy="46" r="1.7" opacity=".7"/><circle cx="676" cy="102" r="1.5" opacity=".6"/>
+                <circle cx="731" cy="52" r="2.2" opacity=".9"/><circle cx="62" cy="152" r="1.3" opacity=".45"/>
+                <circle cx="612" cy="150" r="1.2" opacity=".4"/>
+              </g>
+            
+              <circle cx="556" cy="292" r="120" fill="url(#scGlow)"/>
+              <circle cx="556" cy="292" r="46" class="s-sun"/>
+            
+              <path d="M0 300 L96 246 L150 278 L214 218 L286 272 L338 240 L398 286 L452 250 L520 300 L584 268 L648 306 L720 262 L800 312 L800 360 L0 360 Z" class="s-ridge-1" opacity=".85"/>
+              <path d="M0 344 L74 300 L142 340 L206 296 L268 338 L352 288 L430 342 L500 306 L566 348 L640 302 L716 346 L800 306 L800 400 L0 400 Z" class="s-ridge-2"/>
+              <path d="M0 372 L88 336 L168 384 L262 330 L354 386 L440 342 L536 392 L618 344 L702 388 L800 348 L800 440 L0 440 Z" class="s-ridge-3"/>
+            
+              <path d="M0 420 C 120 400, 220 434, 320 424 C 430 412, 520 442, 620 428 C 700 416, 760 430, 800 422 L800 620 L0 620 Z" fill="url(#scGround)"/>
+            
+              <path d="M186 620 Q300 516 400 418 L416 418 Q452 512 384 620 Z" fill="url(#scRoad)"/>
+              <path d="M288 618 Q378 512 408 420" class="s-dash" stroke-width="4" stroke-dasharray="16 20" fill="none" opacity=".75" stroke-linecap="round"/>
+            
+              <g class="s-tree">
+                <path d="M92 470 l16-42 16 42z"/><path d="M100 448 l8-30 8 30z"/><rect x="105" y="468" width="6" height="14"/>
+                <path d="M136 486 l19-50 19 50z"/><path d="M146 462 l9-34 9 34z"/><rect x="151" y="484" width="7" height="16"/>
+                <path d="M528 462 l15-40 15 40z"/><path d="M536 442 l7-28 7 28z"/><rect x="540" y="460" width="6" height="13"/>
+                <path d="M572 492 l21-54 21 54z"/><path d="M583 466 l10-36 10 36z"/><rect x="589" y="490" width="8" height="18"/>
+                <path d="M646 452 l13-34 13 34z"/><rect x="657" y="450" width="5" height="12"/>
+                <path d="M690 500 l22-58 22 58z"/><path d="M702 472 l10-38 10 38z"/><rect x="708" y="498" width="8" height="19"/>
+              </g>
+            
+              <g transform="translate(196 486) scale(1.24)">
+                <ellipse cx="62" cy="70" rx="66" ry="7" class="s-van-shadow" opacity=".55"/>
+                <path d="M8 62 L8 30 Q8 22 17 20 L64 12 Q76 10 86 18 L108 34 Q116 40 116 50 L116 62 Z" class="s-van-body"/>
+                <path d="M18 26 L52 20 L52 40 L16 40 Z" class="s-van-panel"/>
+                <path d="M60 19 L82 22 Q90 24 96 30 L104 38 L60 38 Z" class="s-van-panel2"/>
+                <rect x="6" y="58" width="112" height="8" rx="4" class="s-van-sill"/>
+                <circle cx="32" cy="66" r="11" class="s-tyre"/><circle cx="32" cy="66" r="4.4" class="s-hub"/>
+                <circle cx="96" cy="66" r="11" class="s-tyre"/><circle cx="96" cy="66" r="4.4" class="s-hub"/>
+                <rect x="24" y="6" width="70" height="6" rx="3" class="s-rack"/>
+                <path d="M112 44 h10 a3 3 0 0 1 0 6 h-10z" class="s-lamp"/>
+              </g>
+            
+              <g opacity=".9">
+                <circle cx="470" cy="530" r="7" class="s-van-panel"/>
+                <circle cx="470" cy="530" r="15" class="s-van-panel" opacity=".28"/>
+                <circle cx="640" cy="566" r="7" class="s-pin-nomad"/>
+                <circle cx="640" cy="566" r="15" class="s-pin-nomad" opacity=".3"/>
+                <circle cx="128" cy="572" r="7" class="s-pin-nomad"/>
+                <circle cx="128" cy="572" r="15" class="s-pin-nomad" opacity=".3"/>
+              </g>
+            </svg>
           </div>
         </div>
       </section>
@@ -216,20 +259,49 @@
                 <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span>Confirmed on the ground by nomads leaving reports</span></li>
                 <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span>Flag anything wrong, missing or unsafe in two taps</span></li>
               </ul>
-            </div>
-            <div class="card">
-              <p class="eyebrow">What that means for you</p>
-              <h3>A pin is a lead, not a promise</h3>
-              <p class="muted">
-                More than 20,000 overnight spots are on the map today. Nobody has personally
-                checked all of them, and we would rather say so than let you drive two hours to
-                a gate that's been locked since spring.
-              </p>
-              <p class="muted">
-                Rules, closures and conditions change. Check locally before you commit to a
-                night somewhere.
+              <p class="small muted mt-l">
+                A pin is a lead, not a promise. Rules, closures and conditions change —
+                check locally before you commit to a night somewhere.
               </p>
             </div>
+            <svg class="scene" viewBox="0 0 640 460" role="img" aria-label="Illustration of the Road Wild map with sleep spot and activity pins scattered across trails and a highway.">
+              <defs>
+                <linearGradient id="scMapBg" x1="0" y1="0" x2="1" y2="1">
+                  <stop offset="0%" class="m-bg-0"/><stop offset="100%" class="m-bg-1"/>
+                </linearGradient>
+              </defs>
+              <rect width="640" height="460" fill="url(#scMapBg)"/>
+              <g class="m-grid" stroke-width="1.4" opacity=".85">
+                <path d="M0 70h640M0 150h640M0 230h640M0 310h640M0 390h640"/>
+                <path d="M80 0v460M180 0v460M300 0v460M420 0v460M540 0v460"/>
+              </g>
+              <path d="M-10 330 C 120 300, 190 372, 300 340 C 410 308, 470 366, 660 322" class="m-hwy" stroke-width="16" fill="none" opacity=".55" stroke-linecap="round"/>
+              <path d="M-10 120 C 130 96, 250 178, 360 132 C 470 86, 560 150, 660 118" class="m-dirt" stroke-width="9" fill="none" stroke-linecap="round"/>
+              <path d="M60 460 C 140 350, 120 250, 220 190 C 320 130, 380 200, 470 150 C 540 112, 600 140, 660 96" class="m-trail" stroke-width="3.5" stroke-dasharray="9 9" fill="none" opacity=".8" stroke-linecap="round"/>
+              <g class="m-scrub" opacity=".7">
+                <circle cx="130" cy="392" r="34"/><circle cx="176" cy="404" r="24"/>
+                <circle cx="520" cy="234" r="40"/><circle cx="566" cy="252" r="26"/>
+                <circle cx="300" cy="66" r="30"/>
+              </g>
+              <g>
+                <g transform="translate(146 232)"><path d="M0 0c0-13 10-24 24-24s24 11 24 24c0 18-24 40-24 40S0 18 0 0Z" class="s-pin-sleep"/><circle cx="24" cy="1" r="9" class="m-card"/></g>
+                <g transform="translate(388 176)"><path d="M0 0c0-13 10-24 24-24s24 11 24 24c0 18-24 40-24 40S0 18 0 0Z" class="s-pin-sleep"/><circle cx="24" cy="1" r="9" class="m-card"/></g>
+                <g transform="translate(468 342)"><path d="M0 0c0-13 10-24 24-24s24 11 24 24c0 18-24 40-24 40S0 18 0 0Z" class="s-pin-act"/><circle cx="24" cy="1" r="9" class="m-card"/></g>
+                <g transform="translate(246 344)"><path d="M0 0c0-13 10-24 24-24s24 11 24 24c0 18-24 40-24 40S0 18 0 0Z" class="s-pin-act"/><circle cx="24" cy="1" r="9" class="m-card"/></g>
+                <g transform="translate(560 92)"><path d="M0 0c0-13 10-24 24-24s24 11 24 24c0 18-24 40-24 40S0 18 0 0Z" class="s-pin-nomad"/><circle cx="24" cy="1" r="9" class="m-card"/></g>
+                <g transform="translate(74 122)"><path d="M0 0c0-13 10-24 24-24s24 11 24 24c0 18-24 40-24 40S0 18 0 0Z" class="s-pin-nomad"/><circle cx="24" cy="1" r="9" class="m-card"/></g>
+              </g>
+              <g transform="translate(326 250)">
+                <circle r="13" class="s-pin-nomad"/><circle r="13" fill="none" class="m-ring" stroke-width="3.5"/>
+                <circle r="30" class="s-pin-nomad" opacity=".2"/><circle r="46" class="s-pin-nomad" opacity=".12"/>
+              </g>
+              <g class="m-legend" font-size="13" font-weight="600">
+                <rect x="20" y="20" width="182" height="106" rx="14" class="m-card" opacity=".95"/>
+                <circle cx="40" cy="48" r="6" class="s-pin-sleep"/><text x="56" y="53" class="m-label">Sleep spots</text>
+                <circle cx="40" cy="76" r="6" class="s-pin-act"/><text x="56" y="81" class="m-label">Activities</text>
+                <circle cx="40" cy="104" r="6" class="s-pin-nomad"/><text x="56" y="109" class="m-label">Nomads nearby</text>
+              </g>
+            </svg>
           </div>
         </div>
       </section>

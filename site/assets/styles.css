@@ -401,3 +401,90 @@ input:focus, select:focus, textarea:focus {
    silently dropped by the browser. Class, never attribute. */
 .mt-l { margin-top: 18px; }
 .actions-center { justify-content: center; }
+
+/* ============================================================ scene ======
+ * The hero landscape and the map illustration.
+ *
+ * Ported from the earlier marketing build, which drew them with 25 and 11
+ * hardcoded hex values respectively. Every one of those is now a mix of the
+ * app's own tokens, so the artwork tracks the brand instead of pinning it --
+ * the same reason nothing else in this file carries a literal colour.
+ *
+ * WHY THE SCENE HAS ITS OWN TWO POLES:
+ * a picture has internal light logic -- the sky is dark at the top, the horizon
+ * is bright, the ground is in shadow. Mixing toward --foreground/--background
+ * the way the rest of this file does would INVERT that logic in dark mode: the
+ * night sky would come out pale. So the scene mixes toward --scene-shade and
+ * --scene-glow, which are re-pointed per theme below and always mean "the dark
+ * end" and "the light end". Still tokens; still no hex.
+ */
+
+:root {
+  --scene-shade: hsl(var(--foreground));
+  --scene-glow: hsl(var(--card));
+}
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    --scene-shade: hsl(var(--background));
+    --scene-glow: hsl(var(--foreground));
+  }
+}
+:root.dark, .dark {
+  --scene-shade: hsl(var(--background));
+  --scene-glow: hsl(var(--foreground));
+}
+
+.scene {
+  border-radius: var(--r-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-lg);
+  border: 1px solid var(--line);
+}
+
+/* ---- hero landscape ---- */
+.s-sky-0  { stop-color: color-mix(in srgb, hsl(var(--accent)) 50%, var(--scene-shade)); }
+.s-sky-1  { stop-color: hsl(var(--accent)); }
+.s-sky-2  { stop-color: color-mix(in srgb, hsl(var(--cta)) 42%, var(--scene-glow)); }
+.s-sky-3  { stop-color: color-mix(in srgb, hsl(var(--cta)) 30%, var(--scene-glow)); }
+.s-glow   { stop-color: color-mix(in srgb, hsl(var(--cta)) 26%, var(--scene-glow)); }
+.s-sun    { fill: color-mix(in srgb, hsl(var(--cta)) 36%, var(--scene-glow)); }
+.s-star   { fill: var(--scene-glow); }
+
+.s-ridge-1 { fill: color-mix(in srgb, hsl(var(--accent)) 78%, var(--scene-shade)); }
+.s-ridge-2 { fill: color-mix(in srgb, hsl(var(--accent)) 60%, var(--scene-shade)); }
+.s-ridge-3 { fill: color-mix(in srgb, hsl(var(--primary)) 84%, var(--scene-glow)); }
+
+.s-ground-0 { stop-color: color-mix(in srgb, hsl(var(--primary)) 86%, var(--scene-shade)); }
+.s-ground-1 { stop-color: color-mix(in srgb, hsl(var(--primary)) 58%, var(--scene-shade)); }
+
+.s-road-0 { stop-color: color-mix(in srgb, hsl(var(--muted)) 78%, var(--scene-shade)); }
+.s-road-1 { stop-color: hsl(var(--muted)); }
+.s-dash   { stroke: var(--scene-glow); }
+
+.s-tree      { fill: color-mix(in srgb, hsl(var(--primary)) 44%, var(--scene-shade)); }
+.s-van-shadow{ fill: var(--scene-shade); }
+.s-van-body  { fill: color-mix(in srgb, hsl(var(--secondary)) 52%, var(--scene-shade)); }
+.s-van-panel { fill: hsl(var(--cta)); }
+.s-van-panel2{ fill: color-mix(in srgb, hsl(var(--cta)) 66%, var(--scene-glow)); }
+.s-van-sill  { fill: color-mix(in srgb, hsl(var(--secondary)) 32%, var(--scene-shade)); }
+.s-tyre      { fill: var(--scene-shade); }
+.s-hub       { fill: color-mix(in srgb, hsl(var(--secondary)) 58%, var(--scene-shade)); }
+.s-rack      { fill: hsl(var(--primary)); }
+.s-lamp      { fill: color-mix(in srgb, hsl(var(--cta)) 26%, var(--scene-glow)); }
+
+.s-pin-act   { fill: hsl(var(--cta)); }
+.s-pin-nomad { fill: hsl(var(--accent)); }
+.s-pin-sleep { fill: hsl(var(--primary)); }
+
+/* ---- map illustration ---- */
+.m-bg-0  { stop-color: color-mix(in srgb, hsl(var(--primary)) 6%, var(--surface)); }
+.m-bg-1  { stop-color: color-mix(in srgb, hsl(var(--primary)) 12%, var(--surface)); }
+.m-grid  { stroke: color-mix(in srgb, hsl(var(--primary)) 24%, var(--surface)); }
+.m-hwy   { stroke: color-mix(in srgb, hsl(var(--accent)) 46%, var(--surface)); }
+.m-dirt  { stroke: color-mix(in srgb, hsl(var(--secondary)) 34%, var(--surface)); }
+.m-trail { stroke: hsl(var(--primary)); }
+.m-scrub { fill: color-mix(in srgb, hsl(var(--primary)) 32%, var(--surface)); }
+.m-card  { fill: var(--surface); }
+.m-label { fill: hsl(var(--foreground)); }
+.m-ring  { stroke: var(--surface); }
+.m-legend { font-family: var(--font-body); }

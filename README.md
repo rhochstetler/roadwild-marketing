@@ -35,6 +35,11 @@ scripts/sync-brand.mjs     the guardrail. Reads the app's DEPLOYED css.
 scripts/serve.mjs          local preview, no dependencies.
 site/                      what gets published.
   index.html               the landing page
+  features.html            what exists today
+  pricing.html             free / beta / paid. THE "IN DEVELOPMENT" TAGS ARE LOAD-BEARING.
+  about.html               why it exists, where the map came from
+  beta.html                the waitlist form
+  404.html                 not in sitemap.xml — an error page is not content
   privacy.html terms.html  scoped to THIS SITE — see the note at the top of each
   assets/styles.css        layout and type. Every colour is var(--something).
   assets/brand.css         GENERATED + GITIGNORED. Never commit, never hand-edit.
@@ -79,9 +84,16 @@ visits both.
 ### Rules
 
 - **Every colour in `site/assets/styles.css` is `var(--something)`. No hex, no
-  literal `hsl()`.** A hardcoded colour is invisible to the check. The one
-  exception is `site/favicon.svg`, which cannot read CSS variables and carries
-  `#2D6A4F` by hand — noted in the file.
+  literal `hsl()`.** A hardcoded colour is invisible to the check. Shades and
+  tints the app does not define are derived with `color-mix()` against
+  `--foreground` / `--background`, never pasted in as new values — a derived
+  colour follows the app and inverts correctly in dark mode; a pasted one does
+  neither. The hero illustration is tokenised the same way (`.scene-*`).
+- **Two exceptions, both unavoidable and both annotated in place:**
+  `site/favicon.svg` and the `theme-color` meta on each page. Neither can read a
+  CSS variable, so both carry `#2D6A4F` (= `--primary`) by hand. **The drift
+  check cannot see either one.** If `--primary` changes in the app, change these
+  two by hand; nothing will tell you to.
 - `site/assets/brand.css` is **generated and gitignored**. Do not commit it, do
   not hand-edit it.
 - `brand.tokens.json` is written by the script. Do not hand-edit it either.
@@ -117,6 +129,10 @@ both looks broken in preview and fine in code. Until the app is published,
 `betaSignup` does not exist and this form fails at submit while looking correct
 in every file you can read.
 
+**Header and footer are duplicated in every page.** This is a static site with
+no template step, so a change to the nav has to be made in all eight files.
+Grep before you edit one.
+
 **The legal pages here are scoped to this website.** They are not the Road Wild
 privacy policy or terms of service — those govern the app, live outside this
 repo, and are linked from these pages. Do not grow these into full copies:
@@ -139,7 +155,10 @@ Each of these is load-bearing, not a style preference.
 - **No analytics, no cookies, no pixel, no tag manager.** The only attribution is
   the `?ref=` string typed into Robyn's own links, carried into
   `BetaSignup.source`. The privacy policy says this plainly; adding a script
-  makes it false.
-- **No hero photo and no `og:image`** until a licensed one exists. The hero draws
-  contour lines instead. Add both together, never one.
+  makes it false. The CSP in `netlify.toml` has no `'unsafe-inline'` for
+  scripts or styles, which is also why there is no `style=""` attribute
+  anywhere — use a class.
+- **No hero photo and no `og:image`** until a licensed one exists. The hero is a
+  drawn SVG scene instead, built from the brand tokens. Add a photo and an
+  `og:image` together, never one without the other.
 - **The spot count rounds down.**

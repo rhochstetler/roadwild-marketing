@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Terms — Road Wild</title>
-    <meta name="description" content="Terms for roadwild.org. The terms of service governing the Road Wild app are a separate document, linked here." />
-    <link rel="canonical" href="https://roadwild.org/terms" />
+    <title>About — Road Wild</title>
+    <meta name="description" content="Why Road Wild exists, where its 20,000 overnight spots came from, and the three rules it is being built under." />
+    <link rel="canonical" href="https://roadwild.org/about" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <!-- Second and last hardcoded colour in this repo, after favicon.svg: a
          theme-color meta cannot read a CSS variable. #2D6A4F is hsl(153 40% 30%)
@@ -17,9 +17,9 @@
          commit as a real hero photograph -- never one without the other. -->
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Road Wild" />
-    <meta property="og:title" content="Terms — Road Wild" />
-    <meta property="og:description" content="Terms for roadwild.org. The terms of service governing the Road Wild app are a separate document, linked here." />
-    <meta property="og:url" content="https://roadwild.org/terms" />
+    <meta property="og:title" content="About — Road Wild" />
+    <meta property="og:description" content="Why Road Wild exists, where its 20,000 overnight spots came from, and the three rules it is being built under." />
+    <meta property="og:url" content="https://roadwild.org/about" />
     <meta name="twitter:card" content="summary" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -49,71 +49,84 @@
         <nav class="nav" aria-label="Primary">
           <a class="nav-hide" href="/features">Features</a>
           <a class="nav-hide" href="/pricing">Pricing</a>
-          <a class="nav-hide" href="/about">About</a>
+          <a class="nav-hide" href="/about" aria-current="page">About</a>
           <a class="btn btn-cta btn-sm" href="/beta">Request beta access</a>
         </nav>
       </div>
     </header>
 
     <main id="main">
-      <!--
-        SAME SCOPE RULE AS privacy.html, AND IT MATTERS MORE HERE.
-
-        The Road Wild TERMS OF SERVICE are a published legal document that lives
-        with the app, and among other things they state IN WRITING that offline
-        maps, meetups and the AI activity finder do not exist yet. This page must
-        never restate, summarise or "improve" those terms: a second copy that
-        drifts is a legal document contradicting itself.
-
-        This page covers only the browsing of this website and the waitlist form.
-        Everything else links out.
-      -->
       <section>
-        <div class="narrow legal">
-          <p class="eyebrow">Terms</p>
-          <h1>Terms for this website</h1>
-          <p class="updated muted mt-l">Applies to roadwild.org — this website. Last updated 9 September 2026.</p>
+        <div class="narrow">
+          <p class="eyebrow">About</p>
+          <h1>Built by one person who got tired of six browser tabs.</h1>
           <p class="lede mt-l">
-            This is a marketing site. Using the Road Wild app is governed by a separate
-            document — the Road Wild Terms of Service, at
-            <a href="https://app.roadwild.org/terms">app.roadwild.org/terms</a>. Where the two
-            differ, those terms govern.
+            Road Wild started because planning a week on the road meant an agency website for
+            the campgrounds, a forum thread for the free spots, a maps app for the drive, and a
+            screenshot folder for everything that wouldn't fit in any of them.
           </p>
+        </div>
+      </section>
 
-          <h2>The waitlist is a request, not an account</h2>
-          <p>
-            Putting your email in the form asks to be considered for the private beta. It
-            doesn't create an account, doesn't guarantee an invite, and doesn't entitle you to
-            access. Invites go out in batches and some requests won't receive one.
+      <section class="section-alt">
+        <div class="narrow">
+          <h2>Where the map came from</h2>
+          <p class="lede mt-l">
+            Most of it began as public data — the National Park Service, the Recreation
+            Information Database, OpenStreetMap and state land records — pulled in state by
+            state and cleaned up. That's how you get to more than 20,000 spots without a decade
+            of driving.
           </p>
+          <p class="lede mt-l">
+            It's also why the honesty matters. A pin that came out of a database is a lead, not
+            a promise, and Road Wild says which is which on every listing rather than letting
+            you find out at the gate.
+          </p>
+        </div>
+      </section>
 
-          <h2>What's on this site</h2>
-          <p>
-            We describe Road Wild as it exists. Anything not built yet is marked
-            <em>in development</em> wherever it appears, and being listed there is not a promise
-            that it will ship, or ship on any particular date.
-          </p>
-          <p>
-            Spot counts are approximate and rounded down. The map is compiled substantially from
-            public land and agency data; a listing is not a guarantee that overnight stays are
-            permitted at that place, and conditions, closures and rules change. Check locally
-            before you rely on a pin.
-          </p>
+      <section>
+        <div class="wrap">
+          <div class="section-head center">
+            <p class="eyebrow">How it's being built</p>
+            <h2>Three rules that haven't been broken yet</h2>
+          </div>
+          <div class="grid grid-3">
+            <article class="card">
+              <h3>Nothing unbuilt gets promised</h3>
+              <p>
+                If a feature doesn't exist, it's marked <em>in development</em> wherever it's
+                mentioned. That constraint costs conversions and it stays anyway.
+              </p>
+            </article>
+            <article class="card">
+              <h3>No tracking</h3>
+              <p>
+                No analytics, no cookies, no advertising pixel on this site. The only
+                measurement is a <code>?ref=</code> tag on links posted by hand.
+              </p>
+            </article>
+            <article class="card">
+              <h3>A failure never looks like a success</h3>
+              <p>
+                An empty list and a broken request are different things, and the app says which
+                one you're looking at. It's the bug that has cost this project the most.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
 
-          <h2>Content on this site</h2>
-          <p>
-            The Road Wild name, the text and the design of this site belong to Road Wild. You're
-            welcome to link to it.
-          </p>
-
-          <h2>No warranty</h2>
-          <p>
-            This website is provided as it is, without warranties of any kind. We don't promise
-            it will be available uninterrupted or free of errors.
-          </p>
-
-          <h2>Contact</h2>
-          <p><a href="mailto:hello@roadwild.org">hello@roadwild.org</a>.</p>
+      <section class="section-alt">
+        <div class="wrap">
+          <div class="cta-band">
+            <h2>The beta is open for requests</h2>
+            <p>
+              No testimonials on this site yet, because there are no testers yet. You'd be among
+              the first.
+            </p>
+            <a class="btn btn-cta" href="/beta">Request beta access</a>
+          </div>
         </div>
       </section>
     </main>

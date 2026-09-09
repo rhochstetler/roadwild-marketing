@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Request beta access — Road Wild</title>
+    <meta name="description" content="Ask for an invite to the Road Wild private beta. One email address, no tracking, and an honest account of what you are signing up for." />
+    <link rel="canonical" href="https://roadwild.org/beta" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <!-- Second and last hardcoded colour in this repo, after favicon.svg: a
+         theme-color meta cannot read a CSS variable. #2D6A4F is hsl(153 40% 30%)
+         = --primary in the app. If --primary changes, change it here by hand --
+         the drift check cannot see this. -->
+    <meta name="theme-color" content="#2D6A4F" />
+
+    <!-- NO og:image UNTIL A LICENSED PHOTO EXISTS, and then it ships in the same
+         commit as a real hero photograph -- never one without the other. -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Road Wild" />
+    <meta property="og:title" content="Request beta access — Road Wild" />
+    <meta property="og:description" content="Ask for an invite to the Road Wild private beta. One email address, no tracking, and an honest account of what you are signing up for." />
+    <meta property="og:url" content="https://roadwild.org/beta" />
+    <meta name="twitter:card" content="summary" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/assets/styles.css" />
+
+    <!-- NO ANALYTICS. NO COOKIES. NO PIXEL. NO TAG MANAGER. The privacy policy
+         says so in plain words, so adding one makes a published document false.
+         The only attribution is the ?ref= string in Robyn's own links, carried
+         into BetaSignup.source by assets/site.js. -->
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="site-header">
+      <div class="wrap">
+        <a class="wordmark" href="/">
+          <span class="mark" aria-hidden="true">
+            <svg width="18" height="18" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round">
+              <path d="M11 27 Q15 19 14.5 13 Q14 8 16 5" />
+              <path d="M21 27 Q19 19 19 13 Q19 8 16 5" opacity=".55" />
+            </svg>
+          </span>
+          Road Wild
+        </a>
+        <nav class="nav" aria-label="Primary">
+          <a class="nav-hide" href="/features">Features</a>
+          <a class="nav-hide" href="/pricing">Pricing</a>
+          <a class="nav-hide" href="/about">About</a>
+          <a class="btn btn-cta btn-sm" href="/beta">Request beta access</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <section>
+        <div class="narrow">
+          <span class="badge"><span class="dot"></span> Private beta — accepting testers now</span>
+          <h1>Request beta access</h1>
+          <p class="lede mt-l">
+            One email address is all that's required. Everything else just helps us know which
+            pins matter to you.
+          </p>
+        </div>
+      </section>
+
+      <section class="section-alt">
+        <div class="narrow">
+          <form class="signup" id="beta-form" novalidate>
+            <!-- Honeypot. Hidden from people, irresistible to form-filling bots. The
+                 function answers 200 and writes nothing when it is filled: telling a
+                 bot it was caught only teaches its author to stop filling the field.
+                 Do not remove it and do not give it a visible label. -->
+            <div class="hp" aria-hidden="true">
+              <label for="company">Company</label>
+              <input type="text" id="company" name="company" tabindex="-1" autocomplete="off" />
+            </div>
+
+            <div class="field">
+              <label for="email">Email <abbr title="required">*</abbr></label>
+              <input type="email" id="email" name="email" required autocomplete="email" inputmode="email" placeholder="you@example.com" />
+            </div>
+
+            <div class="field">
+              <label for="name">First name</label>
+              <span class="hint">Optional — what should we call you?</span>
+              <input type="text" id="name" name="name" autocomplete="given-name" maxlength="80" />
+            </div>
+
+            <div class="field-row">
+              <div class="field">
+                <label for="rig">What do you sleep in?</label>
+                <select id="rig" name="rig">
+                  <option value="unspecified">Prefer not to say</option>
+                  <option value="van">Van</option>
+                  <option value="rv">RV / motorhome</option>
+                  <option value="truck_camper">Truck camper</option>
+                  <option value="suv_car">SUV or car</option>
+                  <option value="bus">Bus / skoolie</option>
+                  <option value="tent">Tent</option>
+                  <option value="other">Something else</option>
+                </select>
+              </div>
+              <div class="field">
+                <label for="stage">Where are you at?</label>
+                <select id="stage" name="stage">
+                  <option value="unspecified">Prefer not to say</option>
+                  <option value="full_time">Full-time on the road</option>
+                  <option value="part_time">Part-time / weekends</option>
+                  <option value="planning">Planning a build or a trip</option>
+                  <option value="dreaming">Just dreaming for now</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="field">
+              <label for="note">Anything you want to tell us?</label>
+              <span class="hint">Optional. Where you're headed, what you wish existed.</span>
+              <textarea id="note" name="note" maxlength="1000"></textarea>
+            </div>
+
+            <button class="btn btn-cta" type="submit" id="beta-submit">Request beta access</button>
+
+            <p class="status" id="beta-status" role="status" aria-live="polite" hidden></p>
+
+            <p class="form-note">
+              We'll email you once to confirm, and once more when there's an invite. Nothing
+              else, ever. See the <a href="/privacy">privacy page</a>.
+            </p>
+          </form>
+        </div>
+      </section>
+
+      <section>
+        <div class="narrow">
+          <div class="section-head">
+            <p class="eyebrow">Before you put your name in</p>
+            <h2>What you're actually signing up for</h2>
+            <p class="lede">
+              There are no testimonials on this site because there are no testers yet — you'd be
+              among the first. So here's the honest version instead.
+            </p>
+          </div>
+          <ul class="ticks">
+            <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><strong>A lot of the map has never been laid eyes on.</strong> Most pins came from public land records. They're real places, but nobody has confirmed you can sleep at all of them. Telling us which are wrong is the most useful thing a tester does.</span></li>
+            <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><strong>Invites go out in batches, not instantly.</strong> The beta is small on purpose. This is a request, and it may be a while.</span></li>
+            <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><strong>Some of it isn't built yet.</strong> Where that's true, the <a href="/pricing">pricing page</a> says so rather than implying otherwise.</span></li>
+            <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><strong>We ask for an email address and nothing else.</strong> No tracking script, no cookie, no pixel. If you never get an invite you'll simply never hear from us again — and you can reply to any email to come off the list.</span></li>
+          </ul>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <div class="footer-grid">
+          <div>
+            <a class="wordmark" href="/">
+              <span class="mark" aria-hidden="true">
+                <svg width="18" height="18" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round">
+                  <path d="M11 27 Q15 19 14.5 13 Q14 8 16 5" />
+                  <path d="M21 27 Q19 19 19 13 Q19 8 16 5" opacity=".55" />
+                </svg>
+              </span>
+              Road Wild
+            </a>
+            <p class="footer-note">
+              A map of overnight spots and things to do, for people who actually live on
+              the road. Currently in private beta.
+            </p>
+          </div>
+          <nav class="footer-links" aria-label="Footer">
+            <a href="/features">Features</a>
+            <a href="/pricing">Pricing</a>
+            <a href="/about">About</a>
+            <a href="/beta">Beta access</a>
+            <a href="/privacy">Privacy</a>
+            <a href="/terms">Terms</a>
+            <a href="mailto:hello@roadwild.org">hello@roadwild.org</a>
+            <a href="https://app.roadwild.org/login">Sign in</a>
+          </nav>
+        </div>
+        <p class="footer-note">© <span id="year">2026</span> Road Wild.</p>
+      </div>
+    </footer>
+
+    <script src="/assets/site.js" defer></script>
+  </body>
+</html>

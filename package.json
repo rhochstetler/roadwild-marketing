@@ -1,0 +1,16 @@
+{
+  "name": "roadwild-marketing",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The public face of Road Wild at roadwild.org. Static HTML; the app lives at app.roadwild.org.",
+  "scripts": {
+    "build": "node scripts/sync-brand.mjs",
+    "brand:check": "node scripts/sync-brand.mjs --check",
+    "brand:accept": "node scripts/sync-brand.mjs --accept",
+    "dev": "node scripts/sync-brand.mjs --offline && node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

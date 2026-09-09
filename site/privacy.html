@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Privacy — Road Wild</title>
+    <meta
+      name="description"
+      content="What roadwild.org collects, which is an email address if you ask for a beta invite, and nothing else. No analytics, no cookies, no advertising pixel."
+    />
+    <link rel="canonical" href="https://roadwild.org/privacy" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="theme-color" content="#2D6A4F" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/assets/styles.css" />
+  </head>
+  <body>
+    <!--
+      SCOPE NOTE FOR WHOEVER EDITS THIS NEXT — READ IT.
+
+      This page covers THIS WEBSITE: roadwild.org, the marketing site, and the
+      waitlist form on it. It is NOT the Road Wild privacy policy. The policy
+      that governs the app and its accounts is a separate document, and its live
+      copy is maintained by Robyn OUTSIDE this repo (a Google Doc), with a
+      rendering of it in the app at app.roadwild.org/privacy.
+
+      Do not grow this page into a general privacy policy. Two copies of one
+      legal document, in two repos, drifting apart, is strictly worse than one
+      document and a link -- and unlike a colour, nothing here checks it daily.
+
+      Every factual claim below is checkable against the code in this repo:
+      site/assets/site.js is the only script, netlify.toml carries the CSP that
+      forbids contacting anything else, and there is no cookie written anywhere.
+      IF YOU ADD A SCRIPT, THIS PAGE BECOMES FALSE.
+    -->
+    <header class="site-header">
+      <div class="wrap">
+        <a class="wordmark" href="/">
+          <svg width="26" height="26" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
+            <rect width="32" height="32" rx="7" fill="currentColor" opacity="0.12" />
+            <path d="M11 27 Q15 19 14.5 13 Q14 8 16 5" fill="none" stroke="currentColor"
+              stroke-width="2.2" stroke-linecap="round" />
+            <path d="M21 27 Q19 19 19 13 Q19 8 16 5" fill="none" stroke="currentColor"
+              stroke-width="2.2" stroke-linecap="round" opacity="0.5" />
+          </svg>
+          Road Wild
+        </a>
+        <nav class="header-links" aria-label="Primary">
+          <a href="/">Home</a>
+          <a href="/terms">Terms</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <section>
+        <div class="narrow legal">
+          <p class="eyebrow">Privacy</p>
+          <h1>What this site collects</h1>
+          <p class="updated">Applies to roadwild.org — this website. Last updated 9 September 2026.</p>
+
+          <p class="lede">
+            Short version: if you ask for a beta invite, we keep your email address so we can
+            send you one. That is the only thing this website collects, and there is no
+            tracking of any kind on it.
+          </p>
+
+          <h2>There is no analytics on this site</h2>
+          <p>
+            No analytics platform, no cookies, no advertising pixel, no tag manager, no
+            session recording, no A/B testing tool, no embedded social widgets. This site
+            sets nothing in your browser and reports your visit to nobody.
+          </p>
+          <p>
+            The one exception to "reports nothing" is that the page loads its typefaces from
+            Google Fonts, which means Google's font servers see the request. No cookie is set
+            by it. It is there so this site's type matches the app's exactly.
+          </p>
+
+          <h2>If you fill in the waitlist form</h2>
+          <p>We store what you typed:</p>
+          <ul>
+            <li>Your <strong>email address</strong> — required, because it is the only way to send an invite.</li>
+            <li>Your <strong>first name</strong>, if you gave one.</li>
+            <li>
+              <strong>What you sleep in</strong> and <strong>where you're at</strong>, if you
+              chose them. These shape which spots are worth showing you.
+            </li>
+            <li>Anything you wrote in the <strong>note</strong> field.</li>
+            <li>
+              A short <strong>source</strong> label — either the word "landing", or the
+              <code>?ref=</code> value from the link you followed. This is how we tell which
+              places we posted a link actually worked. It identifies the link, not you.
+            </li>
+          </ul>
+          <p>
+            We do not record your IP address, and we do not store anything that could stand in
+            for one.
+          </p>
+
+          <h2>What we do with it</h2>
+          <p>
+            Two emails, at most: one confirming you're on the list, and one when there's an
+            invite. Nothing else is sent to that address. It is not sold, rented, shared,
+            published, or used to advertise to you anywhere.
+          </p>
+          <p>
+            If you never get an invite, you simply never hear from us again. Nobody outside
+            Road Wild sees the list.
+          </p>
+
+          <h2>Getting taken off the list</h2>
+          <p>
+            Reply to any email we send, or write to
+            <a href="mailto:hello@roadwild.org">hello@roadwild.org</a>, and your row is
+            deleted. You do not have to give a reason and we will not ask for one.
+          </p>
+
+          <h2>Who else handles this</h2>
+          <ul>
+            <li>
+              <strong>Netlify</strong> hosts this marketing site. Like any web host it
+              processes the requests needed to serve you a page.
+            </li>
+            <li>
+              <strong>Base44</strong> hosts the Road Wild app at app.roadwild.org, including
+              the function that receives this form and the database the waitlist is stored in.
+            </li>
+            <li>
+              <strong>Google Fonts</strong> serves the two typefaces, as described above.
+            </li>
+          </ul>
+
+          <h2>The app is a separate document</h2>
+          <p>
+            This page is about this website. Once you have an account, what Road Wild collects
+            and does is covered by the full Road Wild privacy policy, which you can read at
+            <a href="https://app.roadwild.org/privacy">app.roadwild.org/privacy</a>. If the two
+            ever disagree, the full policy is the one that governs the service.
+          </p>
+
+          <h2>Questions</h2>
+          <p><a href="mailto:hello@roadwild.org">hello@roadwild.org</a>.</p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <div>© <span id="year">2026</span> Road Wild</div>
+        <nav class="footer-links" aria-label="Footer">
+          <a href="/">Home</a>
+          <a href="/terms">Terms</a>
+          <a href="mailto:hello@roadwild.org">hello@roadwild.org</a>
+        </nav>
+      </div>
+    </footer>
+    <script src="/assets/site.js" defer></script>
+  </body>
+</html>

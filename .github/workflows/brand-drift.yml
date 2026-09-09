@@ -1,0 +1,41 @@
+# THE IMPORTANT HALF OF THE BRAND GUARDRAIL.
+#
+# The Netlify build check only fires when this site deploys, which is blind to
+# the likelier case: a colour changes in the app, marketing does not rebuild for
+# weeks, and the two look different to anyone who visits both. This runs daily
+# whether or not anything here changed.
+name: brand drift
+
+on:
+  schedule:
+    # 08:15 UTC daily. Off the hour on purpose -- GitHub's scheduler is busiest
+    # at :00 and delays runs that pile up there.
+    - cron: '15 8 * * *'
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: brand-drift-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # No ALLOW_BRAND_OFFLINE here, deliberately. On the daily run an
+      # unreachable app is itself news worth a red run: it means either the app
+      # is down or this check has stopped checking anything.
+      - name: Compare the site's brand against the app's deployed CSS
+        run: npm run brand:check

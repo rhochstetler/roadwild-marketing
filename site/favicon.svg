@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  THE ONE HARDCODED COLOUR IN THIS REPO.
+
+  #2D6A4F is hsl(153 40% 30%), which is --primary in the app's light theme.
+  An SVG loaded as a favicon has no page to inherit CSS custom properties from,
+  so it cannot read brand.css the way everything else here does. That makes this
+  the single colour the drift check cannot see.
+
+  If --primary ever changes in the app, change it here BY HAND. Nothing will
+  tell you to.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Road Wild">
+  <rect width="32" height="32" rx="7" fill="#2D6A4F"/>
+  <!-- A road running to a horizon: the map, and the point of it. -->
+  <path d="M11 27 Q15 19 14.5 13 Q14 8 16 5" fill="none" stroke="#FFFFFF" stroke-width="2.2"
+        stroke-linecap="round" opacity="0.95"/>
+  <path d="M21 27 Q19 19 19 13 Q19 8 16 5" fill="none" stroke="#FFFFFF" stroke-width="2.2"
+        stroke-linecap="round" opacity="0.55"/>
+</svg>

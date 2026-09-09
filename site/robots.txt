@@ -1,0 +1,13 @@
+# roadwild.org is the public, indexable face of Road Wild.
+# The app at app.roadwild.org sends "noindex, nofollow" from its own <head> --
+# it is behind a login wall, so there is nothing there to index, and indexing it
+# would put it in competition with this site for the brand's own name.
+
+User-agent: *
+Allow: /
+
+# Share links are one-off tokens handed to specific people. They resolve to real
+# pages, but they are not content and they are not ours to publish.
+Disallow: /functions/
+
+Sitemap: https://roadwild.org/sitemap.xml

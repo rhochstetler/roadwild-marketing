@@ -1,0 +1,461 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Road Wild — a map of free overnight spots for van life</title>
+    <meta
+      name="description"
+      content="Road Wild is a map of more than 20,000 overnight sleep spots across the US, plus things to do nearby and a community of people already out there. Private beta."
+    />
+    <link rel="canonical" href="https://roadwild.org/" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="theme-color" content="#2D6A4F" />
+
+    <!-- NO og:image UNTIL A LICENSED PHOTO EXISTS. A preview card with no image
+         is plain; a preview card pointing at a photo we do not have the rights
+         to is a bill. When one exists, add it here AND to the hero, together. -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Road Wild" />
+    <meta property="og:title" content="Road Wild — a map of free overnight spots for van life" />
+    <meta
+      property="og:description"
+      content="More than 20,000 overnight sleep spots, things to do nearby, and the people already out there. Private beta — put your name in."
+    />
+    <meta property="og:url" content="https://roadwild.org/" />
+    <meta name="twitter:card" content="summary" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/assets/styles.css" />
+
+    <!-- NO ANALYTICS. NO COOKIES. NO PIXEL. NO TAG MANAGER.
+         The privacy policy says this in plain words, so adding one makes a
+         published document false. The only attribution on this site is the
+         ?ref= string Robyn types into her own links, which rides along into
+         BetaSignup.source. That is the whole measurement stack, on purpose. -->
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="site-header">
+      <div class="wrap">
+        <a class="wordmark" href="/">
+          <svg width="26" height="26" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
+            <rect width="32" height="32" rx="7" fill="currentColor" opacity="0.12" />
+            <path
+              d="M11 27 Q15 19 14.5 13 Q14 8 16 5"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2.2"
+              stroke-linecap="round"
+            />
+            <path
+              d="M21 27 Q19 19 19 13 Q19 8 16 5"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2.2"
+              stroke-linecap="round"
+              opacity="0.5"
+            />
+          </svg>
+          Road Wild
+        </a>
+        <nav class="header-links" aria-label="Primary">
+          <a href="#what">What it is</a>
+          <a href="#pricing">Pricing</a>
+          <!-- Absolute, to the app host. This is the ONE link on the page that
+               leaves for the product, and it must not rely on the netlify.toml
+               redirect: that rule is a safety net for old links, not a router. -->
+          <a class="btn btn-outline" href="https://app.roadwild.org/login">Sign in</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <!-- ================================================================ -->
+      <section class="hero">
+        <!-- Contour lines, not a photograph. See the note in styles.css. -->
+        <svg
+          class="hero-contours"
+          viewBox="0 0 1200 520"
+          preserveAspectRatio="xMidYMid slice"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <g fill="none" stroke="currentColor" stroke-width="1.5">
+            <path d="M-40 430 C 180 400, 300 330, 520 340 S 900 420, 1240 360" />
+            <path d="M-40 390 C 180 358, 310 285, 530 296 S 900 380, 1240 315" />
+            <path d="M-40 350 C 190 315, 320 240, 540 252 S 900 340, 1240 270" />
+            <path d="M-40 310 C 200 272, 330 196, 550 208 S 900 300, 1240 226" />
+            <path d="M-40 270 C 210 230, 340 152, 560 164 S 900 260, 1240 182" />
+            <path d="M-40 230 C 220 187, 350 108, 570 120 S 900 220, 1240 138" />
+            <path d="M-40 190 C 230 145, 360 64, 580 76 S 900 180, 1240 94" />
+            <path d="M-40 150 C 240 102, 370 20, 590 32 S 900 140, 1240 50" />
+          </g>
+        </svg>
+
+        <div class="wrap">
+          <div class="hero-copy">
+            <h1>Somewhere to sleep tonight, and something to do tomorrow.</h1>
+            <p class="lede">
+              Road Wild is a map of more than 20,000 overnight spots across the US — public
+              land, trailheads, rest areas, lots that don't mind — plus what's worth doing
+              nearby and the people already parked out there.
+            </p>
+            <div class="hero-actions">
+              <a class="btn btn-cta" href="#beta">Ask for a beta invite</a>
+              <a class="btn btn-outline" href="#what">See what's in it</a>
+            </div>
+            <p class="hero-note">
+              Private beta, invite by invite. No card, no trial clock — beta testers get
+              every paid feature free for the whole beta.
+            </p>
+          </div>
+
+          <div class="stat-row">
+            <div>
+              <!-- ROUNDS DOWN. The real number is a little over 21,000 and it moves
+                   as spots are added and junk is purged. A number a visitor can
+                   check and find short is worse than a smaller one that is always
+                   true. -->
+              <div class="stat-num">20,000+</div>
+              <div class="stat-label">overnight spots mapped</div>
+            </div>
+            <div>
+              <div class="stat-num">50</div>
+              <div class="stat-label">states covered</div>
+            </div>
+            <div>
+              <div class="stat-num">$0</div>
+              <div class="stat-label">to use the map</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ================================================================ -->
+      <section id="what">
+        <div class="wrap">
+          <p class="eyebrow">What it is</p>
+          <h2>Three things, and it does all three offline of each other.</h2>
+          <div class="grid">
+            <article class="card">
+              <svg class="card-icon" width="26" height="26" viewBox="0 0 24 24" fill="none"
+                stroke="currentColor" stroke-width="1.8" stroke-linecap="round"
+                stroke-linejoin="round" aria-hidden="true" focusable="false">
+                <path d="M9 20l-5.4 2.3a1 1 0 01-1.4-.9V5.6a1 1 0 01.6-.9L9 2m0 18l6 2m-6-2V2m6 22l5.4-2.3a1 1 0 00.6-.9V4.6a1 1 0 00-1.4-.9L15 6m0 18V6m0 0L9 4" />
+              </svg>
+              <h3>The map</h3>
+              <p>
+                Sleep spots with the part that actually matters: whether you can stay the
+                night, what the road in is like, and how sure we are. Filter by what you
+                sleep in — a 34ft rig and a hatchback do not want the same pins.
+              </p>
+            </article>
+
+            <article class="card">
+              <svg class="card-icon" width="26" height="26" viewBox="0 0 24 24" fill="none"
+                stroke="currentColor" stroke-width="1.8" stroke-linecap="round"
+                stroke-linejoin="round" aria-hidden="true" focusable="false">
+                <path d="M12 21s-7-4.5-7-10a7 7 0 1114 0c0 5.5-7 10-7 10z" />
+                <circle cx="12" cy="11" r="2.6" />
+              </svg>
+              <h3>Things to do</h3>
+              <p>
+                Hikes, hot springs, swimming holes, laundromats, the good coffee — attached
+                to the places you're already going to be, not to a city you'd have to drive
+                into.
+              </p>
+            </article>
+
+            <article class="card">
+              <svg class="card-icon" width="26" height="26" viewBox="0 0 24 24" fill="none"
+                stroke="currentColor" stroke-width="1.8" stroke-linecap="round"
+                stroke-linejoin="round" aria-hidden="true" focusable="false">
+                <path d="M17 20v-2a4 4 0 00-4-4H6a4 4 0 00-4 4v2" />
+                <circle cx="9.5" cy="7" r="3.5" />
+                <path d="M22 20v-2a4 4 0 00-3-3.9M16.5 3.6a4 4 0 010 6.8" />
+              </svg>
+              <h3>People</h3>
+              <p>
+                A board and direct messages for people who are actually out here. Who's
+                nearby, what a road is like this week, which spot got posted and ruined.
+                No feed, no follower counts.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- ================================================================ -->
+      <!-- THIS SECTION IS WHERE TESTIMONIALS WOULD GO, AND IT IS HERE BECAUSE
+           THERE ARE NONE. Nobody has used this yet. Inventing a quote from a
+           beta tester who does not exist is the cheapest possible thing this
+           site could do. Delete this section the day real people have said real
+           things — not before. -->
+      <section class="section-alt" id="honest">
+        <div class="narrow">
+          <p class="eyebrow">Before you put your name in</p>
+          <h2>What you're actually signing up for.</h2>
+          <p class="lede">
+            No testimonials on this page, because there are no testers yet — you would be
+            among the first. So here is the honest version instead.
+          </p>
+
+          <ul class="plain-list">
+            <li>
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                aria-hidden="true" focusable="false"><path d="M20 6L9 17l-5-5" /></svg>
+              <span>
+                <strong>A lot of the map has never been laid eyes on.</strong> Most pins
+                came from public land records and agency data. They are real places, but
+                nobody has confirmed you can sleep at all of them. Telling us which ones
+                are wrong is the single most useful thing a tester does.
+              </span>
+            </li>
+            <li>
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                aria-hidden="true" focusable="false"><path d="M20 6L9 17l-5-5" /></svg>
+              <span>
+                <strong>Invites go out in batches, not instantly.</strong> The beta is small
+                on purpose. Putting your name in is a request, and it may be a while.
+              </span>
+            </li>
+            <li>
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                aria-hidden="true" focusable="false"><path d="M20 6L9 17l-5-5" /></svg>
+              <span>
+                <strong>Some of it is not built yet.</strong> Where that's true, the pricing
+                below says so rather than implying otherwise. Nothing on this page is a
+                feature that does not exist.
+              </span>
+            </li>
+            <li>
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                aria-hidden="true" focusable="false"><path d="M20 6L9 17l-5-5" /></svg>
+              <span>
+                <strong>We ask for an email address and nothing else.</strong> No tracking
+                script, no cookie, no advertising pixel anywhere on this site. If you never
+                get an invite, you'll simply never hear from us again — and you can reply to
+                any email to be taken off the list.
+              </span>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- ================================================================ -->
+      <section id="pricing">
+        <div class="wrap">
+          <p class="eyebrow">Pricing</p>
+          <h2>The map is free. It stays free.</h2>
+          <p class="lede">
+            Anything marked <span class="tag-dev">in development</span> is not built yet and
+            is not something you are paying for today.
+          </p>
+
+          <div class="grid">
+            <article class="card plan">
+              <h3>Free</h3>
+              <div class="plan-price">$0</div>
+              <ul>
+                <li>
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"
+                    aria-hidden="true" focusable="false"><path d="M20 6L9 17l-5-5" /></svg>
+                  The whole map — every overnight spot, no cap
+                </li>
+                <li>
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"
+                    aria-hidden="true" focusable="false"><path d="M20 6L9 17l-5-5" /></svg>
+                  Things to do nearby
+                </li>
+                <li>
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"
+                    aria-hidden="true" focusable="false"><path d="M20 6L9 17l-5-5" /></svg>
+                  Community board and messages
+                </li>
+                <li>
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"
+                    aria-hidden="true" focusable="false"><path d="M20 6L9 17l-5-5" /></svg>
+                  Add and correct spots
+                </li>
+              </ul>
+              <p class="plan-foot">
+                Adding places is how the map gets better, so it is never behind a paywall.
+              </p>
+            </article>
+
+            <article class="card plan plan-featured">
+              <h3>Beta tester</h3>
+              <div class="plan-price">$0 <span>for the whole beta</span></div>
+              <ul>
+                <li>
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"
+                    aria-hidden="true" focusable="false"><path d="M20 6L9 17l-5-5" /></svg>
+                  Everything in Free
+                </li>
+                <li>
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"
+                    aria-hidden="true" focusable="false"><path d="M20 6L9 17l-5-5" /></svg>
+                  Every paid feature, free, while the beta runs
+                </li>
+                <li>
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"
+                    aria-hidden="true" focusable="false"><path d="M20 6L9 17l-5-5" /></svg>
+                  A direct line to the person building it
+                </li>
+              </ul>
+              <a class="btn btn-cta" href="#beta">Ask for an invite</a>
+            </article>
+
+            <article class="card plan">
+              <h3>Paid</h3>
+              <div class="plan-price">Not yet <span>priced</span></div>
+              <ul>
+                <li class="pending">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                    aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" /></svg>
+                  Offline maps <span class="tag-dev">in development</span>
+                </li>
+                <li class="pending">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                    aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" /></svg>
+                  Meetups <span class="tag-dev">in development</span>
+                </li>
+                <li class="pending">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                    aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" /></svg>
+                  AI activity finder <span class="tag-dev">in development</span>
+                </li>
+              </ul>
+              <p class="plan-foot">
+                None of these exist today. When they do, the map underneath them is still
+                free.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- ================================================================ -->
+      <section class="section-alt" id="beta">
+        <div class="narrow">
+          <p class="eyebrow">The waitlist</p>
+          <h2>Put your name in.</h2>
+          <p class="lede">
+            One address is all that's required. Everything else helps us know which pins
+            matter to you.
+          </p>
+
+          <form class="signup" id="beta-form" novalidate>
+            <!-- Honeypot. Hidden from people, irresistible to form-filling bots.
+                 The function answers 200 and writes nothing when it is filled --
+                 telling a bot it was caught only teaches its author to stop
+                 filling that field. Do not remove, do not add a label. -->
+            <div class="hp" aria-hidden="true">
+              <label for="company">Company</label>
+              <input type="text" id="company" name="company" tabindex="-1" autocomplete="off" />
+            </div>
+
+            <div class="field">
+              <label for="email">Email <abbr title="required">*</abbr></label>
+              <input
+                type="email"
+                id="email"
+                name="email"
+                required
+                autocomplete="email"
+                inputmode="email"
+                placeholder="you@example.com"
+              />
+            </div>
+
+            <div class="field">
+              <label for="name">First name</label>
+              <span class="hint">Optional — what should we call you?</span>
+              <input type="text" id="name" name="name" autocomplete="given-name" maxlength="80" />
+            </div>
+
+            <div class="field-row">
+              <div class="field">
+                <label for="rig">What do you sleep in?</label>
+                <select id="rig" name="rig">
+                  <option value="unspecified">Prefer not to say</option>
+                  <option value="van">Van</option>
+                  <option value="rv">RV / motorhome</option>
+                  <option value="truck_camper">Truck camper</option>
+                  <option value="suv_car">SUV or car</option>
+                  <option value="bus">Bus / skoolie</option>
+                  <option value="tent">Tent</option>
+                  <option value="other">Something else</option>
+                </select>
+              </div>
+
+              <div class="field">
+                <label for="stage">Where are you at?</label>
+                <select id="stage" name="stage">
+                  <option value="unspecified">Prefer not to say</option>
+                  <option value="full_time">Full-time on the road</option>
+                  <option value="part_time">Part-time / weekends</option>
+                  <option value="planning">Planning a build or a trip</option>
+                  <option value="dreaming">Just dreaming for now</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="field">
+              <label for="note">Anything you want to tell us?</label>
+              <span class="hint">Optional. Where you're headed, what you wish existed.</span>
+              <textarea id="note" name="note" maxlength="1000"></textarea>
+            </div>
+
+            <button class="btn btn-cta" type="submit" id="beta-submit">Ask for an invite</button>
+
+            <!-- role=status so a screen reader hears the outcome. Never
+                 populated with a success message unless the request actually
+                 succeeded -- see assets/site.js. -->
+            <p class="status" id="beta-status" role="status" aria-live="polite" hidden></p>
+
+            <p class="form-note">
+              We'll email you once to confirm, and once more when there's an invite. Nothing
+              else. See the <a href="/privacy">privacy policy</a>.
+            </p>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <div>© <span id="year">2026</span> Road Wild</div>
+        <nav class="footer-links" aria-label="Footer">
+          <a href="/privacy">Privacy</a>
+          <a href="/terms">Terms</a>
+          <a href="mailto:hello@roadwild.org">hello@roadwild.org</a>
+          <a href="https://app.roadwild.org/login">Sign in</a>
+        </nav>
+      </div>
+    </footer>
+
+    <script src="/assets/site.js" defer></script>
+  </body>
+</html>

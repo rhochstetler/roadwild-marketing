@@ -1,0 +1,241 @@
+# roadwild.org — the marketing site. The app is a separate host, app.roadwild.org.
+#
+# THE BUILD IS CONFIGURED HERE, NOT IN THE NETLIFY UI. A setting that exists in
+# both places is a setting that will disagree with itself, and the UI copy is
+# the one nobody can read in a diff.
+
+[build]
+  # Not a bundler. This fetches the app's deployed CSS and regenerates
+  # site/assets/brand.css from it; if the two brands have drifted, it exits
+  # non-zero and this deploy does not happen. See scripts/sync-brand.mjs.
+  command = "node scripts/sync-brand.mjs"
+  publish = "site"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# ---------------------------------------------------------------------------
+# SHARE LINKS — LOAD-BEARING. READ BEFORE TOUCHING.
+# ---------------------------------------------------------------------------
+# createShareLink in the app mints links of the form
+#   https://roadwild.org/functions/sharedPlace?t=TOKEN
+# Those tokens NEVER EXPIRE, some were texted to people who have no account and
+# no other way back in, and they CANNOT BE REISSUED -- there is no record of who
+# holds one. Deleting this rule breaks them permanently.
+#
+# 301, not 302: these are permanent now that the app has moved, and the query
+# string carries through automatically.
+[[redirects]]
+  from = "/functions/*"
+  to = "https://app.roadwild.org/functions/:splat"
+  status = 301
+  force = true
+
+# ---------------------------------------------------------------------------
+# APP ROUTES
+# ---------------------------------------------------------------------------
+# ENUMERATED ON PURPOSE. A catch-all /* would forward this site's own pages to
+# the app -- every marketing page added from here on would silently vanish the
+# day it shipped. When a route is added to src/App.jsx, add it here too.
+#
+# NOT LISTED, DELIBERATELY:
+#   /privacy, /terms — this site serves its OWN copies. The app also has them
+#   (it must, for the sign-up flow and the app stores), but the public,
+#   indexable ones are here.
+
+[[redirects]]
+  from = "/login"
+  to = "https://app.roadwild.org/login"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/register"
+  to = "https://app.roadwild.org/register"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/forgot-password"
+  to = "https://app.roadwild.org/forgot-password"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/reset-password"
+  to = "https://app.roadwild.org/reset-password"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/oauth/consent"
+  to = "https://app.roadwild.org/oauth/consent"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sleep-spot/*"
+  to = "https://app.roadwild.org/sleep-spot/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/activities"
+  to = "https://app.roadwild.org/activities"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/add-place"
+  to = "https://app.roadwild.org/add-place"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/community/*"
+  to = "https://app.roadwild.org/community/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/community"
+  to = "https://app.roadwild.org/community"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/profile/*"
+  to = "https://app.roadwild.org/profile/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/profile"
+  to = "https://app.roadwild.org/profile"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/nomad/*"
+  to = "https://app.roadwild.org/nomad/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/my-nomads"
+  to = "https://app.roadwild.org/my-nomads"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/messages/*"
+  to = "https://app.roadwild.org/messages/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/messages"
+  to = "https://app.roadwild.org/messages"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/trips/*"
+  to = "https://app.roadwild.org/trips/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/trips"
+  to = "https://app.roadwild.org/trips"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/plan-trip/*"
+  to = "https://app.roadwild.org/plan-trip/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/plan-trip"
+  to = "https://app.roadwild.org/plan-trip"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/upgrade"
+  to = "https://app.roadwild.org/upgrade"
+  status = 301
+  force = true
+
+# Owner/moderator surfaces. They would bounce to /login anyway, but a bookmark
+# that lands on this site's 404 instead of the app is a needless dead end.
+[[redirects]]
+  from = "/moderation"
+  to = "https://app.roadwild.org/moderation"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/moderators"
+  to = "https://app.roadwild.org/moderators"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/manage-testers"
+  to = "https://app.roadwild.org/manage-testers"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/beta-signups"
+  to = "https://app.roadwild.org/beta-signups"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/data-enrichment"
+  to = "https://app.roadwild.org/data-enrichment"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/feedback-admin"
+  to = "https://app.roadwild.org/feedback-admin"
+  status = 301
+  force = true
+
+# Convenience: a plain "/app" for anyone typing it or following an old note.
+[[redirects]]
+  from = "/app"
+  to = "https://app.roadwild.org/"
+  status = 302
+  force = true
+
+# ---------------------------------------------------------------------------
+# HEADERS
+# ---------------------------------------------------------------------------
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    # No geolocation, camera or microphone: this site is text. The app asks for
+    # location; this page has no business doing so.
+    Permissions-Policy = "geolocation=(), camera=(), microphone=(), interest-cohort=()"
+    # NO 'unsafe-inline' FOR SCRIPTS. It is not needed -- the one script on this
+    # site is site/assets/site.js -- and leaving it out is what makes this header
+    # worth having. connect-src names the app explicitly because that is where
+    # the waitlist form posts; nothing else may be contacted from this page.
+    Content-Security-Policy = "default-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; object-src 'none'; img-src 'self' data:; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; connect-src 'self' https://app.roadwild.org"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    # brand.css is regenerated on every deploy and is NOT content-hashed, so it
+    # must not be cached hard -- a stale copy is a site whose colours are a
+    # deploy behind the app, which is the drift this repo exists to prevent.
+    Cache-Control = "public, max-age=600, must-revalidate"

@@ -25,9 +25,9 @@
       "--input": "45 18% 84%",
       "--ring": "153 40% 30%",
       "--radius": "0.75rem",
-      "--font-heading": "'DM Sans', ui-sans-serif, system-ui, sans-serif",
-      "--font-body": "'Inter', ui-sans-serif, system-ui, sans-serif",
-      "--font-display": "'DM Sans', ui-sans-serif, system-ui, sans-serif",
+      "--font-heading": "\"DM Sans\", ui-sans-serif, system-ui, sans-serif",
+      "--font-body": "\"Inter\", ui-sans-serif, system-ui, sans-serif",
+      "--font-display": "\"DM Sans\", ui-sans-serif, system-ui, sans-serif",
       "--font-mono": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
     },
     ".dark": {
@@ -54,5 +54,5 @@
       "--ring": "153 40% 42%"
     }
   },
-  "provisional": "Seeded from the app source (src/index.css), NOT from a deployed build. Run npm run brand:accept once app.roadwild.org is live to re-baseline against the CSS the app actually ships, then delete this field."
+  "provisional": "Seeded from the app source (src/index.css) and normalised to the serialisation the app actually ships. The build compares it against deployed CSS on every deploy; run npm run brand:accept once to re-record it from a deployed build and then delete this field."
 }

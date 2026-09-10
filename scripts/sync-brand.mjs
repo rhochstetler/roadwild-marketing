@@ -111,6 +111,26 @@ function eachRule(css, cb) {
   }
 }
 
+// Compare MEANING, not formatting.
+//
+// The app's source writes 'Inter' and 0.75rem; the build minifies those to
+// "Inter" and .75rem. Same values, different serialization -- and a raw string
+// comparison reports all of it as drift. That is a false alarm that fires on
+// every deploy and on the daily Action, and a check that cries wolf is a check
+// people learn to ignore.
+//
+// Only provably value-preserving differences are normalized here: quote style,
+// and a leading zero on a decimal. Anything that could change a rendered colour
+// is left exactly as it is.
+function canon(value) {
+  return value
+    .trim()
+    .replace(/\s+/g, ' ')
+    .replace(/'/g, '"')
+    // .75rem -> 0.75rem, at a value boundary so 1.5 is untouched
+    .replace(/(^|[\s,(])\.(\d)/g, '$10.$2');
+}
+
 function extractTokens(css) {
   const out = Object.fromEntries(SELECTORS.map((s) => [s, {}]));
   eachRule(stripComments(css), (selector, body) => {
@@ -119,7 +139,7 @@ function extractTokens(css) {
       if (!parts.includes(target)) continue;
       for (const m of body.matchAll(/(--[A-Za-z0-9_-]+)\s*:\s*([^;{}]+)(?:;|$)/g)) {
         // Later declarations win, same as the cascade.
-        out[target][m[1]] = m[2].trim().replace(/\s+/g, ' ');
+        out[target][m[1]] = canon(m[2]);
       }
     }
   });
@@ -253,6 +273,16 @@ async function main() {
   const baseline = existsSync(TOKENS_FILE)
     ? JSON.parse(await readFile(TOKENS_FILE, 'utf8'))
     : null;
+
+  // A baseline committed before canon() existed carries raw source formatting.
+  // Normalize it on read so the diff compares like with like.
+  if (baseline?.tokens) {
+    for (const sel of SELECTORS) {
+      for (const [k, v] of Object.entries(baseline.tokens[sel] || {})) {
+        baseline.tokens[sel][k] = canon(v);
+      }
+    }
+  }
 
   let tokens;
   let note;

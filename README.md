@@ -47,6 +47,39 @@ site/                      what gets published.
 .github/workflows/brand-drift.yml   daily drift check
 ```
 
+## Setting up the Netlify project
+
+The build is configured in `netlify.toml` — leave the build command, publish
+directory and Node version blank in the Netlify UI. A value typed there becomes
+an override that silently wins over the file, forever.
+
+Connect the repo, then set `APP_ORIGIN` **according to where the app is actually
+served right now**. This is the part that catches people, because the correct
+value changes during the cutover:
+
+| The app is served from        | Set                          |
+| ----------------------------- | ---------------------------- |
+| `app.roadwild.org` (the end state) | nothing — that is the default |
+| `roadwild.org`, pre-cutover   | `APP_ORIGIN=https://roadwild.org` |
+| nowhere reachable yet         | `ALLOW_BRAND_OFFLINE=1`      |
+
+**`APP_ORIGIN=https://roadwild.org` is only valid while the apex still points at
+the app.** The moment DNS moves to Netlify, that setting aims the brand check at
+this site instead of the app: the fetch returns Netlify's own 404, the build
+fails, and the error looks like a brand problem rather than a stale setting.
+Delete it when you move DNS.
+
+`ALLOW_BRAND_OFFLINE=1` is the honest way to get a first deploy out before the
+app has a reachable home. It builds from the committed `brand.tokens.json` and
+says in the log that the colours are unverified. Remove it as soon as
+`app.roadwild.org` answers.
+
+After the app is live on its own host: remove both variables, redeploy, then run
+`npm run brand:accept` and commit. Until that runs, `brand.tokens.json` is
+seeded from the app's source rather than from a deployed build — the file says
+so in a `provisional` field, and the daily drift Action is not meaningful until
+it is replaced.
+
 ## Local
 
 ```bash

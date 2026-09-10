@@ -51,7 +51,18 @@ const APP_ORIGIN = (process.env.APP_ORIGIN || 'https://app.roadwild.org').replac
 
 const argv = new Set(process.argv.slice(2));
 const MODE = argv.has('--accept') ? 'accept' : argv.has('--check') ? 'check' : 'build';
-const ALLOW_OFFLINE = argv.has('--offline') || process.env.ALLOW_BRAND_OFFLINE === '1';
+// Accept the spellings a person actually types. Requiring the literal string
+// "1" and then saying nothing when it is not that is a trap: the build fails
+// with "the app is unreachable" while the operator is looking at a variable
+// they believe they set. Whatever is rejected here is REPORTED below.
+const OFFLINE_RAW = (process.env.ALLOW_BRAND_OFFLINE ?? '').trim();
+const TRUTHY = new Set(['1', 'true', 'yes', 'on']);
+const ALLOW_OFFLINE = argv.has('--offline') || TRUTHY.has(OFFLINE_RAW.toLowerCase());
+
+// Hosts that serve the MARKETING site. If APP_ORIGIN names one of these it is
+// pointed at this site rather than the app -- the classic stale-variable state
+// after the apex moves to Netlify mid-cutover.
+const MARKETING_HOSTS = new Set(['roadwild.org', 'www.roadwild.org']);
 
 // The two selectors that carry the brand. Anything else in the app's CSS is the
 // app's business.
@@ -264,10 +275,36 @@ async function main() {
       ]);
     }
     if (!ALLOW_OFFLINE) {
+      // Say what was actually configured. A guardrail that fires without
+      // showing its inputs sends people to look in the wrong place.
+      const notes = [];
+
+      let host = '';
+      try { host = new URL(APP_ORIGIN).host; } catch { /* keep the raw string */ }
+
+      if (MARKETING_HOSTS.has(host)) {
+        notes.push(
+          '',
+          `>> APP_ORIGIN is ${APP_ORIGIN}, which is the MARKETING SITE — this site — not the app.`,
+          '   That value is only correct while the apex still serves the app. Once DNS moves',
+          '   to Netlify it points the check at this deploy, which 404s. DELETE the variable:',
+          '   the default is https://app.roadwild.org, which is where the app lives now.',
+        );
+      }
+
+      if (OFFLINE_RAW && !ALLOW_OFFLINE) {
+        notes.push(
+          '',
+          `>> ALLOW_BRAND_OFFLINE is set to "${OFFLINE_RAW}", which is not one of`,
+          `   ${[...TRUTHY].join(', ')} — so it did NOT apply and this build stopped anyway.`,
+        );
+      }
+
       die([
         '## Brand check FAILED — the app is unreachable',
         '',
         `${APP_ORIGIN} → ${err.message}`,
+        ...notes,
         '',
         'This is the guardrail, not a bug. Building from the last known-good colours',
         'would ship a site whose brand nobody has verified, and it would keep doing so',

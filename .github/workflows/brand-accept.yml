@@ -1,0 +1,67 @@
+# TAKE A DELIBERATE BRAND CHANGE, from the GitHub UI.
+#
+# The documented way to re-baseline is `npm run brand:accept` in a local clone.
+# That assumes a checkout and a working Node, which is a lot of setup to ask for
+# when the actual decision is "yes, I changed that colour on purpose". This runs
+# the same command somewhere the app is reachable and commits the result.
+#
+# WHEN TO RUN IT:
+#   - after changing a colour in the app AND PUBLISHING it. Not before: this
+#     reads the app's DEPLOYED css, so accepting an unpublished change records
+#     the old value and the drift check goes red again on the next deploy.
+#   - once, to clear the `provisional` marker on a baseline that was seeded from
+#     the app's source rather than from a deployed build.
+#
+# It will NOT commit when the values are unchanged -- re-running it is safe and
+# does not produce empty churn.
+name: brand accept
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: brand-accept
+  cancel-in-progress: false
+
+jobs:
+  accept:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Read the app's deployed CSS and record it
+        run: |
+          cp brand.tokens.json /tmp/brand.before.json
+          npm run brand:accept
+
+      - name: Commit only if something actually moved
+        run: |
+          set -euo pipefail
+
+          # A bare re-run only rewrites acceptedAt. That is not worth a commit,
+          # so put the file back and stop.
+          if node scripts/ci-brand-changed.mjs /tmp/brand.before.json brand.tokens.json > /tmp/brand.summary; then
+            cat /tmp/brand.summary >> "$GITHUB_STEP_SUMMARY"
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add brand.tokens.json
+            git commit -F - <<'MSG'
+          Re-baseline brand.tokens.json from the deployed app
+
+          Ran npm run brand:accept against the CSS the app is actually serving,
+          via the brand-accept workflow. The drift check compares against these
+          values from here on.
+          MSG
+            git push
+          else
+            cp /tmp/brand.before.json brand.tokens.json
+            cat /tmp/brand.summary >> "$GITHUB_STEP_SUMMARY"
+          fi

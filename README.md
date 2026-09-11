@@ -108,6 +108,7 @@ The app's **deployed CSS** is the source of truth.
 | Netlify build command          | every marketing deploy    | **deploy fails**  |
 | `.github/workflows/brand-drift.yml` | daily 08:15 UTC + push/PR | red run + summary |
 | `npm run brand:check`          | on demand                 | prints the diff   |
+| `.github/workflows/brand-accept.yml` | manual (Run workflow)     | takes the change  |
 
 The daily Action is the important one. The build check only fires when this site
 deploys, which is blind to the likelier case: a colour changes in the app,
@@ -130,8 +131,16 @@ visits both.
 - `site/assets/brand.css` is **generated and gitignored**. Do not commit it, do
   not hand-edit it.
 - `brand.tokens.json` is written by the script. Do not hand-edit it either.
-- **Deliberate colour change:** change it in the app → **publish** → here run
-  `npm run brand:accept` → commit `brand.tokens.json`.
+- **Deliberate colour change:** change it in the app → **publish** → re-baseline
+  here → the next deploy goes green. Two ways to re-baseline:
+  - **From GitHub** (no clone needed): Actions → **brand accept** → Run workflow.
+    It runs `brand:accept` against the deployed app and commits the result, and
+    it does nothing if the values are unchanged.
+  - **Locally:** `npm run brand:accept`, then commit `brand.tokens.json`.
+
+  Either way, **publish the app first.** Both read the app's *deployed* CSS, so
+  accepting an unpublished change records the old value and the check goes red
+  again on the next deploy.
 - An unreachable app **fails** rather than building from stale values. Escape
   hatch is `ALLOW_BRAND_OFFLINE=1`, which builds but logs that the colours are
   unverified.

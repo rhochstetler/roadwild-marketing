@@ -488,3 +488,6 @@ input:focus, select:focus, textarea:focus {
 .m-label { fill: hsl(var(--foreground)); }
 .m-ring  { stroke: var(--surface); }
 .m-legend { font-family: var(--font-body); }
+/* The success panel is scrolled to after a submit, and the header is sticky --
+   without this the top of the panel lands underneath it. */
+#beta-done { scroll-margin-top: 96px; }

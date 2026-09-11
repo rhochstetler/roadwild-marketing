@@ -19,6 +19,7 @@
   var form = document.getElementById('beta-form');
   var statusEl = document.getElementById('beta-status');
   var button = document.getElementById('beta-submit');
+  var done = document.getElementById('beta-done');
 
   var yearEl = document.getElementById('year');
   if (yearEl) yearEl.textContent = String(new Date().getFullYear());
@@ -103,6 +104,42 @@
           return;
         }
 
+        /* SWAP THE FORM OUT, don't just print a message above it.
+         *
+         * A filled-in form still sitting on screen after a successful submit
+         * reads as "that didn't work", and the obvious response is to press the
+         * button again. betaSignup dedupes by email so a second submit is
+         * harmless, but the person has no way to know that -- and the fix for
+         * "did it work?" should not be "submit again and find out".
+         *
+         * Only on success. A failure leaves the form exactly where it was, with
+         * the values still in it, because they will need to try again. */
+        if (done) {
+          if (result.body.already) {
+            var heading = document.getElementById('done-heading');
+            var lede = document.getElementById('done-lede');
+            if (heading) heading.textContent = "You're already on the list";
+            if (lede) {
+              lede.textContent =
+                'No need to sign up twice — we already have this address, and your place is ' +
+                'unchanged. Sit tight.';
+            }
+          } else {
+            var emailEl = document.getElementById('done-email');
+            /* textContent, not innerHTML: this is a string a stranger typed. */
+            if (emailEl) emailEl.textContent = email;
+          }
+
+          form.hidden = true;
+          done.hidden = false;
+          /* Move focus so a screen reader lands on the outcome rather than
+             being left on a button that no longer exists. */
+          done.focus();
+          done.scrollIntoView({ block: 'start', behavior: 'smooth' });
+          return;
+        }
+
+        /* Fallback for any page that has the form but not the panel. */
         if (result.body.already) {
           show('ok', "You're already on the list — no need to sign up twice. Sit tight.");
         } else {

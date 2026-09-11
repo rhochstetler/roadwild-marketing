@@ -1,6 +1,6 @@
 {
   "source": "https://app.roadwild.org",
-  "acceptedAt": "2026-09-09T18:37:56.882Z",
+  "acceptedAt": "2026-09-11T14:50:59.740Z",
   "tokens": {
     ":root": {
       "--background": "45 33% 95%",
@@ -53,6 +53,5 @@
       "--input": "24 15% 20%",
       "--ring": "153 40% 42%"
     }
-  },
-  "provisional": "Seeded from the app source (src/index.css) and normalised to the serialisation the app actually ships. The build compares it against deployed CSS on every deploy; run npm run brand:accept once to re-record it from a deployed build and then delete this field."
+  }
 }

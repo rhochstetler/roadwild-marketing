@@ -44,6 +44,8 @@ site/                      what gets published.
   assets/styles.css        layout and type. Every colour is var(--something).
   assets/brand.css         GENERATED + GITIGNORED. Never commit, never hand-edit.
   assets/site.js           the waitlist form. The only script on the site.
+  photos/                  Amanda and Robyn's own photographs, used on /about.
+                           NOT under assets/ -- see the cache note in netlify.toml.
 .github/workflows/brand-drift.yml   daily drift check
 ```
 
@@ -200,7 +202,13 @@ Each of these is load-bearing, not a style preference.
   makes it false. The CSP in `netlify.toml` has no `'unsafe-inline'` for
   scripts or styles, which is also why there is no `style=""` attribute
   anywhere — use a class.
-- **No hero photo and no `og:image`** until a licensed one exists. The hero is a
-  drawn SVG scene instead, built from the brand tokens. Add a photo and an
-  `og:image` together, never one without the other.
+- **A page gets a photo and an `og:image` together, never one without the
+  other.** `/about` now has both: Amanda and Robyn's own photographs, which are
+  licensed by being theirs, and a 1200x630 card cropped from one of them.
+  **Every other page still has neither** — the landing hero is a drawn SVG
+  scene built from the brand tokens, and it stays that way until it has a real
+  photograph of its own to ship alongside a card.
+- **The photographs are stripped of EXIF and GPS.** They are pictures of where
+  two people sleep. Anything added to `site/photos/` gets checked first; the
+  ones in there now carry no metadata at all.
 - **The spot count rounds down.**

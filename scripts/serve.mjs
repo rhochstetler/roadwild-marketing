@@ -20,6 +20,15 @@ const TYPES = {
   '.css': 'text/css; charset=utf-8',
   '.js': 'text/javascript; charset=utf-8',
   '.svg': 'image/svg+xml',
+  // /about serves photographs. Without these the local preview hands back
+  // application/octet-stream and every picture on the page is a broken icon,
+  // which looks like a bad path rather than a missing mime type.
+  '.jpg': 'image/jpeg',
+  '.jpeg': 'image/jpeg',
+  '.webp': 'image/webp',
+  '.png': 'image/png',
+  '.avif': 'image/avif',
+  '.ico': 'image/x-icon',
   '.txt': 'text/plain; charset=utf-8',
   '.xml': 'application/xml; charset=utf-8',
   '.webmanifest': 'application/manifest+json',

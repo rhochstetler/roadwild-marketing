@@ -239,3 +239,14 @@
     # must not be cached hard -- a stale copy is a site whose colours are a
     # deploy behind the app, which is the drift this repo exists to prevent.
     Cache-Control = "public, max-age=600, must-revalidate"
+
+[[headers]]
+  for = "/photos/*"
+  [headers.values]
+    # Amanda and Robyn's photographs on /about. These are NOT under /assets/ on
+    # purpose: that path is capped at ten minutes because brand.css is
+    # regenerated on every deploy and is not content-hashed, and re-fetching
+    # 3.7MB of photographs every ten minutes to protect a stylesheet would be
+    # absurd. A photo here is immutable -- change the picture, change the
+    # filename -- so it can be cached hard.
+    Cache-Control = "public, max-age=31536000, immutable"

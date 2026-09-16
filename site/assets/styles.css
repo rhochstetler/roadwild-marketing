@@ -556,3 +556,15 @@ figcaption {
   .gallery { grid-template-columns: 1fr 1fr; gap: 12px; }
   .gallery figcaption { font-size: .8rem; margin-top: 8px; }
 }
+
+/* ---- a photograph used as a band or a pair, on pages other than /about ---- */
+/* Same frame, caption and token rules as above; only the crop changes. */
+.photo-band .photo img { aspect-ratio: 5 / 2; }
+/* 5:2 on a phone is a letterbox slot with nothing legible in it. */
+@media (max-width: 700px) { .photo-band .photo img { aspect-ratio: 4 / 3; } }
+
+.photo-pair { display: grid; gap: 22px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+.photo-pair .photo img { aspect-ratio: 4 / 3; }
+
+/* 404 only. Held at the photograph's own 360px so it is never upscaled. */
+.photo-small { max-width: 360px; margin-inline: auto; }

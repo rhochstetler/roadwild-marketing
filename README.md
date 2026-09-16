@@ -44,8 +44,9 @@ site/                      what gets published.
   assets/styles.css        layout and type. Every colour is var(--something).
   assets/brand.css         GENERATED + GITIGNORED. Never commit, never hand-edit.
   assets/site.js           the waitlist form. The only script on the site.
-  photos/                  Amanda and Robyn's own photographs, used on /about.
-                           NOT under assets/ -- see the cache note in netlify.toml.
+  photos/                  Amanda and Robyn's own photographs. NOT under assets/ --
+                           see the cache note in netlify.toml. og-*.jpg are the
+                           1200x630 social cards, cropped from the page's own photo.
 .github/workflows/brand-drift.yml   daily drift check
 ```
 
@@ -203,12 +204,19 @@ Each of these is load-bearing, not a style preference.
   scripts or styles, which is also why there is no `style=""` attribute
   anywhere — use a class.
 - **A page gets a photo and an `og:image` together, never one without the
-  other.** `/about` now has both: Amanda and Robyn's own photographs, which are
-  licensed by being theirs, and a 1200x630 card cropped from one of them.
-  **Every other page still has neither** — the landing hero is a drawn SVG
-  scene built from the brand tokens, and it stays that way until it has a real
-  photograph of its own to ship alongside a card.
+  other.** `/about`, `/`, `/features` and `/beta` each have both: Amanda and
+  Robyn's own photographs, which are licensed by being theirs, and a 1200x630
+  card cropped from that page's own photo. `/pricing`, `/privacy` and `/terms`
+  still have neither.
+  **`404.html` is the one exemption**: it has a photograph and no card, because
+  it is deliberately absent from `sitemap.xml` and nobody shares an error page.
+- **The landing hero is still the drawn SVG scene**, not a photograph. It is
+  built from the brand tokens, so it follows the app's colours the way a
+  photograph cannot. The photo on `/` is a band in the middle of the page.
+  Replacing the hero is a deliberate decision nobody has made yet.
 - **The photographs are stripped of EXIF and GPS.** They are pictures of where
   two people sleep. Anything added to `site/photos/` gets checked first; the
-  ones in there now carry no metadata at all.
+  ones in there now carry no metadata at all. This is not theoretical — four of
+  the five landscape photos arrived carrying full GPS coordinates, the phone
+  model and a capture timestamp. Strip, then verify the strip; do not assume.
 - **The spot count rounds down.**

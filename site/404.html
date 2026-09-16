@@ -13,8 +13,10 @@
          the drift check cannot see this. -->
     <meta name="theme-color" content="#2D6A4F" />
 
-    <!-- NO og:image UNTIL A LICENSED PHOTO EXISTS, and then it ships in the same
-         commit as a real hero photograph -- never one without the other. -->
+    <!-- NO og:image, AND THIS PAGE IS THE ONE EXEMPTION to the rule that a photo
+         and a card ship together. 404 is deliberately absent from sitemap.xml
+         because an error page is not content, and nobody shares one. The photo
+         below is for the person who landed here by mistake, not for a crawler. -->
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Road Wild" />
     <meta property="og:title" content="Page not found — Road Wild" />
@@ -68,6 +70,16 @@
             <a class="btn btn-cta" href="/">Back to the map</a>
             <a class="btn btn-ghost" href="https://app.roadwild.org/login">Sign in to the app</a>
           </div>
+          <figure class="photo-small mt-l">
+            <div class="photo">
+              <picture>
+                <source srcset="/photos/alaska-river.webp" type="image/webp" />
+                <img src="/photos/alaska-river.jpg" width="360" height="360" loading="lazy" decoding="async"
+                     alt="A wide river at dusk, spruce along both banks and mountains fading into low cloud." />
+              </picture>
+            </div>
+            <figcaption>Not every road goes through. This one didn't either.</figcaption>
+          </figure>
           <p class="hero-note">
             Following a shared spot link? Those live at
             <code>/functions/sharedPlace</code> and still work — if one brought you here,

@@ -491,3 +491,80 @@ input:focus, select:focus, textarea:focus {
 /* The success panel is scrolled to after a submit, and the header is sticky --
    without this the top of the panel lands underneath it. */
 #beta-done { scroll-margin-top: 96px; }
+
+/* ==================================================== photographs ========
+ * Real photographs, finally. Amanda and Robyn's own pictures of their own
+ * rigs -- nothing licensed, nothing stock, so the "no photo until a licensed
+ * one exists" rule in the README is satisfied by ownership rather than by a
+ * purchase. They live in site/photos/, NOT site/assets/, because /assets/* is
+ * deliberately cached for ten minutes on account of brand.css and a 200kB
+ * photograph has no business being re-fetched that often.
+ *
+ * NO COLOUR IS INTRODUCED HERE. The frames, captions and shadows all resolve
+ * to the same tokens as everything else in this file, so a photo block follows
+ * the app's brand in both themes exactly like a card does.
+ */
+
+figure { margin: 0; }
+
+.photo {
+  border-radius: var(--r-lg);
+  overflow: hidden;
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow);
+  background: var(--page-deep);
+}
+.photo img { width: 100%; height: 100%; object-fit: cover; }
+
+/* Portrait phone photographs at full height tower over the text beside them.
+   4:5 for the two big ones, 3:4 for the grid. */
+.photo-lead img { aspect-ratio: 4 / 5; }
+
+figcaption {
+  font-size: .86rem; color: var(--ink-soft);
+  margin-top: 11px; line-height: 1.5; max-width: 46ch;
+}
+
+/* Text one side, photograph the other. Same breakpoint as .hero-grid. */
+.split {
+  display: grid; gap: clamp(32px, 5vw, 56px);
+  grid-template-columns: 1.05fr .95fr; align-items: center;
+}
+.split-top { align-items: start; }
+.split > .stack > * + * { margin-top: 18px; }
+@media (max-width: 900px) {
+  .split { grid-template-columns: 1fr; }
+  /* On one column the picture reads better above the wall of text. */
+  .split-lead > figure { order: -1; }
+}
+
+/* ---- the two of us ---- */
+.bios { display: grid; gap: clamp(28px, 4vw, 44px); grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); }
+.bio { display: flex; flex-direction: column; gap: 18px; }
+.bio .photo img { aspect-ratio: 3 / 4; }
+.bio .role { font-family: var(--font-heading); font-weight: 600; font-size: 1.2rem; letter-spacing: -.01em; margin-top: 4px; }
+.bio .eyebrow + .role { margin-top: 6px; }
+.bio p + p { margin-top: 12px; }
+.bio .body { color: var(--ink-soft); font-size: .97rem; }
+
+/* ---- the gallery ---- */
+.gallery { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); }
+.gallery .photo img { aspect-ratio: 3 / 4; }
+/* auto-fill drops to ONE column on a phone, which turns eleven portrait
+   photographs into eleven full-screen scrolls. Two-up instead. */
+@media (max-width: 560px) {
+  .gallery { grid-template-columns: 1fr 1fr; gap: 12px; }
+  .gallery figcaption { font-size: .8rem; margin-top: 8px; }
+}
+
+/* ---- a photograph used as a band or a pair, on pages other than /about ---- */
+/* Same frame, caption and token rules as above; only the crop changes. */
+.photo-band .photo img { aspect-ratio: 5 / 2; }
+/* 5:2 on a phone is a letterbox slot with nothing legible in it. */
+@media (max-width: 700px) { .photo-band .photo img { aspect-ratio: 4 / 3; } }
+
+.photo-pair { display: grid; gap: 22px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+.photo-pair .photo img { aspect-ratio: 4 / 3; }
+
+/* 404 only. Held at the photograph's own 360px so it is never upscaled. */
+.photo-small { max-width: 360px; margin-inline: auto; }

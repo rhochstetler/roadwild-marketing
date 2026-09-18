@@ -13,14 +13,20 @@
          the drift check cannot see this. -->
     <meta name="theme-color" content="#2D6A4F" />
 
-    <!-- NO og:image UNTIL A LICENSED PHOTO EXISTS, and then it ships in the same
-         commit as a real hero photograph -- never one without the other. -->
+    <!-- The og:image rule: a page gets a photograph and a card together, never
+         one without the other. This page now carries a photograph of an Alaskan inlet, so the card ships
+         with it -- a 1200x630 crop of that same photograph, because a social
+         card is letterboxed at 1.91:1. -->
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Road Wild" />
     <meta property="og:title" content="Request beta access — Road Wild" />
     <meta property="og:description" content="Ask for an invite to the Road Wild private beta. One email address, no tracking, and an honest account of what you are signing up for." />
     <meta property="og:url" content="https://roadwild.org/beta" />
-    <meta name="twitter:card" content="summary" />
+    <meta property="og:image" content="https://roadwild.org/photos/og-beta.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="A sheltered Alaskan inlet framed by young spruce, steep green mountains rising from pale blue water." />
+    <meta name="twitter:card" content="summary_large_image" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -173,21 +179,35 @@
       </section>
 
       <section>
-        <div class="narrow">
-          <div class="section-head">
-            <p class="eyebrow">Before you put your name in</p>
-            <h2>What you're actually signing up for</h2>
-            <p class="lede">
-              There are no testimonials on this site because there are no testers yet — you'd be
-              among the first. So here's the honest version instead.
-            </p>
+        <div class="wrap">
+          <div class="split split-top">
+            <div>
+              <div class="section-head">
+                <p class="eyebrow">Before you put your name in</p>
+                <h2>What you're actually signing up for</h2>
+                <p class="lede">
+                  There are no testimonials on this site because there are no testers yet — you'd be
+                  among the first. So here's the honest version instead.
+                </p>
+              </div>
+              <ul class="ticks">
+                <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><strong>A lot of the map has never been laid eyes on.</strong> Most pins came from public land records. They're real places, but nobody has confirmed you can sleep at all of them. Telling us which are wrong is the most useful thing a tester does.</span></li>
+                <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><strong>Invites go out in batches, not instantly.</strong> The beta is small on purpose. This is a request, and it may be a while.</span></li>
+                <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><strong>Some of it isn't built yet.</strong> Where that's true, the <a href="/pricing">pricing page</a> says so rather than implying otherwise.</span></li>
+                <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><strong>We ask for an email address and nothing else.</strong> No tracking script, no cookie, no pixel. If you never get an invite you'll simply never hear from us again — and you can reply to any email to come off the list.</span></li>
+              </ul>
+            </div>
+            <figure>
+              <div class="photo photo-lead">
+                <picture>
+                  <source srcset="/photos/alaska-inlet.webp" type="image/webp" />
+                  <img src="/photos/alaska-inlet.jpg" width="768" height="1024" loading="lazy" decoding="async"
+                       alt="A sheltered inlet framed by young spruce, steep green mountains rising straight out of pale blue water." />
+                </picture>
+              </div>
+              <figcaption>The reason anybody puts up with a 3am parking lot sweeper.</figcaption>
+            </figure>
           </div>
-          <ul class="ticks">
-            <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><strong>A lot of the map has never been laid eyes on.</strong> Most pins came from public land records. They're real places, but nobody has confirmed you can sleep at all of them. Telling us which are wrong is the most useful thing a tester does.</span></li>
-            <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><strong>Invites go out in batches, not instantly.</strong> The beta is small on purpose. This is a request, and it may be a while.</span></li>
-            <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><strong>Some of it isn't built yet.</strong> Where that's true, the <a href="/pricing">pricing page</a> says so rather than implying otherwise.</span></li>
-            <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><strong>We ask for an email address and nothing else.</strong> No tracking script, no cookie, no pixel. If you never get an invite you'll simply never hear from us again — and you can reply to any email to come off the list.</span></li>
-          </ul>
         </div>
       </section>
     </main>

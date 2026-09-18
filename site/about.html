@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>About — Road Wild</title>
-    <meta name="description" content="Why Road Wild exists, where its 20,000 overnight spots came from, and the three rules it is being built under." />
+    <meta name="description" content="Amanda and Robyn have lived on the road full time since 2020. Why they built Road Wild, where its 20,000 overnight spots came from, and the three rules it is being built under." />
     <link rel="canonical" href="https://roadwild.org/about" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <!-- Second and last hardcoded colour in this repo, after favicon.svg: a
@@ -13,14 +13,24 @@
          the drift check cannot see this. -->
     <meta name="theme-color" content="#2D6A4F" />
 
-    <!-- NO og:image UNTIL A LICENSED PHOTO EXISTS, and then it ships in the same
-         commit as a real hero photograph -- never one without the other. -->
+    <!-- The og:image rule: never one without the other. This page now carries a
+         real photograph -- Amanda and Robyn's own, of their own bus -- so the
+         card ships in the SAME COMMIT, which is the whole condition. It is a
+         1200x630 crop of photos/gus-hero.jpg, because a social card is
+         letterboxed at 1.91:1 and the portrait original would be cropped
+         through their faces. THIS IS THE ONLY PAGE WITH ONE. index.html still
+         has the drawn SVG scene and still has no og:image; do not add one there
+         until it has a photograph too. -->
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Road Wild" />
     <meta property="og:title" content="About — Road Wild" />
-    <meta property="og:description" content="Why Road Wild exists, where its 20,000 overnight spots came from, and the three rules it is being built under." />
+    <meta property="og:description" content="Amanda and Robyn have lived on the road full time since 2020. Why they built Road Wild, and the three rules it is being built under." />
     <meta property="og:url" content="https://roadwild.org/about" />
-    <meta name="twitter:card" content="summary" />
+    <meta property="og:image" content="https://roadwild.org/photos/og-about.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Robyn standing at the open door of Gus, a tan four-window school bus, on a bright day with hills behind." />
+    <meta name="twitter:card" content="summary_large_image" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -56,15 +66,155 @@
     </header>
 
     <main id="main">
+      <section class="hero">
+        <div class="wrap">
+          <div class="split split-lead">
+            <div class="stack">
+              <p class="eyebrow">About</p>
+              <h1>We&rsquo;re Amanda and Robyn, and we&rsquo;ve been on the road full time since 2020.</h1>
+              <p class="lede">
+                We sold a house, got rid of most of what was in it, and moved into a four-window
+                schoolie named Gus. We found him on Facebook, flew to Montana, and drove him home.
+                That was the start of it.
+              </p>
+              <p class="muted">
+                Since then we&rsquo;ve had the good and the bad. We&rsquo;ve woken up to views people fly
+                across the country for. We&rsquo;ve also been woken up at 3am by a Walmart parking lot
+                sweeper. Somewhere in the middle of all of it we worked out that what we actually
+                missed was a community &mdash; and that, plus a few other things, is what started
+                this app.
+              </p>
+            </div>
+            <figure>
+              <div class="photo photo-lead">
+                <picture>
+                  <source srcset="/photos/gus-badlands.webp" type="image/webp" />
+                  <img
+                    src="/photos/gus-badlands.jpg"
+                    width="768" height="1024" decoding="async"
+                    alt="Amanda and Robyn in a selfie at the Badlands National Park entrance sign, with Gus parked behind them."
+                  />
+                </picture>
+              </div>
+              <figcaption>Badlands National Park, 2020 &mdash; a few weeks into full time.</figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-alt">
+        <div class="wrap">
+          <div class="section-head">
+            <h2>The two of us</h2>
+          </div>
+          <div class="bios">
+            <article class="bio">
+              <div class="photo">
+                <picture>
+                  <source srcset="/photos/amanda.webp" type="image/webp" />
+                  <img
+                    src="/photos/amanda.jpg"
+                    width="1000" height="1333" loading="lazy" decoding="async"
+                    alt="Amanda laughing in front of a painted Route 66 shield mural."
+                  />
+                </picture>
+              </div>
+              <div>
+                <p class="eyebrow">Amanda</p>
+                <p class="role">I&rsquo;m the spot and activities finder.</p>
+                <p class="body mt-l">
+                  I know the secrets to finding the good stuff. A cold drink at a local bar, a bike
+                  ride through a beautiful park, hanging with the locals at the town pool &mdash;
+                  I&rsquo;ll find it, and I&rsquo;ll find it on a budget. I keep us on our toes,
+                  which sometimes means we end up on a genuinely crazy adventure.
+                </p>
+                <p class="body">
+                  I spend my working hours as a remote CSM and my down time swimming, cooking, and
+                  playing whatever game just came out. I&rsquo;m a cool nomadic nerd with a lust for
+                  the unknown.
+                </p>
+              </div>
+            </article>
+
+            <article class="bio">
+              <div class="photo">
+                <picture>
+                  <source srcset="/photos/gus-hero.webp" type="image/webp" />
+                  <img
+                    src="/photos/gus-hero.jpg"
+                    width="768" height="1024" loading="lazy" decoding="async"
+                    alt="Robyn standing at the open door of Gus, a tan four-window school bus, parked under a blue sky with hills behind."
+                  />
+                </picture>
+              </div>
+              <div>
+                <p class="eyebrow">Robyn</p>
+                <p class="role">I&rsquo;m the driver.</p>
+                <p class="body mt-l">
+                  I&rsquo;m the one who gets us in and out of the sketchy situations and the deep
+                  ruts. I first found vanlife on YouTube, when I was trying to figure out how to
+                  take a job halfway across the country and still afford to live. I didn&rsquo;t get
+                  the job. Life took me here anyway, thanks to Amanda&rsquo;s spontaneity.
+                </p>
+                <p class="body">
+                  Outside of how we live, I work remotely in digital advertising, which is what
+                  makes this whole thing sustainable. I&rsquo;ll hike, paddle board, or bike
+                  anything &mdash; if it&rsquo;s outside, I&rsquo;m in. I&rsquo;m a nomad who&rsquo;s
+                  always looking to meet people and learn something new along the way.
+                </p>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
       <section>
-        <div class="narrow">
-          <p class="eyebrow">About</p>
-          <h1>Built by one person who got tired of six browser tabs.</h1>
-          <p class="lede mt-l">
-            Road Wild started because planning a week on the road meant an agency website for
-            the campgrounds, a forum thread for the free spots, a maps app for the drive, and a
-            screenshot folder for everything that wouldn't fit in any of them.
-          </p>
+        <div class="wrap">
+          <div class="split split-top">
+            <div class="stack">
+              <h2>Why we built it</h2>
+              <p class="lede">
+                For the first four years we used the same trusty sleep spot app everybody uses.
+                Then a little over a year ago, everything changed.
+              </p>
+              <p class="muted">
+                We were tired of being boxed in by what we could actually look up. If we were near
+                a state line, half the map may as well not have existed. That turned into constant
+                conversations between the two of us &mdash; everything we kept running into, and
+                everything we wished lived in one place instead of six. That is Road Wild.
+              </p>
+              <p class="muted">
+                This app came out of how much we love this community and how freely everybody in it
+                gives advice. Whether you&rsquo;re out here full time or one weekend a month,
+                you&rsquo;re part of a family that shares sleep spots, good detours, and views worth
+                the drive.
+              </p>
+              <p class="muted">
+                We wanted a place to hold that &mdash; one spot for all of it. We&rsquo;ve used
+                every big-name app, and every one of them was missing something. So: find a place to
+                sleep, meet the people around you, and maybe save a buck, without switching apps
+                three times.
+              </p>
+              <p class="muted">
+                We built it with the help of AI, and we&rsquo;re still building it. Now we&rsquo;re
+                asking for your help making it the community we&rsquo;ve been looking for all these
+                years.
+              </p>
+            </div>
+            <figure>
+              <div class="photo photo-lead">
+                <picture>
+                  <source srcset="/photos/both-lincoln.webp" type="image/webp" />
+                  <img
+                    src="/photos/both-lincoln.jpg"
+                    width="700" height="933" loading="lazy" decoding="async"
+                    alt="Amanda and Robyn in front of an oversized covered wagon with a Lincoln figure on the seat."
+                  />
+                </picture>
+              </div>
+              <figcaption>Six years of these conversations, mostly in a moving vehicle.</figcaption>
+            </figure>
+          </div>
         </div>
       </section>
 
@@ -72,14 +222,14 @@
         <div class="narrow">
           <h2>Where the map came from</h2>
           <p class="lede mt-l">
-            Most of it began as public data — the National Park Service, the Recreation
-            Information Database, OpenStreetMap and state land records — pulled in state by
-            state and cleaned up. That's how you get to more than 20,000 spots without a decade
-            of driving.
+            Most of it began as public data &mdash; the National Park Service, the Recreation
+            Information Database, OpenStreetMap and state land records &mdash; pulled in state by
+            state and cleaned up. That&rsquo;s how you get to more than 20,000 spots without a
+            decade of driving, and we have only driven six years of it.
           </p>
           <p class="lede mt-l">
-            It's also why the honesty matters. A pin that came out of a database is a lead, not
-            a promise, and Road Wild says which is which on every listing rather than letting
+            It&rsquo;s also why the honesty matters. A pin that came out of a database is a lead,
+            not a promise, and Road Wild says which is which on every listing rather than letting
             you find out at the gate.
           </p>
         </div>
@@ -88,29 +238,34 @@
       <section>
         <div class="wrap">
           <div class="section-head center">
-            <p class="eyebrow">How it's being built</p>
-            <h2>Three rules that haven't been broken yet</h2>
+            <p class="eyebrow">How it&rsquo;s being built</p>
+            <h2>Three rules we haven&rsquo;t broken yet</h2>
+            <p class="lede">
+              We&rsquo;re two people building this in the gaps around jobs and driving. These are
+              the promises we can actually keep.
+            </p>
           </div>
           <div class="grid grid-3">
             <article class="card">
-              <h3>Nothing unbuilt gets promised</h3>
+              <h3>We don&rsquo;t promise anything we haven&rsquo;t built</h3>
               <p>
-                If a feature doesn't exist, it's marked <em>in development</em> wherever it's
-                mentioned. That constraint costs conversions and it stays anyway.
+                If a feature doesn&rsquo;t exist, it&rsquo;s marked <em>in development</em> wherever
+                it&rsquo;s mentioned. We&rsquo;d rather lose the sign-up than win it by implying
+                something is there.
               </p>
             </article>
             <article class="card">
-              <h3>No tracking</h3>
+              <h3>We don&rsquo;t track you</h3>
               <p>
-                No analytics, no cookies, no advertising pixel on this site. The only
-                measurement is a <code>?ref=</code> tag on links posted by hand.
+                No analytics, no cookies, no advertising pixel on this site. The only measurement is
+                a <code>?ref=</code> tag on links we post by hand.
               </p>
             </article>
             <article class="card">
               <h3>A failure never looks like a success</h3>
               <p>
-                An empty list and a broken request are different things, and the app says which
-                one you're looking at. It's the bug that has cost this project the most.
+                If the app comes back empty, it says empty. If something broke, it says it broke.
+                You should never find out on arrival that the app was guessing.
               </p>
             </article>
           </div>
@@ -119,11 +274,136 @@
 
       <section class="section-alt">
         <div class="wrap">
+          <div class="section-head">
+            <h2>Six years of ups, downs and deep ruts</h2>
+            <p class="lede">
+              Two rigs, one of them built by hand in a driveway, and a lot of roadside attractions
+              nobody plans a trip around.
+            </p>
+          </div>
+          <div class="gallery">
+            <figure>
+              <div class="photo">
+                <picture>
+                  <source srcset="/photos/robyn-driving.webp" type="image/webp" />
+                  <img src="/photos/robyn-driving.jpg" width="700" height="933" loading="lazy" decoding="async"
+                       alt="Robyn at the wheel of Gus, Amanda in the passenger seat taking the photo." />
+                </picture>
+              </div>
+              <figcaption>Robyn driving, Amanda documenting.</figcaption>
+            </figure>
+            <figure>
+              <div class="photo">
+                <picture>
+                  <source srcset="/photos/robyn-building.webp" type="image/webp" />
+                  <img src="/photos/robyn-building.jpg" width="700" height="933" loading="lazy" decoding="async"
+                       alt="Robyn cutting a sheet of plywood with a circular saw in a garage." />
+                </picture>
+              </div>
+              <figcaption>Cutting the floor.</figcaption>
+            </figure>
+            <figure>
+              <div class="photo">
+                <picture>
+                  <source srcset="/photos/bus-build.webp" type="image/webp" />
+                  <img src="/photos/bus-build.jpg" width="700" height="933" loading="lazy" decoding="async"
+                       alt="Amanda framing bench seating inside the bus, cedar walls half finished." />
+                </picture>
+              </div>
+              <figcaption>Framing the bench.</figcaption>
+            </figure>
+            <figure>
+              <div class="photo">
+                <picture>
+                  <source srcset="/photos/van-shell.webp" type="image/webp" />
+                  <img src="/photos/van-shell.jpg" width="700" height="933" loading="lazy" decoding="async"
+                       alt="Amanda inside an empty white van shell part-way through insulating it." />
+                </picture>
+              </div>
+              <figcaption>Rig two, day one.</figcaption>
+            </figure>
+            <figure>
+              <div class="photo">
+                <picture>
+                  <source srcset="/photos/amanda-van-interior.webp" type="image/webp" />
+                  <img src="/photos/amanda-van-interior.jpg" width="700" height="933" loading="lazy" decoding="async"
+                       alt="Amanda sitting at the table in a finished van interior." />
+                </picture>
+              </div>
+              <figcaption>Same van, finished.</figcaption>
+            </figure>
+            <figure>
+              <div class="photo">
+                <picture>
+                  <source srcset="/photos/amanda-cadillac.webp" type="image/webp" />
+                  <img src="/photos/amanda-cadillac.jpg" width="700" height="933" loading="lazy" decoding="async"
+                       alt="Amanda beside a spray-painted car buried nose-down at Cadillac Ranch." />
+                </picture>
+              </div>
+              <figcaption>Cadillac Ranch, Texas.</figcaption>
+            </figure>
+            <figure>
+              <div class="photo">
+                <picture>
+                  <source srcset="/photos/amanda-jail.webp" type="image/webp" />
+                  <img src="/photos/amanda-jail.jpg" width="700" height="933" loading="lazy" decoding="async"
+                       alt="Amanda holding a novelty booking board against a height chart at the Uranus City Jail attraction." />
+                </picture>
+              </div>
+              <figcaption>Booked in Uranus, Missouri.</figcaption>
+            </figure>
+            <figure>
+              <div class="photo">
+                <picture>
+                  <source srcset="/photos/both-cave.webp" type="image/webp" />
+                  <img src="/photos/both-cave.jpg" width="700" height="933" loading="lazy" decoding="async"
+                       alt="Amanda and Robyn underground beneath a ceiling of lit stalactites." />
+                </picture>
+              </div>
+              <figcaption>Somewhere underground.</figcaption>
+            </figure>
+            <figure>
+              <div class="photo">
+                <picture>
+                  <source srcset="/photos/amanda-stairs.webp" type="image/webp" />
+                  <img src="/photos/amanda-stairs.jpg" width="700" height="933" loading="lazy" decoding="async"
+                       alt="Amanda at the bottom of a flight of rainbow-painted alley steps." />
+                </picture>
+              </div>
+              <figcaption>Rainbow steps, downtown detour.</figcaption>
+            </figure>
+            <figure>
+              <div class="photo">
+                <picture>
+                  <source srcset="/photos/both-iceland.webp" type="image/webp" />
+                  <img src="/photos/both-iceland.jpg" width="700" height="933" loading="lazy" decoding="async"
+                       alt="Amanda and Robyn on the rainbow street leading to the blue church in Sey&eth;isfj&ouml;r&eth;ur, Iceland." />
+                </picture>
+              </div>
+              <figcaption>Sey&eth;isfj&ouml;r&eth;ur, Iceland.</figcaption>
+            </figure>
+            <figure>
+              <div class="photo">
+                <picture>
+                  <source srcset="/photos/robyn.webp" type="image/webp" />
+                  <img src="/photos/robyn.jpg" width="1000" height="1333" loading="lazy" decoding="async"
+                       alt="Robyn grinning in front of a roadside fiberglass lumberjack statue." />
+                </picture>
+              </div>
+              <figcaption>Every muffler man, every time.</figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div class="wrap">
           <div class="cta-band">
             <h2>The beta is open for requests</h2>
             <p>
-              No testimonials on this site yet, because there are no testers yet. You'd be among
-              the first.
+              It&rsquo;s invite-only for now, and we&rsquo;re letting people in as fast as we can
+              keep up. There are no testimonials on this site yet, because there are no testers yet.
+              You&rsquo;d be among the first.
             </p>
             <a class="btn btn-cta" href="/beta">Request beta access</a>
           </div>

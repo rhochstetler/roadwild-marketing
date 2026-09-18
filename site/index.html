@@ -13,14 +13,21 @@
          the drift check cannot see this. -->
     <meta name="theme-color" content="#2D6A4F" />
 
-    <!-- NO og:image UNTIL A LICENSED PHOTO EXISTS, and then it ships in the same
-         commit as a real hero photograph -- never one without the other. -->
+    <!-- The og:image rule: a page gets a photograph and a card together, never
+         one without the other. This page now carries a photograph of Gus at the Theodore Roosevelt
+         National Park sign, so the card ships
+         with it -- a 1200x630 crop of that same photograph, because a social
+         card is letterboxed at 1.91:1. -->
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Road Wild" />
     <meta property="og:title" content="Road Wild — a map of free overnight spots for van life" />
     <meta property="og:description" content="Road Wild is a map of more than 20,000 overnight sleep spots across the US, plus things to do nearby and a community of nomads. Private beta." />
     <meta property="og:url" content="https://roadwild.org/" />
-    <meta name="twitter:card" content="summary" />
+    <meta property="og:image" content="https://roadwild.org/photos/og-index.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Gus, a tan four-window school bus, parked beside the stone Theodore Roosevelt National Park entrance sign." />
+    <meta name="twitter:card" content="summary_large_image" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -240,6 +247,27 @@
               </p>
             </div>
           </div>
+        </div>
+      </section>
+
+      <!-- The landing hero above is still the DRAWN SVG SCENE, deliberately: it is
+           built from the brand tokens and follows the app's colours. This is a
+           photograph in the middle of the page, not a replacement for it. -->
+      <section class="photo-band">
+        <div class="wrap">
+          <figure>
+            <div class="photo">
+              <picture>
+                <source srcset="/photos/gus-theodore-roosevelt.webp" type="image/webp" />
+                <img
+                  src="/photos/gus-theodore-roosevelt.jpg"
+                  width="1024" height="768" loading="lazy" decoding="async"
+                  alt="Gus, a tan four-window school bus, parked beside the stone Theodore Roosevelt National Park entrance sign under a clear blue sky."
+                />
+              </picture>
+            </div>
+            <figcaption>Theodore Roosevelt National Park, North Dakota. That&rsquo;s Gus.</figcaption>
+          </figure>
         </div>
       </section>
 

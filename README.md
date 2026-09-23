@@ -42,6 +42,7 @@ site/                      what gets published.
   404.html                 not in sitemap.xml — an error page is not content
   privacy.html terms.html  scoped to THIS SITE — see the note at the top of each
   assets/styles.css        layout and type. Every colour is var(--something).
+                           The .m-* block still paints the drawn map illustration.
   assets/brand.css         GENERATED + GITIGNORED. Never commit, never hand-edit.
   assets/site.js           the waitlist form. The only script on the site.
   photos/                  Amanda and Robyn's own photographs. NOT under assets/ --
@@ -210,10 +211,12 @@ Each of these is load-bearing, not a style preference.
   still have neither.
   **`404.html` is the one exemption**: it has a photograph and no card, because
   it is deliberately absent from `sitemap.xml` and nobody shares an error page.
-- **The landing hero is still the drawn SVG scene**, not a photograph. It is
-  built from the brand tokens, so it follows the app's colours the way a
-  photograph cannot. The photo on `/` is a band in the middle of the page.
-  Replacing the hero is a deliberate decision nobody has made yet.
+- **The landing hero is a photograph.** It was a drawn SVG scene built from the
+  brand tokens; Robyn replaced it deliberately, because the first thing a
+  visitor sees should be the life this app is for rather than an illustration of
+  it. The `.s-*` rules that coloured the old scene, and the two theme-flipping
+  poles they mixed against, were deleted with it — nothing else used them.
+  **The map illustration further down `/` is still drawn and still tokenised.**
 - **The photographs are stripped of EXIF and GPS.** They are pictures of where
   two people sleep. Anything added to `site/photos/` gets checked first; the
   ones in there now carry no metadata at all. This is not theoretical — four of

@@ -185,6 +185,25 @@ section { padding: clamp(56px, 7vw, 92px) 0; }
   .nav .nav-hide { display: none; }
 }
 
+/* THE HEADER ON A PHONE. The audience is mostly on one, so this is not a
+   rounding error: with the full-length button beside it, "Road Wild" wrapped to
+   two lines at 390px -- the single most common iPhone width -- and at 320px the
+   button ran off the edge and the whole page scrolled sideways.
+   The wordmark now never wraps, the button tightens below 430px, and below
+   380px it carries the shorter label. "Beta access" is the same words the
+   footer link uses, and it still does not imply access is granted. */
+.wordmark { white-space: nowrap; }
+.cta-short { display: none; }
+
+@media (max-width: 430px) {
+  .site-header .nav { gap: 12px; }
+  .site-header .btn-sm { padding: 9px 14px; font-size: .88rem; }
+}
+@media (max-width: 380px) {
+  .cta-full { display: none; }
+  .cta-short { display: inline; }
+}
+
 /* ---------------------------------------------------------------- hero --- */
 
 .hero { padding: clamp(48px, 6vw, 84px) 0 clamp(56px, 7vw, 88px); }
@@ -208,9 +227,14 @@ section { padding: clamp(56px, 7vw, 92px) 0; }
 
 /* --------------------------------------------------------------- cards --- */
 
+/* Every auto-fit/auto-fill track below uses minmax(min(Npx, 100%), 1fr) rather
+   than minmax(Npx, 1fr). A bare px minimum cannot shrink under it, so at 320px
+   the cards were 300px wide inside a 272px container and the page scrolled
+   sideways. min(N, 100%) keeps the intended column width and still lets the
+   last column collapse to whatever is actually there. */
 .grid { display: grid; gap: 22px; }
-.grid-3 { grid-template-columns: repeat(auto-fit, minmax(270px, 1fr)); }
-.grid-2 { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
+.grid-3 { grid-template-columns: repeat(auto-fit, minmax(min(270px, 100%), 1fr)); }
+.grid-2 { grid-template-columns: repeat(auto-fit, minmax(min(300px, 100%), 1fr)); }
 
 .card {
   background: var(--surface); border: 1px solid var(--line);
@@ -228,7 +252,7 @@ section { padding: clamp(56px, 7vw, 92px) 0; }
 
 /* ---------------------------------------------------------- step / list -- */
 
-.steps { display: grid; gap: 28px; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); }
+.steps { display: grid; gap: 28px; grid-template-columns: repeat(auto-fit, minmax(min(250px, 100%), 1fr)); }
 .step-num {
   width: 30px; height: 30px; border-radius: 50%; flex: none;
   background: var(--sage); color: hsl(var(--primary-foreground));
@@ -260,7 +284,9 @@ section { padding: clamp(56px, 7vw, 92px) 0; }
    published legal document false. */
 .tag-dev {
   display: inline-block; font-family: var(--font-heading);
-  font-size: .66rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
+  /* .66rem rendered at 10.5px -- the smallest text on the site, on the one label
+     the terms of service depend on. Bumped so it is readable on a phone. */
+  font-size: .78rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
   color: var(--bark); background: hsl(var(--secondary) / 0.12);
   border-radius: 999px; padding: 2px 8px; margin-left: 7px;
   white-space: nowrap; vertical-align: .06em;
@@ -291,6 +317,9 @@ section { padding: clamp(56px, 7vw, 92px) 0; }
 .faq summary {
   font-family: var(--font-heading); font-weight: 600; font-size: 1.03rem;
   cursor: pointer; list-style: none; display: flex; justify-content: space-between; gap: 16px;
+  /* 27px tall was a thin target for a thumb. Padding pulled off the parent so
+     the row itself is comfortably tappable without moving the card's edges. */
+  padding: 9px 0; margin: -9px 0;
 }
 .faq summary::-webkit-details-marker { display: none; }
 .faq summary::after { content: '+'; color: var(--sage); font-size: 1.3rem; line-height: 1; flex: none; }
@@ -316,7 +345,7 @@ section { padding: clamp(56px, 7vw, 92px) 0; }
 .field { display: grid; gap: 6px; margin-bottom: 18px; }
 .field label { font-family: var(--font-heading); font-weight: 600; font-size: .95rem; }
 .field .hint { font-size: .82rem; color: var(--ink-soft); }
-.field-row { display: grid; gap: 18px; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); }
+.field-row { display: grid; gap: 18px; grid-template-columns: repeat(auto-fit, minmax(min(190px, 100%), 1fr)); }
 
 input[type='email'], input[type='text'], select, textarea {
   font: inherit; font-size: 1rem; width: 100%;
@@ -484,7 +513,7 @@ figcaption {
 }
 
 /* ---- the two of us ---- */
-.bios { display: grid; gap: clamp(28px, 4vw, 44px); grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); }
+.bios { display: grid; gap: clamp(28px, 4vw, 44px); grid-template-columns: repeat(auto-fit, minmax(min(290px, 100%), 1fr)); }
 .bio { display: flex; flex-direction: column; gap: 18px; }
 .bio .photo img { aspect-ratio: 3 / 4; }
 .bio .role { font-family: var(--font-heading); font-weight: 600; font-size: 1.2rem; letter-spacing: -.01em; margin-top: 4px; }
@@ -500,7 +529,7 @@ figcaption {
 .hero-photo .photo img { aspect-ratio: 1 / 1; }
 
 /* ---- the gallery ---- */
-.gallery { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); }
+.gallery { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(min(210px, 100%), 1fr)); }
 .gallery .photo img { aspect-ratio: 3 / 4; }
 /* auto-fill drops to ONE column on a phone, which turns eleven portrait
    photographs into eleven full-screen scrolls. Two-up instead. */
@@ -515,7 +544,7 @@ figcaption {
 /* 5:2 on a phone is a letterbox slot with nothing legible in it. */
 @media (max-width: 700px) { .photo-band .photo img { aspect-ratio: 4 / 3; } }
 
-.photo-pair { display: grid; gap: 22px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+.photo-pair { display: grid; gap: 22px; grid-template-columns: repeat(auto-fit, minmax(min(280px, 100%), 1fr)); }
 .photo-pair .photo img { aspect-ratio: 4 / 3; }
 
 /* 404 only. Held at the photograph's own 360px so it is never upscaled. */

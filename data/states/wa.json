@@ -1,0 +1,1194 @@
+{
+ "state": "WA",
+ "generated_at": "2026-10-05",
+ "sample": true,
+ "sample_note": "Preview sample: 109 of Washington's public-eligible spots and 29 activities, pulled from the app on 2026-10-05 and put through the export's public rules. Not the full export.",
+ "spots": [
+  {
+   "name": "Fishhook Campground",
+   "type": "unknown",
+   "town": "Burbank, WA",
+   "town_mi": 13.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Flats Campground",
+   "type": "paid_camp",
+   "town": "Entiat, WA",
+   "town_mi": 10.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rock Creek Campground",
+   "type": "paid_camp",
+   "town": "Leavenworth, WA",
+   "town_mi": 26.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Three Creek Group Campground",
+   "type": "paid_camp",
+   "town": "Manson, WA",
+   "town_mi": 22.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rock Creek Recreation Site Campground",
+   "type": "blm",
+   "town": "Lamont, WA",
+   "town_mi": 13.0,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Alpine Meadows Campground",
+   "type": "paid_camp",
+   "town": "Leavenworth, WA",
+   "town_mi": 32.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crow Butte Park Primitive Campground",
+   "type": "unknown",
+   "town": "Boardman, OR",
+   "town_mi": 7.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Starbuck / Lyons Ferry Marina KOA",
+   "type": "rv_park",
+   "town": "Starbuck, WA",
+   "town_mi": 6.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chief Timothy Campground",
+   "type": "paid_camp",
+   "town": "Clarkston Heights-Vineland, WA",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Skookum Campground",
+   "type": "paid_camp",
+   "town": "Cusick, WA",
+   "town_mi": 6.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bumping Crossing Campground",
+   "type": "free_camp",
+   "town": "Cliffdell, WA",
+   "town_mi": 11.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Halfway Springs Camping Area",
+   "type": "free_camp",
+   "town": "Manson, WA",
+   "town_mi": 17.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Margaret Camp",
+   "type": "unknown",
+   "town": "Morton, WA",
+   "town_mi": 18.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deep Creek Campground",
+   "type": "free_camp",
+   "town": "Packwood, WA",
+   "town_mi": 17.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lost Lake Campground",
+   "type": "paid_camp",
+   "town": "Tampico, WA",
+   "town_mi": 11.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chain of Lakes Campground",
+   "type": "unknown",
+   "town": "Trout Lake, WA",
+   "town_mi": 20.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Miller River Campground",
+   "type": "paid_camp",
+   "town": "Skykomish, WA",
+   "town_mi": 2.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Oriole Campground",
+   "type": "paid_camp",
+   "town": "Conconully, WA",
+   "town_mi": 2.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Harlequin Campground",
+   "type": "paid_camp",
+   "town": "Winthrop, WA",
+   "town_mi": 26.0,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hoh Rainforest Campground",
+   "type": "paid_camp",
+   "town": "Forks, WA",
+   "town_mi": 22.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jones Bay Campground",
+   "type": "paid_camp",
+   "town": "Creston, WA",
+   "town_mi": 11.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Swan Lake Campground",
+   "type": "paid_camp",
+   "town": "Republic, WA",
+   "town_mi": 10.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Granite Lake Camping Area",
+   "type": "paid_camp",
+   "town": "Cliffdell, WA",
+   "town_mi": 16.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Goodell Creek Campground",
+   "type": "paid_camp",
+   "town": "Marblemount, WA",
+   "town_mi": 12.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Needle Group Site",
+   "type": "paid_camp",
+   "town": "Cliffdell, WA",
+   "town_mi": 8.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cultus Creek Campground",
+   "type": "paid_camp",
+   "town": "Trout Lake, WA",
+   "town_mi": 11.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Excelsior Group Campground",
+   "type": "paid_camp",
+   "town": "Glacier, WA",
+   "town_mi": 5.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gillette Campground",
+   "type": "paid_camp",
+   "town": "Ione, WA",
+   "town_mi": 10.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eightmile Group Site",
+   "type": "paid_camp",
+   "town": "Leavenworth, WA",
+   "town_mi": 5.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Douglas Fir Campground",
+   "type": "paid_camp",
+   "town": "Glacier, WA",
+   "town_mi": 1.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Icicle Group Campground",
+   "type": "paid_camp",
+   "town": "Leavenworth, WA",
+   "town_mi": 6.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tumwater Group Site",
+   "type": "paid_camp",
+   "town": "Leavenworth, WA",
+   "town_mi": 6.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Gillette Campground",
+   "type": "paid_camp",
+   "town": "Ione, WA",
+   "town_mi": 10.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chatter Creek Group Site",
+   "type": "paid_camp",
+   "town": "Leavenworth, WA",
+   "town_mi": 10.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Windy Point Campground",
+   "type": "paid_camp",
+   "town": "Tieton, WA",
+   "town_mi": 7.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Beachcomber RV Park",
+   "type": "rv_park",
+   "town": "Birch Bay, WA",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascadia Marine Trail Campsite - Twanoh",
+   "type": "paid_camp",
+   "town": "Union, WA",
+   "town_mi": 6.0,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascadia Marine Trail Campsite - Fort Flagler State Park",
+   "type": "paid_camp",
+   "town": "Port Townsend, WA",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascadia Marine Trail Campsite - James Island",
+   "type": "paid_camp",
+   "town": "Anacortes, WA",
+   "town_mi": 7.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascadia Marine Trail - Saddlebag Island",
+   "type": "paid_camp",
+   "town": "Anacortes, WA",
+   "town_mi": 4.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Possession Point State Park (Cascadia Marine Trail)",
+   "type": "paid_camp",
+   "town": "Mukilteo, WA",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascadia Marine Trail Campsite - Joseph Whidbey",
+   "type": "paid_camp",
+   "town": "Whidbey Island Station, WA",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascadia Marine Trail Campsite - Point Robinson",
+   "type": "paid_camp",
+   "town": "Des Moines, WA",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascadia Marine Trail Campsite - Burrows Island",
+   "type": "paid_camp",
+   "town": "Anacortes, WA",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascade Marine Trail Campsite - Kinney Point",
+   "type": "paid_camp",
+   "town": "Marrowstone, WA",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascade Marine Trail - Camano Island State Park",
+   "type": "paid_camp",
+   "town": "Camano, WA",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascadia Marine Trail Campsite - Fort Worden",
+   "type": "paid_camp",
+   "town": "Port Townsend, WA",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascadia Marine Trail Campsite - Kayak Point",
+   "type": "paid_camp",
+   "town": "Kayak Point, WA",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jameson Lake Resort & RV Park",
+   "type": "rv_park",
+   "town": "Mansfield, WA",
+   "town_mi": 8.0,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dash Point Campground",
+   "type": "paid_camp",
+   "town": "Dash Point, WA",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascadia Marine Trail Campsite - Lighthouse Park",
+   "type": "paid_camp",
+   "town": "Point Roberts, WA",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascadia Marine Trail Campsite - Port of Brownsville",
+   "type": "paid_camp",
+   "town": "Silverdale, WA",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascadia Marine Trail Campsite - Deception Pass State Park",
+   "type": "paid_camp",
+   "town": "Whidbey Island Station, WA",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trout Lake Creek Campground",
+   "type": "paid_camp",
+   "town": "Trout Lake, WA",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Connor Park",
+   "type": "rv_park",
+   "town": "Machias, WA",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascadia Marine Trail Campsite - Skagit Island",
+   "type": "paid_camp",
+   "town": "La Conner, WA",
+   "town_mi": 4.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cedar RV Park",
+   "type": "rv_park",
+   "town": "Ione, WA",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ponderosa Campground",
+   "type": "paid_camp",
+   "town": "South Cle Elum, WA",
+   "town_mi": 7.0,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sam's RV Park",
+   "type": "rv_park",
+   "town": "Clallam Bay, WA",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Muley Canyon Boat-In Campground",
+   "type": "paid_camp",
+   "town": "Suncrest, WA",
+   "town_mi": 8.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Newman Lake Marina and Resort",
+   "type": "rv_park",
+   "town": "Hauser, ID",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Road's End Campground",
+   "type": "paid_camp",
+   "town": "Winthrop, WA",
+   "town_mi": 18.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Island County Fairgrounds",
+   "type": "paid_camp",
+   "town": "Langley, WA",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Coho Estates RV Park",
+   "type": "rv_park",
+   "town": "Sekiu, WA",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gold Mountain RV Park",
+   "type": "rv_park",
+   "town": "Pine Grove, WA",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Carter Creek Campsite",
+   "type": "paid_camp",
+   "town": "Snoqualmie Pass, WA",
+   "town_mi": 6.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sumas RV Park",
+   "type": "rv_park",
+   "town": "Sumas, WA",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Safety Harbor Campground",
+   "type": "paid_camp",
+   "town": "Manson, WA",
+   "town_mi": 15.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Corral Creek Campground",
+   "type": "paid_camp",
+   "town": "Manson, WA",
+   "town_mi": 17.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Legion Park Campsite",
+   "type": "paid_camp",
+   "town": "Okanogan, WA",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascadia Marine Trail Campsite - Obstruction Pass",
+   "type": "paid_camp",
+   "town": "Friday Harbor, WA",
+   "town_mi": 9.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Domke Falls Campground",
+   "type": "paid_camp",
+   "town": "Twisp, WA",
+   "town_mi": 23.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wedding Rocks Quota Campsite",
+   "type": "paid_camp",
+   "town": "Neah Bay, WA",
+   "town_mi": 15.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Orange RV Parking",
+   "type": "rv_park",
+   "town": "Puyallup, WA",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crescent Beach RV",
+   "type": "rv_park",
+   "town": "Port Angeles, WA",
+   "town_mi": 12.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ocean City RV Resort",
+   "type": "rv_park",
+   "town": "Ocean City, WA",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Keenes Horse Camp",
+   "type": "paid_camp",
+   "town": "Packwood, WA",
+   "town_mi": 21.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Group Campground",
+   "type": "paid_camp",
+   "town": "Packwood, WA",
+   "town_mi": 19.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tulalip Group Campground",
+   "type": "paid_camp",
+   "town": "Verlot, WA",
+   "town_mi": 6.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elochoman Marina",
+   "type": "paid_camp",
+   "town": "Cathlamet, WA",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Evans Creek Campground",
+   "type": "paid_camp",
+   "town": "Carbonado, WA",
+   "town_mi": 11.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Shore Hike-In/Bike-In Campsite",
+   "type": "paid_camp",
+   "town": "Suncrest, WA",
+   "town_mi": 9.0,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascadia Marine Trail - Manchester",
+   "type": "paid_camp",
+   "town": "Manchester, WA",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Klahanie Campground",
+   "type": "paid_camp",
+   "town": "Forks, WA",
+   "town_mi": 4.0,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lakeview Terrace",
+   "type": "rv_park",
+   "town": "Grand Coulee, WA",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Constance Campsites",
+   "type": "unknown",
+   "town": "Brinnon, WA",
+   "town_mi": 11.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "O'Neil Creek",
+   "type": "unknown",
+   "town": "Hoodsport, WA",
+   "town_mi": 21.0,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fire Creek Campground",
+   "type": "unknown",
+   "town": "Neilton, WA",
+   "town_mi": 21.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dick's Lake Camp",
+   "type": "free_camp",
+   "town": "Greenwater, WA",
+   "town_mi": 14.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Three Prune Camp",
+   "type": "unknown",
+   "town": "Amanda Park, WA",
+   "town_mi": 16.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "10-Mile Camp",
+   "type": "unknown",
+   "town": "Brinnon, WA",
+   "town_mi": 13.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Glacier Meadows",
+   "type": "unknown",
+   "town": "Port Angeles, WA",
+   "town_mi": 22.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Royal Lake",
+   "type": "unknown",
+   "town": "Quilcene, WA",
+   "town_mi": 14.0,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dee Dee Lakes",
+   "type": "unknown",
+   "town": "Winthrop, WA",
+   "town_mi": 22.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Anderson Lake Campsites",
+   "type": "free_camp",
+   "town": "Marblemount, WA",
+   "town_mi": 10.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Butte Camp",
+   "type": "unknown",
+   "town": "Cougar, WA",
+   "town_mi": 9.0,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Miners Creek Camping Area",
+   "type": "unknown",
+   "town": "Darrington, WA",
+   "town_mi": 29.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Windy",
+   "type": "unknown",
+   "town": "Quilcene, WA",
+   "town_mi": 6.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buckner Camp",
+   "type": "unknown",
+   "town": "Marblemount, WA",
+   "town_mi": 23.0,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trap Lake Camping Area",
+   "type": "free_camp",
+   "town": "Skykomish, WA",
+   "town_mi": 11.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Watson Lakes Campsites",
+   "type": "free_camp",
+   "town": "Marblemount, WA",
+   "town_mi": 10.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Devil's Dream Camp",
+   "type": "free_camp",
+   "town": "Ashford, WA",
+   "town_mi": 8.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lemah Meadows",
+   "type": "unknown",
+   "town": "Snoqualmie Pass, WA",
+   "town_mi": 9.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Divide Camp",
+   "type": "unknown",
+   "town": "Trout Lake, WA",
+   "town_mi": 17.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hope Lake Camping Area",
+   "type": "free_camp",
+   "town": "Skykomish, WA",
+   "town_mi": 12.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Park Lakes Camping Area",
+   "type": "unknown",
+   "town": "Snoqualmie Pass, WA",
+   "town_mi": 6.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Five Mile Camp",
+   "type": "unknown",
+   "town": "Brinnon, WA",
+   "town_mi": 9.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hoh Lake Campground",
+   "type": "unknown",
+   "town": "Port Angeles, WA",
+   "town_mi": 22.0,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Two Mile Camp",
+   "type": "unknown",
+   "town": "Brinnon, WA",
+   "town_mi": 7.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Grunewald Guild",
+   "type": "arts_culture",
+   "city": "Plain",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Orcas Island Historical Museum",
+   "type": "museum",
+   "city": "Eastsound",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Moran Mansion Museum",
+   "type": "museum",
+   "city": "Eastsound",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Crow Valley School Museum",
+   "type": "museum",
+   "city": "Eastsound",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Great Northern and Cascade Railways",
+   "type": "museum",
+   "city": "Skykomish",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Skykomish Historical Society",
+   "type": "museum",
+   "city": "Skykomish",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Orcas Island Chamber Music Festival",
+   "type": "arts_culture",
+   "city": "Eastsound",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Just Plain Laundry",
+   "type": "laundromat",
+   "city": "Plain",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Country Corner Laundry",
+   "type": "laundromat",
+   "city": "Eastsound",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sit & Spin Laundry",
+   "type": "laundromat",
+   "city": "Skykomish",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "RV Sanitation Station",
+   "type": "dump_station",
+   "city": "South Cle Elum",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cowork Skagit",
+   "type": "coworking",
+   "city": "Mount Vernon",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Washboard Laundry",
+   "type": "laundromat",
+   "city": "Mount Vernon",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Snoqualmie Coin Laundry",
+   "type": "laundromat",
+   "city": "Snoqualmie",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lincoln Center Laundromat",
+   "type": "laundromat",
+   "city": "Yakima",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Plain Cellars",
+   "type": "brewery_distillery",
+   "city": "Plain",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hoodsport Winery",
+   "type": "brewery_distillery",
+   "city": "Hoodsport",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Potlatch Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Hoodsport",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Orcas Distillery Tasting Room",
+   "type": "brewery_distillery",
+   "city": "Eastsound",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Heritage Distilling Co.",
+   "type": "brewery_distillery",
+   "city": "Roslyn",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Taneum Creek Brewing",
+   "type": "brewery_distillery",
+   "city": "Cle Elum",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Farmstrong Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Mount Vernon",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Blackwater Brewing",
+   "type": "brewery_distillery",
+   "city": "North Bend",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cle Elum Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Conconully Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Keechelus Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Quincy Wildlife Recreation Area",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rimrock Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Spectacle Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  }
+ ]
+}

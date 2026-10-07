@@ -83,6 +83,15 @@ const BADGES = {
   listed_business: { label: 'Listed business, not yet confirmed', tone: 'plain', why: 'A private campground or RV park from map data. We have not yet confirmed it is open.' },
 };
 
+// Within each group, stronger badges come first (decided 2026-10-07): most
+// public spots are unconfirmed listed businesses, and a page that opens on
+// those buries the agency and research-checked rows. Unknown badges sort last.
+const BADGE_ORDER = Object.keys(BADGES);
+function badgeRank(b) {
+  const i = BADGE_ORDER.indexOf(b);
+  return i === -1 ? BADGE_ORDER.length : i;
+}
+
 const ACTIVITY_GROUPS = [
   { title: 'Outdoors', types: ['hiking', 'camping', 'hot_springs', 'rock_climbing', 'fishing', 'biking', 'paddling', 'boating', 'swimming', 'wildlife_viewing', 'birding', 'horseback_riding', 'winter_sports', 'scenic_drive', 'off_roading', 'hunting', 'picnicking', 'stargazing', 'caving', 'photography'] },
   { title: 'Culture and history', types: ['historic_site', 'interpretive_program', 'museum', 'arts_culture', 'historic_downtown', 'plaza', 'live_music', 'science_center', 'planetarium', 'library', 'workshop_class'] },
@@ -216,7 +225,9 @@ function statePage(code, data, intro, built) {
   const byGroup = GROUPS.map(g => ({
     ...g,
     spots: spots.filter(s => g.types.includes(s.type))
-      .sort((a, b) => (townLabel(a.town, code) || '~').localeCompare(townLabel(b.town, code) || '~') || a.name.localeCompare(b.name)),
+      .sort((a, b) => badgeRank(a.badge) - badgeRank(b.badge)
+        || (townLabel(a.town, code) || '~').localeCompare(townLabel(b.town, code) || '~')
+        || a.name.localeCompare(b.name)),
   })).filter(g => g.spots.length);
 
   const towns = {};
@@ -304,7 +315,7 @@ ${topTowns.map(([t, n]) => `            <li><span>${esc(t)}</span><span class="c
         <div class="wrap">
           <div class="section-head">
             <h2>Places to stay</h2>
-            <p class="lede">Sorted by nearest town. The badge says where our information comes from. A badge is not permission to stay overnight.</p>
+            <p class="lede">Strongest badge first, then by nearest town. The badge says where our information comes from. A badge is not permission to stay overnight.</p>
           </div>
 ${groupHtml}
           <div class="badge-key">

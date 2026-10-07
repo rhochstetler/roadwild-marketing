@@ -77,7 +77,7 @@ const GROUPS = [
 // Strongest first. Mirrors the badge order in exportPublicSpots.
 const BADGES = {
   nomad: { label: 'Verified by a nomad', tone: 'sage', why: 'A Road Wild member reported on it from the ground.' },
-  agency: { label: 'Agency record', tone: 'sage', why: 'Matched to an official listing on Recreation.gov.' },
+  agency: { label: 'Agency record', tone: 'sage', why: 'From an official listing: Recreation.gov, the Forest Service or the National Park Service.' },
   policy: { label: 'Overnight policy sourced', tone: 'sky', why: 'We have a source for whether overnight stays are allowed.' },
   access_checked: { label: 'Access checked', tone: 'sky', why: 'Someone researched how you get in. Not a confirmation that overnight stays are allowed.' },
   listed_business: { label: 'Listed business, not yet confirmed', tone: 'plain', why: 'A private campground or RV park from map data. We have not yet confirmed it is open.' },

@@ -1,0 +1,1919 @@
+{
+ "state": "ND",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "West Ashtabula Crossing Campground",
+   "type": "paid_camp",
+   "town": "Sibley, ND",
+   "town_mi": 8.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "East Ashtabula Crossing Campground",
+   "type": "paid_camp",
+   "town": "Sibley, ND",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mel Rieman Recreation Area",
+   "type": "paid_camp",
+   "town": "Rogers, ND",
+   "town_mi": 6.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eggerts Landing Campground",
+   "type": "paid_camp",
+   "town": "Sibley, ND",
+   "town_mi": 8.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lewis & Clark RV Park",
+   "type": "rv_park",
+   "town": "Hazen, ND",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Milnor Campground",
+   "type": "paid_camp",
+   "town": "Milnor, ND",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chahinkapa Park Campground",
+   "type": "paid_camp",
+   "town": "Wahpeton, ND",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buffalo Gap Campground",
+   "type": "paid_camp",
+   "town": "Medora, ND",
+   "town_mi": 7.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Burning Coal Vein Campground",
+   "type": "paid_camp",
+   "town": "Amidon, ND",
+   "town_mi": 9.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elkhorn Campground (ND)",
+   "type": "paid_camp",
+   "town": "Sentinel Butte, ND",
+   "town_mi": 22.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Magpie Campground",
+   "type": "paid_camp",
+   "town": "Medora, ND",
+   "town_mi": 27.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wannagan Campground",
+   "type": "paid_camp",
+   "town": "Medora, ND",
+   "town_mi": 10.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hazen Bay Recreation Area Campground",
+   "type": "paid_camp",
+   "town": "Pick City, ND",
+   "town_mi": 7.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hunter City Park Campground",
+   "type": "paid_camp",
+   "town": "Hunter, ND",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Galesburg City Campground",
+   "type": "paid_camp",
+   "town": "Galesburg, ND",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Page City Park Campground",
+   "type": "paid_camp",
+   "town": "Page, ND",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Medora City Campground",
+   "type": "paid_camp",
+   "town": "Medora, ND",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Enderlin RV Park",
+   "type": "rv_park",
+   "town": "Enderlin, ND",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dickey City Park Campground",
+   "type": "paid_camp",
+   "town": "Dickey, ND",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gackle RV Park",
+   "type": "rv_park",
+   "town": "Gackle, ND",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hazelton City Park Campground",
+   "type": "paid_camp",
+   "town": "Hazelton, ND",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Arnegard City Park Campground",
+   "type": "paid_camp",
+   "town": "Arnegard, ND",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rough Rider State Park Campground",
+   "type": "paid_camp",
+   "town": "Medora, ND",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Roughrider Campground",
+   "type": "paid_camp",
+   "town": "Burlington, ND",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "FFA North Country Trail Campsite",
+   "type": "paid_camp",
+   "town": "Colfax, ND",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Coal Creek Campground (ND)",
+   "type": "paid_camp",
+   "town": "Medora, ND",
+   "town_mi": 9.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lakeside Campground (ND)",
+   "type": "paid_camp",
+   "town": "Jamestown, ND",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Washburn RV Park",
+   "type": "rv_park",
+   "town": "Washburn, ND",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dalen Campground",
+   "type": "paid_camp",
+   "town": "Souris, ND",
+   "town_mi": 10.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kidder Rec Area",
+   "type": "paid_camp",
+   "town": "Wahpeton, ND",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sather Lake Recreation Area",
+   "type": "paid_camp",
+   "town": "Alexander, ND",
+   "town_mi": 13.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grassy Butte Community Park",
+   "type": "paid_camp",
+   "town": "Killdeer, ND",
+   "town_mi": 23.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Missouri SP - Main CG",
+   "type": "paid_camp",
+   "town": "Killdeer, ND",
+   "town_mi": 12.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McKenzie Bay Rec Area",
+   "type": "paid_camp",
+   "town": "Halliday, ND",
+   "town_mi": 17.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Indian Hills SRA",
+   "type": "paid_camp",
+   "town": "White Shield, ND",
+   "town_mi": 12.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Douglas Creek - COE",
+   "type": "unknown",
+   "town": "Pick City, ND",
+   "town_mi": 7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Sakakawea SP - Fishing Point",
+   "type": "paid_camp",
+   "town": "Pick City, ND",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brewer Lake Recreation Area",
+   "type": "paid_camp",
+   "town": "Erie, ND",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Yellowstone County Park",
+   "type": "paid_camp",
+   "town": "Kathryn, ND",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "General Sibley City Park",
+   "type": "paid_camp",
+   "town": "Lincoln, ND",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North City Park",
+   "type": "paid_camp",
+   "town": "New Salem, ND",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Back Country Campsite",
+   "type": "paid_camp",
+   "town": "Souris, ND",
+   "town_mi": 7.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Totten Trail",
+   "type": "rv_park",
+   "town": "Coleharbor, ND",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lindenwood City Park Campground",
+   "type": "paid_camp",
+   "town": "Moorhead, MN",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tommy Turtle Park",
+   "type": "rv_park",
+   "town": "Bottineau, ND",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CCC Campground",
+   "type": "paid_camp",
+   "town": "Watford City, ND",
+   "town_mi": 14.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bennett Campground",
+   "type": "paid_camp",
+   "town": "Watford City, ND",
+   "town_mi": 21.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Napoleon City Park and Campground",
+   "type": "paid_camp",
+   "town": "Napoleon, ND",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kulm Camping",
+   "type": "paid_camp",
+   "town": "Kulm, ND",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hazelton Recreation Area",
+   "type": "unknown",
+   "town": "Hazelton, ND",
+   "town_mi": 12.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Shore RV park",
+   "type": "paid_camp",
+   "town": "White Shield, ND",
+   "town_mi": 12.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Patterson Lake Rec Area Campground",
+   "type": "paid_camp",
+   "town": "Dickinson, ND",
+   "town_mi": 3.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hankinson Hills Campground",
+   "type": "paid_camp",
+   "town": "Mantador, ND",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Downstream Campground",
+   "type": "paid_camp",
+   "town": "Pick City, ND",
+   "town_mi": 2.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Forman City Campground",
+   "type": "paid_camp",
+   "town": "Forman, ND",
+   "town_mi": 0.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bismarck KOA Journey",
+   "type": "rv_park",
+   "town": "Bismarck, ND",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jorgen's Hollow Campground",
+   "type": "paid_camp",
+   "town": "Leonard, ND",
+   "town_mi": 9.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pesek Campground",
+   "type": "paid_camp",
+   "town": "Kulm, ND",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rough Rider Center Tourist Park",
+   "type": "paid_camp",
+   "town": "Watford City, ND",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cherry Creek Campground",
+   "type": "paid_camp",
+   "town": "Watford City, ND",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Memorial Park Campground",
+   "type": "paid_camp",
+   "town": "Glen Ullin, ND",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Harmon Lake Campground",
+   "type": "rv_park",
+   "town": "Harmon, ND",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Enchanted RV",
+   "type": "paid_camp",
+   "town": "Regent, ND",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Tiger Bay Campground",
+   "type": "paid_camp",
+   "town": "Warwick, ND",
+   "town_mi": 8.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fam Camp",
+   "type": "rv_park",
+   "town": "Minot AFB, ND",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Juniper Campground Group Site (ND)",
+   "type": "paid_camp",
+   "town": "Watford City, ND",
+   "town_mi": 14.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Skyline Vista Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Elkhorn Ranch Unit",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Coal Vein Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wind Canyon Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Boicourt Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Little Mo Nature Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Buck Hill",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Painted Canyon Nature Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hiking in the North Unit (Theodore Roosevelt NP)",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Village Trail (Knife River Indian Villages)",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Brekken-Holmes Recreation Area",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Devils Lake State Park - Grahams Island State Park",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dickinson Reservoir - Edward Arthur Patterson Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Heart Butte Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Jamestown Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "White Horse Hill National Game Preserve",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arrowwood National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arrowwood Wetland Management District",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Audubon National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Chase Lake National Wildlife Refuge",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Chase Lake Wetland Management District",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Des Lacs National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Devils Lake Wetland Management District",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "J. Clark Salyer National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "J. Clark Salyer Wetland Management District",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Alice National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Ilo National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Zahl National Wildlife Refuge",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Long Lake National Wildlife Refuge",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lostwood National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Slade National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Homme Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tewaukon National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ashtabula Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Upper Souris National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Valley City Wetland Management District",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Schnell Ranch Recreation Area",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dakota Prairie National Grasslands",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bowman Haley Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sakakawea Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pipestem Lake",
+   "type": "boating",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kulm Wetland Management District",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Florence Lake National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tewaukon Wetland Management District",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Long Lake Wetland Management District",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lonetree Wildlife Management Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Petrified Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birding in Theodore Roosevelt National Park",
+   "type": "birding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wildlife Viewing - South Unit",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wildlife Viewing - North Unit",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Theodore Roosevelt's Maltese Cross Cabin",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bike the South Unit Scenic Drive",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bike the North Unit Scenic Drive",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore the Cannonball Concretions",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walk the Village Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fargo Flood Control Project",
+   "type": "historic_site",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cannon",
+   "type": "historic_site",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northport Library",
+   "type": "library",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rollo the Viking Statue",
+   "type": "historic_site",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brenan's Cleaners",
+   "type": "laundromat",
+   "city": "Prairie Rose",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Robalo SS-273",
+   "type": "historic_site",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "164th Infantry",
+   "type": "historic_site",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roger Maris Museum",
+   "type": "museum",
+   "city": "West Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bison Statue",
+   "type": "historic_site",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veteran's Memorial Bridge",
+   "type": "historic_site",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Star Memorial",
+   "type": "historic_site",
+   "city": "Prairie Rose",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sodbuster",
+   "type": "arts_culture",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red River Market",
+   "type": "farmers_market",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Angel of Hope",
+   "type": "arts_culture",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Fargo Public Library",
+   "type": "library",
+   "city": "West Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tumble Fresh Coin Laundry",
+   "type": "laundromat",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Library",
+   "type": "library",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reineke Fine Arts Center",
+   "type": "arts_culture",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Busy Bubbles",
+   "type": "laundromat",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fargo Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scheels Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roberts Street Chapel",
+   "type": "arts_culture",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plains Art Museum",
+   "type": "museum",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Katherine Kilbourne Burgum Center For Creativity",
+   "type": "museum",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fine Arts Club of Fargo",
+   "type": "arts_culture",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr. James Carlson Library",
+   "type": "library",
+   "city": "Prairie Rose",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bluestem Amphitheater",
+   "type": "arts_culture",
+   "city": "Prairie Rose",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fargo Public Library",
+   "type": "library",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bonanzaville USA",
+   "type": "museum",
+   "city": "West Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brewhalla",
+   "type": "farmers_market",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fargo Air Museum",
+   "type": "museum",
+   "city": "Fargo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leonard Hall Geology Museum",
+   "type": "museum",
+   "city": "Grand Forks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Empire Theatre",
+   "type": "arts_culture",
+   "city": "Grand Forks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flood Memorial",
+   "type": "historic_site",
+   "city": "Grand Forks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rhombus Guys Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Grand Forks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Half Brothers Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Grand Forks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sitting Bull",
+   "type": "arts_culture",
+   "city": "Grand Forks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UND Center for Innovation",
+   "type": "coworking",
+   "city": "Grand Forks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AFL CIO Commemorative Plaque",
+   "type": "historic_site",
+   "city": "Grand Forks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Town Square Farmers Market",
+   "type": "farmers_market",
+   "city": "Grand Forks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hughes Fine Arts Center",
+   "type": "arts_culture",
+   "city": "Grand Forks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ND Art Museum",
+   "type": "museum",
+   "city": "Grand Forks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chester Fritz Library",
+   "type": "library",
+   "city": "Grand Forks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chester Fritz Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Grand Forks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Forks Public Library",
+   "type": "library",
+   "city": "Grand Forks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Firehall Theater",
+   "type": "arts_culture",
+   "city": "Grand Forks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Forks County Historical Society",
+   "type": "museum",
+   "city": "Grand Forks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morton Mandan Public Library",
+   "type": "library",
+   "city": "Mandan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pioneer Family",
+   "type": "historic_site",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "All Veterans Memorial",
+   "type": "historic_site",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Merci Train",
+   "type": "historic_site",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Dakota Heritage Center & State Museum",
+   "type": "museum",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laughing Sun Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Archeology & Historic Preservation",
+   "type": "museum",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Myron Atkinson and T. Clem Casey Fine Arts Center",
+   "type": "arts_culture",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Dog Distillery",
+   "type": "brewery_distillery",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bismarket",
+   "type": "farmers_market",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Dakota State Library",
+   "type": "library",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bismarck Art & Galleries Association",
+   "type": "arts_culture",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dialectic Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Mandan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "On-A-Slant Indian Village",
+   "type": "historic_site",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sidney J Lee Auditorium",
+   "type": "arts_culture",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tom and Frances Leach Music Center",
+   "type": "arts_culture",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bismarck Veterans Memorial Public Library",
+   "type": "library",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laughing Sun Brewery",
+   "type": "brewery_distillery",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buckstop Junction",
+   "type": "museum",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Former Governors' Mansion State Historic Site",
+   "type": "museum",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Dakota State Railroad Museum",
+   "type": "museum",
+   "city": "Mandan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mandan Historical Society Museum",
+   "type": "museum",
+   "city": "Mandan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bismarck Brewing",
+   "type": "brewery_distillery",
+   "city": "Bismarck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Minot",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ward County Public Library",
+   "type": "library",
+   "city": "Minot",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gordon B. Olson Library",
+   "type": "library",
+   "city": "Minot",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Minot Public Library",
+   "type": "library",
+   "city": "Minot",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plaza Scandinavia",
+   "type": "arts_culture",
+   "city": "Minot",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Railroad Museum of Minot",
+   "type": "museum",
+   "city": "Minot",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atypical Brewery",
+   "type": "brewery_distillery",
+   "city": "Minot",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oak Park Ampitheater",
+   "type": "arts_culture",
+   "city": "Minot",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dakota Territory Air Museum",
+   "type": "museum",
+   "city": "Minot",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sloulin Field International Airport (historic)",
+   "type": "historic_site",
+   "city": "Williston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Williston Community Library",
+   "type": "library",
+   "city": "Williston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fluffy Fields Vineyard and Winery",
+   "type": "brewery_distillery",
+   "city": "Dickinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Utahraptor",
+   "type": "arts_culture",
+   "city": "Dickinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dickinson Area Public Library",
+   "type": "library",
+   "city": "Dickinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phat Fish Brewing",
+   "type": "brewery_distillery",
+   "city": "Dickinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stoxen Library",
+   "type": "library",
+   "city": "Dickinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ukrainian Cultural Institute",
+   "type": "museum",
+   "city": "Dickinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phil Patterson Memorial Bandshell",
+   "type": "arts_culture",
+   "city": "Dickinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joachim Regional Museum",
+   "type": "museum",
+   "city": "Dickinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leach Public Library",
+   "type": "library",
+   "city": "Wahpeton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mildred Johnson Library",
+   "type": "library",
+   "city": "Wahpeton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sheriff's House Museum",
+   "type": "museum",
+   "city": "Devils Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lake Region Public Library",
+   "type": "library",
+   "city": "Devils Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lake Region Heritage Center",
+   "type": "museum",
+   "city": "Devils Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carnegie Regional Library",
+   "type": "library",
+   "city": "Grafton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beulah Public Library",
+   "type": "library",
+   "city": "Beulah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pfennig Wildlife Museum",
+   "type": "museum",
+   "city": "Beulah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Town City Library",
+   "type": "library",
+   "city": "New Town",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northern Lights Tower",
+   "type": "historic_site",
+   "city": "Rugby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prairie Village Museum",
+   "type": "museum",
+   "city": "Rugby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heart of America Library",
+   "type": "library",
+   "city": "Rugby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tommy Turtle",
+   "type": "arts_culture",
+   "city": "Bottineau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Pierre Bottineau",
+   "type": "arts_culture",
+   "city": "Bottineau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunflower Mural",
+   "type": "arts_culture",
+   "city": "Bottineau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Holwell Auditorium",
+   "type": "arts_culture",
+   "city": "Bottineau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bottineau County Public Library",
+   "type": "library",
+   "city": "Bottineau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Established 1883",
+   "type": "historic_site",
+   "city": "Valley City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valley City Barnes County Public Library",
+   "type": "library",
+   "city": "Valley City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barnes County Historical Society Museum",
+   "type": "museum",
+   "city": "Valley City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brockopp Brewing",
+   "type": "brewery_distillery",
+   "city": "Valley City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bandshell",
+   "type": "arts_culture",
+   "city": "Valley City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World's Largest Buffalo",
+   "type": "historic_site",
+   "city": "Jamestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stutsman County Library",
+   "type": "library",
+   "city": "Jamestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Raugust Library",
+   "type": "library",
+   "city": "Jamestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North American Bison Discovery Center",
+   "type": "science_center",
+   "city": "Jamestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stutsman County Memorial Museum - Lutz Mansion",
+   "type": "museum",
+   "city": "Jamestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alfred Dickey Library",
+   "type": "library",
+   "city": "Jamestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Arts Center",
+   "type": "arts_culture",
+   "city": "Jamestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McKenzie County Public Library",
+   "type": "library",
+   "city": "Watford City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial",
+   "type": "historic_site",
+   "city": "Medora",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Medora Slaughterhouse",
+   "type": "historic_site",
+   "city": "Medora",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harold Schafer Heritage Center",
+   "type": "museum",
+   "city": "Medora",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Dakota Cowboy Hall of Fame",
+   "type": "museum",
+   "city": "Medora",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Von Hoffman House",
+   "type": "museum",
+   "city": "Medora",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Town Hall Theater",
+   "type": "arts_culture",
+   "city": "Medora",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Town Square Showhall",
+   "type": "arts_culture",
+   "city": "Medora",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Billings County Resource Center",
+   "type": "library",
+   "city": "Medora",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theodore Roosevelt National Park Visitor's Center",
+   "type": "museum",
+   "city": "Medora",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Billings County Courthouse Museum",
+   "type": "museum",
+   "city": "Medora",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burning Hills Amphitheatre",
+   "type": "arts_culture",
+   "city": "Medora",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theodore Roosevelt Presidential Library",
+   "type": "museum",
+   "city": "Medora",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kulm Laundromat",
+   "type": "laundromat",
+   "city": "Kulm",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gackle Library",
+   "type": "library",
+   "city": "Gackle",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

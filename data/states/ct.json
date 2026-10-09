@@ -1,0 +1,8702 @@
+{
+ "state": "CT",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Hide-Away-Cove Family Campground",
+   "type": "rv_park",
+   "town": "Dayville, CT",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Aces High RV Park",
+   "type": "rv_park",
+   "town": "Oxoboxo River, CT",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HOP BROOK LAKE RECREATION AREA",
+   "type": "paid_camp",
+   "town": "Naugatuck, CT",
+   "town_mi": 1.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Thompson Lake Campground",
+   "type": "paid_camp",
+   "town": "Mechanicsville, CT",
+   "town_mi": 0.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "NORTHFIELD BROOK LAKE GROUP SHELTERS",
+   "type": "paid_camp",
+   "town": "Thomaston, CT",
+   "town_mi": 0.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Salem Farms Campground",
+   "type": "rv_park",
+   "town": "Colchester, CT",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Witch Meadow Lake Campground",
+   "type": "paid_camp",
+   "town": "Colchester, CT",
+   "town_mi": 5.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Amos Lake Campground",
+   "type": "rv_park",
+   "town": "Mashantucket, CT",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lone Oak Campsites",
+   "type": "paid_camp",
+   "town": "Norfolk, CT",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Niantic KOA Journey",
+   "type": "rv_park",
+   "town": "Niantic, CT",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Stewart B. McKinney National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Black Rock Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Colebrook River Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hancock Brook Lake",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hop Brook Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mansfield Hollow Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Northfield Brook Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Thomaston Dam",
+   "type": "off_roading",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "West Thompson Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hunt Hill Farm",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Coltsville Self-Guided Tours",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "The Story of the Colts: Symbolism at the Church of the Good Shepherd and the Parish House",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Strike a Pose at the Armory",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Orange Center Historic District",
+   "type": "historic_downtown",
+   "city": "Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pines Bridge Historic District",
+   "type": "historic_downtown",
+   "city": "North Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amistad Memorial",
+   "type": "historic_site",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Branford Center Historic District",
+   "type": "historic_downtown",
+   "city": "Branford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Branford Point Historic District",
+   "type": "historic_downtown",
+   "city": "Branford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Haven Free Public Library Stetson Branch",
+   "type": "library",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Piantino Library",
+   "type": "library",
+   "city": "Allingtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Institute Library",
+   "type": "library",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Haven Public Library",
+   "type": "library",
+   "city": "West Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Esther Swinkin Memorial Library",
+   "type": "library",
+   "city": "Hamden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harvey Cushing/John Hay Whitney Medical Library",
+   "type": "library",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Theatre",
+   "type": "arts_culture",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Long Wharf Theatre",
+   "type": "arts_culture",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connecticut Trolley Museum",
+   "type": "museum",
+   "city": "East Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Haven Public Library",
+   "type": "library",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Mill Foundation",
+   "type": "historic_site",
+   "city": "Woodbridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ora M. Mason Library",
+   "type": "library",
+   "city": "West Shore",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam Veterans Memorial",
+   "type": "historic_site",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eli Whitney Plaque",
+   "type": "historic_site",
+   "city": "Whitneyville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "State House",
+   "type": "live_music",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wash Tub",
+   "type": "laundromat",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John B Pierce",
+   "type": "arts_culture",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yale Repertory Theater",
+   "type": "arts_culture",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "An American Dream",
+   "type": "arts_culture",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iseman Theater",
+   "type": "arts_culture",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II Veteran's Memorial",
+   "type": "historic_site",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bubble And Squeak",
+   "type": "laundromat",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joseph W. Lenzi",
+   "type": "historic_site",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bubble & Squeak",
+   "type": "laundromat",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bishop Clinton and Pastor Julia Mccarter Corner",
+   "type": "historic_site",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Defenders’ Monument",
+   "type": "arts_culture",
+   "city": "Allingtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War I Cenotaph",
+   "type": "historic_site",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yale Cabaret",
+   "type": "arts_culture",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "College Street Music Hall",
+   "type": "arts_culture",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Qwik Wash",
+   "type": "laundromat",
+   "city": "Branford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bishop Tutu Corner",
+   "type": "historic_site",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gag Jr's Corner",
+   "type": "historic_site",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reverend George W Hampton Corner",
+   "type": "historic_site",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bishop William M Philpot Sr Corner",
+   "type": "historic_site",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Vine Sign",
+   "type": "historic_site",
+   "city": "East Derby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Hill Museum of Arts",
+   "type": "museum",
+   "city": "Allingtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spanish-American War Memorial",
+   "type": "historic_site",
+   "city": "Allingtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Beeracks",
+   "type": "brewery_distillery",
+   "city": "East Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Rock Brewing Company & Beer Hall",
+   "type": "brewery_distillery",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Milford Point Brewing",
+   "type": "brewery_distillery",
+   "city": "West Shore",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edgar Laing Heermance",
+   "type": "historic_site",
+   "city": "Hamden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Honor Hill Monument",
+   "type": "historic_site",
+   "city": "Hamden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bear’s Smokehouse",
+   "type": "brewery_distillery",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hamden Veterans' Memorial",
+   "type": "historic_site",
+   "city": "Hamden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Super Saver Laundromat",
+   "type": "laundromat",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beacon of Hope",
+   "type": "arts_culture",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jet Cleaners",
+   "type": "laundromat",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ellen Aftenow Volunteer Library",
+   "type": "library",
+   "city": "West Shore",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dee’s",
+   "type": "laundromat",
+   "city": "Hamden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Express",
+   "type": "laundromat",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jonathan Dickerman House",
+   "type": "museum",
+   "city": "Hamden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Blackstone Memorial Library",
+   "type": "library",
+   "city": "Branford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "End of the Line/West Rock",
+   "type": "arts_culture",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Light Gallery & Framing",
+   "type": "arts_culture",
+   "city": "Branford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Witek Memorial",
+   "type": "historic_site",
+   "city": "East Derby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bishop James Varick Corner",
+   "type": "historic_site",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joe Grate Corner",
+   "type": "historic_site",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bishop Robert J Gay Sr Corner",
+   "type": "historic_site",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "District CoWork",
+   "type": "coworking",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wounded combat veterans’ monument",
+   "type": "historic_site",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Hale Point",
+   "type": "historic_site",
+   "city": "Morris Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "29th Colored Regiment Monument",
+   "type": "historic_site",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henry Gould Lewis",
+   "type": "arts_culture",
+   "city": "Whitneyville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Armada Brewing",
+   "type": "brewery_distillery",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center for Collaborative Arts and Media",
+   "type": "arts_culture",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cenotaph",
+   "type": "historic_site",
+   "city": "Branford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Branford",
+   "type": "historic_site",
+   "city": "Branford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II",
+   "type": "historic_site",
+   "city": "Branford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Haven Fire Department Memorial",
+   "type": "historic_site",
+   "city": "East Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "East Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II Memorial",
+   "type": "historic_site",
+   "city": "East Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theodore Roosevelt Oak",
+   "type": "historic_site",
+   "city": "East Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marquis de LaFayette Encampment",
+   "type": "historic_site",
+   "city": "East Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Short Beach Historic District",
+   "type": "historic_downtown",
+   "city": "Momauguin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas E Holmes Corner",
+   "type": "historic_downtown",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Quad",
+   "type": "historic_site",
+   "city": "Hamden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Turtle Statue",
+   "type": "arts_culture",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Super Wash Laundry",
+   "type": "laundromat",
+   "city": "East Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lyman Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hilton C Buley Library",
+   "type": "library",
+   "city": "Whitneyville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beinecke Rare Book and Manuscript Library",
+   "type": "library",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Donald Mitchell Library",
+   "type": "library",
+   "city": "Allingtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yale Center for British Art",
+   "type": "arts_culture",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Haven Free Public Library",
+   "type": "library",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shubert Performing Arts Center",
+   "type": "arts_culture",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Haven Colonial Historical Society Building",
+   "type": "museum",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connecticut Childrens Museum",
+   "type": "museum",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leitner Family Observatory and Planetarium",
+   "type": "planetarium",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Osborne Library",
+   "type": "library",
+   "city": "Whitneyville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rosary Hall Library",
+   "type": "library",
+   "city": "Whitneyville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yale Collection of Musical Instruments",
+   "type": "museum",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Shore Line Trolley Museum",
+   "type": "museum",
+   "city": "East Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eli Whitney Museum",
+   "type": "museum",
+   "city": "Whitneyville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam Veterans Memorial",
+   "type": "historic_site",
+   "city": "Savin Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Human Relations Area Files at Yale University",
+   "type": "library",
+   "city": "Whitneyville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Case Memorial Library",
+   "type": "library",
+   "city": "Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Haven Memorial Library",
+   "type": "library",
+   "city": "North Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marvin K. Peterson Library",
+   "type": "library",
+   "city": "Allingtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New England Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Woodbridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flea Market",
+   "type": "farmers_market",
+   "city": "Allingtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Haven Free Public Library Wilson Branch",
+   "type": "library",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Off Broadway Theater",
+   "type": "arts_culture",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arnold Bernhard Library",
+   "type": "library",
+   "city": "Hamden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hagaman Memorial Library",
+   "type": "library",
+   "city": "East Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "No Worries Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Whitneyville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farming Museum",
+   "type": "museum",
+   "city": "North Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harrison House Museum",
+   "type": "museum",
+   "city": "Branford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stony Creek Brewery",
+   "type": "brewery_distillery",
+   "city": "Branford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodbridge Town Library",
+   "type": "library",
+   "city": "Woodbridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stewards of the Land Brewery",
+   "type": "brewery_distillery",
+   "city": "Montowese",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whitneyville Branch Library",
+   "type": "library",
+   "city": "Whitneyville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brundage Community Branch Library",
+   "type": "library",
+   "city": "Whitneyville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hindinger Farm Store",
+   "type": "farmers_market",
+   "city": "Hamden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orange Street Historic District",
+   "type": "historic_downtown",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Street Historic District",
+   "type": "historic_downtown",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City Point Historic District",
+   "type": "historic_downtown",
+   "city": "West Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morris Cove Historic District",
+   "type": "historic_downtown",
+   "city": "Morris Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oyster Point Historic District",
+   "type": "historic_downtown",
+   "city": "West Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trowbridge Square Historic District",
+   "type": "historic_downtown",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chapel Street Historic District",
+   "type": "historic_downtown",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dwight Street Historic District",
+   "type": "historic_downtown",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edgewood Park Historic District",
+   "type": "historic_downtown",
+   "city": "Allingtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairlawn-Nettleton Historic District",
+   "type": "historic_downtown",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Suburban Westville Historic District",
+   "type": "historic_downtown",
+   "city": "Allingtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westville Village Historic District",
+   "type": "historic_downtown",
+   "city": "Allingtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wooster Square Historic District",
+   "type": "historic_downtown",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ninth Square Historic District",
+   "type": "historic_downtown",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beaver Hills Historic District",
+   "type": "historic_downtown",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Winchester Repeating Arms Historic District",
+   "type": "historic_downtown",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whitney Avenue Historic District",
+   "type": "historic_downtown",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hillhouse Avenue Historic District",
+   "type": "historic_downtown",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elm Street Historic District",
+   "type": "historic_downtown",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prospect Hill Historic District",
+   "type": "historic_downtown",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Redfield and West Streets Historic District",
+   "type": "historic_downtown",
+   "city": "Allingtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers' and Sailors' Monument",
+   "type": "historic_site",
+   "city": "Whitneyville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ward Heitmann House Museum",
+   "type": "museum",
+   "city": "West Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Caius Farm Brewery",
+   "type": "brewery_distillery",
+   "city": "Pine Orchard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barnum–Palliser Historic District",
+   "type": "historic_downtown",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bridgeport Downtown North Historic District",
+   "type": "historic_downtown",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bridgeport Downtown South Historic District",
+   "type": "historic_downtown",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Bridgeport Historic District",
+   "type": "historic_downtown",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Main Street Historic District",
+   "type": "historic_downtown",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gateway Village Historic District",
+   "type": "historic_downtown",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Golden Hill Historic District",
+   "type": "historic_downtown",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lakeview Village Historic District",
+   "type": "historic_downtown",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Remington City Historic District",
+   "type": "historic_downtown",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Remington Village Historic District",
+   "type": "historic_downtown",
+   "city": "Stratford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seaside Village Historic District",
+   "type": "historic_downtown",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stratford Center Historic District",
+   "type": "historic_downtown",
+   "city": "Stratford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Taylor Memorial Library",
+   "type": "library",
+   "city": "Milford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Osborne Homestead Museum",
+   "type": "museum",
+   "city": "Derby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Housatonic Museum of Art",
+   "type": "museum",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boothe Memorial Museum",
+   "type": "museum",
+   "city": "Oronoque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Milford Public Library",
+   "type": "library",
+   "city": "Milford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty Rock",
+   "type": "historic_site",
+   "city": "Devon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Simon Lake's Explorer Submarine",
+   "type": "historic_site",
+   "city": "Milford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ideal Laundromat",
+   "type": "laundromat",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Simon Lake salvage sub wreck",
+   "type": "historic_site",
+   "city": "Fort Trumbull",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bijou Theatre",
+   "type": "arts_culture",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Mill Green Library",
+   "type": "library",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Mill Green",
+   "type": "historic_site",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Oak",
+   "type": "historic_site",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ye Olde King's Highway",
+   "type": "historic_site",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washing Wishes",
+   "type": "laundromat",
+   "city": "Stratford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rub A Dub Dub Laundromat",
+   "type": "laundromat",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundercenter Cleaning",
+   "type": "laundromat",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash Works",
+   "type": "laundromat",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Two-Fold Laundry",
+   "type": "laundromat",
+   "city": "Stratford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spotless Laundromat",
+   "type": "laundromat",
+   "city": "Stratford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Annie's Wash & Dry",
+   "type": "laundromat",
+   "city": "Milford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash Time Laundry",
+   "type": "laundromat",
+   "city": "Pine Rock Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II",
+   "type": "historic_site",
+   "city": "Milford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miniature Windmill",
+   "type": "arts_culture",
+   "city": "Oronoque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miniature Lighthouse",
+   "type": "arts_culture",
+   "city": "Oronoque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sock Hop Coin Laundry",
+   "type": "laundromat",
+   "city": "Devon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert G. Beach Memorial Park World War II Memorial",
+   "type": "historic_site",
+   "city": "Trumbull",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heron",
+   "type": "arts_culture",
+   "city": "Trumbull",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam Veterans Memorial",
+   "type": "historic_site",
+   "city": "Trumbull",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BAD SONS Beer Company",
+   "type": "brewery_distillery",
+   "city": "Derby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brewport",
+   "type": "brewery_distillery",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gilded Lily",
+   "type": "arts_culture",
+   "city": "Milford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center Stage Theater",
+   "type": "arts_culture",
+   "city": "East Derby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Adventure Amphitheater",
+   "type": "arts_culture",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mother Mary",
+   "type": "arts_culture",
+   "city": "Nichols",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shelton Farmer's Market",
+   "type": "farmers_market",
+   "city": "Shelton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Huntington Branch Library",
+   "type": "library",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barnum Museum",
+   "type": "museum",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bridgeport Public Library",
+   "type": "library",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Cabaret Theatre",
+   "type": "arts_culture",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry World",
+   "type": "laundromat",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Magnus Wahlstrom Library",
+   "type": "library",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plumb Memorial Library",
+   "type": "library",
+   "city": "Shelton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Helicopter Museum Inc",
+   "type": "museum",
+   "city": "Stratford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Submersible Wreck",
+   "type": "historic_site",
+   "city": "Fort Trumbull",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stratford Library",
+   "type": "library",
+   "city": "Stratford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Catharine B Mitchell Museum",
+   "type": "museum",
+   "city": "Stratford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Americana Museum",
+   "type": "museum",
+   "city": "Oronoque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Model Railroad Museum",
+   "type": "museum",
+   "city": "Oronoque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Two Roads Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Stratford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tribus Beer Company",
+   "type": "brewery_distillery",
+   "city": "Oronoque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Two Roads Area Two Tasting Room & Experimental Brewing",
+   "type": "brewery_distillery",
+   "city": "Stratford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washing Machine of Ansonia",
+   "type": "laundromat",
+   "city": "Derby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trumbull Historical Society",
+   "type": "museum",
+   "city": "Nichols",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Derby Public Library",
+   "type": "library",
+   "city": "Derby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Derby Neck Library",
+   "type": "library",
+   "city": "Derby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eells-Stow House",
+   "type": "museum",
+   "city": "Milford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connecticut Air & Space Center",
+   "type": "museum",
+   "city": "Lordship",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bridgeport Public Library Beardsley Branch",
+   "type": "library",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Poquetanuck",
+   "type": "historic_downtown",
+   "city": "Poquetanuck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washington Square",
+   "type": "historic_downtown",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baltic Historic District",
+   "type": "historic_downtown",
+   "city": "Baltic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bean Hill",
+   "type": "historic_downtown",
+   "city": "Bean Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chelsea Parade Historic District",
+   "type": "historic_downtown",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Norwich Historic District",
+   "type": "historic_downtown",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laurel Hill Historic District",
+   "type": "historic_downtown",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norwichtown Historic District",
+   "type": "historic_downtown",
+   "city": "Bean Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Preston City Historic District",
+   "type": "historic_downtown",
+   "city": "Preston City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yantic Falls Historic District",
+   "type": "historic_downtown",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Slope Country Museum",
+   "type": "museum",
+   "city": "Fitchville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John F. Slater Memorial Museum",
+   "type": "museum",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Cabaret Theatre",
+   "type": "arts_culture",
+   "city": "Mohegan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Gales Ferry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rotary Club Memorial to Peace",
+   "type": "historic_site",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norwich Historical Society",
+   "type": "museum",
+   "city": "Bean Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Laundromat",
+   "type": "laundromat",
+   "city": "Montville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fast-Mat Laundromat",
+   "type": "laundromat",
+   "city": "Baltic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Foundry 66",
+   "type": "coworking",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "These Guys Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Franklin Street Laundromat",
+   "type": "laundromat",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dellfield Laundry",
+   "type": "laundromat",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tom's Laundromat",
+   "type": "laundromat",
+   "city": "Taftville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dellfield Laundry",
+   "type": "laundromat",
+   "city": "Jewett City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brewett City Pub",
+   "type": "brewery_distillery",
+   "city": "Jewett City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greeneville Historic District",
+   "type": "historic_downtown",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jail Hill Historic District",
+   "type": "historic_downtown",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norwich State Hospital",
+   "type": "historic_site",
+   "city": "Laurel Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Plain Historic District",
+   "type": "historic_downtown",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bean Hill Historic District",
+   "type": "historic_downtown",
+   "city": "Bean Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Thermos Bottle Company Laurel Hill Plant",
+   "type": "historic_downtown",
+   "city": "Laurel Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hallville Mill Historic District",
+   "type": "historic_downtown",
+   "city": "Poquetanuck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gales Ferry Historic District No. 2",
+   "type": "historic_downtown",
+   "city": "Gales Ferry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gales Ferry Historic District No. 1",
+   "type": "historic_downtown",
+   "city": "Gales Ferry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mashantucket Pequot Reservation Archeological District",
+   "type": "historic_site",
+   "city": "Mashantucket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry For Less",
+   "type": "laundromat",
+   "city": "Laurel Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallery at the Wauregan",
+   "type": "arts_culture",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Midden",
+   "type": "historic_site",
+   "city": "Bozrah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Epicure Brewing",
+   "type": "brewery_distillery",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Franklin Square",
+   "type": "historic_downtown",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grant's Berry Patch",
+   "type": "farmers_market",
+   "city": "Lisbon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Perfect Wash Laundromat",
+   "type": "laundromat",
+   "city": "Bean Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Youngs Ledyard Morgan",
+   "type": "historic_site",
+   "city": "Ledyard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Muffler Man",
+   "type": "arts_culture",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maegog Market",
+   "type": "farmers_market",
+   "city": "Oakdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burnham Square",
+   "type": "historic_downtown",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Three Rivers Campus Library",
+   "type": "library",
+   "city": "Laurel Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Blue",
+   "type": "arts_culture",
+   "city": "Mohegan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baker Animation Art Galleries & Collectibles",
+   "type": "arts_culture",
+   "city": "Mashantucket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Premier Theatre",
+   "type": "arts_culture",
+   "city": "Mashantucket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Promised Day",
+   "type": "arts_culture",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nevertheless",
+   "type": "arts_culture",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wauregan Laundromat",
+   "type": "laundromat",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ArtSpace Norwich",
+   "type": "arts_culture",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sparky",
+   "type": "arts_culture",
+   "city": "Montville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mashantucket Pequot Museum & Research Center",
+   "type": "museum",
+   "city": "Mashantucket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nathan Lester House",
+   "type": "museum",
+   "city": "Gales Ferry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norwich Arts Center",
+   "type": "arts_culture",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Otis Library",
+   "type": "library",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tantaquidgeon Museum",
+   "type": "museum",
+   "city": "Mohegan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mohegan Cultural Preservation Center",
+   "type": "museum",
+   "city": "Mohegan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Art House of Norwich",
+   "type": "arts_culture",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joseph Carpenter Silversmith Shop",
+   "type": "museum",
+   "city": "Bean Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Taftville Laundromat",
+   "type": "laundromat",
+   "city": "Taftville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chestnut Street Playhouse",
+   "type": "arts_culture",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miantonomo",
+   "type": "historic_site",
+   "city": "Taftville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Slater Library",
+   "type": "library",
+   "city": "Jewett City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Laundromat and Dry Cleaners",
+   "type": "laundromat",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Bishop House",
+   "type": "museum",
+   "city": "Lisbon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sprague Public Library",
+   "type": "library",
+   "city": "Baltic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Perkins-Rockwell House",
+   "type": "museum",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leffingwell House Museum",
+   "type": "museum",
+   "city": "Bean Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allen Latham, Sr. Science and Information Center",
+   "type": "library",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Converse Art Gallery",
+   "type": "arts_culture",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Raymond Library",
+   "type": "library",
+   "city": "Oakdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union Square",
+   "type": "historic_downtown",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Preston Public Library",
+   "type": "library",
+   "city": "Poquetanuck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Holmberg Orchards",
+   "type": "farmers_market",
+   "city": "Poquetanuck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gales Ferry Library",
+   "type": "library",
+   "city": "Gales Ferry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bill Library",
+   "type": "library",
+   "city": "Ledyard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mill Brook Bridge",
+   "type": "historic_site",
+   "city": "Taftville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civic Institutions Historic District",
+   "type": "historic_downtown",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coit Street Historic District",
+   "type": "historic_downtown",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown New London Historic District",
+   "type": "historic_downtown",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Groton Bank Historic District",
+   "type": "historic_downtown",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers Monument",
+   "type": "historic_site",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hempstead Historic District",
+   "type": "historic_downtown",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montauk Avenue Historic District",
+   "type": "historic_downtown",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mystic Bridge Historic District",
+   "type": "historic_downtown",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mystic River Historic District",
+   "type": "historic_downtown",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nathan Hale Statue",
+   "type": "arts_culture",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prospect Street Historic District",
+   "type": "historic_downtown",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers-Sailors Monument",
+   "type": "historic_site",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Williams Memorial Park Historic District",
+   "type": "historic_downtown",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mystic Art Gallery",
+   "type": "arts_culture",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SUBASE Library",
+   "type": "library",
+   "city": "Quaker Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liebling-Wood Library",
+   "type": "library",
+   "city": "Waterford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gov. John Winthrop Jr. Homestead",
+   "type": "historic_site",
+   "city": "Poquonock Bridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mystic Seaport Museum First Building",
+   "type": "historic_site",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New London County Historical Society",
+   "type": "museum",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbo Statue",
+   "type": "historic_site",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U.S. Coast Guard Museum",
+   "type": "museum",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Noble Jay Brewing",
+   "type": "brewery_distillery",
+   "city": "Giants Neck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Outer Light Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Long Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Theater",
+   "type": "arts_culture",
+   "city": "Old Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "4-D Theater",
+   "type": "arts_culture",
+   "city": "Old Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Foxwoods Marine Theater",
+   "type": "arts_culture",
+   "city": "Old Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Octopus Brewing Company",
+   "type": "brewery_distillery",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beer’d Brewing Co. - The Silo",
+   "type": "brewery_distillery",
+   "city": "Groton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "United States Maritime Service Officers School",
+   "type": "historic_site",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bride Brook Historical Plaque",
+   "type": "historic_site",
+   "city": "Giants Neck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "United States Housing Corporation Historic District",
+   "type": "historic_downtown",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Guns",
+   "type": "historic_site",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Expressiones",
+   "type": "arts_culture",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hygienic Art",
+   "type": "arts_culture",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marquee Gallery",
+   "type": "arts_culture",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burnett's Corner Historic District",
+   "type": "historic_downtown",
+   "city": "Old Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mystic Civil War Memorial",
+   "type": "historic_site",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hodges Square Historic District",
+   "type": "historic_downtown",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hartford Colony Historic District",
+   "type": "historic_downtown",
+   "city": "Jordan Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Graniteville Historic District",
+   "type": "historic_downtown",
+   "city": "Jordan Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Kelley Statue",
+   "type": "arts_culture",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jordan Village Historic District",
+   "type": "historic_downtown",
+   "city": "Jordan Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rossie Velvet Mill Historic District",
+   "type": "historic_downtown",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quaker Hill Historic District",
+   "type": "historic_downtown",
+   "city": "Quaker Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Post Hill Historic District",
+   "type": "historic_downtown",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oswegatchie Historic District",
+   "type": "historic_downtown",
+   "city": "Oswegatchie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Noank Historic District",
+   "type": "historic_downtown",
+   "city": "Poquonock Bridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New England Hebrew Farmers of the Emanuel Society Synagogue and Creamery Site",
+   "type": "historic_site",
+   "city": "Chesterfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mystic Blue",
+   "type": "arts_culture",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Master Shipbuilders",
+   "type": "historic_site",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whale Ship Charles W. Morgan",
+   "type": "historic_site",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U.S. Coast Guard Academy Library",
+   "type": "library",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edith Oliver Theater",
+   "type": "arts_culture",
+   "city": "Waterford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Gate Farm",
+   "type": "farmers_market",
+   "city": "Flanders",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Penguin",
+   "type": "arts_culture",
+   "city": "Old Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Super Saver Laundromat",
+   "type": "laundromat",
+   "city": "Long Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Perfect Wash Laundromat",
+   "type": "laundromat",
+   "city": "Groton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Avery Memorial Monument",
+   "type": "historic_site",
+   "city": "Long Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mjolnir",
+   "type": "arts_culture",
+   "city": "Old Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Giant Gnome",
+   "type": "arts_culture",
+   "city": "Old Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Street Laundromat",
+   "type": "laundromat",
+   "city": "East Lyme",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Lyme Veterans Memorial",
+   "type": "historic_site",
+   "city": "East Lyme",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Broadway Kids Center",
+   "type": "arts_culture",
+   "city": "East Lyme",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Noank Remembers Memorial Bell",
+   "type": "historic_site",
+   "city": "Poquonock Bridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tox Brewing Company",
+   "type": "brewery_distillery",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battle of Groton Heights Prisoners Memorial",
+   "type": "historic_site",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS George Washington (SSBN 598) Sail",
+   "type": "historic_site",
+   "city": "Quaker Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Nautilus Propellers",
+   "type": "historic_site",
+   "city": "Quaker Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UGM-84 Harpoon",
+   "type": "historic_site",
+   "city": "Quaker Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Nautilus",
+   "type": "museum",
+   "city": "Quaker Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles E. Shain Library",
+   "type": "library",
+   "city": "Quaker Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leamy Hall",
+   "type": "arts_culture",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lyman Allyn Museum of Art",
+   "type": "museum",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University of Connecticut at Avery Point Library",
+   "type": "library",
+   "city": "Groton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mystic River Scale Model",
+   "type": "museum",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's Museum",
+   "type": "museum",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Treworgy Planetarium",
+   "type": "planetarium",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Lyme Public Library",
+   "type": "library",
+   "city": "East Lyme",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Submarine Force Library and Museum",
+   "type": "museum",
+   "city": "Quaker Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Trumbull Visitor Center",
+   "type": "museum",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ebenezer Avery House and Museum",
+   "type": "museum",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mitchell College Library",
+   "type": "library",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bill Memorial Library",
+   "type": "library",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Groton Public Library",
+   "type": "library",
+   "city": "Poquonock Bridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William A. Downes Archives",
+   "type": "library",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Denison Homestead",
+   "type": "museum",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Denison Pequotsepos Nature Center",
+   "type": "museum",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bulkeley Square",
+   "type": "historic_downtown",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Custom House Maritime Museum",
+   "type": "museum",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nathan Hale Schoolhouse",
+   "type": "museum",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Public Library of New London",
+   "type": "library",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garde Arts Center",
+   "type": "arts_culture",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Truman Street Laundry",
+   "type": "laundromat",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nathaniel Hempstead House",
+   "type": "museum",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mystic Museum of Art",
+   "type": "museum",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mystic-Noank Library",
+   "type": "library",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Parade",
+   "type": "historic_downtown",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thompson Exhibition Building",
+   "type": "museum",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty Pole Square",
+   "type": "historic_downtown",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Groton Monument House Museum",
+   "type": "museum",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Groton Monument",
+   "type": "historic_site",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mystic Seaport Collections Research Center",
+   "type": "library",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Mystic History Center",
+   "type": "museum",
+   "city": "Old Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waterford Public Library",
+   "type": "library",
+   "city": "Jordan Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry for Less",
+   "type": "laundromat",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Niantic Children’s Museum",
+   "type": "museum",
+   "city": "East Lyme",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sylvan Street Museum & Research Center/Mary C. Anderson Building",
+   "type": "museum",
+   "city": "Poquonock Bridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Performance Stage",
+   "type": "arts_culture",
+   "city": "Mystic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Submarine Memorial - Conning Tower",
+   "type": "historic_site",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWII Torpedo",
+   "type": "historic_site",
+   "city": "New London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "41 For Freedom",
+   "type": "historic_site",
+   "city": "Quaker Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bassickville Historic District",
+   "type": "historic_downtown",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Rock Gardens Historic District",
+   "type": "historic_downtown",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Rock Historic District",
+   "type": "historic_downtown",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greenfield Hill Historic District",
+   "type": "historic_downtown",
+   "city": "Southport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marina Park Historic District",
+   "type": "historic_downtown",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Regina A Quick Center for the Arts",
+   "type": "arts_culture",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Branch Bridgeport Public Library",
+   "type": "library",
+   "city": "Stratfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairfield Historical Society Research Library",
+   "type": "library",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Discovery Museum and Planetarium",
+   "type": "science_center",
+   "city": "Stratfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connecticut Audubon Birdcraft Museum",
+   "type": "museum",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tree Stump Monument",
+   "type": "historic_site",
+   "city": "Stratfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soap Box Laundromat",
+   "type": "laundromat",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clinton Park Militia Grounds Bicentenial Memorial",
+   "type": "historic_site",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trumbull Library",
+   "type": "library",
+   "city": "Long Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "America's Laundry",
+   "type": "laundromat",
+   "city": "Stratfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairfield Honor Roll",
+   "type": "historic_site",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roger Ludlow",
+   "type": "historic_site",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash Tub Laundry",
+   "type": "laundromat",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Post Plaza Laundromat",
+   "type": "laundromat",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverside Wash 'N' Dry",
+   "type": "laundromat",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gustave Whitehead First In Flight",
+   "type": "historic_site",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joseph Cardinal Mindzenty",
+   "type": "historic_site",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art/Place Gallery",
+   "type": "arts_culture",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goosetown Park",
+   "type": "historic_site",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Street Coin Laundry",
+   "type": "laundromat",
+   "city": "Stratfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "N & S Convenience Laundromat",
+   "type": "laundromat",
+   "city": "Stratfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pro Patria",
+   "type": "historic_site",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairfield Woods Branch Library",
+   "type": "library",
+   "city": "Stratfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Swamp Fight - 1637",
+   "type": "historic_site",
+   "city": "Southport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Powder House - 1814",
+   "type": "historic_site",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Nest Arts Factory",
+   "type": "arts_culture",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Rock Auction & Design Center",
+   "type": "arts_culture",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clothes Encounters Laundromat",
+   "type": "laundromat",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Douglas James Perce",
+   "type": "historic_site",
+   "city": "Southport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Star Memorial",
+   "type": "historic_site",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint Mary’s By-The-Sea",
+   "type": "historic_site",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ash Creek Restoration Project",
+   "type": "historic_site",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shaggy Coo's Farm & Creamery",
+   "type": "farmers_market",
+   "city": "Easton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sport Hill Farm",
+   "type": "farmers_market",
+   "city": "Easton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash Tub Laundry",
+   "type": "laundromat",
+   "city": "Stratfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairfield Public Library",
+   "type": "library",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Rock Art Center",
+   "type": "arts_culture",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Rock Branch Bridgeport Public Library",
+   "type": "library",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Rock Laundromat",
+   "type": "laundromat",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pequot Library",
+   "type": "library",
+   "city": "Southport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairfield Museum And History Center",
+   "type": "museum",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundromat Plus",
+   "type": "laundromat",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Super Saver Laundromat",
+   "type": "laundromat",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Klein Memorial Auditorium",
+   "type": "arts_culture",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DiMenna-Nyselius Library",
+   "type": "library",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Silverman's Farm",
+   "type": "farmers_market",
+   "city": "Easton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairfield Theatre Company",
+   "type": "arts_culture",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boston Post Road Historic District",
+   "type": "historic_downtown",
+   "city": "Darien",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Long Ridge Village Historic District",
+   "type": "historic_downtown",
+   "city": "Long Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Revonah Manor Historic District",
+   "type": "historic_downtown",
+   "city": "Stamford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Strickland Road Historic District",
+   "type": "historic_downtown",
+   "city": "Mianus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stamford Center for the Arts",
+   "type": "arts_culture",
+   "city": "Stamford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Canaan Historical Society",
+   "type": "museum",
+   "city": "New Canaan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ferguson Library",
+   "type": "library",
+   "city": "Stamford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stamford Historical Society Museum",
+   "type": "museum",
+   "city": "Turn of River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norwalk Museum;Norwalk Museum Historical Reference Library",
+   "type": "museum",
+   "city": "East Norwalk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Rogers Studio and Museum",
+   "type": "museum",
+   "city": "New Canaan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bruce Museum",
+   "type": "museum",
+   "city": "Greenwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Columbus",
+   "type": "historic_site",
+   "city": "Stamford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cos Cob Library",
+   "type": "library",
+   "city": "Mianus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dry Cleaners",
+   "type": "laundromat",
+   "city": "New Canaan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spc Wilfredo Perez Jr.",
+   "type": "historic_site",
+   "city": "East Norwalk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stamford Cone",
+   "type": "arts_culture",
+   "city": "Stamford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eye of Odin",
+   "type": "historic_site",
+   "city": "East Norwalk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Memorial",
+   "type": "historic_site",
+   "city": "East Norwalk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Canaan Frame & Art Gallery",
+   "type": "arts_culture",
+   "city": "New Canaan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Half Full Brewery",
+   "type": "brewery_distillery",
+   "city": "Stamford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lock City Brewing",
+   "type": "brewery_distillery",
+   "city": "Noroton Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fernando Luis Alvarez Gallery",
+   "type": "arts_culture",
+   "city": "Stamford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LaRocca's Country Market",
+   "type": "farmers_market",
+   "city": "Long Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greenwich Arts Council",
+   "type": "arts_culture",
+   "city": "Greenwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greenwich Library",
+   "type": "library",
+   "city": "Greenwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Playhouse",
+   "type": "arts_culture",
+   "city": "New Canaan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greenwich Historical Society",
+   "type": "museum",
+   "city": "Mianus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weber Fine Art",
+   "type": "arts_culture",
+   "city": "Greenwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pollinator Pathway Mural",
+   "type": "arts_culture",
+   "city": "Greenwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Mather Homestead",
+   "type": "museum",
+   "city": "Darien",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "911 Arch",
+   "type": "historic_site",
+   "city": "Turn of River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jordan's Memorial",
+   "type": "historic_site",
+   "city": "Turn of River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Samford Sign",
+   "type": "arts_culture",
+   "city": "Stamford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dancing Girl",
+   "type": "arts_culture",
+   "city": "Stamford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norwalk Art Space",
+   "type": "museum",
+   "city": "East Norwalk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Supreme Laundromat",
+   "type": "laundromat",
+   "city": "Stamford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UN Tree of Norwalk",
+   "type": "historic_site",
+   "city": "East Norwalk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1BCG",
+   "type": "historic_site",
+   "city": "Mianus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greenwich Civil War Monument",
+   "type": "historic_site",
+   "city": "Greenwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Europa Balkan Food Market",
+   "type": "farmers_market",
+   "city": "Turn of River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butler's Laundromat & Cleaner",
+   "type": "laundromat",
+   "city": "Darien",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "HAYVN",
+   "type": "coworking",
+   "city": "Darien",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spacecat Brewing Co",
+   "type": "brewery_distillery",
+   "city": "East Norwalk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Wong",
+   "type": "laundromat",
+   "city": "Riverside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Millenium Sundial",
+   "type": "arts_culture",
+   "city": "Greenwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cos Cob 9/11 Memorial",
+   "type": "historic_site",
+   "city": "Riverside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carriage Barn Arts Center",
+   "type": "arts_culture",
+   "city": "New Canaan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Putnam Cottage Museum",
+   "type": "museum",
+   "city": "Greenwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bendel Mansion and Museum Galleries",
+   "type": "museum",
+   "city": "Turn of River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norwalk Public Library",
+   "type": "library",
+   "city": "East Norwalk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stepping Stones Museum for Children",
+   "type": "museum",
+   "city": "East Norwalk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Glass House",
+   "type": "museum",
+   "city": "New Canaan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sculpture Gallery",
+   "type": "museum",
+   "city": "New Canaan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glass House Visitor's Center",
+   "type": "museum",
+   "city": "New Canaan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Darien Library",
+   "type": "library",
+   "city": "Tokeneke",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lockwood-Mathews Mansion Museum",
+   "type": "museum",
+   "city": "East Norwalk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Perrot Memorial Library",
+   "type": "library",
+   "city": "Riverside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SONO Switch Tower Museum",
+   "type": "museum",
+   "city": "East Norwalk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Norwalk Library",
+   "type": "library",
+   "city": "East Norwalk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ukrainian Museum and Library of Stamford",
+   "type": "library",
+   "city": "Stamford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Palace Theatre",
+   "type": "arts_culture",
+   "city": "Stamford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kweskin Theater",
+   "type": "arts_culture",
+   "city": "Turn of River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Canaan Museum & Historical Society",
+   "type": "museum",
+   "city": "New Canaan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Powerhouse Performing Arts Center",
+   "type": "arts_culture",
+   "city": "New Canaan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Norwalk Branch Library",
+   "type": "library",
+   "city": "East Norwalk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whittingham Discovery Center",
+   "type": "science_center",
+   "city": "Stamford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Canaan Library",
+   "type": "library",
+   "city": "New Canaan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bruce Museum",
+   "type": "museum",
+   "city": "Greenwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Windsor Hill",
+   "type": "historic_downtown",
+   "city": "East Windsor Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William R. Hales Corner",
+   "type": "historic_downtown",
+   "city": "Wilson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abraham L. Giles Way",
+   "type": "historic_downtown",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Asylum Avenue District Historic District",
+   "type": "historic_downtown",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buckingham Square Historic District",
+   "type": "historic_downtown",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capen–Clark Historic District",
+   "type": "historic_downtown",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clay Hill Historic District",
+   "type": "historic_downtown",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elm Street Historic District",
+   "type": "historic_downtown",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frog Hollow Historic District",
+   "type": "historic_downtown",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Hollywood Historic District",
+   "type": "historic_downtown",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palisado Avenue Historic District",
+   "type": "historic_downtown",
+   "city": "Windsor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prospect Avenue Historic District",
+   "type": "historic_downtown",
+   "city": "Bishop's Corner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Upper Albany Historic District",
+   "type": "historic_downtown",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West End North Historic District",
+   "type": "historic_downtown",
+   "city": "West Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West End South Historic District",
+   "type": "historic_downtown",
+   "city": "West Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glastonbury Historic District",
+   "type": "historic_downtown",
+   "city": "Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newington Junction North Historic District",
+   "type": "historic_downtown",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newington Junction South Historic District",
+   "type": "historic_downtown",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newington Junction West Historic District",
+   "type": "historic_downtown",
+   "city": "Elmwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Wethersfield Historic District",
+   "type": "historic_downtown",
+   "city": "Wethersfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parkside Historic District",
+   "type": "historic_downtown",
+   "city": "Wethersfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Glastonbury Historic District",
+   "type": "historic_downtown",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connecticut State Records Center",
+   "type": "library",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Auerbach Art Library and Museum Archives",
+   "type": "library",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Archbishop Henry J. O’Brien Memorial Library",
+   "type": "library",
+   "city": "Bishop's Corner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dwight Branch Hartford Public Library",
+   "type": "library",
+   "city": "West Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Institute of Living Medical Library",
+   "type": "library",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hartford Public Library Ropkin/Sand Branch",
+   "type": "library",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connecticut Library for Accessible Books",
+   "type": "library",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Webb-Deane-Stevens Museum",
+   "type": "museum",
+   "city": "Wethersfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walter Fyler House Museum",
+   "type": "museum",
+   "city": "Windsor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Bishop Thomas C. Brownell",
+   "type": "arts_culture",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iwo Jima Memorial",
+   "type": "historic_site",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Best Dry Cleaner",
+   "type": "laundromat",
+   "city": "Windsor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hartford Circus Fire Memorial",
+   "type": "historic_site",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stegosaurus",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William H. Mortensen Library",
+   "type": "library",
+   "city": "Bishop's Corner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hunger Strikers Memorial",
+   "type": "historic_site",
+   "city": "Elmwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eddy Farm",
+   "type": "farmers_market",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Asa Spaulding Porter",
+   "type": "historic_site",
+   "city": "West Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newton C. Brainard",
+   "type": "historic_site",
+   "city": "Bishop's Corner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barrett's Farm Stand",
+   "type": "farmers_market",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Noah Webster Statue",
+   "type": "historic_site",
+   "city": "West Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Hartford Veterans Memorial",
+   "type": "historic_site",
+   "city": "West Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TheaterWorks",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tumble Brook Sculpture",
+   "type": "arts_culture",
+   "city": "Bishop's Corner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cow Mermaid Statue",
+   "type": "arts_culture",
+   "city": "Bloomfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pulaski",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connecticut State Library",
+   "type": "library",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hog River Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas Hooker Brewery at Colt",
+   "type": "brewery_distillery",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stone House Ruins",
+   "type": "historic_site",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nature Center Ruins",
+   "type": "historic_site",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Urban Lodge Brewing",
+   "type": "brewery_distillery",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clean N Green Laundromat",
+   "type": "laundromat",
+   "city": "Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Wethersfield Country Store",
+   "type": "farmers_market",
+   "city": "Wethersfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Box Theatre",
+   "type": "arts_culture",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Samuel S.T. Chen Art Center",
+   "type": "arts_culture",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joel Whitney Frame Crafters and Fine Art Gallery",
+   "type": "arts_culture",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Myths, Minds and Medicine Museum",
+   "type": "museum",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J. B. Williams Co. Historic District",
+   "type": "historic_downtown",
+   "city": "Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Curtisville Historic District",
+   "type": "historic_downtown",
+   "city": "Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walter Harrison Libraries",
+   "type": "library",
+   "city": "Bishop's Corner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mildred P. Allen Memorial Library",
+   "type": "library",
+   "city": "Bishop's Corner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jack",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Secession",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frontier Life",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Towards Union Lines",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln Meets Stowe",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tet a Tete",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Career Column",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Transcontinental",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A Welcome Conversation",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Equality",
+   "type": "arts_culture",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Circuit Rider",
+   "type": "arts_culture",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Emancipation",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Metal Tower",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quenticut",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Right to Rise",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tête à Tête",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Main Street Historic District",
+   "type": "historic_downtown",
+   "city": "East Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cheney Brothers Historic District",
+   "type": "historic_downtown",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central Avenue–Center Cemetery Historic District",
+   "type": "historic_downtown",
+   "city": "East Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glastonbury–Rocky Hill Ferry Historic District",
+   "type": "historic_downtown",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garvan–Carroll Historic District",
+   "type": "historic_downtown",
+   "city": "East Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elm Street Historic District",
+   "type": "historic_downtown",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rocky Hill Center Historic District",
+   "type": "historic_downtown",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Naubuc Avenue–Broad Street Historic District",
+   "type": "historic_downtown",
+   "city": "Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Manchester Historic District",
+   "type": "historic_downtown",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Street Historic District",
+   "type": "historic_downtown",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windsor Farms Historic District",
+   "type": "historic_downtown",
+   "city": "Wilson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union Village Historic District",
+   "type": "historic_downtown",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Painted Cow",
+   "type": "arts_culture",
+   "city": "Bishop's Corner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lewis Street Block Historic District",
+   "type": "historic_downtown",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laurel and Marshall Streets District",
+   "type": "historic_downtown",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jefferson–Seymour Historic District",
+   "type": "historic_downtown",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Imlay and Laurel Streets District",
+   "type": "historic_downtown",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "High Street Historic District",
+   "type": "historic_downtown",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James J. Maloney Hall",
+   "type": "arts_culture",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hartford Public Library Albany Branch",
+   "type": "library",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Theater of the Performing Arts",
+   "type": "arts_culture",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Manchester Museum",
+   "type": "museum",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Staunton Williams Auditorium",
+   "type": "arts_culture",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old State House",
+   "type": "museum",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whiton Branch Library",
+   "type": "library",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Raymond Library",
+   "type": "library",
+   "city": "East Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wood Memorial Library and Museum",
+   "type": "library",
+   "city": "Wilson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mort and Irma Handel Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Theatre of Manchester at Cheney Hall",
+   "type": "arts_culture",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cheney Homestead Museum",
+   "type": "museum",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charter Oak Cultural Center",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A. Everett Austin House",
+   "type": "museum",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parkville Market",
+   "type": "farmers_market",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers and Sailors Memorial Arch",
+   "type": "historic_site",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TopKat Super Laundromat",
+   "type": "laundromat",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wilson Branch Windsor Public Library",
+   "type": "library",
+   "city": "Wilson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Welles-Turner Memorial Library",
+   "type": "library",
+   "city": "Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverfront Relax",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Perserverence",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steamer",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connecticut Society of Genealogists Library",
+   "type": "library",
+   "city": "Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum on the Green",
+   "type": "museum",
+   "city": "Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Cider Mill",
+   "type": "farmers_market",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Killam and Bassette Farmstead",
+   "type": "farmers_market",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Welles-Shipman-Ward House",
+   "type": "museum",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hops on the Hill",
+   "type": "brewery_distillery",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Glastonbury Public Library",
+   "type": "library",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Selden Brewer House",
+   "type": "museum",
+   "city": "Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial Amphitheater",
+   "type": "arts_culture",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kellog Eddy House & Museum",
+   "type": "museum",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lucy Robbins Welles Library",
+   "type": "library",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mary Lou's Laundromat",
+   "type": "laundromat",
+   "city": "Burnside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wickham Memorial Library",
+   "type": "library",
+   "city": "Burnside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Fire Museum",
+   "type": "museum",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lutz Children's Museum",
+   "type": "museum",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keeney Memorial Cultural Center",
+   "type": "museum",
+   "city": "Wethersfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wethersfield Historical Society Office and Research Library",
+   "type": "library",
+   "city": "Wethersfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warner Memorial",
+   "type": "historic_site",
+   "city": "Wethersfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windsor Historical Society",
+   "type": "museum",
+   "city": "Windsor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westside Square",
+   "type": "farmers_market",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Park Branch Library",
+   "type": "library",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Noah Webster House & West Hartford Historical Society",
+   "type": "museum",
+   "city": "West Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mortensen Riverfront Plaza Performance Tent",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hartford Golf Club Historic District",
+   "type": "historic_downtown",
+   "city": "Bishop's Corner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grandview Terrace Boulevard Historic District",
+   "type": "historic_downtown",
+   "city": "Elmwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairfield Avenue Historic District",
+   "type": "historic_downtown",
+   "city": "Elmwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown North Historic District",
+   "type": "historic_downtown",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Department Store Historic District",
+   "type": "historic_downtown",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Congress Street Historic District",
+   "type": "historic_downtown",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coltsville Historic District",
+   "type": "historic_downtown",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colt Industrial District",
+   "type": "historic_downtown",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Collins and Townley Streets Historic District",
+   "type": "historic_downtown",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charter Oak Place Historic District",
+   "type": "historic_downtown",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ann Street Historic District",
+   "type": "historic_downtown",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allen Place–Lincoln Street Historic District",
+   "type": "historic_downtown",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Boulevard Historic District",
+   "type": "historic_downtown",
+   "city": "West Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Green Historic District",
+   "type": "historic_downtown",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sisson–South Whitney Historic District",
+   "type": "historic_downtown",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sigourney Square Historic District",
+   "type": "historic_downtown",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pratt Street Historic District",
+   "type": "historic_downtown",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parkville Historic District",
+   "type": "historic_downtown",
+   "city": "Elmwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oxford–Whitney Streets Historic District",
+   "type": "historic_downtown",
+   "city": "West Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nook Farm and Woodland Street Historic District",
+   "type": "historic_downtown",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Street Historic District No. 2",
+   "type": "historic_downtown",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Broad Street Green Historic District",
+   "type": "historic_downtown",
+   "city": "Windsor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Hill Historic District",
+   "type": "historic_downtown",
+   "city": "West Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watkinson School Historic District",
+   "type": "historic_downtown",
+   "city": "Bishop's Corner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "CT DOT Infrastructure Showcase",
+   "type": "arts_culture",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Institute of Living Medical Library",
+   "type": "library",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connecticut Museum of Culture and History",
+   "type": "museum",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barbour Branch Library",
+   "type": "library",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wethersfield Public Library",
+   "type": "library",
+   "city": "Wethersfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wethersfield Art Academy",
+   "type": "arts_culture",
+   "city": "Wethersfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Super Saver Laundromat",
+   "type": "laundromat",
+   "city": "Wethersfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Silas W. Robbins House",
+   "type": "museum",
+   "city": "Wethersfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "General Israel Putnam",
+   "type": "historic_site",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr. Horace Wells",
+   "type": "historic_site",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keith L. Carr, Sr. Corner",
+   "type": "historic_downtown",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Best Wine Shop in Town",
+   "type": "brewery_distillery",
+   "city": "Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sedna",
+   "type": "arts_culture",
+   "city": "West Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1964 Flood Prevention Project",
+   "type": "historic_site",
+   "city": "Bloomfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farm Tool",
+   "type": "historic_site",
+   "city": "Bloomfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Major John Mason Statue",
+   "type": "historic_site",
+   "city": "Windsor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Acres Farm Market",
+   "type": "farmers_market",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunny Suds Laundromat",
+   "type": "laundromat",
+   "city": "Griswoldville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Love",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas Hooker",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William H. Putnam",
+   "type": "historic_site",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barry Square",
+   "type": "historic_downtown",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cow",
+   "type": "arts_culture",
+   "city": "Bloomfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Site Of The Charter Oak",
+   "type": "historic_site",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windsor Laundry Center",
+   "type": "laundromat",
+   "city": "Windsor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vintage Radio & Communications Museum of CT",
+   "type": "museum",
+   "city": "Windsor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A Journey toward Freedom & Excellence",
+   "type": "arts_culture",
+   "city": "West Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lamuel Haynes Memorial",
+   "type": "historic_site",
+   "city": "West Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frog",
+   "type": "arts_culture",
+   "city": "Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Grist Mill Site",
+   "type": "historic_site",
+   "city": "West Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jessie's Community Gardens",
+   "type": "historic_site",
+   "city": "Bishop's Corner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UCONN Hartford Library",
+   "type": "library",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connecticut State Veterans Memorial",
+   "type": "historic_site",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln Theater",
+   "type": "arts_culture",
+   "city": "Bishop's Corner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bushnell Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wendy and Paul E. Raether Library and Information Technology Center",
+   "type": "library",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artspace Hartford",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hartford Stage",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Noah Webster Memorial Library",
+   "type": "library",
+   "city": "West Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Xfinity Theatre",
+   "type": "arts_culture",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windsor Public Library",
+   "type": "library",
+   "city": "Windsor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wash Tub Laundromat",
+   "type": "laundromat",
+   "city": "West Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Constitution Plaza",
+   "type": "historic_downtown",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butler-McCook Homestead",
+   "type": "museum",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carriage House Theater",
+   "type": "arts_culture",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bishops Corner Branch West Hartford Public Library",
+   "type": "library",
+   "city": "Bishop's Corner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Faxon Branch Public Library",
+   "type": "library",
+   "city": "Elmwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windsor Art Center",
+   "type": "arts_culture",
+   "city": "Windsor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harriet Beecher Stowe House",
+   "type": "museum",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mark Twain House Museum",
+   "type": "museum",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amos Bull House",
+   "type": "museum",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pratt & Whitney Hangar Museum",
+   "type": "museum",
+   "city": "East Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alfred C. Fuller Music Center",
+   "type": "arts_culture",
+   "city": "Bishop's Corner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Millard Auditorium",
+   "type": "arts_culture",
+   "city": "Bishop's Corner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dinosaur State Park Exhibit Center",
+   "type": "museum",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prosser Library",
+   "type": "library",
+   "city": "Bloomfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Windsor Public Library",
+   "type": "library",
+   "city": "South Windsor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Katharine Brush Library",
+   "type": "library",
+   "city": "Windsor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas J. Meskill Law Library",
+   "type": "library",
+   "city": "Clay Arsenal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elihu Burritt Library",
+   "type": "library",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Manchester Community College Band Shell",
+   "type": "arts_culture",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Graffiti Arches",
+   "type": "arts_culture",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elicit Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mary Cheney Library",
+   "type": "library",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Labyrinth Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connecticut Valley Brewing Company",
+   "type": "brewery_distillery",
+   "city": "South Windsor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Back East Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Bloomfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas D. Harris IV Pavillion",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hanging Hills Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stone Field Sculpture",
+   "type": "arts_culture",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Academy Hall Museum",
+   "type": "museum",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rocky Hill Fire Museum",
+   "type": "museum",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rocky Hill Library",
+   "type": "library",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "El Mercado",
+   "type": "farmers_market",
+   "city": "Hartford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hartford Public Library Camp Field Branch",
+   "type": "library",
+   "city": "Coltville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Middlebury Center Historic District",
+   "type": "historic_downtown",
+   "city": "Middlebury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bank Street Historic District",
+   "type": "historic_downtown",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hillside Historic District",
+   "type": "historic_downtown",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marion Historic District",
+   "type": "historic_downtown",
+   "city": "Milldale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beacon Falls Public Library",
+   "type": "library",
+   "city": "Beacon Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waterbury Law Library",
+   "type": "library",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ball & Socket Arts",
+   "type": "arts_culture",
+   "city": "Prospect",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Holiday Laundromat",
+   "type": "laundromat",
+   "city": "Watertown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers' Monument",
+   "type": "historic_site",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Monument",
+   "type": "historic_site",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clock-On-The-Green",
+   "type": "historic_site",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harrub Pilgrim Memorial",
+   "type": "historic_site",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Father McGivney Monument",
+   "type": "historic_site",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maori Head",
+   "type": "arts_culture",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers' Monument",
+   "type": "historic_site",
+   "city": "Naugatuck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ben Franklin",
+   "type": "arts_culture",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carrie Welton Fountain",
+   "type": "historic_site",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whale Sculpture",
+   "type": "arts_culture",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Precision Wash & Dry",
+   "type": "laundromat",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Best Laundromat",
+   "type": "laundromat",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kinsmen Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Milldale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fountain",
+   "type": "historic_site",
+   "city": "Naugatuck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watertown History Museum",
+   "type": "museum",
+   "city": "Watertown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lasting Brass Brewing",
+   "type": "brewery_distillery",
+   "city": "Watertown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U.S.D.A plaque",
+   "type": "historic_site",
+   "city": "Middlebury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Josef and Anni Albers Foundation",
+   "type": "arts_culture",
+   "city": "Prospect",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rochambeau Monument",
+   "type": "historic_site",
+   "city": "Marion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OEC Brewing",
+   "type": "brewery_distillery",
+   "city": "Naugatuck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greetings from Waterbury",
+   "type": "arts_culture",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Silas Bronson Library",
+   "type": "library",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Traurig Library",
+   "type": "library",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palace Theater",
+   "type": "arts_culture",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mattatuck Museum",
+   "type": "museum",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seven Angels Theater",
+   "type": "arts_culture",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Naugatuck History Museum at the Tuttle House",
+   "type": "museum",
+   "city": "Naugatuck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Max R. Traurig Library",
+   "type": "library",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camp Mattatuck Amphitheater",
+   "type": "arts_culture",
+   "city": "Allentown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prospect Public Library",
+   "type": "library",
+   "city": "Prospect",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Middlebury Historical Society",
+   "type": "museum",
+   "city": "Middlebury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Middlebury Public Library",
+   "type": "library",
+   "city": "Middlebury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barker Character, Comic, & Cartoon Museum",
+   "type": "museum",
+   "city": "Milldale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Silas Bronson Library Bunker Hill Branch",
+   "type": "library",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oakville Branch Library",
+   "type": "library",
+   "city": "Watertown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watertown Library Association",
+   "type": "library",
+   "city": "Watertown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wolcott Public Library",
+   "type": "library",
+   "city": "Wolcott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hawk Ridge Winery",
+   "type": "brewery_distillery",
+   "city": "Watertown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ACES at Chase Library Media Center",
+   "type": "library",
+   "city": "Waterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "greek letter pi",
+   "type": "arts_culture",
+   "city": "Germantown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Street Historic District",
+   "type": "historic_downtown",
+   "city": "Danbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Danbury Public Library",
+   "type": "library",
+   "city": "Danbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Workshop Theatre Barn",
+   "type": "arts_culture",
+   "city": "Long Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mark Twain Library",
+   "type": "library",
+   "city": "Redding",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9-11 Memorial",
+   "type": "historic_site",
+   "city": "Danbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Monument",
+   "type": "historic_site",
+   "city": "Redding Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Officer's Quarters",
+   "type": "historic_site",
+   "city": "Bethel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elicit Brewing",
+   "type": "brewery_distillery",
+   "city": "Miry Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Settlers Rock",
+   "type": "historic_site",
+   "city": "Long Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers and Sailors Monument",
+   "type": "historic_site",
+   "city": "Newtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash And Fold",
+   "type": "laundromat",
+   "city": "Danbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Street Wash",
+   "type": "laundromat",
+   "city": "Danbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Made By Hand",
+   "type": "arts_culture",
+   "city": "Miry Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Vietnam War Monument",
+   "type": "historic_site",
+   "city": "Danbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Korean War Monument",
+   "type": "historic_site",
+   "city": "Danbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Memorial",
+   "type": "historic_site",
+   "city": "Danbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lions Club",
+   "type": "historic_site",
+   "city": "Danbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "HackerSpace",
+   "type": "coworking",
+   "city": "Danbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Redding Historical Society",
+   "type": "museum",
+   "city": "Redding",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "HPFY Business Center",
+   "type": "coworking",
+   "city": "Stony Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brookfield Theatre for the Arts",
+   "type": "arts_culture",
+   "city": "Brookfield Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Brookfield Library",
+   "type": "library",
+   "city": "Brookfield Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brookfield Market and Deli",
+   "type": "farmers_market",
+   "city": "Brookfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lieutenant Kevin Kennedy Memorial Plaque",
+   "type": "historic_site",
+   "city": "Bethel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wooster Square",
+   "type": "historic_downtown",
+   "city": "Danbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ridgefield Guild of Artists",
+   "type": "arts_culture",
+   "city": "Long Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Star Memorial",
+   "type": "historic_site",
+   "city": "Bethel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "P.T. Barnum",
+   "type": "arts_culture",
+   "city": "Bethel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lesser Evil",
+   "type": "arts_culture",
+   "city": "Beaver Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Putnam Memorial Park Museum",
+   "type": "museum",
+   "city": "Redding Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cyrenius H. Booth Library",
+   "type": "library",
+   "city": "Newtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ridgefield September 11 Memorial",
+   "type": "historic_site",
+   "city": "Long Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Danbury Museum and Historical Society",
+   "type": "museum",
+   "city": "Danbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scott Fanton Museum",
+   "type": "museum",
+   "city": "Danbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bethel Public Library",
+   "type": "library",
+   "city": "Bethel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haas Library",
+   "type": "library",
+   "city": "Danbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charter Oak Brewing",
+   "type": "brewery_distillery",
+   "city": "Germantown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Fairfield Free Public Library",
+   "type": "library",
+   "city": "New Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brookfield Bandstand",
+   "type": "arts_culture",
+   "city": "Brookfield Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sugar Hollow Taproom",
+   "type": "arts_culture",
+   "city": "Long Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Outdoor Classroom",
+   "type": "arts_culture",
+   "city": "Redding",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9-11 Memorial",
+   "type": "historic_site",
+   "city": "Saugatuck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Norwalk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Memorial",
+   "type": "historic_site",
+   "city": "Norwalk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Minuteman Statue",
+   "type": "historic_site",
+   "city": "Saugatuck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haskins House",
+   "type": "historic_site",
+   "city": "Westport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haskins Greenhouses",
+   "type": "historic_site",
+   "city": "Westport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capped Water Well",
+   "type": "historic_site",
+   "city": "Westport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Serendipity Labs",
+   "type": "coworking",
+   "city": "Westport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leornard Bradley Plaque",
+   "type": "historic_site",
+   "city": "Wilton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quidley & Company",
+   "type": "arts_culture",
+   "city": "Westport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Westport Library",
+   "type": "library",
+   "city": "Westport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Levitt Pavilion for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Westport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westport Arts Center",
+   "type": "arts_culture",
+   "city": "Westport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carriage House - Arts Center",
+   "type": "arts_culture",
+   "city": "Silvermine",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Highland Historic District",
+   "type": "historic_downtown",
+   "city": "East Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central Square",
+   "type": "historic_downtown",
+   "city": "Plainville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City Hall–Monument Historic District",
+   "type": "historic_downtown",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmington Historic District",
+   "type": "historic_downtown",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walnut Hill Historic District",
+   "type": "historic_downtown",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plantsville Historic District",
+   "type": "historic_downtown",
+   "city": "Plantsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southington Center Historic District",
+   "type": "historic_downtown",
+   "city": "Southington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plainville Historic Center",
+   "type": "museum",
+   "city": "Plainville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cromwell Belden Public Library",
+   "type": "library",
+   "city": "East Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tunxis Library",
+   "type": "library",
+   "city": "Plainville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas Jefferson Branch New Britain Public Library",
+   "type": "library",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Britain Opera House",
+   "type": "arts_culture",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stanley-Whitman House Museum",
+   "type": "museum",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Britain Industrial Museum",
+   "type": "museum",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Day-Lewis Museum",
+   "type": "museum",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hole In The Wall",
+   "type": "arts_culture",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Home",
+   "type": "arts_culture",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War I Monument",
+   "type": "historic_site",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Billings Manufacturing 1884",
+   "type": "historic_site",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bulkeley Corne Mill 1680-1830",
+   "type": "historic_site",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bulkeley Corne Mill 1677",
+   "type": "historic_site",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butler Shear Factory & Steven Toy Factory 1854-1870",
+   "type": "historic_site",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butler Saw Mill",
+   "type": "historic_site",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butler Sugden Dam & Sluiceway 1854",
+   "type": "historic_site",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wells and Wilcox Manufacturing 1870-1910",
+   "type": "historic_site",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kensington Soldier's Monument",
+   "type": "historic_site",
+   "city": "Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Design Forum",
+   "type": "arts_culture",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Five Churches Brewing",
+   "type": "brewery_distillery",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Room",
+   "type": "laundromat",
+   "city": "East Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fair Weather Acres Farm Market",
+   "type": "farmers_market",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Berlin Library",
+   "type": "library",
+   "city": "East Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hospital Rock",
+   "type": "historic_site",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Borinqueneers Monument",
+   "type": "historic_site",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tremaine Resource Center",
+   "type": "library",
+   "city": "Plantsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bradley Memorial Campus Library",
+   "type": "library",
+   "city": "Southington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown New Britain",
+   "type": "historic_downtown",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Haven District Campground Historic District",
+   "type": "historic_downtown",
+   "city": "Plainville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Worthington Ridge Historic District",
+   "type": "historic_downtown",
+   "city": "Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West End Historic District",
+   "type": "historic_downtown",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meriden Avenue–Oakland Road Historic District",
+   "type": "historic_downtown",
+   "city": "Southington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Repertory Theatre",
+   "type": "arts_culture",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Main Laundromat",
+   "type": "laundromat",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Britain General Campus Library",
+   "type": "library",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Express Coin Laundry",
+   "type": "laundromat",
+   "city": "Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Top Kat Super Laundromat",
+   "type": "laundromat",
+   "city": "Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Witchdoctor",
+   "type": "brewery_distillery",
+   "city": "Southington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beyoglu Market",
+   "type": "farmers_market",
+   "city": "East Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vincent H. Core Memorial",
+   "type": "historic_site",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butler Grist Mill",
+   "type": "historic_site",
+   "city": "Rocky Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bradley Barnes Museum",
+   "type": "museum",
+   "city": "Southington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plainville Public Library",
+   "type": "library",
+   "city": "Plainville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trinity-on-Main",
+   "type": "arts_culture",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hill Stead Museum",
+   "type": "museum",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Britain Museum of American Art",
+   "type": "arts_culture",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coles Road Brewing",
+   "type": "brewery_distillery",
+   "city": "Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berlin Historical Society",
+   "type": "museum",
+   "city": "Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmington Library",
+   "type": "library",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alvarium Beer Co.",
+   "type": "brewery_distillery",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rogers Orchards store",
+   "type": "farmers_market",
+   "city": "Plainville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Britain Soldiers' Monument",
+   "type": "historic_site",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barney Library",
+   "type": "library",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Holy Apostles College and Seminary Library",
+   "type": "library",
+   "city": "East Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "plinth",
+   "type": "historic_site",
+   "city": "Plainville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "M. Burch Tracy Ford Library",
+   "type": "library",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nona Evans Room and Hacker Theater",
+   "type": "arts_culture",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cromwell Historical Society",
+   "type": "museum",
+   "city": "East Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Britain Youth Museum",
+   "type": "museum",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Britain Public Library",
+   "type": "library",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "F. N. Manross Memorial Library",
+   "type": "library",
+   "city": "Plainville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connecticut Clearinghouse",
+   "type": "library",
+   "city": "Plainville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Britain Youth Museum at Hungerford Park",
+   "type": "museum",
+   "city": "New Britain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Solomon Goffe House Museum",
+   "type": "museum",
+   "city": "Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berlin-Peck Memorial Library",
+   "type": "library",
+   "city": "Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berlin Free Library",
+   "type": "library",
+   "city": "Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southington Public Library",
+   "type": "library",
+   "city": "Southington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Broad Street Historic District",
+   "type": "historic_downtown",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Street Historic District",
+   "type": "historic_downtown",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washington Street Historic District",
+   "type": "historic_downtown",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lyman Hall Monument",
+   "type": "historic_site",
+   "city": "Wallingford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City of Meriden WWII Roll of Honor",
+   "type": "historic_site",
+   "city": "Meriden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New England Cider Company",
+   "type": "brewery_distillery",
+   "city": "Yalesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Express Laundry & Dry Cleaning",
+   "type": "laundromat",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Captain Joseph S. Pagano Memorial",
+   "type": "historic_site",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wallingford Laundromat",
+   "type": "laundromat",
+   "city": "Wallingford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wallingford Historical Society",
+   "type": "museum",
+   "city": "Wallingford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forest City Brewing",
+   "type": "brewery_distillery",
+   "city": "East Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stubborn Beauty Brewing Company",
+   "type": "brewery_distillery",
+   "city": "East Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Front Porch Brewing",
+   "type": "brewery_distillery",
+   "city": "Wallingford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II Memorial",
+   "type": "historic_site",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korea/Vietnam Memorial",
+   "type": "historic_site",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash & Dry",
+   "type": "laundromat",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Durham War Memorial",
+   "type": "historic_site",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First Tear",
+   "type": "arts_culture",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zentec Farms",
+   "type": "farmers_market",
+   "city": "Cheshire",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Relic",
+   "type": "historic_site",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cpl. Kemaphoom Chanawongse",
+   "type": "historic_site",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "GySgt. Phillip Jordan",
+   "type": "historic_site",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TSgt. John Chapman",
+   "type": "historic_site",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SPC Wilfredo Perez Jr.",
+   "type": "historic_site",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SSG Richard Eaton Jr.",
+   "type": "historic_site",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SGT David Frederick",
+   "type": "historic_site",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connecticut Trees of Honor Memorial",
+   "type": "historic_site",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joseph Pagano Jr.",
+   "type": "historic_site",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Center Market",
+   "type": "farmers_market",
+   "city": "Wallingford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Hills Orchard",
+   "type": "farmers_market",
+   "city": "Wallingford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rednawa Studio",
+   "type": "arts_culture",
+   "city": "East Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Bridge",
+   "type": "historic_site",
+   "city": "South Meriden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maribeth McCarthy Demma",
+   "type": "historic_site",
+   "city": "Cheshire",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallery 53",
+   "type": "arts_culture",
+   "city": "Meriden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Top's Super Laundromat",
+   "type": "laundromat",
+   "city": "Meriden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bergen House",
+   "type": "brewery_distillery",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wallingford World War II Memorial",
+   "type": "historic_site",
+   "city": "Wallingford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wallingford Korean War Memorial",
+   "type": "historic_site",
+   "city": "Wallingford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Durham Volunteer Firefighters Memorial",
+   "type": "historic_site",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City of Meriden World War II Roll of Honor",
+   "type": "historic_site",
+   "city": "Meriden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colonel Clarence S. Wadsworth",
+   "type": "historic_site",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Ridge Farm Stand",
+   "type": "farmers_market",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Counterweight Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Milldale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meriden Historical Society Museum & History Center",
+   "type": "museum",
+   "city": "Meriden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Olin Library",
+   "type": "library",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "'92 Theater",
+   "type": "arts_culture",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crowell Concert Hall",
+   "type": "arts_culture",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wesleyan University Science Library",
+   "type": "library",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Buttonwood Tree",
+   "type": "arts_culture",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wallingford Public Library",
+   "type": "library",
+   "city": "Wallingford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kidcity Children's Museum",
+   "type": "museum",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ezra and Cecile Zilkha Gallery",
+   "type": "arts_culture",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paradise Hills Vineyard & Winery",
+   "type": "brewery_distillery",
+   "city": "Wallingford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Student Laundry",
+   "type": "laundromat",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Andrew Mellon Library",
+   "type": "library",
+   "city": "Wallingford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cheshire Public Library",
+   "type": "library",
+   "city": "Cheshire",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Levi E Coe Library",
+   "type": "library",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theater Department",
+   "type": "arts_culture",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Durham Historical Society",
+   "type": "museum",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Durham Public Library",
+   "type": "library",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wadsworth Mansion",
+   "type": "museum",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Middletown Sports Hall of Fame",
+   "type": "museum",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center Street Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Wallingford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Davison Art Center",
+   "type": "arts_culture",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meriden Public Library",
+   "type": "library",
+   "city": "Meriden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meriden YMCA Arts Center & Theater",
+   "type": "arts_culture",
+   "city": "Meriden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ed's Farm Fresh Fruits & Vegetables",
+   "type": "farmers_market",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Godfrey Memorial Library",
+   "type": "library",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greater Middletown Military Museum",
+   "type": "museum",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wallingford Historical Society",
+   "type": "museum",
+   "city": "Wallingford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Castle Craig Players",
+   "type": "arts_culture",
+   "city": "Meriden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connecticut State Library Middletown Library Service Center",
+   "type": "library",
+   "city": "Middlefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oakdale Theater",
+   "type": "arts_culture",
+   "city": "Wallingford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connecticut State Police Museum",
+   "type": "museum",
+   "city": "Meriden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Andrews Homestead Museum",
+   "type": "museum",
+   "city": "Meriden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Geremiah Farms",
+   "type": "farmers_market",
+   "city": "Yalesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "JC Farms & Greenhouses",
+   "type": "farmers_market",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Outdoor Classroom",
+   "type": "arts_culture",
+   "city": "Milldale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Slocomb Mill",
+   "type": "historic_site",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Windsor Farmer's Market",
+   "type": "farmers_market",
+   "city": "South Windsor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cavanna Farms",
+   "type": "farmers_market",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Glastonbury Public Library",
+   "type": "library",
+   "city": "Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Belltown Historic District",
+   "type": "historic_downtown",
+   "city": "East Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haddam Center Historic District",
+   "type": "historic_downtown",
+   "city": "Higganum",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indian Hill Avenue Historic District",
+   "type": "historic_downtown",
+   "city": "Cromwell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Street Historic District",
+   "type": "historic_downtown",
+   "city": "Cromwell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Metro South Historic District",
+   "type": "historic_downtown",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Hampton Public Library",
+   "type": "library",
+   "city": "East Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Middletown Art Academy",
+   "type": "arts_culture",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MAC 650 Gallery",
+   "type": "arts_culture",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haddam Shad Museum",
+   "type": "museum",
+   "city": "Higganum",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers Monument",
+   "type": "historic_site",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tradewinds Laundry",
+   "type": "laundromat",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Epoch Arts",
+   "type": "arts_culture",
+   "city": "East Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Daddy's Laundromat",
+   "type": "laundromat",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chatham Historical Society",
+   "type": "museum",
+   "city": "East Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portland Civil War Memorial",
+   "type": "historic_site",
+   "city": "Cromwell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paley Brothers Hay & Shavings",
+   "type": "farmers_market",
+   "city": "Cromwell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gotta's Farm & Cider Mill",
+   "type": "farmers_market",
+   "city": "Cromwell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "E. Draghi & Sons Farm Stand",
+   "type": "farmers_market",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tricka Farm",
+   "type": "farmers_market",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dondero Orchards",
+   "type": "farmers_market",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodland Farm",
+   "type": "farmers_market",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henry Clay Work Bust",
+   "type": "arts_culture",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Regus",
+   "type": "coworking",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "David Johnson Memorial Statue",
+   "type": "historic_site",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henry William Reed Dedication Plaque",
+   "type": "historic_site",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Concentric Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rule of 3 Brewing",
+   "type": "brewery_distillery",
+   "city": "East Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Face in Tree",
+   "type": "arts_culture",
+   "city": "East Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hallock Medical Library",
+   "type": "library",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yellow Ribbon Tree",
+   "type": "historic_site",
+   "city": "East Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lions Club Pavilion",
+   "type": "historic_site",
+   "city": "East Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Middlesex County Historical Society",
+   "type": "museum",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joseph N. Goff House Museum and Cultural Center",
+   "type": "museum",
+   "city": "East Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haddam Veterans' Museum",
+   "type": "museum",
+   "city": "Higganum",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portland Public Library",
+   "type": "library",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portland Laundromat",
+   "type": "laundromat",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Belltown Hill Orchards",
+   "type": "farmers_market",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rose's Berry Farm",
+   "type": "farmers_market",
+   "city": "South Glastonbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portland Historical Society",
+   "type": "museum",
+   "city": "Cromwell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Distilling",
+   "type": "brewery_distillery",
+   "city": "East Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Q-P Farm Market",
+   "type": "farmers_market",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arrigoni Winery & Cider Company",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Middle Haddam Public Library",
+   "type": "library",
+   "city": "East Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James P. Casey plaque",
+   "type": "historic_site",
+   "city": "Pequabuck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clocktown Brewing",
+   "type": "brewery_distillery",
+   "city": "Thomaston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomaston Opera House",
+   "type": "arts_culture",
+   "city": "Thomaston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crescent Gallery",
+   "type": "arts_culture",
+   "city": "Thomaston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Railroad Museum of New England",
+   "type": "museum",
+   "city": "Thomaston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Terryville Public Library",
+   "type": "library",
+   "city": "Pequabuck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lock Museum of America",
+   "type": "museum",
+   "city": "Pequabuck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gilbert Library",
+   "type": "library",
+   "city": "Northfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomaston Public Library",
+   "type": "library",
+   "city": "Thomaston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nature's Health Store",
+   "type": "farmers_market",
+   "city": "South Willington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scripture Bridge Abutments",
+   "type": "historic_site",
+   "city": "West Willington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westford Hills Distillery",
+   "type": "brewery_distillery",
+   "city": "Willington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Construction Workers Memorial",
+   "type": "historic_site",
+   "city": "West Willington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Willington Public Library",
+   "type": "library",
+   "city": "Willington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Willington Veteran's Memorial",
+   "type": "historic_site",
+   "city": "Willington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glazier Tavern",
+   "type": "museum",
+   "city": "Willington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fox Farm Brewery",
+   "type": "brewery_distillery",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Salem Free Public Library",
+   "type": "library",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Salem Historical Society",
+   "type": "museum",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cornwall Historical Society",
+   "type": "museum",
+   "city": "Cornwall",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Cornwall Library",
+   "type": "library",
+   "city": "Cornwall",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Scherer Library of Musical Theatre",
+   "type": "library",
+   "city": "East Haddam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chester Historical Society Museum at the Mill",
+   "type": "museum",
+   "city": "Chester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lori Warner Studio/Gallery",
+   "type": "arts_culture",
+   "city": "Chester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nilsson Spring Street Studio & Gallery",
+   "type": "arts_culture",
+   "city": "Chester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hadlyme Ferry Historic District",
+   "type": "historic_downtown",
+   "city": "Chester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hadlyme North Historic District",
+   "type": "historic_downtown",
+   "city": "Chester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Stephen's Episcopal Church, 1791.",
+   "type": "historic_site",
+   "city": "East Haddam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Haddam Historical Society Museum",
+   "type": "museum",
+   "city": "East Haddam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yankee Cider Company",
+   "type": "brewery_distillery",
+   "city": "East Haddam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little House Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Chester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Staehly Farms Winery",
+   "type": "brewery_distillery",
+   "city": "East Haddam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gillette Castle",
+   "type": "museum",
+   "city": "Chester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brainerd Memorial Library",
+   "type": "library",
+   "city": "Haddam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goodspeed Opera House",
+   "type": "arts_culture",
+   "city": "East Haddam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little House Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Chester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chester Public Library",
+   "type": "library",
+   "city": "Chester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chester Gallery",
+   "type": "arts_culture",
+   "city": "Chester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Haddam Free Public Library",
+   "type": "library",
+   "city": "Moodus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rathbun Free Memorial Library",
+   "type": "library",
+   "city": "East Haddam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thankful Arnold House",
+   "type": "museum",
+   "city": "Haddam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Staehly Farms",
+   "type": "farmers_market",
+   "city": "East Haddam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bill Wheeler",
+   "type": "historic_site",
+   "city": "Killingworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Totem Pole",
+   "type": "arts_culture",
+   "city": "Killingworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Killingworth's World War Heroes",
+   "type": "historic_site",
+   "city": "Killingworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Killingworth Library",
+   "type": "library",
+   "city": "Killingworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheatre",
+   "type": "arts_culture",
+   "city": "Killingworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plainfield Street Historic District",
+   "type": "historic_downtown",
+   "city": "Plainfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sterling Hill Historic District",
+   "type": "historic_downtown",
+   "city": "Plainfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plainfield Historical Society",
+   "type": "museum",
+   "city": "Plainfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "March Route of Rochambeau's Army: Plainfield Pike",
+   "type": "historic_site",
+   "city": "Plainfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "March Route of Rochambeau's Army: Old Canterbury Road",
+   "type": "historic_site",
+   "city": "Canterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lawton Mills Historic District",
+   "type": "historic_downtown",
+   "city": "Plainfield Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central Village Historic District",
+   "type": "historic_downtown",
+   "city": "Central Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Canterbury Center Historic District",
+   "type": "historic_downtown",
+   "city": "Canterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quinebaug River Prehistoric Archeological District",
+   "type": "historic_site",
+   "city": "Plainfield Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aldrich Free Public Library",
+   "type": "library",
+   "city": "Central Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prudence Crandall Museum",
+   "type": "museum",
+   "city": "Canterbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Babcock Library",
+   "type": "library",
+   "city": "Warrenville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eastford Public Library",
+   "type": "library",
+   "city": "Eastford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Case Brothers Historic District",
+   "type": "historic_downtown",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sorry Rock",
+   "type": "arts_culture",
+   "city": "Talcottville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Street Historic District",
+   "type": "historic_downtown",
+   "city": "Windham Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windham Textile and History Museum",
+   "type": "museum",
+   "city": "Windham Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prospect Hill Historic District",
+   "type": "historic_downtown",
+   "city": "Windham Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Poet's Corner",
+   "type": "historic_downtown",
+   "city": "Windham Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "March Route of Rochambeau's Army: Scotland Road",
+   "type": "historic_site",
+   "city": "Windham Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windham Center Historic District",
+   "type": "historic_downtown",
+   "city": "Windham Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windy",
+   "type": "arts_culture",
+   "city": "Windham Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Swifty",
+   "type": "arts_culture",
+   "city": "Windham Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Willy",
+   "type": "arts_culture",
+   "city": "Windham Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Manny",
+   "type": "arts_culture",
+   "city": "Windham Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BLiSS Marketplace",
+   "type": "farmers_market",
+   "city": "Windham Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jillison House Museum",
+   "type": "museum",
+   "city": "Windham Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windham Free Library",
+   "type": "library",
+   "city": "Windham Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guilford Smith Memorial Library",
+   "type": "library",
+   "city": "South Windham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wilcox Mill",
+   "type": "historic_site",
+   "city": "Amston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cobblestone Farm",
+   "type": "farmers_market",
+   "city": "Hebron",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wilcox Mill (Site of)",
+   "type": "historic_site",
+   "city": "Amston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Douglas Library Of Hebron",
+   "type": "library",
+   "city": "Hebron",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hermit memorial",
+   "type": "historic_site",
+   "city": "Burrville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henry Robinson Buck",
+   "type": "historic_site",
+   "city": "Riverton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northwestern Connecticut Community College Library",
+   "type": "library",
+   "city": "Winsted",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Mural Project",
+   "type": "museum",
+   "city": "Winsted",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peoples State Forest Nature Museum",
+   "type": "museum",
+   "city": "Riverton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Museum of Tort Law",
+   "type": "museum",
+   "city": "Winsted",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beardsley and Memorial Library",
+   "type": "library",
+   "city": "Winsted",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Immaculate Conception Center Library",
+   "type": "library",
+   "city": "Mechanicsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Putnam Law Library",
+   "type": "library",
+   "city": "Putnam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LaPalme Health Sciences Library",
+   "type": "library",
+   "city": "Putnam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thompson Historical Society",
+   "type": "museum",
+   "city": "Thompson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverwash Laundromat and Dry Cleaning",
+   "type": "laundromat",
+   "city": "Putnam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Daniel's Village Archeological Site",
+   "type": "historic_site",
+   "city": "Ballouville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thompson Hill Historic District",
+   "type": "historic_downtown",
+   "city": "Thompson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pomfret Street Historic District",
+   "type": "historic_downtown",
+   "city": "Pomfret",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bradley Playhouse",
+   "type": "arts_culture",
+   "city": "Putnam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Complex Performing and Creative Arts Centre",
+   "type": "arts_culture",
+   "city": "Putnam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aspinock Historical Society",
+   "type": "museum",
+   "city": "Putnam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Putnam Public Library",
+   "type": "library",
+   "city": "Putnam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Loos Center for the Arts",
+   "type": "arts_culture",
+   "city": "South Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pomfret Public Library",
+   "type": "library",
+   "city": "Pomfret",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pineville Mill",
+   "type": "historic_site",
+   "city": "Ballouville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Putnam Riverview Marketplace",
+   "type": "farmers_market",
+   "city": "Putnam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Federal Hill Historic District",
+   "type": "historic_downtown",
+   "city": "Bristol",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Fire History",
+   "type": "museum",
+   "city": "Bristol",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New England Carousel Museum",
+   "type": "museum",
+   "city": "Bristol",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South End Historic District",
+   "type": "historic_downtown",
+   "city": "Bristol",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Street Historic District",
+   "type": "historic_downtown",
+   "city": "Bristol",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ingraham House",
+   "type": "arts_culture",
+   "city": "Bristol",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Clock and Watch Museum",
+   "type": "museum",
+   "city": "Bristol",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bristol Public Library",
+   "type": "library",
+   "city": "Bristol",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Lyme Historic District",
+   "type": "historic_downtown",
+   "city": "Old Lyme",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connecticut River Museum",
+   "type": "museum",
+   "city": "Old Lyme",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lyme Art Association",
+   "type": "museum",
+   "city": "Old Lyme",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Katharine Hepburn Cultural Arts Center",
+   "type": "arts_culture",
+   "city": "Old Saybrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "30 Mile Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Old Saybrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial",
+   "type": "historic_site",
+   "city": "Old Lyme",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phoebe Griffin Noyes Library",
+   "type": "library",
+   "city": "Old Lyme",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Florence Griswold Museum",
+   "type": "museum",
+   "city": "Old Lyme",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas A. Stevens Research Library",
+   "type": "library",
+   "city": "Old Lyme",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Lyme Historical Society",
+   "type": "museum",
+   "city": "Old Lyme",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Acton Public Library",
+   "type": "library",
+   "city": "Old Saybrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jean Wells Wallace",
+   "type": "historic_site",
+   "city": "Easton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trout Brook Valley Nature Preserve Honor Roll of Contributors",
+   "type": "historic_site",
+   "city": "Easton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Granby Historic District",
+   "type": "historic_downtown",
+   "city": "East Granby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Granby Center Historic District",
+   "type": "historic_downtown",
+   "city": "Granby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connecticut Fallen Firefighters Memorial",
+   "type": "historic_site",
+   "city": "East Granby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tim Coyne Memorial",
+   "type": "historic_site",
+   "city": "Poquonock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zygmunt Sacharko stone",
+   "type": "historic_site",
+   "city": "Granby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tariffville Historic District",
+   "type": "historic_downtown",
+   "city": "Tariffville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Daniel Hill Guilmartin",
+   "type": "historic_site",
+   "city": "Tariffville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmington River Park Dedication 1995",
+   "type": "historic_site",
+   "city": "Tariffville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "East Granby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windsor Locks Laundromat",
+   "type": "laundromat",
+   "city": "Poquonock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tobacco Museum",
+   "type": "museum",
+   "city": "Poquonock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Granby Public Library",
+   "type": "library",
+   "city": "East Granby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brignole Vineyards Tasting Room",
+   "type": "brewery_distillery",
+   "city": "Granby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Newgate Prison and Copper Mine",
+   "type": "museum",
+   "city": "East Granby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Salmon Brook Historical Society",
+   "type": "museum",
+   "city": "Granby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Granby Public Library",
+   "type": "library",
+   "city": "Granby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New England Air Museum",
+   "type": "museum",
+   "city": "East Granby",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

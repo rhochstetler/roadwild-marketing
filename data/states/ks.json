@@ -1,0 +1,4693 @@
+{
+ "state": "KS",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Cimarron Recreation Area",
+   "type": "paid_camp",
+   "town": "Richfield, KS",
+   "town_mi": 9.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cottonwood Point Campground",
+   "type": "paid_camp",
+   "town": "Eastshore, KS",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Longview Campground (KS)",
+   "type": "paid_camp",
+   "town": "Ozawkie, KS",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Minooka Park Campground",
+   "type": "paid_camp",
+   "town": "Dorrance, KS",
+   "town_mi": 6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Old Town Campground (Perry Lake)",
+   "type": "paid_camp",
+   "town": "Ozawkie, KS",
+   "town_mi": 1.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverside Campground (KS)",
+   "type": "paid_camp",
+   "town": "Marquette, KS",
+   "town_mi": 7.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverside East Campground",
+   "type": "paid_camp",
+   "town": "New Strawn, KS",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverside West Campground",
+   "type": "paid_camp",
+   "town": "Burlington, KS",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rock Creek Campground (KS)",
+   "type": "paid_camp",
+   "town": "Perry, KS",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Rolling Hills Campground",
+   "type": "paid_camp",
+   "town": "Junction City, KS",
+   "town_mi": 5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Slough Creek Campground",
+   "type": "paid_camp",
+   "town": "Perry, KS",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stockdale Campground",
+   "type": "paid_camp",
+   "town": "Keats, KS",
+   "town_mi": 6.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Venango Park Campground",
+   "type": "paid_camp",
+   "town": "Marquette, KS",
+   "town_mi": 9.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whitehall Bay Campground",
+   "type": "paid_camp",
+   "town": "Fall River, KS",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sylvan Park Campground",
+   "type": "paid_camp",
+   "town": "Sylvan Grove, KS",
+   "town_mi": 6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tuttle Creek Cove Campground",
+   "type": "paid_camp",
+   "town": "Keats, KS",
+   "town_mi": 5.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Farnum Creek Campground",
+   "type": "paid_camp",
+   "town": "Milford, KS",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rockhaven Park Campground and Equestrian Area",
+   "type": "paid_camp",
+   "town": "Lawrence, KS",
+   "town_mi": 7.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Cedar Bluff Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cheney Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kirwin Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Keith Sebelius Reservoir (Prairie Dog State Park)",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lovewell Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Waconda Reservoir (Glen Elder)",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Flint Hills National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kirwin National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Quivira National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Clinton Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hillsdale Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kanopolis Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Melvern Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Milford Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Perry Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pomona Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tuttle Creek Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wilson Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Webster Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Marais des Cygnes National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Big Hill Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Council Grove Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "El Dorado Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Elk City Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fall River Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "John Redmond Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Marion Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Toronto Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Park Ranger Programs",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnicking at Nicodemus",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fort Larned Living History",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at Fort Larned",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tour Fort Larned with a Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fort Larned Visitor Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Healthy Parks, Healthy People",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Discovering Life at Fort Scott",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "See Santa Fe Trail Ruts",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Break on the Bottomland Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Virtual 360 Fort Scott Tour",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Almena Diversion Dam",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Woodston Diversion Dam",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kansas Sports Hall of Fame",
+   "type": "museum",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas Firefighters Museum",
+   "type": "museum",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas African American Museum",
+   "type": "museum",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of World Treasures",
+   "type": "museum",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Plains Transportation Museum",
+   "type": "museum",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wichita Art Museum",
+   "type": "museum",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Cowtown Museum",
+   "type": "museum",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wichita State University - Lowell D Holmes Museum of Anthropology",
+   "type": "museum",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keeper of the Plains",
+   "type": "historic_site",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wichita Public Library (Walters Branch)",
+   "type": "library",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "99 Words and Phraises Coined by Shakespeare",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wichita Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moon Apples & Sun Apples",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Patchwork Design",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Discounty Cleaners & Coin Laundry",
+   "type": "laundromat",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "3rd Place Brewing",
+   "type": "brewery_distillery",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aero Plains Brewery",
+   "type": "brewery_distillery",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Advanced Learning Library",
+   "type": "library",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wichita Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Love",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Profile Canto",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reclining Figure",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Tosrse D'homme",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "La Priere",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sodbuster: San Isidro",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Figure (Archaean)",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spring Clean Laundry",
+   "type": "laundromat",
+   "city": "Minneha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walk With Pride Mural",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Strength Through the Spirit of Growth",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plains of Creativity and Kindness is Magic",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Homies",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Love Anyway",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ope!",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roxy's Downtown Theater",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cox Farm",
+   "type": "farmers_market",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas Grown",
+   "type": "farmers_market",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Common Ground Producers And Growers",
+   "type": "farmers_market",
+   "city": "Bel Aire",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Town Farm & Art Market",
+   "type": "farmers_market",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WICHITA CHILDREN'S THEATRE & DANCE CENTER",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jackie Robinson",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freedom Keeper",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1978 Titan II Missile Accident Memorial",
+   "type": "historic_site",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1965 KC-135 Crash Memorial",
+   "type": "historic_site",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Walk",
+   "type": "historic_site",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Endangered Species",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crane Dance",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wichita Toy Train Museum",
+   "type": "museum",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wichita Community Theatre",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tor Brewing",
+   "type": "brewery_distillery",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "CityArts",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Night Sky",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Let Your Light Shine",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Botanica",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fire",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Earth",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "I See T",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A Kansas Gem",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Swimming Up Stream",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Honeybees",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "If You Know Where to Look",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wichita the Air Capital",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Building a Strong Nest for the Future",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "We've Got the Joy",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wichita",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greetings from Wichita",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A Bird Not in the Hand",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Take Your Pick",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wichi-Titan",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Meadowlark",
+   "type": "arts_culture",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Time Changes Things",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Strong and Courageous",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wichita Uncovered",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Be-YOU-tiful",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peace on Earth",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Air",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sound of Summer",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Livin' in the Wheat",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Illuminating Frets",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Music Store",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bee Yourself",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mopig's Collectibles and Custom Paint",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ford Rockwell Branch",
+   "type": "library",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Exploration Place - Science and Discovery Center",
+   "type": "science_center",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas Aviation Museum",
+   "type": "museum",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas Aviation Museum",
+   "type": "museum",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River City Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indian Center Museum",
+   "type": "museum",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dana Laundromat & Dry Cleaners",
+   "type": "laundromat",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hopping Gnome Brewing",
+   "type": "brewery_distillery",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nortons Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Delano Antiques",
+   "type": "farmers_market",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Final Call",
+   "type": "historic_site",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas Fallen Firefighters Memorial",
+   "type": "historic_site",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westlink Branch Library",
+   "type": "library",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wichita Public Library - Lionel D Alford Branch",
+   "type": "library",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lost Sock Laundromat",
+   "type": "laundromat",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nomar International Market",
+   "type": "farmers_market",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnamese American Community Memorial",
+   "type": "historic_site",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam War Memorial",
+   "type": "historic_site",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Karg Art Glass",
+   "type": "arts_culture",
+   "city": "Park City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wichita - Sedgwick County Historical Museum",
+   "type": "museum",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Storage laundry",
+   "type": "laundromat",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Park City Public Library",
+   "type": "library",
+   "city": "Park City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "B-29 Doc Hangar, Education and Visitors Center",
+   "type": "museum",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mark Arts",
+   "type": "arts_culture",
+   "city": "Minneha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Turtle Maze",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Original Pizza Hut Museum",
+   "type": "museum",
+   "city": "Minneha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orpheum Theatre",
+   "type": "arts_culture",
+   "city": "Wichita",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frank Lloyd Wright's Allen House",
+   "type": "museum",
+   "city": "Eastborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Billington Library (LIB)",
+   "type": "library",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leawood Pioneer Library",
+   "type": "library",
+   "city": "Leawood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnson County Library - Corinth",
+   "type": "library",
+   "city": "Prairie Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Legler Barn Museum",
+   "type": "museum",
+   "city": "Lake Quivira",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnson County Historical Museum",
+   "type": "museum",
+   "city": "Lake Quivira",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The 1950's All - Electric House Museum",
+   "type": "museum",
+   "city": "Lake Quivira",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Helen S. Cuddy Rose Garden",
+   "type": "historic_site",
+   "city": "Merriam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam War Memorial",
+   "type": "historic_site",
+   "city": "Merriam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fire Circle",
+   "type": "arts_culture",
+   "city": "Merriam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Liberty Replica",
+   "type": "arts_culture",
+   "city": "Merriam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leawood Fine Art Gallery",
+   "type": "arts_culture",
+   "city": "Leawood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean War Veterans Memorial",
+   "type": "historic_site",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prairie Fire",
+   "type": "arts_culture",
+   "city": "Leawood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ali Kemp Memorial",
+   "type": "historic_site",
+   "city": "Leawood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bacchus & Barleycorn",
+   "type": "brewery_distillery",
+   "city": "Shawnee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Firefighters Memorial",
+   "type": "historic_site",
+   "city": "Westwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Austin's Park Memorial",
+   "type": "historic_site",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "R.G. Endres Gallery",
+   "type": "arts_culture",
+   "city": "Prairie Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "I Beam Tuning Fork",
+   "type": "arts_culture",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"The Serpent\"",
+   "type": "arts_culture",
+   "city": "Lenexa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MOTHERHOOD",
+   "type": "arts_culture",
+   "city": "Merriam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "PLANTING THE SEEDS",
+   "type": "arts_culture",
+   "city": "Merriam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "STILL TIME",
+   "type": "arts_culture",
+   "city": "Merriam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chief Charles Bluejacket Statue",
+   "type": "arts_culture",
+   "city": "Shawnee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carniceria Lupita",
+   "type": "farmers_market",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "El Paisano",
+   "type": "farmers_market",
+   "city": "Merriam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sandhills Brewing",
+   "type": "brewery_distillery",
+   "city": "Mission",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas City, Kansas Public Library - Turner Community Library",
+   "type": "library",
+   "city": "Shawnee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miller’s Wood Sports Complex",
+   "type": "historic_site",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eva Reynolds Fine Art Gallery",
+   "type": "arts_culture",
+   "city": "Leawood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library (Charter #35900)",
+   "type": "library",
+   "city": "Lake Quivira",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library (#13406)",
+   "type": "library",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rockcreek Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Mission",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monarchs Cow Parade",
+   "type": "arts_culture",
+   "city": "Leawood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anthology of Argentine Mural",
+   "type": "arts_culture",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blackbird",
+   "type": "arts_culture",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nermal Museum of Contemporary Art",
+   "type": "arts_culture",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pierced Sky",
+   "type": "arts_culture",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shim Sham Shimmy",
+   "type": "arts_culture",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hybrid Circle",
+   "type": "arts_culture",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Converge",
+   "type": "arts_culture",
+   "city": "Leawood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Rice Gallery of Fine Art",
+   "type": "arts_culture",
+   "city": "Leawood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soaring",
+   "type": "arts_culture",
+   "city": "Leawood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eva Reynolds Fine Art Gallery",
+   "type": "arts_culture",
+   "city": "Leawood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A Great Place to Land",
+   "type": "arts_culture",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harmon Park Swale",
+   "type": "historic_site",
+   "city": "Prairie Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marcus Aurelius",
+   "type": "arts_culture",
+   "city": "Westwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "See Red Run",
+   "type": "arts_culture",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ukraine Hedgehog",
+   "type": "arts_culture",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aldi Staircase",
+   "type": "arts_culture",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yellow Bench",
+   "type": "arts_culture",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pylon",
+   "type": "arts_culture",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Damsel in Blue",
+   "type": "arts_culture",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunflowers",
+   "type": "arts_culture",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Surfing 3",
+   "type": "arts_culture",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Growing Peace, Love, and Harmony in KC",
+   "type": "arts_culture",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kinetic Sculpture",
+   "type": "arts_culture",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gateway",
+   "type": "arts_culture",
+   "city": "Leawood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AT&T Pocket Park",
+   "type": "historic_site",
+   "city": "Merriam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled Dango 2009",
+   "type": "arts_culture",
+   "city": "Fairway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Totem 1",
+   "type": "arts_culture",
+   "city": "Fairway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lines of Corona",
+   "type": "arts_culture",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blockhead",
+   "type": "arts_culture",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Strang",
+   "type": "arts_culture",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spirit of Dick Molamphy",
+   "type": "arts_culture",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scourge",
+   "type": "arts_culture",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anytime Laundry",
+   "type": "laundromat",
+   "city": "Westwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rosedale",
+   "type": "arts_culture",
+   "city": "Westwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rosedale Ultra Wash",
+   "type": "laundromat",
+   "city": "Westwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Origin",
+   "type": "arts_culture",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clendening Medical Library & Museum",
+   "type": "library",
+   "city": "Westwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnson County Museum",
+   "type": "museum",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George R. Shlegel Gallery",
+   "type": "arts_culture",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Homesteaders",
+   "type": "arts_culture",
+   "city": "Prairie Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wild Boar of Florence",
+   "type": "arts_culture",
+   "city": "Prairie Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cloud Gate",
+   "type": "arts_culture",
+   "city": "Leawood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mission Market",
+   "type": "farmers_market",
+   "city": "Mission",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rolling Magic",
+   "type": "arts_culture",
+   "city": "Lenexa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cobalt Colts Ambulance",
+   "type": "arts_culture",
+   "city": "Leawood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pride Cleaners",
+   "type": "laundromat",
+   "city": "Lenexa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The White Theatre",
+   "type": "arts_culture",
+   "city": "Leawood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joon-ang Oriental Groceries",
+   "type": "farmers_market",
+   "city": "Merriam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "KC Bier Co",
+   "type": "brewery_distillery",
+   "city": "Lenexa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Olathe Indian Creek Library",
+   "type": "library",
+   "city": "Lenexa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rosedale World War I Memorial Arch",
+   "type": "historic_site",
+   "city": "Westwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central Resource Library",
+   "type": "library",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum at Prairiefire",
+   "type": "museum",
+   "city": "Leawood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oak Park Library",
+   "type": "library",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dykes Library",
+   "type": "library",
+   "city": "Westwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Embracing Heart",
+   "type": "arts_culture",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shawnee Library",
+   "type": "library",
+   "city": "Lake Quivira",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pearl Harbor Park",
+   "type": "historic_site",
+   "city": "Mission",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vox Theatre",
+   "type": "arts_culture",
+   "city": "Westwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Servaes",
+   "type": "brewery_distillery",
+   "city": "Shawnee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Friction Beer Company",
+   "type": "brewery_distillery",
+   "city": "Shawnee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Transport Brewery",
+   "type": "brewery_distillery",
+   "city": "Shawnee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aztec Fine Arts Theater",
+   "type": "arts_culture",
+   "city": "Shawnee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shawnee Town Museum",
+   "type": "museum",
+   "city": "Shawnee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Legler Barn Museum",
+   "type": "museum",
+   "city": "Lenexa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bubble Room Coin Laundry",
+   "type": "laundromat",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union Horse Distilling Co.",
+   "type": "brewery_distillery",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lenexa Coin Laundry",
+   "type": "laundromat",
+   "city": "Lenexa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnson County Library - Lackman",
+   "type": "library",
+   "city": "Lenexa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nerman Museum of Contemporary Art (NMOCA)",
+   "type": "arts_culture",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brew Lab",
+   "type": "brewery_distillery",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Overland Park Cleaners & Shirt Laundry",
+   "type": "laundromat",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Overland Park Historical Society",
+   "type": "museum",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lenexa City Center Library",
+   "type": "library",
+   "city": "Lenexa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clean Laundry",
+   "type": "laundromat",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunshine Fabricare",
+   "type": "laundromat",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clock Tower",
+   "type": "historic_site",
+   "city": "Overland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas City, Kansas Public Library - South Branch Library",
+   "type": "library",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mural",
+   "type": "arts_culture",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cedar Roe Library",
+   "type": "library",
+   "city": "Roeland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas City Automotive Museum",
+   "type": "museum",
+   "city": "Lenexa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Merriam Plaza Library",
+   "type": "library",
+   "city": "Merriam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Broadmoor Ranch House Historic District",
+   "type": "historic_downtown",
+   "city": "Merriam",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Limitless Brewing",
+   "type": "brewery_distillery",
+   "city": "Lenexa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas State Historical Society - Center for Historical Research",
+   "type": "museum",
+   "city": "Menoken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Topeka Art Guild Gallery",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas State Archives and Library",
+   "type": "library",
+   "city": "Menoken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Discovery Center of Kansas",
+   "type": "science_center",
+   "city": "Menoken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trail",
+   "type": "historic_site",
+   "city": "Menoken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmers Market",
+   "type": "farmers_market",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ichabod Statue",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WREN Radio Station Bird Statue",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ichabod Laundra Bar",
+   "type": "laundromat",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A City Alive",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Native Topekan",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Small Colorful Nature",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hispanic Heritage",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City of Gardens",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "There’s No Place Like Home",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Topeka Land of Dreams",
+   "type": "arts_culture",
+   "city": "Menoken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fiesta Skirt",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas Symbols",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Jayhawk State Theatre of Kansas",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Upstage Gallery",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prairie Glass Studio",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beauchamp Gallery Frame's Shop",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Collective Art Gallery",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Topeka Fiber Arts District",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stonewall Gallery",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Foole's Dream Studio",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Topeka Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hide and Seek Wall",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pioneer Women of Kansas",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capitol Dome Sculpture",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas Veterans' Memorial",
+   "type": "historic_site",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abraham Lincoln",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harrington Photography Topeka Kansas",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Happy Basset Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Menoken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hi-Crest Market",
+   "type": "farmers_market",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Breadbasket Farmers Market",
+   "type": "farmers_market",
+   "city": "Menoken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Topeka Farmers Market",
+   "type": "farmers_market",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cedar Crest Mansion",
+   "type": "museum",
+   "city": "Menoken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mabee Library",
+   "type": "library",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Concert Hall",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Topeka and Shawnee County Public Library",
+   "type": "library",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washburn University - Mulvane Art Museum",
+   "type": "museum",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles Curtis House Museum",
+   "type": "museum",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum Of The Kansas National Guard",
+   "type": "museum",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Topeka Civic Theatre & Academy",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas Museum of History",
+   "type": "museum",
+   "city": "Menoken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Overland Station",
+   "type": "museum",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Scarlet Window",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Eclective",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio 831",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J&J Gallery & Bar",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "All War Memorial",
+   "type": "historic_site",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Munn Memorial",
+   "type": "historic_site",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Door Gallery",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas State Museum of History, Archives, and Library",
+   "type": "museum",
+   "city": "Menoken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Unique Expressions",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ballet Folklorico De Topeka",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yeldarb Gallery",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NOTO Community Arts Center",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southwest Traders",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Heartland Orthodox Christian Museum",
+   "type": "museum",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Framewoods of Topeka",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reynolds Lodge",
+   "type": "arts_culture",
+   "city": "Tecumseh",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Legacy Community Arts Center Inc",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Mural Wall of Topeka",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walnut Grove Methodist Episcopal Church",
+   "type": "historic_site",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Print Express",
+   "type": "arts_culture",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Murphy Tractor & Equipment",
+   "type": "farmers_market",
+   "city": "Menoken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Land",
+   "type": "laundromat",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aquablast Laundromat",
+   "type": "laundromat",
+   "city": "Menoken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bookmobile and Library Foundation",
+   "type": "library",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Happy Basset Brewing",
+   "type": "brewery_distillery",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Combat Air Museum",
+   "type": "museum",
+   "city": "Topeka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Excel Cleaners",
+   "type": "laundromat",
+   "city": "Edwardsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Accessible Arts",
+   "type": "arts_culture",
+   "city": "Kansas City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas City, Kansas Public Library",
+   "type": "library",
+   "city": "Kansas City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas City, Kansas Public Library - West Wyandotte Library",
+   "type": "library",
+   "city": "Edwardsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library (Charter #16494)",
+   "type": "library",
+   "city": "Edwardsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MO's Little Library (Charter #118950)",
+   "type": "library",
+   "city": "Edwardsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Stables KCK",
+   "type": "coworking",
+   "city": "Kansas City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sparkle Laundromat",
+   "type": "laundromat",
+   "city": "Kansas City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central Laundromat",
+   "type": "laundromat",
+   "city": "Kansas City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joy Laundromat",
+   "type": "laundromat",
+   "city": "Kansas City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "San Antonio Carniceria y Tortilleria",
+   "type": "farmers_market",
+   "city": "Kansas City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monticello Branch Library",
+   "type": "library",
+   "city": "Edwardsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boot Hill Museum",
+   "type": "museum",
+   "city": "Dodge City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas Teachers Hall of Fame and Gunfighters Wax Museum",
+   "type": "museum",
+   "city": "Dodge City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Doc Holliday Statue",
+   "type": "arts_culture",
+   "city": "Dodge City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wright Park Band Shell",
+   "type": "arts_culture",
+   "city": "Dodge City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Finney County Historical Museum",
+   "type": "museum",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry-Mat",
+   "type": "laundromat",
+   "city": "Holcomb",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hidden Trail Brewing",
+   "type": "brewery_distillery",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Herbert and Bonnie Clutter family memorial",
+   "type": "historic_site",
+   "city": "Holcomb",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "C.J. \"Buffalo\" Jones Statue",
+   "type": "arts_culture",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Liberty Historical marker",
+   "type": "arts_culture",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Finney County Public Library",
+   "type": "library",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Get The Funk Out",
+   "type": "laundromat",
+   "city": "Liberal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Library",
+   "type": "library",
+   "city": "Liberal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mid-America Air Museum",
+   "type": "museum",
+   "city": "Liberal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coronado Museum",
+   "type": "museum",
+   "city": "Liberal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MacKomics Studio",
+   "type": "arts_culture",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Jayhawker at The Eldridge",
+   "type": "arts_culture",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "the percolator",
+   "type": "arts_culture",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cider Gallery",
+   "type": "arts_culture",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DOWNTOWN UPSTAIRS",
+   "type": "arts_culture",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lawrence Beer Company",
+   "type": "brewery_distillery",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Emergency",
+   "type": "arts_culture",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prairie Hills Art Gallery",
+   "type": "arts_culture",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Granada",
+   "type": "arts_culture",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Breezedale",
+   "type": "historic_site",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Relay Race",
+   "type": "arts_culture",
+   "city": "Kanwaka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Victory Eagle-WWI Memorial",
+   "type": "historic_site",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "31st Street Coin Laundry",
+   "type": "laundromat",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lawrence Laundromat",
+   "type": "laundromat",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U.S. Navy Polaris Missile",
+   "type": "historic_site",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hillcrest Laundromat",
+   "type": "laundromat",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chesty Lion",
+   "type": "arts_culture",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moses",
+   "type": "arts_culture",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phog Allen",
+   "type": "historic_site",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lawrence Beer Company",
+   "type": "brewery_distillery",
+   "city": "Kanwaka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas Historical Marker #9 - Lawrence & The Old Trails",
+   "type": "historic_site",
+   "city": "Eudora",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Stag Brewery",
+   "type": "brewery_distillery",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cardinal Cleaners",
+   "type": "laundromat",
+   "city": "Eudora",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Jayhawk Nest",
+   "type": "arts_culture",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Douglas County Memorial of Honor",
+   "type": "historic_site",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lawrence Arts Center",
+   "type": "arts_culture",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lawrence Public Library",
+   "type": "library",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Campanile & Carillon",
+   "type": "historic_site",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watson Library",
+   "type": "library",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Natural History Museum",
+   "type": "science_center",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spencer Museum of Art",
+   "type": "museum",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crafton-Preyer Theatre",
+   "type": "arts_culture",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Booth Family Hall of Athletics",
+   "type": "museum",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kenneth Spencer Research Library",
+   "type": "library",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Van Go Mobile Arts",
+   "type": "arts_culture",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spahr Engineering Library",
+   "type": "library",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haskell Cultural Center and Museum",
+   "type": "museum",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tommaney Library",
+   "type": "library",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prairie Park Nature Center",
+   "type": "museum",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Free State Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watkins Museum of History",
+   "type": "museum",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "23rd Street Brewery",
+   "type": "brewery_distillery",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fields and Ivy Brewery",
+   "type": "brewery_distillery",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norge Village Coin Laundry",
+   "type": "laundromat",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lied Center of Kansas",
+   "type": "arts_culture",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theatre Lawrence",
+   "type": "arts_culture",
+   "city": "Kanwaka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crescent Moon Winery",
+   "type": "brewery_distillery",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frank's Corner Coin Laundry",
+   "type": "laundromat",
+   "city": "Lawrence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dorothy Akin Memorial Prairie",
+   "type": "historic_site",
+   "city": "Eudora",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Preceding On",
+   "type": "arts_culture",
+   "city": "Kansas City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Brown",
+   "type": "arts_culture",
+   "city": "Kansas City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Strawberry Hill Museum & Center",
+   "type": "museum",
+   "city": "Kansas City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clark's Court",
+   "type": "arts_culture",
+   "city": "Kansas City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morton Amphitheater",
+   "type": "arts_culture",
+   "city": "Kansas City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Johnson County Law Library",
+   "type": "library",
+   "city": "Olathe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gardner Historical Museum",
+   "type": "museum",
+   "city": "Gardner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sprout",
+   "type": "arts_culture",
+   "city": "Olathe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theb",
+   "type": "arts_culture",
+   "city": "Olathe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cannon",
+   "type": "historic_site",
+   "city": "Olathe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ensor Park and Museum",
+   "type": "museum",
+   "city": "Olathe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trails West",
+   "type": "arts_culture",
+   "city": "Prairie Highlands",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gardner Library",
+   "type": "library",
+   "city": "Gardner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eastgate Laundromat",
+   "type": "laundromat",
+   "city": "Olathe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnson County Library - Blue Valley Branch",
+   "type": "library",
+   "city": "Olathe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Olathe Civic Theatre",
+   "type": "arts_culture",
+   "city": "Olathe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Deaf History, Arts & Culture",
+   "type": "museum",
+   "city": "Olathe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Upper Event Lawn",
+   "type": "arts_culture",
+   "city": "Prairie Highlands",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monticello Community Historical Society",
+   "type": "museum",
+   "city": "Lenexa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bubble Room Laundromat - Olathe",
+   "type": "laundromat",
+   "city": "Olathe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Crow Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Olathe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Olathe Public Library",
+   "type": "library",
+   "city": "Olathe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chestnut Fine Arts Center",
+   "type": "arts_culture",
+   "city": "Olathe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amanda Arnold Arch",
+   "type": "historic_site",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riley County Veterans Memorial",
+   "type": "historic_site",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnny Kaw Statue",
+   "type": "arts_culture",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Class of 1908 Sundial",
+   "type": "historic_site",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bosco Clock Tower",
+   "type": "arts_culture",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Family",
+   "type": "arts_culture",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bluemont Bell",
+   "type": "historic_site",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin Luther King Jr. Bust",
+   "type": "arts_culture",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MANHATTAN",
+   "type": "arts_culture",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "K-State Sesquicentennial Monument",
+   "type": "historic_site",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bill Snyder",
+   "type": "arts_culture",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mark Jilka",
+   "type": "historic_site",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ernie Barrett",
+   "type": "arts_culture",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anotacoes",
+   "type": "arts_culture",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "2008 Tornado Memorial",
+   "type": "historic_site",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hale Library",
+   "type": "library",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beach Museum of Art",
+   "type": "museum",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Speed Wash Laundry",
+   "type": "laundromat",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II Memorial",
+   "type": "historic_site",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wonder Workshop Children's Museum",
+   "type": "museum",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union Pacific Train Depot",
+   "type": "museum",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wolf House Museum",
+   "type": "museum",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flint Hills Discovery Center",
+   "type": "science_center",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riley County Museum",
+   "type": "museum",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Manhattan Public Library",
+   "type": "library",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Hat",
+   "type": "arts_culture",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Manhattan Arts Center",
+   "type": "arts_culture",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Larry Norvell Band Shell and Arts in the Park Stage",
+   "type": "arts_culture",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Schoolhouse",
+   "type": "historic_site",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas Forest Service Honor Grove",
+   "type": "historic_site",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liquid Art Winery",
+   "type": "brewery_distillery",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam War Memorial",
+   "type": "historic_site",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aggieville Brewing",
+   "type": "brewery_distillery",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chautauqua Amphitheater",
+   "type": "arts_culture",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Art and Light",
+   "type": "museum",
+   "city": "Manhattan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whiteford (Price) Archeological Site",
+   "type": "historic_site",
+   "city": "New Cambria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steve Fossett Plaza",
+   "type": "historic_site",
+   "city": "Salina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Original Salina Airport",
+   "type": "historic_site",
+   "city": "Salina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "In Appreciation of Robert J. Paulette, P.E.",
+   "type": "historic_site",
+   "city": "Salina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marty Bender Nature Area Art Exhibit 2",
+   "type": "arts_culture",
+   "city": "Salina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marty Bender Nature Area Art Exhibit 3",
+   "type": "arts_culture",
+   "city": "Salina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marty Bender Nature Area Art Exhibit 1",
+   "type": "arts_culture",
+   "city": "Salina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Salina Public Library",
+   "type": "library",
+   "city": "Salina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stiefel Theatre for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Salina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eric Stein Stage",
+   "type": "arts_culture",
+   "city": "Salina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smoky Hill Museum",
+   "type": "museum",
+   "city": "Salina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Library",
+   "type": "library",
+   "city": "Salina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint John's Military School Historical Museum",
+   "type": "museum",
+   "city": "Salina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers and Sailors Memorial",
+   "type": "historic_site",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pleasant Pheasant",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ad Astra",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ad Astra 2",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmer Time",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Justice of All Trades Lewis",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Community Mural",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bison Trail",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Odin",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Swan Dance",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hutchinson Flag",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peacock in Bloom",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rimmer Learning Resource Center",
+   "type": "library",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reno County Farmers Market",
+   "type": "farmers_market",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Salt City Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Egghead",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "H.D.",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "All Roads Lead to Hutch",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sandhills Brewing",
+   "type": "brewery_distillery",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Family Community Theatre",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hutchinson Art Center",
+   "type": "museum",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Busy Bee Laundry",
+   "type": "laundromat",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Busy Bee Laundry",
+   "type": "laundromat",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Titan Laundry",
+   "type": "laundromat",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wind",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Teck Farms",
+   "type": "farmers_market",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas Cosmosphere and Space Center",
+   "type": "museum",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Strataca",
+   "type": "museum",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hutchinson Public Library",
+   "type": "library",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial",
+   "type": "historic_site",
+   "city": "South Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reno County Museum",
+   "type": "museum",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rainbow Lion",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Create",
+   "type": "arts_culture",
+   "city": "Hutchinson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lewis and Clark Center",
+   "type": "museum",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo Soldier Monument",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lansing Historical Society and Museum",
+   "type": "museum",
+   "city": "Lansing",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Concrete Covered Wagon",
+   "type": "arts_culture",
+   "city": "Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Concrete Steam Engine",
+   "type": "arts_culture",
+   "city": "Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lamp of Knowledge",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frontier Tribute Trail",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BG Benjamin H. Grierson",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "General Colin L. Powell",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "2nd LT Henry Ossian Flipper",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "General Roscoe Robinson Jr.",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Stone Wall",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dwight D. Eisenhower",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Main Parade",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cannon",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Beehive",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Leavenworth",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grant",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Mormon Battalion",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dragoon Barracks",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Blockhouse",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lewis and Clark Trail",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Second Bridge Across The Missouri",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Salt Creek Valley Farms",
+   "type": "farmers_market",
+   "city": "Kickapoo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "General Leavenworth Monument",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort de Cavagnial",
+   "type": "historic_site",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Combined Army Research Library",
+   "type": "library",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frontier Army Museum",
+   "type": "museum",
+   "city": "Fort Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "C W Parker Carousel Museum",
+   "type": "museum",
+   "city": "Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leavenworth County Historical Society Carroll House Museum",
+   "type": "museum",
+   "city": "Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "4th Street Laundromat",
+   "type": "laundromat",
+   "city": "Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leavenworth Public Library",
+   "type": "library",
+   "city": "Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DePaul Library",
+   "type": "library",
+   "city": "Lansing",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lansing Community Library/Lansing Public Works/Lansing CED",
+   "type": "library",
+   "city": "Lansing",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Fred Harvey Museum",
+   "type": "museum",
+   "city": "Leavenworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Emporia Farmers Market",
+   "type": "farmers_market",
+   "city": "Emporia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Site of old ATSF Depot",
+   "type": "historic_site",
+   "city": "Emporia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Emporia Arts Council",
+   "type": "arts_culture",
+   "city": "Emporia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peter Pan",
+   "type": "historic_site",
+   "city": "Emporia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abstract Sculpture",
+   "type": "arts_culture",
+   "city": "Emporia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial to Fallen Educators",
+   "type": "historic_site",
+   "city": "Emporia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Teacher’s Hall of Fame",
+   "type": "museum",
+   "city": "Emporia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Memorial",
+   "type": "historic_site",
+   "city": "Emporia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "All Veterans Memorial",
+   "type": "historic_site",
+   "city": "Emporia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lyon County History Center",
+   "type": "museum",
+   "city": "Emporia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Emporia Granada Theater",
+   "type": "arts_culture",
+   "city": "Emporia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elizabeth Polly (Blue Light Lady)",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Christ & Lamb",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Butler \"Wild Bill\" Hickok Statue",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Geese Statue",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Homesteader",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Street Singer",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas Paraguay Partners",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "To All Who Served",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Train Highway",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas: Don't Spoil It",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watching the Wagons Come In",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pteranodon",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo Bill Cody",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monarch of the Plains",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "FHSU Students",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Lawman",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hadley Memorial",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hereford Bull",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A Place of Peace",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Nun",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pioneer Tower",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Contemplation",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Small Buffalo",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Limestone Christmas Tree",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children Reading",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children of the Heavenly Father",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sternberg Museum of Natural History",
+   "type": "science_center",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fox Theatre",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hays Public Library",
+   "type": "library",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ellis County Historical Society",
+   "type": "museum",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Birth of a Physicist",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Budweiser",
+   "type": "brewery_distillery",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gella's Lb Brewing",
+   "type": "brewery_distillery",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hays Arts Center",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hays Community Theater",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BriefSpace",
+   "type": "coworking",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "27th & Hall Laundromat",
+   "type": "laundromat",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas Merci Boxcar",
+   "type": "museum",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "12th Street Auditorium",
+   "type": "arts_culture",
+   "city": "Hays",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "M65 Atomic Cannon",
+   "type": "historic_site",
+   "city": "Grandview Plaza",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo Soldier Memorial",
+   "type": "historic_site",
+   "city": "Junction City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Junction City and Geary County Law Enforcement Memorial",
+   "type": "historic_site",
+   "city": "Junction City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "State of Kansas Vietnam Veterans Memorial",
+   "type": "historic_site",
+   "city": "Junction City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Mormon Trail (South Fork)",
+   "type": "historic_site",
+   "city": "Grandview Plaza",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wounded Veterans Memorial",
+   "type": "historic_site",
+   "city": "Junction City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "155mm Howitzer",
+   "type": "historic_site",
+   "city": "Grandview Plaza",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1st Infantry Division - Desert Storm Memorial",
+   "type": "historic_site",
+   "city": "Junction City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Junction City Arts Council Gallery",
+   "type": "arts_culture",
+   "city": "Junction City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "C.L. Hoover Opera House",
+   "type": "arts_culture",
+   "city": "Junction City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Geary County Historical Society Museum",
+   "type": "museum",
+   "city": "Junction City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "M113",
+   "type": "historic_site",
+   "city": "Grandview Plaza",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jacob Benton Callen Fountain",
+   "type": "historic_site",
+   "city": "Junction City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cavalry Musuem",
+   "type": "museum",
+   "city": "Grandview Plaza",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dorothy Bramlage Public Library",
+   "type": "library",
+   "city": "Junction City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Starcke House Museum",
+   "type": "museum",
+   "city": "Junction City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Riley Post Library",
+   "type": "library",
+   "city": "Junction City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stone & Sparrow Farm and Mill",
+   "type": "farmers_market",
+   "city": "Melvern",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prairie Museum of Art and History",
+   "type": "museum",
+   "city": "Colby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wheat Jesus",
+   "type": "arts_culture",
+   "city": "Colby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wellington Public Library",
+   "type": "library",
+   "city": "Wellington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chisolm Trail museum",
+   "type": "museum",
+   "city": "Wellington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Panhandle Railroad Museum",
+   "type": "museum",
+   "city": "Wellington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clothes Line",
+   "type": "laundromat",
+   "city": "Council Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Custer Elm",
+   "type": "historic_site",
+   "city": "Council Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seth Hays Home",
+   "type": "historic_site",
+   "city": "Council Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kaw House Reconstructed",
+   "type": "historic_site",
+   "city": "Council Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guardian of the Grove",
+   "type": "arts_culture",
+   "city": "Council Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Madonna of the Trail",
+   "type": "arts_culture",
+   "city": "Council Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Post Office Oak Museum",
+   "type": "museum",
+   "city": "Council Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Post Office Oak",
+   "type": "historic_site",
+   "city": "Council Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Company C 137th Infantry Division",
+   "type": "historic_site",
+   "city": "Council Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ke La Lah Heo's Hut",
+   "type": "historic_site",
+   "city": "Council Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kick A Poo's Hut",
+   "type": "historic_site",
+   "city": "Council Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wah Sko Mi A's Hut",
+   "type": "historic_site",
+   "city": "Council Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Council Grove Public Library",
+   "type": "library",
+   "city": "Council Grove",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

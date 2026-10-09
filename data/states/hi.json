@@ -1,0 +1,2760 @@
+{
+ "state": "HI",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Nāpau Crater Camp Site",
+   "type": "unknown",
+   "town": "Royal Hawaiian Estates, HI",
+   "town_mi": 5.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hanakoa Camping",
+   "type": "unknown",
+   "town": "Haena, HI",
+   "town_mi": 4.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kalalau Camping",
+   "type": "unknown",
+   "town": "Haena, HI",
+   "town_mi": 6.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sugi Grove",
+   "type": "paid_camp",
+   "town": "Wainiha, HI",
+   "town_mi": 6.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "End trail",
+   "type": "unknown",
+   "town": "Wainiha, HI",
+   "town_mi": 8.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hipalau",
+   "type": "unknown",
+   "town": "Waimea, HI",
+   "town_mi": 8.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Waialae",
+   "type": "unknown",
+   "town": "Wainiha, HI",
+   "town_mi": 8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lonomea",
+   "type": "unknown",
+   "town": "Wainiha, HI",
+   "town_mi": 8.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Hale Koa",
+   "type": "paid_camp",
+   "town": "Waimea, HI",
+   "town_mi": 9.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Alan Faye",
+   "type": "paid_camp",
+   "town": "Waimea, HI",
+   "town_mi": 9.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kawaikoi",
+   "type": "paid_camp",
+   "town": "Wainiha, HI",
+   "town_mi": 6.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ka'aha",
+   "type": "unknown",
+   "town": "Pahala, HI",
+   "town_mi": 12.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "’Apua Point",
+   "type": "unknown",
+   "town": "Mauna Loa Estates, HI",
+   "town_mi": 11.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Halapē Campsite",
+   "type": "paid_camp",
+   "town": "Mauna Loa Estates, HI",
+   "town_mi": 11.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Waiʻānapanapa State Park",
+   "type": "paid_camp",
+   "town": "Hana, HI",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trailer Parking",
+   "type": "rv_park",
+   "town": "Wainaku, HI",
+   "town_mi": 3.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Keauhou Campsite",
+   "type": "paid_camp",
+   "town": "Mauna Loa Estates, HI",
+   "town_mi": 11.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Papalaua Wayside Park",
+   "type": "paid_camp",
+   "town": "Waikapu, HI",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Palikū Campground",
+   "type": "paid_camp",
+   "town": "Hana, HI",
+   "town_mi": 9.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hōlua Campground",
+   "type": "paid_camp",
+   "town": "Olinda, HI",
+   "town_mi": 7.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Haleakalā National Park (Cabin Permits)",
+   "type": "paid_camp",
+   "town": "Hana, HI",
+   "town_mi": 10.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Hanalei National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Keālia Pond National Wildlife Refuge",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kīlauea Point National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hawaiian Islands Humpback Whale National Marine Sanctuary",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Papahānaumokuākea Marine National Monument",
+   "type": "swimming",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kakahai‘a National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Petroglyphs in the Park!",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a B.A.R.K. Ranger at Pu'ukohola Heiau National Historic Site",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hōlei Sea Arch",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Haʻakulamanu via Sulphur Banks Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kūpinaʻi Pali (Waldron Ledge)",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Devastation Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Keanakākoʻi",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Footprints Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Puʻuloa Petroglyphs Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Maunaulu via Nāpau Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Nāhuku Lava Tube Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Kahuku: Forested Pit Crater",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Kahuku: Kona Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Kahuku: Kamakapaʻa Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Kahuku: Puʻu o Lokuana",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Kahuku: Palm Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kīlauea Iki Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birdwatching at Kīpukapuaulu",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Halemaʻumaʻu Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Crater Rim Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Moderate Hike into Haleakalā's Crater",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birdwatching at Kaloko-Honokōhau",
+   "type": "birding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the 1871 Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "See Crater Rim Drive and Chain of Craters Road",
+   "type": "scenic_drive",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit the USS Arizona Memorial",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit the Museums",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pacific Historic Parks - Bookstore",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ocean Explorations",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnicking at Kaloko Fishpond",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore the Shoreline",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Play Kōnane",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Relax in the Picnic Area!",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Strenuous Hike Across the Crater Floor",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Jr. Ranger at Pearl Harbor National Memorial",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Short Hike to Leleiwi Overlook",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Moderate Hike to the Crater Edge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Short Hike to Makahiku Falls",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Damien and Marianne of Molokaʻi Education Center",
+   "type": "museum",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Queen Emma Summer Palace",
+   "type": "museum",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Duke Kahanamoku Statue",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hawaii Capital Historic District",
+   "type": "historic_downtown",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "King Kamehameha the Great Statue",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "King Kamehameha V Judiciary History Center",
+   "type": "museum",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chance Meeting",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Royal Hawaiian Theatre",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ehime Maru and USS Greeneville Collision Memorial",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hawaii Children's Discovery Center",
+   "type": "science_center",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moiliili International Friendship Arch",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waikiki Natatorium (World War I Memorial)",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buddah",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Foster Mansion Driveway Lamp",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BoxJelly",
+   "type": "coworking",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "King David Kalakaua",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Island Country Markets",
+   "type": "farmers_market",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Submarine Memorial",
+   "type": "historic_site",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jhamandas Watumull Planetarium",
+   "type": "planetarium",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aloha Stadium Swap Meet",
+   "type": "farmers_market",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kapahulu Xpress Laundromat",
+   "type": "laundromat",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Stones Of Life",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nuuanu Laundry",
+   "type": "laundromat",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eternal Flame for 9/11 Victims",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Duke's Marketplace",
+   "type": "farmers_market",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Father Damien Statue",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Replica of Liberty Bell",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Queen Lili'uokalani Statue",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eternal Flame",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palikū Theatre",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallery ‘Iolani",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "KCC Farmers’ Market",
+   "type": "farmers_market",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Manoa Laundry",
+   "type": "laundromat",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Arizona Bell",
+   "type": "historic_site",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Arizona Anchor",
+   "type": "historic_site",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Remembrance Circle",
+   "type": "historic_site",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hoʻokahi",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Queen Lili'uokalani",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mākaʻa",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brothers in Valor",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amelia Earhart Monument",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "iDo Laundry",
+   "type": "laundromat",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "100th Anniversary of Japanese Immigration to Hawaii",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kumu Kahua Theatre",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Young Museum of Art",
+   "type": "museum",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Blessed William Joseph Chaminade",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kaniakapūpū Ruins",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hyatt Regency Waikiki Farmers Market",
+   "type": "farmers_market",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Honolulu Police Department Museum",
+   "type": "museum",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Operation Red Wings Monument",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confucius (551-479 BC)",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lik",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waikiki Laundromat",
+   "type": "laundromat",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waikiki Hula Mound",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hina-o Na Lani",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Patsy Mink",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Impact Hub",
+   "type": "coworking",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gate of Hope",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hawaii Mission Houses Museum",
+   "type": "museum",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Diamond Head Lighthouse",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hana Koa Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Oklahoma Memorial",
+   "type": "historic_site",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Nevada Memorial",
+   "type": "historic_site",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II Submarine Memorial",
+   "type": "historic_site",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kakaako Street Art",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greetings Tour Mural",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kakaako Farmers Marketplace",
+   "type": "farmers_market",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Campbell Highlander Center Self Service Laundry",
+   "type": "laundromat",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "United Laundry Services",
+   "type": "laundromat",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pualeilani Atrium Shops",
+   "type": "farmers_market",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Princess Kaʻiulani",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Japanese Immigration To Hawaii",
+   "type": "historic_site",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "site of former water feature",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mahatma Gandhi",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lāhui",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Queen Kapi'olani",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Public Art \"Surfer on a Wave\"",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mauka and Kila",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harold Lyon Memorial",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cenotaph for Israel Kamakawiwoʻole",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Salt Lake Laundry",
+   "type": "laundromat",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Julian Foster Memorial",
+   "type": "historic_site",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beer Lab HI Puck's Alley",
+   "type": "brewery_distillery",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frankie's Nursery",
+   "type": "farmers_market",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kanikapila",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr Sun Yat-sen",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ernest Taylor Pyle",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr. Jose Protacio Rizal",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alexander Joy Cartwright Jr. - The Founder of Modern Baseball",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BREW’d craft pub",
+   "type": "brewery_distillery",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aloha Market",
+   "type": "farmers_market",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "I ka Uhiwai o ke Ko'olau",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Supreme Master Ching Hai",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Arizona Memorial",
+   "type": "historic_site",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fleet Admiral Chester William Nimitz, USN",
+   "type": "arts_culture",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Missouri",
+   "type": "museum",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Submarine Hull Ring",
+   "type": "arts_culture",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Risque Theater",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pacific Islands Ocean Exploration Center",
+   "type": "museum",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lē'ahi Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maunakea Marketplace",
+   "type": "farmers_market",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Muliwai",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kona Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Juvenal Gabriel Coito Jr.",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waikīkī Shell Amphitheater",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hamilton Library",
+   "type": "library",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Manoa Valley Theatre",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Manoa Public Library",
+   "type": "library",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Neil S. Blaisdell Concert Hall",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ʻIolani Palace",
+   "type": "museum",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washington Place",
+   "type": "museum",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pacific Fleet Submarine Museum",
+   "type": "museum",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waikiki Shell",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Japanese Cultural Center of Hawaii",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McCully Moiliili Public Library",
+   "type": "library",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capitol Modern",
+   "type": "museum",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cooke Library",
+   "type": "library",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William S. Richardson Law Library",
+   "type": "library",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kennedy Theatre",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sinclair Library",
+   "type": "library",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hawaii Theatre",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Honolulu Beer Works",
+   "type": "brewery_distillery",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kahi Hali'a Aloha Burial Mound",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kakaako Beach Park Amphitheater",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Building 628",
+   "type": "arts_culture",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lama",
+   "type": "library",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pau Hana Market",
+   "type": "farmers_market",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bernice Pauahi Bishop Museum",
+   "type": "museum",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Salt Lake-Moanalua Public Library",
+   "type": "library",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Library for the Blind and Print Disabled",
+   "type": "library",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kea'iwa Heiau",
+   "type": "historic_site",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pearl Harbor Visitor Center Exhibit Galleries: Attack and Road to War",
+   "type": "museum",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Diamond Head Theatre",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kūkaʻōʻō Heiau",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shangri La",
+   "type": "museum",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ke'ehi Lagoon Memorial",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Liljestrand House",
+   "type": "museum",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Honolulu Theatre for Youth @ Tenney Theatre",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Howzit Brewing",
+   "type": "brewery_distillery",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kalihi-Pālama Public Library",
+   "type": "library",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aina Haina Public Library",
+   "type": "library",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sky Gate",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hawaii State Veterans Cemetery",
+   "type": "historic_site",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aiea Public Library",
+   "type": "library",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kaimuki Public Library",
+   "type": "library",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waikiki-Kapahulu Public Library",
+   "type": "library",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liliha Public Library",
+   "type": "library",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lucoral Museum",
+   "type": "museum",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pearl Harbor Memorial Fountain",
+   "type": "historic_site",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "United States Army Museum of Hawaii",
+   "type": "museum",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Galleria Provenza",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pearl Harbor Aviation Museum",
+   "type": "museum",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aquarius",
+   "type": "arts_culture",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aloha Tower Marketplace",
+   "type": "farmers_market",
+   "city": "Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Marketplace",
+   "type": "farmers_market",
+   "city": "Kahe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guest Laundary",
+   "type": "laundromat",
+   "city": "Kahe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guest Laundry",
+   "type": "laundromat",
+   "city": "Kahe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hawaii's Plantation Village",
+   "type": "museum",
+   "city": "Waipahu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ewa 1 Locomotive",
+   "type": "historic_site",
+   "city": "Kapolei",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Utah Memorial",
+   "type": "historic_site",
+   "city": "Waipahu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Honouliuli Internment Camp",
+   "type": "historic_site",
+   "city": "Waipahu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kalaeloa Heritage Park",
+   "type": "historic_site",
+   "city": "Kapolei",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nanakuli Laudromat",
+   "type": "laundromat",
+   "city": "Nānākuli",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kapolei Public Library",
+   "type": "library",
+   "city": "Kapolei",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waipahu Public Library",
+   "type": "library",
+   "city": "Waipahu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ʻEwa Beach Public and School Library",
+   "type": "library",
+   "city": "Ewa Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nanakuli Public Library",
+   "type": "library",
+   "city": "Nānākuli",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Hawai‘i Cultural Center",
+   "type": "arts_culture",
+   "city": "Wainaku",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Naha Stone",
+   "type": "historic_site",
+   "city": "Wainaku",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "King Kamehameha Statue",
+   "type": "historic_site",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flower Market",
+   "type": "farmers_market",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kamehameha",
+   "type": "historic_site",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Hawaiʻi Cultural Center",
+   "type": "museum",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hilo Coast Railway Flag Pole Base",
+   "type": "historic_site",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dreams of Paradise",
+   "type": "arts_culture",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam War Memorial",
+   "type": "historic_site",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tsunami Clock Memorial",
+   "type": "historic_site",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kandi’s Laundromat",
+   "type": "laundromat",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Onomea Museum",
+   "type": "museum",
+   "city": "Pāpa‘ikou",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Laundry Express",
+   "type": "laundromat",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "CoCreate",
+   "type": "coworking",
+   "city": "Wainaku",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kinoole Farmers Market",
+   "type": "farmers_market",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Extreme Exposure",
+   "type": "arts_culture",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kenyan K. Beale Community Robotics Center",
+   "type": "museum",
+   "city": "Wainaku",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hilo Town Market",
+   "type": "farmers_market",
+   "city": "Wainaku",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dan J. Lutkenhouse",
+   "type": "historic_site",
+   "city": "Pāpa‘ikou",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palila",
+   "type": "arts_culture",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wade Morales Photography Gallery",
+   "type": "arts_culture",
+   "city": "Wainaku",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hawaii Science and Technology Museum",
+   "type": "science_center",
+   "city": "Wainaku",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lili'uokalani Gardens",
+   "type": "historic_site",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Police Station",
+   "type": "arts_culture",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palace Theater",
+   "type": "arts_culture",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hilo Farmers Market - Crafts",
+   "type": "farmers_market",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hilo Farmer's Market - Food",
+   "type": "farmers_market",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keaʻau Public and School Library",
+   "type": "library",
+   "city": "Keaʻau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Imiloa Astronomy Center",
+   "type": "planetarium",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pacific Tsunami Museum",
+   "type": "museum",
+   "city": "Wainaku",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tsunami Memorial",
+   "type": "historic_site",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wailoa Center",
+   "type": "museum",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lyman House Memorial Museum",
+   "type": "museum",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hawaii Japanese Center",
+   "type": "museum",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tyke’s Laudromat",
+   "type": "laundromat",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Panaʻewa Farmers Market",
+   "type": "farmers_market",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lyman Museum",
+   "type": "museum",
+   "city": "Hilo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Island Glassworks",
+   "type": "arts_culture",
+   "city": "Kailua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rocky road",
+   "type": "farmers_market",
+   "city": "Waimanalo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windward Laundromat Express",
+   "type": "laundromat",
+   "city": "Kāneʻohe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Launderette",
+   "type": "laundromat",
+   "city": "Waimanalo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Macadamia Farm Outlet",
+   "type": "farmers_market",
+   "city": "Kāneʻohe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kailua Public Library",
+   "type": "library",
+   "city": "Kailua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waimānalo Public and School Library",
+   "type": "library",
+   "city": "Waimanalo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Castle Performing Arts Learning Center",
+   "type": "arts_culture",
+   "city": "Kāneʻohe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "School Library",
+   "type": "library",
+   "city": "Kāneʻohe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kaneohe Public Library",
+   "type": "library",
+   "city": "Kāneʻohe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Otsuji Farm",
+   "type": "farmers_market",
+   "city": "East Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Bunker",
+   "type": "historic_site",
+   "city": "Waimānalo Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dean G. Conklin Plumeria Grover",
+   "type": "historic_site",
+   "city": "East Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles M. Wills Cactus Garden",
+   "type": "historic_site",
+   "city": "East Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "makapu'u Heiau",
+   "type": "historic_site",
+   "city": "Waimānalo Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hawaiʻi Kai Public Library",
+   "type": "library",
+   "city": "East Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pahua Heiau",
+   "type": "historic_site",
+   "city": "East Honolulu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Religious Monument",
+   "type": "historic_site",
+   "city": "Mililani",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Castle",
+   "type": "historic_site",
+   "city": "Wahiawā",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nix Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Aiea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Manoa Honey & Mead",
+   "type": "brewery_distillery",
+   "city": "Wahiawā",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Almas Laundry",
+   "type": "laundromat",
+   "city": "Wahiawā",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wahiawa Laundromat",
+   "type": "laundromat",
+   "city": "Wahiawā",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wahiawa Public Library",
+   "type": "library",
+   "city": "Wahiawā",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pearl City Public Library",
+   "type": "library",
+   "city": "Pearl City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mililani Public Library",
+   "type": "library",
+   "city": "Mililani",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SGT Rodney J. Yano Library",
+   "type": "library",
+   "city": "Kunia Camp",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kukaniloko Birth Stones",
+   "type": "historic_site",
+   "city": "Wahiawā",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iao Theater",
+   "type": "arts_culture",
+   "city": "Wailuku",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maui Marketplace",
+   "type": "farmers_market",
+   "city": "Kahului",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hale Ho'ike'ike at the Bailey House Museum (Maui Historical Society)",
+   "type": "museum",
+   "city": "Wailuku",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maui Swap Meet",
+   "type": "farmers_market",
+   "city": "Kahului",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maui Releasing The Sun",
+   "type": "arts_culture",
+   "city": "Kahului",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Above The Wave",
+   "type": "coworking",
+   "city": "Kahului",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UHMC Library",
+   "type": "library",
+   "city": "Kahului",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kahului Public Library",
+   "type": "library",
+   "city": "Kahului",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maui Okinawa Cultural Center",
+   "type": "museum",
+   "city": "Wailuku",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alexander & Baldwin Sugar Museum",
+   "type": "museum",
+   "city": "Kahului",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kumu Farms",
+   "type": "farmers_market",
+   "city": "Waikapu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pihana Heiau",
+   "type": "historic_site",
+   "city": "Wailuku",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wailuku Public Library",
+   "type": "library",
+   "city": "Wailuku",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Israel Kamakawiwoʻole Memorial Bust",
+   "type": "arts_culture",
+   "city": "Waiʻanae",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sun's Laundromat",
+   "type": "laundromat",
+   "city": "Waiʻanae",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ONO Polynesian Market",
+   "type": "farmers_market",
+   "city": "Waiʻanae",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Speed Wash",
+   "type": "laundromat",
+   "city": "Waiʻanae",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maili Pink Market",
+   "type": "farmers_market",
+   "city": "Waiʻanae",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kaneaki Heiau",
+   "type": "historic_site",
+   "city": "Mākaha Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kuilioloa Heiau",
+   "type": "historic_site",
+   "city": "Waiʻanae",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waianae Public Library",
+   "type": "library",
+   "city": "Waiʻanae",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baldwin Home Museum",
+   "type": "museum",
+   "city": "Lahaina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maui Theatre",
+   "type": "arts_culture",
+   "city": "Lahaina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Colemann Gallery Lahaina",
+   "type": "arts_culture",
+   "city": "Lahaina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Village Galleries",
+   "type": "arts_culture",
+   "city": "Lahaina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hauola Stone",
+   "type": "historic_site",
+   "city": "Lahaina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Living Earth Systems",
+   "type": "farmers_market",
+   "city": "Lahaina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Lahaina Courthouse",
+   "type": "museum",
+   "city": "Lahaina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lahaina Historic District",
+   "type": "historic_downtown",
+   "city": "Lahaina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brick Palace",
+   "type": "historic_site",
+   "city": "Lahaina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kohola Brewery",
+   "type": "brewery_distillery",
+   "city": "Lahaina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Prison",
+   "type": "museum",
+   "city": "Lahaina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Fort",
+   "type": "historic_site",
+   "city": "Lahaina",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin & MacArthur",
+   "type": "arts_culture",
+   "city": "Kāʻanapali",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Captain James Cook, R.N.",
+   "type": "historic_site",
+   "city": "Waimea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waimea Canyon Middle School Library",
+   "type": "library",
+   "city": "Waimea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waimea Public Library",
+   "type": "library",
+   "city": "Waimea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hana Cultural Center and Museum",
+   "type": "museum",
+   "city": "Hana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hana Farms",
+   "type": "farmers_market",
+   "city": "Hana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ohala Heiau",
+   "type": "historic_site",
+   "city": "Hana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hana Fruits & Flowers",
+   "type": "farmers_market",
+   "city": "Hana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Honokalani Cemetary",
+   "type": "historic_site",
+   "city": "Hana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hāna Public and School Library",
+   "type": "library",
+   "city": "Hana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hana Art Barn",
+   "type": "arts_culture",
+   "city": "Hana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fagan's Cross",
+   "type": "historic_site",
+   "city": "Hana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kula Marketplace and Upcountry Deli",
+   "type": "farmers_market",
+   "city": "Kula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "King Kekaulike Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Kula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Volcano Art Center Gallery",
+   "type": "arts_culture",
+   "city": "Volcano",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Volcano Garden Arts",
+   "type": "arts_culture",
+   "city": "Volcano",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lanikai Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Volcano",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Volcano Art Center Niaulani Campus",
+   "type": "arts_culture",
+   "city": "Volcano",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "2400 Degrees Farienheit Glass Gallery & Studio",
+   "type": "arts_culture",
+   "city": "Volcano",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kilauea Military Camp Theater",
+   "type": "arts_culture",
+   "city": "Volcano",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kilauea Military Camp Laundromat",
+   "type": "laundromat",
+   "city": "Volcano",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kilauea Military Camp Laundromat",
+   "type": "laundromat",
+   "city": "Volcano",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Volcano Wash & Dry",
+   "type": "laundromat",
+   "city": "Volcano",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Petroglyphs",
+   "type": "historic_site",
+   "city": "Kailua-Kona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J&K Wash and Go",
+   "type": "laundromat",
+   "city": "Kailua-Kona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Interpretive Center",
+   "type": "museum",
+   "city": "Kailua-Kona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lava Light Galleries",
+   "type": "arts_culture",
+   "city": "Kailua-Kona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kona Farmer's Market",
+   "type": "farmers_market",
+   "city": "Kailua-Kona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kamkahinu",
+   "type": "historic_site",
+   "city": "Kailua-Kona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hale Hoʻokipa Visitor Contact Station",
+   "type": "museum",
+   "city": "Kailua-Kona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hulihe‘e Palace Museum",
+   "type": "museum",
+   "city": "Kailua-Kona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ni'ihao Library & Innovations Center",
+   "type": "library",
+   "city": "Kailua-Kona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kona Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Kailua-Kona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kailua-Kona Public Library",
+   "type": "library",
+   "city": "Kailua-Kona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fish of Hawaiʻi",
+   "type": "arts_culture",
+   "city": "Honalo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lekeleke Burial Grounds",
+   "type": "historic_site",
+   "city": "Honalo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ho’oulu Community Farmers Market",
+   "type": "farmers_market",
+   "city": "Honalo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmhouse",
+   "type": "farmers_market",
+   "city": "Kainaliu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kealakekua Public Library",
+   "type": "library",
+   "city": "Kealakekua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aloha Theatre",
+   "type": "arts_culture",
+   "city": "Kainaliu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Ginger Gallery",
+   "type": "arts_culture",
+   "city": "Kainaliu",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keauhou Hōlua Slide",
+   "type": "historic_site",
+   "city": "Honalo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kapaa Laundromat",
+   "type": "laundromat",
+   "city": "Kapaʻa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coconut Marketplace",
+   "type": "farmers_market",
+   "city": "Wailua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hikina-a-ka-lā Heiau",
+   "type": "historic_site",
+   "city": "Wailua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kukui Heiau",
+   "type": "historic_site",
+   "city": "Wailua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Malae Heiau",
+   "type": "historic_site",
+   "city": "Wailua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hanalei Farmer's Market",
+   "type": "farmers_market",
+   "city": "Hanalei",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waioli Mission House Museum",
+   "type": "museum",
+   "city": "Hanalei",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wave Sculpture",
+   "type": "arts_culture",
+   "city": "Hanalei",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmers Market",
+   "type": "farmers_market",
+   "city": "Hanalei",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kahu Aina Mural by Melinda Morey",
+   "type": "arts_culture",
+   "city": "Princeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weaving Lauhala",
+   "type": "arts_culture",
+   "city": "Princeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "aFeinberg Gallery + FAFO Jewelry",
+   "type": "arts_culture",
+   "city": "Hanalei",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Princeville Public Library",
+   "type": "library",
+   "city": "Princeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mark Daniells Gallery",
+   "type": "arts_culture",
+   "city": "Hanalei",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

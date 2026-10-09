@@ -1,0 +1,7158 @@
+{
+ "state": "IN",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Hardin Ridge",
+   "type": "unknown",
+   "town": "Smithville-Sanders, IN",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hickory Ridge Horse Camp",
+   "type": "unknown",
+   "town": "Heltonville, IN",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Slope Camping",
+   "type": "paid_camp",
+   "town": "Leopold, IN",
+   "town_mi": 6.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jellystone",
+   "type": "rv_park",
+   "town": "Harrodsburg, IN",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "German Ridge Campground",
+   "type": "unknown",
+   "town": "Cloverport, KY",
+   "town_mi": 8.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Richmond KOA",
+   "type": "rv_park",
+   "town": "Spring Grove, IN",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Last Resort Rv Park & Campground",
+   "type": "rv_park",
+   "town": "Nashville, IN",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bozarth Campground and Recreational Resort",
+   "type": "rv_park",
+   "town": "Mount Etna, IN",
+   "town_mi": 5.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Loop campground",
+   "type": "paid_camp",
+   "town": "Smithville-Sanders, IN",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RV Camping Park",
+   "type": "rv_park",
+   "town": "Wabash, IN",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Saddle Lake CG",
+   "type": "unknown",
+   "town": "Leopold, IN",
+   "town_mi": 4.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Campground",
+   "type": "rv_park",
+   "town": "Amity, IN",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Youngs Creek Horsecamp",
+   "type": "unknown",
+   "town": "Paoli, IN",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blackwell Horse Camp",
+   "type": "free_camp",
+   "town": "Heltonville, IN",
+   "town_mi": 6.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mini Mountain Campground",
+   "type": "rv_park",
+   "town": "New Carlisle, IN",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cottonwood Campground",
+   "type": "rv_park",
+   "town": "Ligonier, IN",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Michigan City Campground",
+   "type": "paid_camp",
+   "town": "Trail Creek, IN",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Old Mill Run",
+   "type": "rv_park",
+   "town": "Thorntown, IN",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elkhart RV Resort",
+   "type": "rv_park",
+   "town": "Granger, IN",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Indy Lakes",
+   "type": "rv_park",
+   "town": "Homecroft, IN",
+   "town_mi": 5.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sun Outdoors Lake Rudolph",
+   "type": "paid_camp",
+   "town": "Santa Claus, IN",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mystic Waters Campground",
+   "type": "paid_camp",
+   "town": "Pendleton, IN",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hidden Lake Resort",
+   "type": "rv_park",
+   "town": "Point Isabel, IN",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shades Campground",
+   "type": "paid_camp",
+   "town": "Alamo, IN",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Walnut Ridge Campground",
+   "type": "rv_park",
+   "town": "Westwood, IN",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Paradise Point Campground",
+   "type": "rv_park",
+   "town": "Ridgeville, IN",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stevenson's Point",
+   "type": "rv_park",
+   "town": "Norway, IN",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Timber Lake",
+   "type": "rv_park",
+   "town": "Roanoke, IN",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wildwood Outdoor Escape",
+   "type": "paid_camp",
+   "town": "Hartford City, IN",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Love's RV Hookup",
+   "type": "rv_park",
+   "town": "Leavenworth, IN",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Love's RV Hookup",
+   "type": "rv_park",
+   "town": "Shirley, IN",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Quakertown Campground",
+   "type": "paid_camp",
+   "town": "Lakeshore Resort, IN",
+   "town_mi": 3.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TAILWATER SHELTER 2 (BROOKVILLE LAKE)",
+   "type": "paid_camp",
+   "town": "Brookville, IN",
+   "town_mi": 1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "OVERLOOK SHELTER (BROOKVILLE LAKE)",
+   "type": "paid_camp",
+   "town": "Brookville, IN",
+   "town_mi": 1.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trading Post Outfitters",
+   "type": "paid_camp",
+   "town": "Mongo, IN",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buzzards Roost",
+   "type": "unknown",
+   "town": "Alton, IN",
+   "town_mi": 2.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Backpack Camp",
+   "type": "paid_camp",
+   "town": "Alamo, IN",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Canoe Camp",
+   "type": "paid_camp",
+   "town": "Alamo, IN",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverview Campground",
+   "type": "rv_park",
+   "town": "Milton, KY",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Amish Log Cabin Lodging & Campground",
+   "type": "rv_park",
+   "town": "Scott, IN",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yogi Bear's Jellystone Park Camp Resort",
+   "type": "rv_park",
+   "town": "Snow Lake, IN",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Campground Loop A",
+   "type": "paid_camp",
+   "town": "Spencer, IN",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Campground Loop B",
+   "type": "paid_camp",
+   "town": "Spencer, IN",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Primitive Camping Area",
+   "type": "paid_camp",
+   "town": "Spencer, IN",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Youth Tent Area",
+   "type": "paid_camp",
+   "town": "Spencer, IN",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yogi Bear’s Jellystone Park Camp Resort",
+   "type": "rv_park",
+   "town": "Portage, IN",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grandview Bend",
+   "type": "rv_park",
+   "town": "Howe, IN",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Campgrounds",
+   "type": "rv_park",
+   "town": "Goshen, IN",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grand Trails RV Park",
+   "type": "rv_park",
+   "town": "Corydon, IN",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "VIP RV Lot",
+   "type": "rv_park",
+   "town": "Speedway, IN",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Fish-N-Campground",
+   "type": "rv_park",
+   "town": "Mulberry, IN",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Delaware Campground",
+   "type": "rv_park",
+   "town": "Delaware, IN",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shipshewana South Campground",
+   "type": "rv_park",
+   "town": "Shipshewana, IN",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Holiday",
+   "type": "rv_park",
+   "town": "Vistula, IN",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sand Creek Campground",
+   "type": "paid_camp",
+   "town": "Chesterton, IN",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Batesville KOA",
+   "type": "rv_park",
+   "town": "Penntown, IN",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pike Lake Campground",
+   "type": "rv_park",
+   "town": "Warsaw, IN",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Campground No.1",
+   "type": "rv_park",
+   "town": "Snow Lake, IN",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Kampground",
+   "type": "rv_park",
+   "town": "Crawfordsville, IN",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Terre Haute Campground",
+   "type": "paid_camp",
+   "town": "Lakewood, IN",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": true
+  },
+  {
+   "name": "Izaak Walton League (Peru)",
+   "type": "paid_camp",
+   "town": "Peru, IN",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Angola / Hogback Lake KOA Holiday",
+   "type": "rv_park",
+   "town": "Holiday Woods, IN",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Prairie Creek Reservoir Campgrounds",
+   "type": "rv_park",
+   "town": "Selma, IN",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Monroe Village",
+   "type": "rv_park",
+   "town": "Smithville-Sanders, IN",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "La Porte County Fairgrounds Campground",
+   "type": "paid_camp",
+   "town": "La Porte, IN",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Weather Rock Campground",
+   "type": "paid_camp",
+   "town": "Haubstadt, IN",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Oak Lake RV Resort",
+   "type": "rv_park",
+   "town": "Roselawn, IN",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buffalo Ridge Campground",
+   "type": "paid_camp",
+   "town": "Nashville, IN",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Raccoon Ridge Campground",
+   "type": "paid_camp",
+   "town": "Nashville, IN",
+   "town_mi": 4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pla-Mor Campground",
+   "type": "rv_park",
+   "town": "Bremen, IN",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yogi Bear's Jellystone Park",
+   "type": "rv_park",
+   "town": "Donaldson, IN",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yogi Bear's Jellystone Park",
+   "type": "rv_park",
+   "town": "Barbee, IN",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eby Pines RV Park and Campground",
+   "type": "rv_park",
+   "town": "Vistula, IN",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Maple Ridge Campground",
+   "type": "rv_park",
+   "town": "Lakeville, IN",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shirley Creek Horse Camp",
+   "type": "unknown",
+   "town": "Prospect, IN",
+   "town_mi": 4.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hidden Lake Paradise Campground",
+   "type": "rv_park",
+   "town": "Donaldson, IN",
+   "town_mi": 5.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dry Dock Campground",
+   "type": "rv_park",
+   "town": "Mount Etna, IN",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Beyonder Getaway Rising Sun",
+   "type": "rv_park",
+   "town": "Belleview, KY",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Hoosier National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Muscatatuck National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Patoka River National Wildlife Refuge and Management Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Brookville Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cagles Mill Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ohio River - Cannelton Pool",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "J. Edward Roush Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cecil M. Harden Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mississinewa Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ohio River - Newburgh Pool",
+   "type": "boating",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Patoka Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Salamonie Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ohio River - John T. Myers Lock and Dam",
+   "type": "boating",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Big Oaks National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Diana Dunes Dare",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "One Hour Excursions",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Lincoln Living Historical Farm",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Half Day Adventures",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Full Day Expeditions",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Swimming at Indiana Dunes West Beach",
+   "type": "swimming",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Horseback Riding at Indiana Dunes",
+   "type": "horseback_riding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore Biological Diversity in the Park",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Stop by the Memorial Visitor Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Trail of Twelve Stones",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Boyhood Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Nora Branch Indianapolis-Marion County Public Library",
+   "type": "library",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Belfry Theatre",
+   "type": "arts_culture",
+   "city": "Noblesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Palladium at the Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Royal Laundry",
+   "type": "laundromat",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mary",
+   "type": "arts_culture",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BoomBozz Pizza & Taphouse",
+   "type": "brewery_distillery",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Books & Brews",
+   "type": "brewery_distillery",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Upland brewery - CARMEL TAP HOUSE",
+   "type": "brewery_distillery",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blind Owl Brewery",
+   "type": "brewery_distillery",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peace Water Winery",
+   "type": "brewery_distillery",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Asia Market",
+   "type": "farmers_market",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carmel Farmers Market",
+   "type": "farmers_market",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roots' School of Theatre",
+   "type": "arts_culture",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beacon Bloom",
+   "type": "arts_culture",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sun King Spirits",
+   "type": "brewery_distillery",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Cat",
+   "type": "arts_culture",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Deer Creek Brewery",
+   "type": "brewery_distillery",
+   "city": "Noblesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Digital Media Lab",
+   "type": "library",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Firecrafter Plaza",
+   "type": "historic_site",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bier Brewery North",
+   "type": "brewery_distillery",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MashCraft Brewing",
+   "type": "brewery_distillery",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Noblesville Farmers Market",
+   "type": "farmers_market",
+   "city": "Noblesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First Merchants Pavilion",
+   "type": "arts_culture",
+   "city": "Noblesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Policeman",
+   "type": "historic_site",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morning Sun",
+   "type": "arts_culture",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Platinum Living Fine Art Gallery",
+   "type": "arts_culture",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "2Toms Brewing",
+   "type": "brewery_distillery",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gold Star Family Memorial",
+   "type": "historic_site",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blazing the Trail",
+   "type": "arts_culture",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nickle Plate Trail Ampetheatre",
+   "type": "arts_culture",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Siege the Day",
+   "type": "arts_culture",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Voodoo Brewing",
+   "type": "brewery_distillery",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Custom Framing and Fine Art Gallery",
+   "type": "arts_culture",
+   "city": "McCordsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bier Brewery & Tap Ropm",
+   "type": "brewery_distillery",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Raymond \"Bud\" Moulder Valor Memorial",
+   "type": "historic_site",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Binford Farmers Market",
+   "type": "farmers_market",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Grotto",
+   "type": "arts_culture",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lawrence Branch Library",
+   "type": "library",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mud Creek Players",
+   "type": "arts_culture",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Booth Tarkington Theater",
+   "type": "arts_culture",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carmel Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Miniature Houses and Other Collections",
+   "type": "museum",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carmel Clay Public Library",
+   "type": "library",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hamilton East Public Library",
+   "type": "library",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Immaculate Heart of Mary",
+   "type": "arts_culture",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sophia Square",
+   "type": "historic_downtown",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nickel Plate Amphitheater",
+   "type": "arts_culture",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Music Pavilion",
+   "type": "live_music",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Conner Prairie Museum",
+   "type": "museum",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spencer Farm",
+   "type": "farmers_market",
+   "city": "Noblesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barley Island Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Noblesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carmel Clay History Museum",
+   "type": "museum",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Four Day Ray Brewing",
+   "type": "brewery_distillery",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trails End Fire Bowl",
+   "type": "arts_culture",
+   "city": "Fishers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ruoff Home Mortgage Music Center",
+   "type": "arts_culture",
+   "city": "Noblesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flix Brewhouse",
+   "type": "brewery_distillery",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Auditorium",
+   "type": "arts_culture",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carmel Fire Buffs and Museum",
+   "type": "museum",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Primeval Brewing",
+   "type": "brewery_distillery",
+   "city": "Noblesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evan Lurie Gallery",
+   "type": "arts_culture",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hamilton County Artists' Association",
+   "type": "arts_culture",
+   "city": "Noblesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hoosier Salon",
+   "type": "arts_culture",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spencer Farm Winery",
+   "type": "brewery_distillery",
+   "city": "Noblesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clay Township Museum & Library",
+   "type": "museum",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indianapolis Public Library-Ft Ben Branch",
+   "type": "library",
+   "city": "McCordsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "CoHatch Carmel",
+   "type": "coworking",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indianapolis Public Library Glendale Branch",
+   "type": "library",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indiana Military Veterans Hall of Fame",
+   "type": "museum",
+   "city": "McCordsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "PFC Daniel D. Bruce",
+   "type": "historic_site",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yellow Straw",
+   "type": "historic_site",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Monument",
+   "type": "historic_site",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWI Monument",
+   "type": "historic_site",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Army Veterans Memorial",
+   "type": "historic_site",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Air Force Veterans Memorial",
+   "type": "historic_site",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "POW-MIA Veterans Memorial",
+   "type": "historic_site",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Merchant Marine Memorial",
+   "type": "historic_site",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coast Guard Memorial",
+   "type": "historic_site",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marine Corps Veterans Memorial",
+   "type": "historic_site",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SFC Gallery",
+   "type": "arts_culture",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greenwood Memorial Chapel",
+   "type": "historic_site",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Monument",
+   "type": "historic_site",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WW2 Monument \"Victory Was Ours\"",
+   "type": "historic_site",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warren Nelson Plaque",
+   "type": "historic_site",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rawson Memorial Stone Plaque",
+   "type": "historic_site",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rotary Centennial Monument",
+   "type": "historic_site",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Duet",
+   "type": "arts_culture",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beverly Shores Depot Museum and Art Gallery",
+   "type": "museum",
+   "city": "Beverly Shores",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dunes Summer Theatre",
+   "type": "arts_culture",
+   "city": "Michiana Shores",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Lighthouse Museum",
+   "type": "museum",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lubeznik Center for the Arts",
+   "type": "arts_culture",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shoreline Brewery",
+   "type": "brewery_distillery",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barker Mansion",
+   "type": "museum",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Details Dry Cleaning & Laundry",
+   "type": "laundromat",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guy Foreman Bicentennial Amphitheater",
+   "type": "arts_culture",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burn-Em Brewing",
+   "type": "brewery_distillery",
+   "city": "Michiana Shores",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laporte Library Coolspring Branch",
+   "type": "library",
+   "city": "Trail Creek",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burn 'Em Brewing",
+   "type": "brewery_distillery",
+   "city": "Michigan City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Model T Museum",
+   "type": "museum",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seal of the County Commissioners",
+   "type": "arts_culture",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Madonna of the Trail",
+   "type": "historic_site",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joseph Moore Museum",
+   "type": "museum",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St Francis of Assisi",
+   "type": "arts_culture",
+   "city": "Spring Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trader Buck's Flea Market",
+   "type": "farmers_market",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richmond Art Museum",
+   "type": "museum",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civic Hall Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wayne County Historical Museum",
+   "type": "museum",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morrison-Reeves Library",
+   "type": "library",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "I Am Old Glory Memorial",
+   "type": "historic_site",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richmond Civic Theatre",
+   "type": "arts_culture",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centerville Public Library",
+   "type": "library",
+   "city": "Centerville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baylough's Grocery Store (historical)",
+   "type": "farmers_market",
+   "city": "Valparaiso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chicago Street Theater",
+   "type": "arts_culture",
+   "city": "Valparaiso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Porter County Jail",
+   "type": "museum",
+   "city": "Valparaiso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orville Redenbacher",
+   "type": "arts_culture",
+   "city": "Valparaiso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Community Garden",
+   "type": "farmers_market",
+   "city": "Valparaiso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Journeyman Distillery at the American Factory",
+   "type": "brewery_distillery",
+   "city": "Valparaiso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lambstone Cellars Winery",
+   "type": "brewery_distillery",
+   "city": "Valparaiso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Coin Laundry",
+   "type": "laundromat",
+   "city": "Valparaiso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LadyBug Laundry",
+   "type": "laundromat",
+   "city": "Valparaiso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sea of Monsters Brewery",
+   "type": "brewery_distillery",
+   "city": "Valparaiso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Christopher Center for Library and Information Resources",
+   "type": "library",
+   "city": "Valparaiso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blockhead Beerworks",
+   "type": "brewery_distillery",
+   "city": "Valparaiso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "South Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Opera House",
+   "type": "arts_culture",
+   "city": "Valparaiso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northwest Health Amphitheater",
+   "type": "arts_culture",
+   "city": "Valparaiso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valparaiso Branch Library",
+   "type": "library",
+   "city": "Valparaiso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Porter County Museum",
+   "type": "museum",
+   "city": "Valparaiso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Haven Branch Library",
+   "type": "library",
+   "city": "South Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anderson's Winery",
+   "type": "brewery_distillery",
+   "city": "Valparaiso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Meridian Street Historic District",
+   "type": "historic_downtown",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Northside Historic District",
+   "type": "historic_downtown",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wayne Branch Indianapolis-Marion County Public Library",
+   "type": "library",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Indianapolis Branch Indianapolis-Marion County Public Library",
+   "type": "library",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spades Park Branch Indianapolis-Marion County Public Library",
+   "type": "library",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Infozone Branch Indianapolis-Marion County Public Library",
+   "type": "library",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indianapolis Public Library - Flanner House Branch",
+   "type": "library",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Madam Walker Legacy Center",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stratum Pier",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Funky Bones",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Team Building (Align)",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Indianapolis National Memorial",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Obelisk",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Lawn at White River State Park",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Congressional Medal of Honor Memorial",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fabric Care Center Cleaners & Laundry",
+   "type": "laundromat",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pan",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mpozi",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Titan",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monumentalment IV",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ascent the Wind",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Twisted House",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dawnsong",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Imploding Cube",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Totem",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Slightly Romanesque/Newhall 43",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butler Bulldog",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Above and Below",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Antique Wellhead",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bench Around the Lake",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Copy of Diana of Versailles",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Diana with Dog",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Female and Male Herm",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "La Hermana del Hombre Bóveda",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LOVE",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sacred Heart of Jesus",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chilly Water Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East 38th Street Library Branch - Indianapolis Marion-County Public Library",
+   "type": "library",
+   "city": "Warren Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LITEBoxIN-- ISL",
+   "type": "library",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brick Head 3",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ann Dancing",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reclamation",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Landmark for Peace Memorial",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Care/Don’t Care",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Syrinx",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abraham Lincoln or Seated Lincoln",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indianapolis War Memorial",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue",
+   "type": "arts_culture",
+   "city": "Beech Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Circle Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ISP Memorial",
+   "type": "historic_site",
+   "city": "Warren Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crispus Attucks Museum",
+   "type": "museum",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indiana State Police Museum",
+   "type": "museum",
+   "city": "Warren Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fountain Square Brewery",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Koelschip",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MashCraft",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Snake Pit",
+   "type": "arts_culture",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sylvia Likens Memorial",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newfields",
+   "type": "museum",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fallen Officer Memorial Tree",
+   "type": "historic_site",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Homeless Jesus",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "50 years anniversery flower bed",
+   "type": "historic_site",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Gate/West Gate",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cannon Ball Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guggman Haus 46th Street",
+   "type": "brewery_distillery",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Upland College Avenue Tasting Room",
+   "type": "brewery_distillery",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Adult Dinosaur Skeleton",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Child Dinosaur Skeletons",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gavin-Divergence",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Christopher Columbus",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Washington",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lux Aeterna",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Time Flow",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Natural State Provisions",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ash & Elm Cider Company",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washington Irving",
+   "type": "arts_culture",
+   "city": "Warren Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Loom",
+   "type": "brewery_distillery",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Irving Theater",
+   "type": "arts_culture",
+   "city": "Warren Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harrison Center for the Arts",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Interdependence Sculpture",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eckert & Ross Fine Art",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alloy",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Linwood Laundry",
+   "type": "laundromat",
+   "city": "Warren Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indianapolis Fire Fighters Museum",
+   "type": "museum",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tony Ray Laundromat",
+   "type": "laundromat",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry & Tan Connection",
+   "type": "laundromat",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "the Archivist",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Irvington Coworking",
+   "type": "coworking",
+   "city": "Warren Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Urban Temple",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mitohseenionki",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forest Manor Interurban Station",
+   "type": "historic_site",
+   "city": "Warren Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The HiFi",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "School 15 Arch",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hilbert Circle Theater",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DAR Obelisk",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Office Plex Business Development Center",
+   "type": "coworking",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Industrious",
+   "type": "coworking",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Car Museum",
+   "type": "museum",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centerpoint Brewing",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Full Circle 9 Gallery",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cheerie Joy Studios",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "8th Day",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas A. Hendricks Monument",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abraham Lincoln",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert Dale Owen Memorial",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coal Miner",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Westward Journey",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Workers' Memorial",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Young Abe Lincoln",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Victory",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Whitcomb",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oliver P. Morton",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Henry Harrison",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Rogers Clark",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peyton Manning",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ash & Elm Cider",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ray Bradbury Center",
+   "type": "museum",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Torso Fragment",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Entangled",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Totem",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Silver Fall",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The District Theatre",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Crooked Creek School",
+   "type": "historic_site",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trolleybus Loop",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indianapolis Flag Photo Spot",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Let's Play Ball",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The American Bison",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Circle Garden",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Beginnings",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prime Commonality",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sentinel 3",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Tent",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Intergalactic",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harmony",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rhino Arch",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Proposal",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flora Metallica",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portal Majestic",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yellow Butterfly",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hard Truth Distilling Co.",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Passo Drugs",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DeHaan Family Forum",
+   "type": "historic_site",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Patrick",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Tobias Theater",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Five Brushstrokes",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "This is NOT a Refuge",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kinemotion",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pollinator Pavilion",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oracle of Intimation",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indianapolis Motor Speedway Hall of Fame & Museum",
+   "type": "museum",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lilly House",
+   "type": "museum",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indianapolis Museum of Art",
+   "type": "museum",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Park of the Laments",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Free Basket",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NCAA Hall of Champions",
+   "type": "museum",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eiteljorg Museum",
+   "type": "museum",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central Library - Indianapolis Marion-County Public Library",
+   "type": "library",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Krannert Memorial Library",
+   "type": "library",
+   "city": "Beech Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Christel DeHaan Fine Arts Center",
+   "type": "arts_culture",
+   "city": "Beech Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eli Lilly Replica Lab",
+   "type": "museum",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University Library",
+   "type": "library",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pheonix Theater",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "IndyFringe Theatre",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Joseph Brewery",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sun King",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Easley Winery",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Metazoa Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Laundry",
+   "type": "laundromat",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ignition Arts, LLC",
+   "type": "arts_culture",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "React | Formerly: Young Actors Theatre",
+   "type": "arts_culture",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indiana Medical History Museum",
+   "type": "museum",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indiana Medical History Museum",
+   "type": "museum",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Holcomb Observatory and Planetarium",
+   "type": "planetarium",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Upland Brewing",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garfield Park Arts Center",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McCallister Center",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garfield Park Branch Indianapolis-Marion County Public Library",
+   "type": "library",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tube Factory Artspace",
+   "type": "arts_culture",
+   "city": "Beech Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hook's Drug Store",
+   "type": "museum",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Speak Easy",
+   "type": "coworking",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Restful Place",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indianapolis Art Center",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Empire Towers",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confluence",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "totems",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Persephone",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dickenson Four Seasons Garden",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Vogue",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indianapolis-Marion County Public Library: College Avenue Branch",
+   "type": "library",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Washington Branch Indianapolis-Marion County Public Library",
+   "type": "library",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Childrens Museum",
+   "type": "museum",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Irvington Branch Indianapolis-Marion County Public Library",
+   "type": "library",
+   "city": "Warren Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spades Park Branch Library",
+   "type": "library",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fresh for You Market",
+   "type": "farmers_market",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Hall",
+   "type": "museum",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indiana World War Memorial",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers and Sailors Monument",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old National Centre",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indiana State Library",
+   "type": "library",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indiana Historical Society",
+   "type": "museum",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kurt Vonnegut Museum and Library",
+   "type": "museum",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indiana Repertory Theater",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beech Grove Public Library",
+   "type": "library",
+   "city": "Beech Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ruckus Makerspace",
+   "type": "coworking",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "CO Hatch Polk Stables",
+   "type": "coworking",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Fork Whiskey Co.",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Speedway Public Library",
+   "type": "library",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio B Creative Exchange",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Daredevil Brewing",
+   "type": "brewery_distillery",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gun from Battle Ship",
+   "type": "historic_site",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Speedway Historic District",
+   "type": "historic_downtown",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Praxiar Surface Technologies Library",
+   "type": "library",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Woods Speedway",
+   "type": "brewery_distillery",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Circle City Whiskey Co.",
+   "type": "brewery_distillery",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "VIP Center for Businesswomen",
+   "type": "coworking",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TaxMan CityWay",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monster Gallery",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bona Thompson Memorial Center",
+   "type": "library",
+   "city": "Warren Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guggman Haus Brewery",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Patina",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indianapolis Movement Arts Collective",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Re:Public",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Studio B/Side",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Listen Hear",
+   "type": "arts_culture",
+   "city": "Beech Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garfield Brewery",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vault",
+   "type": "coworking",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indy's Teeny Statue Of Liberty Museum",
+   "type": "museum",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "10 East Arts HUB",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1000 Words",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "THE OZONE B/SIDE",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Emerson Theater",
+   "type": "arts_culture",
+   "city": "Warren Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Community Coin Laundromat",
+   "type": "laundromat",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scrubbing Bubbles Coin Laundry",
+   "type": "laundromat",
+   "city": "Warren Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indy Convergence",
+   "type": "arts_culture",
+   "city": "Speedway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haughville Branch Indianapolis-Marion County Public Library",
+   "type": "library",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Neighborhood Laundries Inc",
+   "type": "laundromat",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Michigan Road Library",
+   "type": "library",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crown Hill Waiting Station",
+   "type": "museum",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martindale-Brightwood Branch",
+   "type": "library",
+   "city": "Warren Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry & Tan Connection",
+   "type": "laundromat",
+   "city": "Warren Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Whitcomb Riley Home",
+   "type": "museum",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hotel Tango",
+   "type": "brewery_distillery",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fountain Square Clay Center",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Intermissions Plaza",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indiana 9/11 Memorial",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Taggart Memorial Amphitheatre",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indianapolis Public Library-West Perry Branch",
+   "type": "library",
+   "city": "Homecroft",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Everwise Ampitheater",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oliver P. Morton",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indiana Law Enforcement and Fire Fighters Memorial",
+   "type": "historic_site",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sidney and Lois Eskenazi Fine Arts Center",
+   "type": "arts_culture",
+   "city": "Indianapolis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indianapolis Opera",
+   "type": "arts_culture",
+   "city": "Rocky Ripple",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Wynnedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnny Appleseed Gravesite",
+   "type": "historic_site",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peerless Cleaners",
+   "type": "laundromat",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abraham Lincoln: The Hoosier Youth",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Monument",
+   "type": "historic_site",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Flyer",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quake",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moses and St. Paul",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Aqueduct Club Monument",
+   "type": "historic_site",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Perry A. Randall",
+   "type": "historic_site",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Law Enforcement / Firefighters Memorial",
+   "type": "historic_site",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "End of Watch",
+   "type": "historic_site",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Last Alarm",
+   "type": "historic_site",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Turtle",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Agnes Hamilton",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alice Hamilton",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edith Hamilton",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Major General Anthony Wayne",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Our Lady",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richardville",
+   "type": "historic_site",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Muse",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Piggy",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cultural Sprouts",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rivers Curves",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wunderkammer Company",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Draft Taproom & Coffee",
+   "type": "brewery_distillery",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BKD Express Laundromat",
+   "type": "laundromat",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lawton",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Komodo Dragon Statue",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Convergence",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "breath",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "David N. Foster",
+   "type": "historic_site",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spirit Of Saint Francis",
+   "type": "historic_site",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sera",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Police Memorial",
+   "type": "historic_site",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crack The Whip",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "People Walking",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guitar Experiment",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Three Rivers Sculpture",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Otter",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Birds",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jumpin' Fish",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cow Box",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kekionga",
+   "type": "historic_site",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carr Coworking",
+   "type": "coworking",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chapman's Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orangutan Statue",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Learners",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oculus",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Wayne Improv",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Science Central",
+   "type": "science_center",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allen County Public Library - Main",
+   "type": "library",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Embassy Theatre",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Helmke Library",
+   "type": "library",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John H. Bass Mansion",
+   "type": "museum",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mimi and Ian Rolland Art and Visual Communication Center",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgetown Branch ACPL.",
+   "type": "library",
+   "city": "New Haven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Wayne History Museum",
+   "type": "museum",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fire fighter's museum",
+   "type": "museum",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allen County Public Library - Dupont Branch",
+   "type": "library",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Foellinger Theatre",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Wayne Museum of Art",
+   "type": "museum",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wayne and Barbara Kroemer Library",
+   "type": "library",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crossings",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lifestarts",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Diocesan Museum",
+   "type": "museum",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Castle Gallery",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allen County Public Library - Waynedale Branch",
+   "type": "library",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allen County Public Library - Aboite Branch",
+   "type": "library",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allen County Public Library - Tecumseh Branch",
+   "type": "library",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northside Galleries",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hop River Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arena Dinner Theater",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arthur R. Smith Memorial",
+   "type": "historic_site",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allen County Veterans Memorial",
+   "type": "historic_site",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allen County Public Library - Little Turtle Branch",
+   "type": "library",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic West Main Street Farmers Market",
+   "type": "farmers_market",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allen County Public Library - Pontiac Branch",
+   "type": "library",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allen County Public Library - Shawnee",
+   "type": "library",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Way Laundry",
+   "type": "laundromat",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veteran's National Memorial Shrine & Museum",
+   "type": "museum",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "YLNI Farmers Market",
+   "type": "farmers_market",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USF Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "C2G Music Hall",
+   "type": "arts_culture",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mad Anthony Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forest Park Boulevard Historic District",
+   "type": "historic_downtown",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Anthony Boulevard Historic District",
+   "type": "historic_downtown",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Landing Historic District",
+   "type": "historic_downtown",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quick Stop Laundry",
+   "type": "laundromat",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fortlandia Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "GnomeTown Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cook's Orchard Store",
+   "type": "farmers_market",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weigand Yard",
+   "type": "live_music",
+   "city": "Fort Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alhambra Theater",
+   "type": "arts_culture",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Victory Theatre",
+   "type": "arts_culture",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesker Park Ampitheater",
+   "type": "arts_culture",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chieftan's Hut",
+   "type": "historic_site",
+   "city": "Melody Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mound B",
+   "type": "historic_site",
+   "city": "Melody Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mound H",
+   "type": "historic_site",
+   "city": "Melody Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mound C",
+   "type": "historic_site",
+   "city": "Melody Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mound E",
+   "type": "historic_site",
+   "city": "Melody Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mound F",
+   "type": "historic_site",
+   "city": "Melody Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mound A",
+   "type": "historic_site",
+   "city": "Melody Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elizabeth Rose Seng",
+   "type": "historic_site",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sarah M. Puckett",
+   "type": "historic_site",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anthony \"Tony\" Russ",
+   "type": "historic_site",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1937 Flood",
+   "type": "arts_culture",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Victory Laundry Delivery",
+   "type": "laundromat",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Evansville Mural",
+   "type": "arts_culture",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tony's Art",
+   "type": "arts_culture",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bent Twig",
+   "type": "arts_culture",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Screaming Eagle",
+   "type": "arts_culture",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joseph E. O'Daniel",
+   "type": "historic_site",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "11-6-05 Tornado Memorial",
+   "type": "historic_site",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evansville African American Museum",
+   "type": "museum",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Branch Library",
+   "type": "library",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central Library",
+   "type": "library",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Damsel Brew Pub",
+   "type": "brewery_distillery",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Library",
+   "type": "library",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Redbank Library",
+   "type": "library",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civic Theatre",
+   "type": "arts_culture",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Willard Library",
+   "type": "library",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Angel Mounds State Historic Site",
+   "type": "museum",
+   "city": "Melody Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Don's Coin Laundry",
+   "type": "laundromat",
+   "city": "Melody Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evansville Museum",
+   "type": "museum",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wesselman Nature Preserve Amphitheater",
+   "type": "arts_culture",
+   "city": "Melody Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oaklyn Branch Library",
+   "type": "library",
+   "city": "Melody Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "EVPL North Park Branch",
+   "type": "library",
+   "city": "Highland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Magic Meadow Stage",
+   "type": "arts_culture",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's Museum of Evansville",
+   "type": "museum",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Foundry on Main",
+   "type": "coworking",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haynie's Corner Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reitz Home Museum",
+   "type": "museum",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Performance Center",
+   "type": "arts_culture",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "STAGEtwo@321",
+   "type": "arts_culture",
+   "city": "Melody Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barker Brewhouse",
+   "type": "brewery_distillery",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rice Library",
+   "type": "library",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Joe County Public Library, Main Branch",
+   "type": "library",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Bend Museum of Art",
+   "type": "museum",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers and Sailors Civil War Monument",
+   "type": "historic_site",
+   "city": "Mishawaka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Labyrinth",
+   "type": "arts_culture",
+   "city": "Roseland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bowen Library",
+   "type": "library",
+   "city": "Mishawaka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "HealthWorks! Kids' Museum",
+   "type": "museum",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Crossroads\" sculpture",
+   "type": "arts_culture",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Seed",
+   "type": "arts_culture",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Throne",
+   "type": "arts_culture",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Two Lines Oblique",
+   "type": "arts_culture",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Griffon",
+   "type": "arts_culture",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hanging Screen Sculpture #18",
+   "type": "arts_culture",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maquette for Wing Generator",
+   "type": "arts_culture",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tracery",
+   "type": "arts_culture",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fern Temple IV",
+   "type": "arts_culture",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Single Winged Figure on Plinth",
+   "type": "arts_culture",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mishawaka Sports Museum",
+   "type": "museum",
+   "city": "Mishawaka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Word of Life Mural",
+   "type": "arts_culture",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Educators",
+   "type": "arts_culture",
+   "city": "Mishawaka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Founder's Circle",
+   "type": "arts_culture",
+   "city": "Mishawaka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Better Homes of South Bend",
+   "type": "historic_site",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Holy Family Statue",
+   "type": "arts_culture",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Penn CPA",
+   "type": "arts_culture",
+   "city": "Mishawaka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frank Leahy",
+   "type": "arts_culture",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lou Holtz",
+   "type": "arts_culture",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Knute Rockne",
+   "type": "arts_culture",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heron Monument",
+   "type": "historic_site",
+   "city": "Indian Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Indiana Whiskey Company",
+   "type": "brewery_distillery",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indiana Dinosaur Museum",
+   "type": "museum",
+   "city": "Roseland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burton's Laundry",
+   "type": "laundromat",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indiana Territorial Line",
+   "type": "historic_site",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freedom Memorial",
+   "type": "historic_site",
+   "city": "Roseland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DeBartolo Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's Museum of South Bend",
+   "type": "museum",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morris Performing Arts Center",
+   "type": "arts_culture",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmer's Market",
+   "type": "farmers_market",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kern Branch",
+   "type": "library",
+   "city": "Mishawaka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tutt Branch Public Library",
+   "type": "library",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Snite Museum",
+   "type": "museum",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cushwa-Leighton Library",
+   "type": "library",
+   "city": "Roseland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Schurz Library",
+   "type": "library",
+   "city": "Mishawaka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Bend Civic Theatre",
+   "type": "arts_culture",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The History Museum",
+   "type": "museum",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Oliver Mansion",
+   "type": "museum",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Studebaker National Museum",
+   "type": "museum",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "German Township Branch Library",
+   "type": "library",
+   "city": "Roseland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clark Memorial Fountain",
+   "type": "historic_site",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Francis Library",
+   "type": "library",
+   "city": "Indian Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Park Branch Public Library",
+   "type": "library",
+   "city": "Mishawaka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Outdoor Stage",
+   "type": "arts_culture",
+   "city": "Mishawaka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harris Branch Public Library",
+   "type": "library",
+   "city": "Indian Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mishawaka-Penn-Harris Public Library",
+   "type": "library",
+   "city": "Mishawaka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burton's",
+   "type": "laundromat",
+   "city": "Mishawaka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LaSalle Branch",
+   "type": "library",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LangLab",
+   "type": "arts_culture",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bittersweet Branch Library",
+   "type": "library",
+   "city": "Mishawaka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art + Elements",
+   "type": "arts_culture",
+   "city": "Mishawaka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Raclin Murphy Museum of Art",
+   "type": "museum",
+   "city": "Notre Dame",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil Rights Heritage Center",
+   "type": "museum",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Western Branch",
+   "type": "library",
+   "city": "South Bend",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zionsville Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Rogers Clark",
+   "type": "historic_site",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oliver P Morton",
+   "type": "historic_site",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Obelisk",
+   "type": "historic_site",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flute Player",
+   "type": "arts_culture",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monolith",
+   "type": "historic_site",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beulah Chanley Memorial",
+   "type": "historic_site",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stone Wheel",
+   "type": "arts_culture",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Uptown at West Clay",
+   "type": "arts_culture",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hopwood Cellars",
+   "type": "brewery_distillery",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Girl with Puppy",
+   "type": "arts_culture",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beulah C. and Jesse H. Cox",
+   "type": "arts_culture",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dedication Plaque",
+   "type": "historic_site",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Junction Tap Room",
+   "type": "brewery_distillery",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Noble Order Brewery",
+   "type": "brewery_distillery",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Storytime Frogs",
+   "type": "arts_culture",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garden Pillar",
+   "type": "arts_culture",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brown Pillar",
+   "type": "arts_culture",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hussey-Mayfield Memorial Public Library",
+   "type": "library",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beef and Boards",
+   "type": "arts_culture",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "China Famrs Inc",
+   "type": "farmers_market",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westfield Public Library",
+   "type": "library",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centerpiece Amphitheater",
+   "type": "arts_culture",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joyce Winner West Branch",
+   "type": "library",
+   "city": "Carmel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "COhatch Zionsville",
+   "type": "coworking",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sullivan Munce Cultural Center",
+   "type": "museum",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Urban Vines Winery & Brewery",
+   "type": "brewery_distillery",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1205 Distillery",
+   "type": "brewery_distillery",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AFCA Antique Fan Museum",
+   "type": "museum",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Field Brewing",
+   "type": "brewery_distillery",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westfield Washington Library",
+   "type": "library",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TIme Flies Antiques",
+   "type": "farmers_market",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monon Memorial Plaque",
+   "type": "historic_site",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peau Rouge Indiana",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hoagy Carmichael Sculpture",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indiana Arc",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Large quarry remnants",
+   "type": "historic_site",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Herman B Wells Statue",
+   "type": "historic_site",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theodore Rose Well House",
+   "type": "historic_site",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sample Gates",
+   "type": "historic_site",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bloomington Waters",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bloomington Banquet",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Animal Island",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pygmalion's Art Supplies \"Red Studio\"",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bluetip Billiards",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William and Gayle Cook Music Library",
+   "type": "library",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Captain Kathryn Janeway",
+   "type": "historic_site",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Human Brain",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Light Totem",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Axis",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red, Blond, Black, and Olive",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miller-Showers Park Renovation - 2003",
+   "type": "historic_site",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Highland Village Laundry",
+   "type": "laundromat",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plaza West Laundry",
+   "type": "laundromat",
+   "city": "Clear Creek",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Conrad Prebys Amphitheater",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Indiana Memorial",
+   "type": "historic_site",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Herman B Wells Library",
+   "type": "library",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monroe County Public Library",
+   "type": "library",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Musical Arts Center",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sidney and Lois Eskenazi Museum of Art",
+   "type": "museum",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William H. Mathers Museum of World Cultures",
+   "type": "museum",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "IU Auditorium",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lee Norvelle Theatre and Drama Center",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lilly Library",
+   "type": "library",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buskirk Chumley Theater",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bloomington Community Farmers' Market",
+   "type": "farmers_market",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monroe County History Center",
+   "type": "museum",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Mill",
+   "type": "coworking",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WonderLab Museum",
+   "type": "museum",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Upland Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monroe County Public Library",
+   "type": "library",
+   "city": "Ellettsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Tap",
+   "type": "brewery_distillery",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cardinal Spirits",
+   "type": "brewery_distillery",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Works & Ultra Tanning",
+   "type": "laundromat",
+   "city": "Clear Creek",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Farmer House Museum",
+   "type": "museum",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Showalter Fountain",
+   "type": "arts_culture",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wylie House Museum",
+   "type": "museum",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elizabeth Sage Costume Collection",
+   "type": "museum",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butler Winery & Vineyard",
+   "type": "brewery_distillery",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butler Winery & Vineyard",
+   "type": "brewery_distillery",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "17th Street Coin Laundry",
+   "type": "laundromat",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heartwork Brewing",
+   "type": "brewery_distillery",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quick Clean Coin Laundry",
+   "type": "laundromat",
+   "city": "Bloomington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monroe County Public Library",
+   "type": "library",
+   "city": "Clear Creek",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marktown Historic District",
+   "type": "historic_downtown",
+   "city": "East Chicago",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "State Street Commercial Historic District",
+   "type": "historic_downtown",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Griffith-Calumet Township Branch Library",
+   "type": "library",
+   "city": "Griffith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "3 Floyds Brewpub",
+   "type": "brewery_distillery",
+   "city": "Munster",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tadeusz Kościuszko",
+   "type": "arts_culture",
+   "city": "East Chicago",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam War Monument",
+   "type": "historic_site",
+   "city": "Munster",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean War Monument",
+   "type": "historic_site",
+   "city": "Munster",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II Monument",
+   "type": "historic_site",
+   "city": "Munster",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Persian Gulf War Monument",
+   "type": "historic_site",
+   "city": "Munster",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forest-Ivanhoe Historic District",
+   "type": "historic_downtown",
+   "city": "Munster",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indi-Illi Parkway Historic District",
+   "type": "historic_downtown",
+   "city": "Munster",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forest-Southview Historic District",
+   "type": "historic_downtown",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forest-Moraine Historic District",
+   "type": "historic_downtown",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pullman-Standard Historic District",
+   "type": "historic_downtown",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glendale Park Historic District",
+   "type": "historic_downtown",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Small Stone Henge Monument",
+   "type": "historic_site",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whiting Veterans Memorial",
+   "type": "historic_site",
+   "city": "Whiting",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flick Statue",
+   "type": "arts_culture",
+   "city": "Highland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spirit of Highland Memorial",
+   "type": "historic_site",
+   "city": "Highland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bulldog Brewery",
+   "type": "brewery_distillery",
+   "city": "Whiting",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "General Casimir Pulaski",
+   "type": "historic_site",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fuzzyline Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Highland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr. Martin Luther King, Jr.",
+   "type": "historic_site",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benjamin Harrison",
+   "type": "historic_site",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln Funeral Train Historic Marker",
+   "type": "historic_site",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "United We Stand",
+   "type": "arts_culture",
+   "city": "East Chicago",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Purdue University Northwest Library",
+   "type": "library",
+   "city": "Highland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lake County Public Library, Griffith-Calumet Branch",
+   "type": "library",
+   "city": "Griffith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Combs Addition Historic District",
+   "type": "historic_downtown",
+   "city": "East Chicago",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fresh Laundromat",
+   "type": "laundromat",
+   "city": "Griffith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Artist's Den - Walk-in Ceramic Studio",
+   "type": "arts_culture",
+   "city": "Highland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Promise You Art House",
+   "type": "arts_culture",
+   "city": "Highland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fresh Laundromat",
+   "type": "laundromat",
+   "city": "Highland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Byway Brewery",
+   "type": "brewery_distillery",
+   "city": "Highland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodmar Laundromat",
+   "type": "laundromat",
+   "city": "Munster",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "3 Floyds Brewing",
+   "type": "brewery_distillery",
+   "city": "Munster",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Chicago Public Library Pastrick Branch",
+   "type": "library",
+   "city": "East Chicago",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Highway of Flags Servicemen's Memorial",
+   "type": "historic_site",
+   "city": "Highland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Highland Branch Library",
+   "type": "library",
+   "city": "Highland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Chicago Public Library Main Branch",
+   "type": "library",
+   "city": "East Chicago",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Pavilion at Wolf Lake Memorial Park",
+   "type": "arts_culture",
+   "city": "Whiting",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bulldog Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Whiting",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mascot Hall of Fame",
+   "type": "museum",
+   "city": "Whiting",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Center for Visual and Performing Arts",
+   "type": "arts_culture",
+   "city": "Munster",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio 659",
+   "type": "arts_culture",
+   "city": "Whiting",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whiting Public Library",
+   "type": "library",
+   "city": "Whiting",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Schrage Mansion",
+   "type": "museum",
+   "city": "Whiting",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Munster Branch Library",
+   "type": "library",
+   "city": "Munster",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "18th Street Brewery",
+   "type": "brewery_distillery",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hammond Public Library",
+   "type": "library",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Taylor Center of Natural History",
+   "type": "science_center",
+   "city": "Cicero",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Humanities, Social Sciences and Education (HSSE) Library",
+   "type": "library",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mathematical Sciences Library",
+   "type": "library",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Cultural Center Library",
+   "type": "library",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parrish Library of Management & Economics",
+   "type": "library",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterinary Medical Library",
+   "type": "library",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Loeb Playhouse",
+   "type": "arts_culture",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Footprints in History",
+   "type": "historic_site",
+   "city": "Battle Ground",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Native American Village",
+   "type": "museum",
+   "city": "Battle Ground",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grateful Heart Gallery and Gifts",
+   "type": "arts_culture",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Square Root",
+   "type": "arts_culture",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Captured Spanish Cannon",
+   "type": "historic_site",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lilies",
+   "type": "arts_culture",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saturn",
+   "type": "arts_culture",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jupiter",
+   "type": "arts_culture",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Travelogue",
+   "type": "arts_culture",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Granville",
+   "type": "historic_site",
+   "city": "Shadeland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Facing",
+   "type": "arts_culture",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shadeland School",
+   "type": "historic_site",
+   "city": "Shadeland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Unfinished Block P",
+   "type": "arts_culture",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Uranus",
+   "type": "arts_culture",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Purdue Statue",
+   "type": "arts_culture",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Giraffes",
+   "type": "arts_culture",
+   "city": "Shadeland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stone figure",
+   "type": "arts_culture",
+   "city": "Shadeland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "T Rex",
+   "type": "arts_culture",
+   "city": "Shadeland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pluto",
+   "type": "arts_culture",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "When Dreams Dance",
+   "type": "arts_culture",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Library of Engineering and Science",
+   "type": "library",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tippecanoe County Public Library Book Return Box",
+   "type": "library",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Envisioning Tomorrow",
+   "type": "arts_culture",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ouabache",
+   "type": "arts_culture",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Purdue Farmers Market",
+   "type": "farmers_market",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hot Pursuit",
+   "type": "arts_culture",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fowler Hall",
+   "type": "arts_culture",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artists Own",
+   "type": "arts_culture",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Inspired Fire",
+   "type": "arts_culture",
+   "city": "Shadeland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parakeets",
+   "type": "arts_culture",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Teays River Brewing",
+   "type": "brewery_distillery",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Friendly Market Laundromat",
+   "type": "laundromat",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wine Night Meeting",
+   "type": "brewery_distillery",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Lafayette Public Library",
+   "type": "library",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tippecanoe Battlefield Museum",
+   "type": "museum",
+   "city": "Battle Ground",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tippecanoe Battlefield Memorial",
+   "type": "historic_site",
+   "city": "Battle Ground",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hicks Undergraduate Library (HIKS)",
+   "type": "library",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tippecanoe Public Library - Klondike Branch",
+   "type": "library",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Slayter Center for Performing Arts",
+   "type": "arts_culture",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tippecanoe County Public Library",
+   "type": "library",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Long Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Crown Mini-Museum",
+   "type": "museum",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmhouse Museum",
+   "type": "museum",
+   "city": "Battle Ground",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Farm at Prophetstown",
+   "type": "museum",
+   "city": "Battle Ground",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tippecanoe County Amphitheater",
+   "type": "arts_culture",
+   "city": "Battle Ground",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ivy Tech Library",
+   "type": "library",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Haan Museum of Indiana Art",
+   "type": "museum",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Museum of Lafayette",
+   "type": "museum",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tippecanoe Country Public Library Wynandotte Branch",
+   "type": "library",
+   "city": "Dayton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civic Theatre of Greater Lafayette",
+   "type": "arts_culture",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Five Points Fire Station Museum",
+   "type": "museum",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tippecanoe County Historical Association",
+   "type": "museum",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beau Jardin Laundry Facility",
+   "type": "laundromat",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monument to the Confederated Tribes",
+   "type": "historic_site",
+   "city": "Battle Ground",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wildcat Creek Winery",
+   "type": "brewery_distillery",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "People's Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tippecanoe County Public Library - Wea Prairie Branch",
+   "type": "library",
+   "city": "Shadeland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shower House",
+   "type": "shower",
+   "city": "Dayton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brandon C. Bass Art",
+   "type": "arts_culture",
+   "city": "Dayton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ouiatenon Blockhouse",
+   "type": "museum",
+   "city": "Shadeland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lafayette Farmer's Market",
+   "type": "farmers_market",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Lafayette Farmers Market",
+   "type": "farmers_market",
+   "city": "West Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Fifth Avenue Apartments Historic District",
+   "type": "historic_downtown",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Van Buren Terrace Historic District",
+   "type": "historic_downtown",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hobart Carnegie Library",
+   "type": "library",
+   "city": "Hobart",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Horace Mann",
+   "type": "historic_downtown",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elbert H. Gary Monument",
+   "type": "arts_culture",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miller Beach Farmers Market",
+   "type": "farmers_market",
+   "city": "Lake Station",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fusion",
+   "type": "arts_culture",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gary Roosevelt High School",
+   "type": "historic_site",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Michael Jackson Memorial Stone",
+   "type": "historic_site",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mayor Richard G. Hatcher Monuument",
+   "type": "arts_culture",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Polk Street Terraces Historic District",
+   "type": "historic_downtown",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monroe Terrace Historic District",
+   "type": "historic_downtown",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jackson–Monroe Terraces Historic District",
+   "type": "historic_downtown",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Polk Street Concrete Cottage Historic District",
+   "type": "historic_downtown",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morningside",
+   "type": "historic_downtown",
+   "city": "Ross",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Father Marquette Monument",
+   "type": "arts_culture",
+   "city": "Lake Station",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Octave Chanute",
+   "type": "arts_culture",
+   "city": "Lake Station",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tuskegee Airmen",
+   "type": "arts_culture",
+   "city": "Lake Station",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southernmost Point of Lake Michigan",
+   "type": "historic_site",
+   "city": "Ogden Dunes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City Methodist Church",
+   "type": "historic_site",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln Street Historic District",
+   "type": "historic_downtown",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eskilson Historic District",
+   "type": "historic_downtown",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jefferson Street Historic District",
+   "type": "historic_downtown",
+   "city": "Ross",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southernmost Point of Lake Michigan",
+   "type": "historic_site",
+   "city": "Lake Station",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bathhouse",
+   "type": "shower",
+   "city": "Ogden Dunes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gary Public Library and Cultural Center",
+   "type": "library",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John W. Anderson Library/Conference Center",
+   "type": "library",
+   "city": "Ross",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Michael Jackson Childhood Home",
+   "type": "museum",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gary Land Company Building",
+   "type": "museum",
+   "city": "Gary",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hobart Branch Library",
+   "type": "library",
+   "city": "Hobart",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glen Theater",
+   "type": "arts_culture",
+   "city": "Ross",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ace Cleaners",
+   "type": "laundromat",
+   "city": "Ross",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nelson Algren Museum",
+   "type": "museum",
+   "city": "Lake Station",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lake Street Gallery",
+   "type": "arts_culture",
+   "city": "Lake Station",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gary Public Library: Carter G Woodson Branch",
+   "type": "library",
+   "city": "Lake Station",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miller Beach Performance Theater",
+   "type": "arts_culture",
+   "city": "Lake Station",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marshall J. Gardner Center for the Arts",
+   "type": "arts_culture",
+   "city": "Lake Station",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nelson Algren 616 Sound Stage",
+   "type": "arts_culture",
+   "city": "Lake Station",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "18th Street Brewery",
+   "type": "brewery_distillery",
+   "city": "Lake Station",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John F. Kennedy Branch Gary Public Library",
+   "type": "library",
+   "city": "Ross",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Grant Theatre",
+   "type": "arts_culture",
+   "city": "Ross",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paul H. Douglas Center for Environmental Education",
+   "type": "museum",
+   "city": "Lake Station",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lake Station-New Chicago Branch Library",
+   "type": "library",
+   "city": "Lake Station",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Merrillvilles Flea Market",
+   "type": "farmers_market",
+   "city": "Ross",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sweets & Suds",
+   "type": "laundromat",
+   "city": "Griffith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steuben County Soldier's Monument",
+   "type": "historic_site",
+   "city": "Angola",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center For Performing Arts",
+   "type": "arts_culture",
+   "city": "Angola",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fire Circle",
+   "type": "arts_culture",
+   "city": "Angola",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monon Town and Township Public Library",
+   "type": "library",
+   "city": "Monon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Viet Hua Food Market",
+   "type": "farmers_market",
+   "city": "Southport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southport Branch - Indianapolis Public Library",
+   "type": "library",
+   "city": "Southport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry & Tan Connection",
+   "type": "laundromat",
+   "city": "Southport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Park 100 Round Garden",
+   "type": "historic_site",
+   "city": "Zionsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Revolution War Memorial",
+   "type": "historic_site",
+   "city": "Spencer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Cannons",
+   "type": "historic_site",
+   "city": "Spencer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Owen County War Memorial",
+   "type": "historic_site",
+   "city": "Spencer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers Memorial Pavilion",
+   "type": "historic_site",
+   "city": "Spencer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Owen County Courthouse",
+   "type": "historic_site",
+   "city": "Spencer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Owen County (Indiana) War Memorial",
+   "type": "historic_site",
+   "city": "Spencer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Owen County Art Guild",
+   "type": "arts_culture",
+   "city": "Spencer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Comfort Station B",
+   "type": "shower",
+   "city": "Spencer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peden barn",
+   "type": "historic_site",
+   "city": "Spencer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Owen County Heritage and Culture Center",
+   "type": "museum",
+   "city": "Spencer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Owen County Public Library",
+   "type": "library",
+   "city": "Spencer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Spencer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Joe Palooka",
+   "type": "historic_site",
+   "city": "Oolitic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "10 Commandments Tablets",
+   "type": "historic_site",
+   "city": "Bedford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stone Crucifix",
+   "type": "arts_culture",
+   "city": "Bedford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Site of the Bedford Branch of the State Bank of Indiana",
+   "type": "historic_site",
+   "city": "Bedford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bedford Courthouse Square Historic District",
+   "type": "historic_site",
+   "city": "Bedford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Theatre of Bedford",
+   "type": "arts_culture",
+   "city": "Bedford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Otis park audiotheatere",
+   "type": "arts_culture",
+   "city": "Bedford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Appleacres",
+   "type": "farmers_market",
+   "city": "Bedford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dutchtown Laundromat",
+   "type": "laundromat",
+   "city": "Bedford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wiley Art Gallery",
+   "type": "arts_culture",
+   "city": "Bedford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bedford Public Library",
+   "type": "library",
+   "city": "Bedford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lawrence County Historical Society",
+   "type": "museum",
+   "city": "Bedford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hwy 37 Flea Market",
+   "type": "farmers_market",
+   "city": "Bedford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anytime Laundry",
+   "type": "laundromat",
+   "city": "Bedford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tyson Library",
+   "type": "library",
+   "city": "Versailles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tuttle Orchard",
+   "type": "farmers_market",
+   "city": "McCordsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles and Lorraine Sandor",
+   "type": "historic_site",
+   "city": "Dune Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bill and Fran Meyer",
+   "type": "historic_site",
+   "city": "Dune Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indiana Dunes Environmental Learning Center",
+   "type": "museum",
+   "city": "Porter",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nike Missile Silos",
+   "type": "historic_site",
+   "city": "Porter",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tremont (New City West)",
+   "type": "historic_site",
+   "city": "Dune Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "4th Street Theater",
+   "type": "arts_culture",
+   "city": "Porter",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Monument",
+   "type": "historic_site",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Train Car",
+   "type": "historic_site",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Street Art",
+   "type": "arts_culture",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ben Franklin",
+   "type": "arts_culture",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sitting Ben Franklin",
+   "type": "arts_culture",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnson Center for The Arts",
+   "type": "arts_culture",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hamilton Library",
+   "type": "library",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Franklin Branch Library",
+   "type": "library",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnson County Museum of History",
+   "type": "museum",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "JCPL Services Center",
+   "type": "library",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Youngs Creek Ampitheater",
+   "type": "arts_culture",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Claus",
+   "type": "arts_culture",
+   "city": "Santa Claus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Claus",
+   "type": "arts_culture",
+   "city": "Santa Claus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Claus Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Santa Claus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "High Dive Theater",
+   "type": "arts_culture",
+   "city": "Santa Claus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Claus Museum",
+   "type": "museum",
+   "city": "Santa Claus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Paul's German Evangelical Church",
+   "type": "museum",
+   "city": "Santa Claus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic Santa Claus Post Office",
+   "type": "museum",
+   "city": "Santa Claus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brown County Library",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nashville Farmer's Market",
+   "type": "farmers_market",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brown County Art Guild",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brown County Music Center",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brown County Art Gallery",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hard Truth Distilling Co.",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

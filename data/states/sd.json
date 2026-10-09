@@ -1,0 +1,2699 @@
+{
+ "state": "SD",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Picnic Spring Campground",
+   "type": "paid_camp",
+   "town": "Buffalo, SD",
+   "town_mi": 20.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Reva Gap Campground",
+   "type": "paid_camp",
+   "town": "Prairie City, SD",
+   "town_mi": 17.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Fox Campground",
+   "type": "paid_camp",
+   "town": "Lead, SD",
+   "town_mi": 14.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mountain View Campground (SD)",
+   "type": "paid_camp",
+   "town": "Spearfish, SD",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sage Creek Campground (Badlands)",
+   "type": "paid_camp",
+   "town": "Wall, SD",
+   "town_mi": 10.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whitetail Campground (SD)",
+   "type": "paid_camp",
+   "town": "Hill City, SD",
+   "town_mi": 12.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ditch Creek Campground",
+   "type": "paid_camp",
+   "town": "Hill City, SD",
+   "town_mi": 13.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hanna Campground",
+   "type": "paid_camp",
+   "town": "Lead, SD",
+   "town_mi": 6.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stockade Lake Campground South",
+   "type": "paid_camp",
+   "town": "Custer, SD",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Legion Lake Campground",
+   "type": "paid_camp",
+   "town": "Custer, SD",
+   "town_mi": 6.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bismark Lake Campground",
+   "type": "paid_camp",
+   "town": "Custer, SD",
+   "town_mi": 4.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Boxelder Forks Campground",
+   "type": "paid_camp",
+   "town": "Piedmont, SD",
+   "town_mi": 8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dalton Lake Campground",
+   "type": "paid_camp",
+   "town": "Piedmont, SD",
+   "town_mi": 4.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "French Creek Campground (SD)",
+   "type": "paid_camp",
+   "town": "Fairburn, SD",
+   "town_mi": 9.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Castle Peak Campground",
+   "type": "paid_camp",
+   "town": "Hill City, SD",
+   "town_mi": 12.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Center Lake Campground Upper Loop",
+   "type": "paid_camp",
+   "town": "Keystone, SD",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Alkali Creek Campground",
+   "type": "paid_camp",
+   "town": "Blucksberg Mountain, SD",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "R&R RV Park Campground",
+   "type": "rv_park",
+   "town": "Mitchell, SD",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Melgaard Park Campground",
+   "type": "paid_camp",
+   "town": "Aberdeen, SD",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Richmond Lake Campground",
+   "type": "paid_camp",
+   "town": "Mina, SD",
+   "town_mi": 7.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Richmond Lake Group Area Camping",
+   "type": "paid_camp",
+   "town": "Mina, SD",
+   "town_mi": 8.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "American Creek Campground",
+   "type": "paid_camp",
+   "town": "Chamberlain, SD",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Park Campground (SD)",
+   "type": "paid_camp",
+   "town": "Colonial Pine Hills, SD",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spokane Creek Cabins & Campground",
+   "type": "paid_camp",
+   "town": "Keystone, SD",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Center Lake Campground Lower Loop",
+   "type": "paid_camp",
+   "town": "Keystone, SD",
+   "town_mi": 6.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Flandreau Municipal Park Campground",
+   "type": "paid_camp",
+   "town": "Flandreau, SD",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Waubay City Campground",
+   "type": "paid_camp",
+   "town": "Waubay, SD",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Maxwell Park Campground",
+   "type": "paid_camp",
+   "town": "Arlington, SD",
+   "town_mi": 0.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Northland Park Campground",
+   "type": "paid_camp",
+   "town": "Arlington, SD",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Memorial Park County Campground",
+   "type": "paid_camp",
+   "town": "Morningside, SD",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Ball Park Campground",
+   "type": "paid_camp",
+   "town": "Canton, SD",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hieb Memorial Park Campground",
+   "type": "paid_camp",
+   "town": "Marion, SD",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Freeman City Park Campground",
+   "type": "paid_camp",
+   "town": "Freeman, SD",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Roubaix Lake Campground",
+   "type": "paid_camp",
+   "town": "Lead, SD",
+   "town_mi": 11.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Steamboat Rock Tent Camping Area",
+   "type": "paid_camp",
+   "town": "Johnson Siding, SD",
+   "town_mi": 5.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Strawberry Tent Camping Area",
+   "type": "paid_camp",
+   "town": "Lead, SD",
+   "town_mi": 4.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "24 Express Campground",
+   "type": "paid_camp",
+   "town": "Wasta, SD",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sunrise Campground & RV Park",
+   "type": "rv_park",
+   "town": "Wasta, SD",
+   "town_mi": 0.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stockade Lake Group Campground",
+   "type": "paid_camp",
+   "town": "Custer, SD",
+   "town_mi": 4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fish n Fry Campground",
+   "type": "paid_camp",
+   "town": "Lead, SD",
+   "town_mi": 5.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ace RV Park",
+   "type": "rv_park",
+   "town": "Gregory, SD",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kickstands Campground",
+   "type": "paid_camp",
+   "town": "Blucksberg Mountain, SD",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Three Flags RV Park",
+   "type": "rv_park",
+   "town": "Summerset, SD",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Mulberry Bend Overlook",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wind Cave Natural Entrance",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Blackberry Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Black Hills National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fort Meade Recreation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Angostura Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Belle Fourche Reservoir - Rocky Point Recreation Area",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Deerfield Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "James Diversion Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pactola Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Shadehill Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Huron Wetland Management District",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lacreek National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Andes National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Madison Wetland Management District",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sand Lake National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sand Lake Wetland Management District",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Waubay National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Waubay Wetland Management District",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Sharpe",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cottonwood Springs Lake",
+   "type": "boating",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cold Brook Lake",
+   "type": "boating",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Francis Case",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lewis and Clark Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Oahe",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tour the Front-line of the Cold War at Delta-01",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at Wind Cave",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Take a Cave Tour",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "See Prairie Dogs in Their Prairie Dog Towns",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit The Sculptor's Studio",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Consider Deterrence and Destruction at Delta-09",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wall Drug",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Apatosaurus",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stegosaurus",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trachodon",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Triceratops",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tyranosaurus Rex",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Uplifted Winery",
+   "type": "brewery_distillery",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ronald Reagan",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dwight D. Eisenhower",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Berlin Wall at Memorial Park",
+   "type": "historic_site",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abraham Lincoln",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Buchanan",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theodore Roosevelt",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Franklin Pierce",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John F. Kennedy",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin Van Buren",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Andrew Jackson",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Howard Taft",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lyndon B. Johnson",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Monroe",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Quincy Adams",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Adams",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Herbert Hoover",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George H. W. Bush",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Franklin D. Roosevelt",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Calvin Coolidge",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ulysses S. Grant",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chester A. Arthur",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Garfield",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benjamin Harrison",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William McKinley",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rutherford B. Hayes",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grover Cleveland",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George W. Bush",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Garfield",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Jefferson Clinton",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Washington",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas Jefferson",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gerald Ford",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Madison",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jimmy Carter",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Henry Harrison",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harry S. Truman",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Tyler",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodrow Wilson",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zachary Taylor",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Millard Fillmore",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warren G. Harding",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Geology",
+   "type": "museum",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rapid Trout",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fine Arts Theater",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Apex Gallery",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mitakuye Oyasin",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grubby Miner Statue",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Badlands Mural",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bookworm",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cyclorama",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dakotah",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Endless Horizon",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fallen Officers Memorial",
+   "type": "historic_site",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Firehouse Mural",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hunkayapi",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pronghorn",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mosaic 1",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Storyteller",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windswept Companion",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint Thomas More Mural",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dinosaur Museum",
+   "type": "museum",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lost Cabin Beer Company",
+   "type": "brewery_distillery",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "In Memory of Virginia Coates",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barack Obama",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Street Square Amphitheatre",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blackhills Farmers Market",
+   "type": "farmers_market",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Quarter Pounder with Cheese",
+   "type": "historic_site",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richard M. Nixon",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haycamp Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pour 54",
+   "type": "brewery_distillery",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Suzie Cappa Art Center",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dakota Point Brewery",
+   "type": "brewery_distillery",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art for Everyone",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Journey Museum",
+   "type": "museum",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Devereaux Library",
+   "type": "library",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Street Square",
+   "type": "historic_downtown",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rapid City Public Library",
+   "type": "library",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dahl Arts Center",
+   "type": "arts_culture",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Garage Coworking Space",
+   "type": "coworking",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry World",
+   "type": "laundromat",
+   "city": "Rapid City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hilltop Laundry",
+   "type": "laundromat",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orpheum Theater Center",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Minnehaha County Pioneers Memorial",
+   "type": "historic_site",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ole the Viking",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moses",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS South Dakota Battleship Memorial",
+   "type": "historic_site",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rehfeld's Art & Framing",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Radio Station KSOO",
+   "type": "historic_site",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sioux Falls State Theatre",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Courthouse Museum",
+   "type": "museum",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sioux Empire Community Theatre",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anne Zabel Studio Theater",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dance Gallery",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pettigrew Home & Museum",
+   "type": "museum",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monks Ale House",
+   "type": "brewery_distillery",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Exposure Gallery & Studios",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Creative Spirits",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eastbank Art Gallery",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ipso Gallery at Fresh Produce",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "JK Gallery",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Visual Materials",
+   "type": "museum",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fernson Brewing Downtown",
+   "type": "brewery_distillery",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Prairie Farmers' Market",
+   "type": "farmers_market",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WoodGrain Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monarch of the Plains",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Dubuque House Historical Marker",
+   "type": "historic_site",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's Art Wall",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windmill",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Two Eagles",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "I Tell You What",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmer",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Farmer",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "For Which it Stands",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Science",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cultural Pedestrians",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wings",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leaf Lady",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cougar",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tranquil",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cross Section",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Steel Girder",
+   "type": "historic_site",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Divine Servant",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tango",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lucky Dragon Fly Gong",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Buffalo Calf Woman",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grief and Defiance",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evolution",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Letting Go",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gang Activity",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dogwood Tree",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jumping Through Hoops",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rainmaker",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fat Tire",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bathsheba",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of David Replica",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Coliseum",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Digital Art Wall",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leuning Sculpture",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stained Glass",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hope Stones",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eide-Dalrymple Gallery",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sioux Falls Laundry -26 & Sertoma",
+   "type": "laundromat",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Classic Cleaners",
+   "type": "laundromat",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arc of Dreams",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Homage to Victor Vasarely",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hindsight, Insight, Foresight",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Look's Marketplace",
+   "type": "farmers_market",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Amidon Affair",
+   "type": "historic_site",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Altered Species Ales",
+   "type": "brewery_distillery",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Covert Artisan Ales",
+   "type": "brewery_distillery",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SDN Public Working Space",
+   "type": "coworking",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stockyards Ag Experience Barn Art Museum",
+   "type": "museum",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mikkelsen Library",
+   "type": "library",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norman B. Mears Library",
+   "type": "library",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Delbridge Museum of Natural History",
+   "type": "science_center",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washington Pavillion of Arts & Science",
+   "type": "science_center",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Piper Arts & Custom Framing",
+   "type": "arts_culture",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Caille Branch Library",
+   "type": "library",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Library",
+   "type": "library",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oak View Branch Library",
+   "type": "library",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ronning Branch Library",
+   "type": "library",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prairie West Branch Library",
+   "type": "library",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS South Dakota",
+   "type": "museum",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fernson Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Obscure Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mary Jo Wegner Arboretum & East Sioux Falls Historic Site",
+   "type": "museum",
+   "city": "Brandon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Willow Grove Farm",
+   "type": "historic_downtown",
+   "city": "Sioux Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sinclair Dinosaur",
+   "type": "arts_culture",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corn Palace Mascot",
+   "type": "arts_culture",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Davison County Memorial",
+   "type": "historic_site",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palace Cleaners & Laundry",
+   "type": "laundromat",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scott's Vallet",
+   "type": "laundromat",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saturday Farmer's Market",
+   "type": "farmers_market",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clock",
+   "type": "arts_culture",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plaza Cleaners & Laundromat",
+   "type": "laundromat",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sudz Laundromat & Casino",
+   "type": "laundromat",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ringnecks Rising Statue",
+   "type": "arts_culture",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flame of Wisdom",
+   "type": "arts_culture",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Home of the Second Corn Palace",
+   "type": "historic_site",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McGovern Legacy Museum",
+   "type": "museum",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ron and Sheilah Gates Auditorium",
+   "type": "arts_culture",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Girl Jumping Rope",
+   "type": "arts_culture",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Kiwanis Woodlot Monument",
+   "type": "historic_site",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pepsi-Cola Theatre for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mitchell Public Library",
+   "type": "library",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dakota Discovery Museum",
+   "type": "science_center",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McGovern Library",
+   "type": "library",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boehnen Memorial Museum",
+   "type": "museum",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mitchell Prehistoric Indian Village",
+   "type": "historic_site",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Telstar Mustang-Shelby-Cobra",
+   "type": "museum",
+   "city": "Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clock",
+   "type": "arts_culture",
+   "city": "Aberdeen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Super City Plaza Laundromat",
+   "type": "laundromat",
+   "city": "Aberdeen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Super City Plaza",
+   "type": "farmers_market",
+   "city": "Aberdeen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aviation War Memorial",
+   "type": "historic_site",
+   "city": "Aberdeen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dacotah Prairie Museum",
+   "type": "museum",
+   "city": "Aberdeen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "One Legged Pheasant",
+   "type": "brewery_distillery",
+   "city": "Aberdeen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jewett Theater",
+   "type": "arts_culture",
+   "city": "Aberdeen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "C-EXPRESS Self-Serve Laundromat",
+   "type": "laundromat",
+   "city": "Aberdeen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnson Fine Arts Center",
+   "type": "arts_culture",
+   "city": "Aberdeen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beulah Williams Library",
+   "type": "library",
+   "city": "Aberdeen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial",
+   "type": "historic_site",
+   "city": "Aberdeen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capitol Theater",
+   "type": "arts_culture",
+   "city": "Aberdeen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aberdeen Public Library",
+   "type": "library",
+   "city": "Aberdeen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Malchow Plaza",
+   "type": "historic_downtown",
+   "city": "Aberdeen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aberdeen Area Arts Council",
+   "type": "arts_culture",
+   "city": "Aberdeen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverside Park Amphitheatre",
+   "type": "arts_culture",
+   "city": "Yankton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lewis and Clark Amphitheater",
+   "type": "arts_culture",
+   "city": "Yankton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Library",
+   "type": "library",
+   "city": "Yankton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yankton Community Library",
+   "type": "library",
+   "city": "Yankton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dakota Theater",
+   "type": "arts_culture",
+   "city": "Yankton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mead Museum / Dakota Territorial Museum",
+   "type": "museum",
+   "city": "Yankton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watertown Veterans Memorial",
+   "type": "historic_site",
+   "city": "Watertown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Redlin Art Center",
+   "type": "arts_culture",
+   "city": "Watertown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dempsey's Brewery Restaurant & Pub",
+   "type": "brewery_distillery",
+   "city": "Watertown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mellete House",
+   "type": "museum",
+   "city": "Watertown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watertown Regional Library",
+   "type": "library",
+   "city": "Watertown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Magic Mile",
+   "type": "laundromat",
+   "city": "Watertown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watertown Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Watertown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clothesline Laundry",
+   "type": "laundromat",
+   "city": "Brookings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brookings Arts Council Sculpture 94",
+   "type": "arts_culture",
+   "city": "Brookings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Touchdown Jesus",
+   "type": "arts_culture",
+   "city": "Brookings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Schade Vineyard & Winery",
+   "type": "brewery_distillery",
+   "city": "Volga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eponymous Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Brookings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Dakota Art Museum",
+   "type": "museum",
+   "city": "Brookings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hilton M. Briggs Library",
+   "type": "library",
+   "city": "Brookings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brookings County Public Library",
+   "type": "library",
+   "city": "Brookings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Dakota Children's Museum",
+   "type": "museum",
+   "city": "Brookings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brookings County Museum",
+   "type": "museum",
+   "city": "Volga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World's Largest Pheasant",
+   "type": "historic_site",
+   "city": "Huron",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dakotaland Museum",
+   "type": "museum",
+   "city": "Huron",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pyle House Museum",
+   "type": "museum",
+   "city": "Huron",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Huron Public Library",
+   "type": "library",
+   "city": "Huron",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Turtle Effigy",
+   "type": "historic_site",
+   "city": "Pierre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Snake Effigy",
+   "type": "historic_site",
+   "city": "Pierre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cultural Heritage Center",
+   "type": "museum",
+   "city": "Pierre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Monument",
+   "type": "historic_site",
+   "city": "Pierre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fighting Stallions",
+   "type": "historic_site",
+   "city": "Pierre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Pierre Chouteau National Historic Landmark",
+   "type": "historic_site",
+   "city": "Pierre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Dakota National Guard Museum",
+   "type": "museum",
+   "city": "Pierre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rawlins Municipal Library",
+   "type": "library",
+   "city": "Pierre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Pierre Chouteau",
+   "type": "historic_site",
+   "city": "Pierre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steamboat Park Amphitheatre",
+   "type": "arts_culture",
+   "city": "Pierre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Alley Exchange",
+   "type": "farmers_market",
+   "city": "Pierre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Chouteau Museum",
+   "type": "museum",
+   "city": "Pierre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spearfish Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Spearfish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sawyer Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "North Spearfish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "E.Y. Berry Library-Learning Center",
+   "type": "library",
+   "city": "Spearfish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Von Bayer Museum of Fish Culture",
+   "type": "museum",
+   "city": "Spearfish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spearfish Laundry & Dry Cleaning",
+   "type": "laundromat",
+   "city": "Spearfish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Matthews Opera House",
+   "type": "arts_culture",
+   "city": "Spearfish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Booth House",
+   "type": "museum",
+   "city": "Spearfish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crow Peak Brewing Company",
+   "type": "brewery_distillery",
+   "city": "North Spearfish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "High Plains Western Heritage Center",
+   "type": "museum",
+   "city": "Mountain Plains",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lund Valley Farm - Goat Apothecary Store",
+   "type": "farmers_market",
+   "city": "North Spearfish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brandon Community Library",
+   "type": "library",
+   "city": "Brandon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Minnesota Welcomes You",
+   "type": "historic_site",
+   "city": "Valley Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valley Springs Branch Library",
+   "type": "library",
+   "city": "Valley Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prairie Greens Produce",
+   "type": "farmers_market",
+   "city": "Brandon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Austin-Whittemore House Museum",
+   "type": "museum",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "W. O. \"Doc\" Farber",
+   "type": "arts_culture",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Legacy",
+   "type": "arts_culture",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Gate Laundromat",
+   "type": "laundromat",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jackpot Laundry",
+   "type": "laundromat",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Architrave",
+   "type": "arts_culture",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brenna",
+   "type": "arts_culture",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oscar Howe Gallery",
+   "type": "arts_culture",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USD Law Library",
+   "type": "library",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Shakespeare",
+   "type": "arts_culture",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corps of Discovery",
+   "type": "arts_culture",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Music Museum",
+   "type": "museum",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "I.D. Weeks Library",
+   "type": "library",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "W. H. Over Museum",
+   "type": "museum",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valiant Vineyards Winery",
+   "type": "brewery_distillery",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edith B. Siegrist Vermillion Public Library",
+   "type": "library",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arena Theatre",
+   "type": "arts_culture",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John A. Day Gallery",
+   "type": "arts_culture",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wayne S. Knutson Theatre",
+   "type": "arts_culture",
+   "city": "Vermillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Dakota Air and Space Museum",
+   "type": "museum",
+   "city": "Box Elder",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lost Sock",
+   "type": "laundromat",
+   "city": "Custer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Custer County Library",
+   "type": "library",
+   "city": "Custer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1881 Courthouse",
+   "type": "museum",
+   "city": "Custer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Armed Forces Museum & Gift Shop",
+   "type": "museum",
+   "city": "Wasta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sturgis Public Library",
+   "type": "library",
+   "city": "Sturgis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "General Samuel D. Sturgis Statue",
+   "type": "historic_site",
+   "city": "Sturgis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Knuckle Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Sturgis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Hills National Cemetery",
+   "type": "historic_downtown",
+   "city": "Fort Meade",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sturgis Brown Library Media Center",
+   "type": "library",
+   "city": "Fort Meade",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sturgis Motorcycle Museum",
+   "type": "museum",
+   "city": "Sturgis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sturgis Brewing",
+   "type": "brewery_distillery",
+   "city": "Sturgis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harley Davidson Rally Point",
+   "type": "historic_downtown",
+   "city": "Sturgis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saab Heritage Car Museum USA - Sturgis Car Museum",
+   "type": "museum",
+   "city": "Sturgis",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

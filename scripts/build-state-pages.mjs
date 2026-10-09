@@ -433,6 +433,9 @@ ${footer(false)}
 // a leading parenthetical to the end so the name starts with the name. Page
 // display only -- the app's data is untouched. Anything already mixed-case is
 // shown exactly as the source wrote it.
+const GROUP_NAME = /\bgroup(sites?)?\b/i;   // also "Groupsite" (NC)
+const CORRAL_NAME = /\bstock\s+corrals?\b|\bcorrals?\s*$/i;
+
 const KEEP_UPPER = new Set(['RV', 'OHV', 'ATV', 'NF', 'NP', 'US', 'BLM', 'USFS', 'CCC', 'KOA', 'YMCA', 'II', 'III', 'IV']);
 const SMALL_WORDS = new Set(['of', 'and', 'the', 'at', 'on', 'in', 'by', 'to', 'a']);
 
@@ -468,6 +471,10 @@ for (const f of files) {
     throw new Error(`${f} contains a coordinate or id field. Refusing to build.`);
   }
   for (const r of [...(data.spots || []), ...(data.activities || [])]) r.name = tidyName(r.name);
+  // Same rule seedSpots applies to new imports (decided with Robyn
+  // 2026-10-07/09): group-only sites and stock corrals are not a place one van
+  // can spend the night. Older rows predate that rule, so drop them here too.
+  data.spots = (data.spots || []).filter(s => !GROUP_NAME.test(s.name) && !CORRAL_NAME.test(s.name));
   loaded[code] = data;
 }
 const built = new Set(Object.keys(loaded));

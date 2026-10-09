@@ -1,0 +1,4673 @@
+{
+ "state": "NH",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Unknown Pond Campsite",
+   "type": "unknown",
+   "town": "Berlin, NH",
+   "town_mi": 6.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rogers Ledge Campsite",
+   "type": "unknown",
+   "town": "Berlin, NH",
+   "town_mi": 6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Thirteen Falls",
+   "type": "paid_camp",
+   "town": "Lincoln, NH",
+   "town_mi": 8.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Naumann Tentsite",
+   "type": "paid_camp",
+   "town": "Bartlett, NH",
+   "town_mi": 10.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Osgood Tentsite",
+   "type": "unknown",
+   "town": "Gorham, NH",
+   "town_mi": 6.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Liberty Spring Tentsite",
+   "type": "paid_camp",
+   "town": "Lincoln, NH",
+   "town_mi": 4.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Valley Way Campsite",
+   "type": "unknown",
+   "town": "Gorham, NH",
+   "town_mi": 6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Saddleback Campground",
+   "type": "rv_park",
+   "town": "Raymond, NH",
+   "town_mi": 10.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BASIN CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Gorham, NH",
+   "town_mi": 12.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cold Springs Camp Resort",
+   "type": "paid_camp",
+   "town": "Goffstown, NH",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kinsman Pond Tentsite",
+   "type": "paid_camp",
+   "town": "Lincoln, NH",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blue Brook Tentsite",
+   "type": "unknown",
+   "town": "Gorham, NH",
+   "town_mi": 10.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Wilmot",
+   "type": "paid_camp",
+   "town": "New London, NH",
+   "town_mi": 5.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Franconia Brook Tentsite",
+   "type": "unknown",
+   "town": "Lincoln, NH",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blackberry Crossing Campground",
+   "type": "paid_camp",
+   "town": "Bartlett, NH",
+   "town_mi": 5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "COLD RIVER",
+   "type": "paid_camp",
+   "town": "Gorham, NH",
+   "town_mi": 12.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Perkins Notch Tentsite",
+   "type": "unknown",
+   "town": "Gorham, NH",
+   "town_mi": 10.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CAMPTON CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Plymouth, NH",
+   "town_mi": 10,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sea Coast Camping And RV Resort",
+   "type": "rv_park",
+   "town": "Hampton, NH",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pastures Campground",
+   "type": "rv_park",
+   "town": "Fairlee, VT",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Rich Tentsite",
+   "type": "free_camp",
+   "town": "Bartlett, NH",
+   "town_mi": 9.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hidden Valley R.V. Park",
+   "type": "rv_park",
+   "town": "Derry, NH",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Roger's Campground",
+   "type": "paid_camp",
+   "town": "Lancaster, NH",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wildwood Campground",
+   "type": "unknown",
+   "town": "North Woodstock, NH",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WATERVILLE CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Center Sandwich, NH",
+   "town_mi": 9.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Barrington Shores Campground",
+   "type": "paid_camp",
+   "town": "Durham, NH",
+   "town_mi": 6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hampton Beach State RV Park",
+   "type": "rv_park",
+   "town": "Hampton Beach, NH",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wild River Campground",
+   "type": "paid_camp",
+   "town": "Gorham, NH",
+   "town_mi": 9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rumney Rattlesnake Campground",
+   "type": "paid_camp",
+   "town": "Plymouth, NH",
+   "town_mi": 7.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lazy River Family Campground",
+   "type": "paid_camp",
+   "town": "Pittsfield, NH",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BARNES FIELD CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Gorham, NH",
+   "town_mi": 3.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jefferson Campground",
+   "type": "paid_camp",
+   "town": "Whitefield, NH",
+   "town_mi": 9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Field & Stream RV Park",
+   "type": "rv_park",
+   "town": "Townsend, MA",
+   "town_mi": 4.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Friendly Beaver Campground",
+   "type": "paid_camp",
+   "town": "New Boston, NH",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Circle 9 Ranch",
+   "type": "paid_camp",
+   "town": "Pittsfield, NH",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Maple Grove Park",
+   "type": "rv_park",
+   "town": "Suncook, NH",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "River Meadow Campground",
+   "type": "paid_camp",
+   "town": "North Haverhill, NH",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Littleton / Franconia Notch KOA Holiday",
+   "type": "rv_park",
+   "town": "Lisbon, NH",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SUGARLOAF 2 CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Bethlehem, NH",
+   "town_mi": 9.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Twin Mountain Campground",
+   "type": "paid_camp",
+   "town": "Bethlehem, NH",
+   "town_mi": 7.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Twin Mountain Motor Court & RV Park",
+   "type": "rv_park",
+   "town": "Bethlehem, NH",
+   "town_mi": 6.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Twin Mountain / Mt. Washington KOA Holiday",
+   "type": "rv_park",
+   "town": "Whitefield, NH",
+   "town_mi": 6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Beech Hill Campground and Cabins",
+   "type": "paid_camp",
+   "town": "Bethlehem, NH",
+   "town_mi": 5.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DOLLY COPP",
+   "type": "paid_camp",
+   "town": "Gorham, NH",
+   "town_mi": 4.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Along the River Campground & Cabins",
+   "type": "paid_camp",
+   "town": "Bethlehem, NH",
+   "town_mi": 6.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hancock Campground",
+   "type": "paid_camp",
+   "town": "Lincoln, NH",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Rock",
+   "type": "paid_camp",
+   "town": "Lincoln, NH",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jigger Johnson Campground",
+   "type": "paid_camp",
+   "town": "Bartlett, NH",
+   "town_mi": 5.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "COVERED BRIDGE",
+   "type": "paid_camp",
+   "town": "Bartlett, NH",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dry River Campground",
+   "type": "unknown",
+   "town": "Bartlett, NH",
+   "town_mi": 6.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "OSCEOLA VISTA CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Lincoln, NH",
+   "town_mi": 9.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RUSSELL POND CAMPGROUND",
+   "type": "paid_camp",
+   "town": "North Woodstock, NH",
+   "town_mi": 3.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lincoln / Woodstock KOA Holiday",
+   "type": "rv_park",
+   "town": "North Woodstock, NH",
+   "town_mi": 5.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Winding Rivers Campground",
+   "type": "paid_camp",
+   "town": "Exeter, NH",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cannon Mountain RV Park",
+   "type": "rv_park",
+   "town": "Bethlehem, NH",
+   "town_mi": 7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tuxbury Pond RV Campground",
+   "type": "rv_park",
+   "town": "Amesbury, MA",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Champion Meadow Campground",
+   "type": "paid_camp",
+   "town": "West Stewartstown, NH",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Burns Lake Campground",
+   "type": "rv_park",
+   "town": "Whitefield, NH",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Acres RV Campground",
+   "type": "rv_park",
+   "town": "Raymond, NH",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cedar Waters Village",
+   "type": "rv_park",
+   "town": "Epping, NH",
+   "town_mi": 6.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Saint Methodios Faith and Heritage Center",
+   "type": "paid_camp",
+   "town": "Contoocook, NH",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mount Sunapee State Park Camping Area",
+   "type": "paid_camp",
+   "town": "Blodgett Landing, NH",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whispering Pines Campground",
+   "type": "rv_park",
+   "town": "Amesbury, MA",
+   "town_mi": 5.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WHITE LEDGE CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Conway, NH",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ELM BROOK PARK REC AREA",
+   "type": "paid_camp",
+   "town": "Contoocook, NH",
+   "town_mi": 3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BLACK MOUNTAIN CABIN",
+   "type": "paid_camp",
+   "town": "Bartlett, NH",
+   "town_mi": 10.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DOUBLEHEAD CABIN",
+   "type": "paid_camp",
+   "town": "North Conway, NH",
+   "town_mi": 9.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RADEKE CABIN",
+   "type": "paid_camp",
+   "town": "Bartlett, NH",
+   "town_mi": 6.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RUSSELL-COLBATH BARN",
+   "type": "paid_camp",
+   "town": "Bartlett, NH",
+   "town_mi": 6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SURRY MOUNTAIN LAKE BEACH",
+   "type": "paid_camp",
+   "town": "Keene, NH",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Otter Brook Lake Recreation Area",
+   "type": "paid_camp",
+   "town": "Keene, NH",
+   "town_mi": 4.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "White Mountain National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Umbagog National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wapack National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Blackwater Dam",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Edward MacDowell Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Franklin Falls Dam",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hopkinton-Everett Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Otter Brook Lake",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Surry Mountain Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Great Bay National Estuarine Research Reserve",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wiland Pond Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Reed Free Library",
+   "type": "library",
+   "city": "Surry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pottersville Historic District",
+   "type": "historic_downtown",
+   "city": "Marlborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mount Caesar Union Library",
+   "type": "library",
+   "city": "Swanzey",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centerfold Laundry",
+   "type": "laundromat",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jennie B. Powers",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Suds Bucket Laundry",
+   "type": "laundromat",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aurora",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reaching",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oya Hill",
+   "type": "historic_site",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gravity Foundation Monument",
+   "type": "historic_site",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cheshire Children's Museum",
+   "type": "museum",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keene Transportation",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnathan Daniels",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baseball",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pizza Wings",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jumanji Mural",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Branch & Blade Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hidden Treasures Flea Market",
+   "type": "farmers_market",
+   "city": "Swanzey",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trinity Bicycle Shop",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keen Kleen Laundromat",
+   "type": "laundromat",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Catherine Fiske",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Albert C. Johnston",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barry Faulkner",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keene Community Garden Mural",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ashuelot River Mural",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coca-Cola mural",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thorne-Sagendorph Art Gallery",
+   "type": "museum",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mason Library",
+   "type": "library",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Redfern Arts Center",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keene Soldier's Monument",
+   "type": "historic_site",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MoCo Arts",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Horatio Colony Museum",
+   "type": "museum",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sullivan Public Library",
+   "type": "library",
+   "city": "Sullivan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bruder House Museum",
+   "type": "museum",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wyman Tavern Museum",
+   "type": "museum",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Showroom",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Colonial Theatre",
+   "type": "arts_culture",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wash House",
+   "type": "laundromat",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Granite Roots",
+   "type": "brewery_distillery",
+   "city": "Marlborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Cloud Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keene Public Library - Thayer Library",
+   "type": "library",
+   "city": "Keene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gorham Public Library",
+   "type": "library",
+   "city": "Gorham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gorham Historical Society & Railroad Museum",
+   "type": "museum",
+   "city": "Gorham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bath House",
+   "type": "shower",
+   "city": "Gorham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moffett House Museum",
+   "type": "museum",
+   "city": "Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountainside Craft Beer & Cigars",
+   "type": "brewery_distillery",
+   "city": "Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berlin Public Library",
+   "type": "library",
+   "city": "Berlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shelburne Public Library",
+   "type": "library",
+   "city": "Shelburne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Muse Paintbar",
+   "type": "arts_culture",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Derryfield Center",
+   "type": "historic_site",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bell",
+   "type": "historic_site",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pvt. John Henry Sweeney Memorial",
+   "type": "historic_site",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roger Williams Studios",
+   "type": "arts_culture",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brigadier General Casimir Pulaski",
+   "type": "historic_site",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monument Laundromat",
+   "type": "laundromat",
+   "city": "Goffstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bea's Wash-N-Dry",
+   "type": "laundromat",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cityside Laundromat",
+   "type": "laundromat",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "VARNEY MEMORIAL COMM",
+   "type": "historic_site",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Hooksett Laundromat",
+   "type": "laundromat",
+   "city": "Hooksett",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ARGH Gallery",
+   "type": "arts_culture",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Palace Theatre",
+   "type": "arts_culture",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Diane Crespo Fine Art Gallery",
+   "type": "arts_culture",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sudz & Bubz Laundry Mat",
+   "type": "laundromat",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fourka Laundromat",
+   "type": "laundromat",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Embassy Laundromat",
+   "type": "laundromat",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash Street",
+   "type": "laundromat",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Side Dry Cleaning & Laundry",
+   "type": "laundromat",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "To Share Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodstacker Beer Co.",
+   "type": "brewery_distillery",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brigadier General John Stark",
+   "type": "arts_culture",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Republic Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nature's Sweet Secret Maple Syrup",
+   "type": "farmers_market",
+   "city": "Goffstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Devreindt Farm",
+   "type": "farmers_market",
+   "city": "Goffstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Catbird Corner Flower Stand",
+   "type": "farmers_market",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Canadian Genealogical Society",
+   "type": "library",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunstone Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fluffy Butt Stand",
+   "type": "farmers_market",
+   "city": "Goffstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cleary Cleaners",
+   "type": "laundromat",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harpoon",
+   "type": "brewery_distillery",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whispering Pines Laundromat",
+   "type": "laundromat",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Second Street Laundromat",
+   "type": "laundromat",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garden Island Laundromat",
+   "type": "laundromat",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bird Bath Laundry Center",
+   "type": "laundromat",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bedford Public Library",
+   "type": "library",
+   "city": "Bedford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Manchester West Community Library",
+   "type": "library",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Geisel Library",
+   "type": "library",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Hampshire Institute of Politics & Political Library",
+   "type": "library",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edward S. Wolak Library Learning Commons",
+   "type": "library",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnson Golden Harvest",
+   "type": "farmers_market",
+   "city": "Hooksett",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LaValley Farms",
+   "type": "farmers_market",
+   "city": "Hooksett",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goffstown Public Library",
+   "type": "library",
+   "city": "Goffstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hooksett Public Library",
+   "type": "library",
+   "city": "Hooksett",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kelley Street Laundromat",
+   "type": "laundromat",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bird Bath Laundromat",
+   "type": "laundromat",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farm & Flower Market",
+   "type": "farmers_market",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Currier Museum Art Center",
+   "type": "museum",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Currier Museum of Art",
+   "type": "museum",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SEE Science Center",
+   "type": "science_center",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Manchester City Library",
+   "type": "library",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Manchester Historic Association Research Center Library",
+   "type": "library",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Granite State Laundry",
+   "type": "laundromat",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio 550 Art Center",
+   "type": "arts_culture",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Griffin Free Public Library",
+   "type": "library",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aviation Museum of New Hampshire",
+   "type": "museum",
+   "city": "Bedford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Twist Hill Farms",
+   "type": "farmers_market",
+   "city": "Hooksett",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nashville Historic District",
+   "type": "historic_downtown",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brookdale Fruit Farm",
+   "type": "farmers_market",
+   "city": "Hollis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old house",
+   "type": "historic_site",
+   "city": "Hudson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Major General John Gray Foster",
+   "type": "historic_site",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers' and Sailors' Monument",
+   "type": "historic_site",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial Wall",
+   "type": "historic_site",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blodgett Garrison",
+   "type": "historic_site",
+   "city": "Hudson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Diversity",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Matthew Thornton Memorial",
+   "type": "historic_site",
+   "city": "Litchfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wallingford House",
+   "type": "historic_site",
+   "city": "Hollis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bayley House",
+   "type": "historic_site",
+   "city": "Hollis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic Monson Village",
+   "type": "historic_site",
+   "city": "Hollis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "EcoloArt #35",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Positive Street Art Free Wall",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yankee Flyer Diner Mural",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Face of PSA",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Garden Giant",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vivian's Dream",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lawrence C. Elliott",
+   "type": "historic_site",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Millennium Child",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Auschwitz",
+   "type": "historic_site",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Belzec",
+   "type": "historic_site",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chelmno",
+   "type": "historic_site",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Majdanek",
+   "type": "historic_site",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sobibor",
+   "type": "historic_site",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Treblinka",
+   "type": "historic_site",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldier and Sailers Monument",
+   "type": "arts_culture",
+   "city": "Merrimack",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Moose",
+   "type": "historic_site",
+   "city": "Litchfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nashua River - Jackson Falls Dam",
+   "type": "historic_site",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Nashua Riverwalk",
+   "type": "historic_site",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nashua Public Library",
+   "type": "library",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moon Shadow",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children Reading",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nashua Manufacturing Co.",
+   "type": "historic_site",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soifert Memorial Fields",
+   "type": "historic_site",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Latino Bus",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crocodilian",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nashua Center for the Arts",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam Veterans Memorial Park",
+   "type": "historic_site",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harikoa",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brookdale Fruit Farm U-Pick Stand",
+   "type": "farmers_market",
+   "city": "Hollis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connected",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aaron Cutler Memorial Library",
+   "type": "library",
+   "city": "Litchfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "District 1 Schoolhouse",
+   "type": "museum",
+   "city": "Hudson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunnycrest Farm",
+   "type": "farmers_market",
+   "city": "Litchfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rodgers Memorial Library",
+   "type": "library",
+   "city": "Hudson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louis B. Warren Memorial Library",
+   "type": "library",
+   "city": "Litchfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Regina Library",
+   "type": "library",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Court Street Theater",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Nashua Laundromat",
+   "type": "laundromat",
+   "city": "Hudson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pelham Public Library",
+   "type": "library",
+   "city": "Pelham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whipple Wash Laundromat",
+   "type": "laundromat",
+   "city": "Hudson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry 66",
+   "type": "laundromat",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art with a Splash",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hollis Social Library",
+   "type": "library",
+   "city": "Hollis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Always Ready Engine House",
+   "type": "museum",
+   "city": "Hollis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clearwater I Laundromat",
+   "type": "laundromat",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio 99",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martha's Exchange",
+   "type": "brewery_distillery",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northern Ballet Theatre",
+   "type": "arts_culture",
+   "city": "Hudson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hudson 9/11 Memorial",
+   "type": "historic_site",
+   "city": "Hudson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Merrimack Commons Laundromat",
+   "type": "laundromat",
+   "city": "Merrimack",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Merrimack Public Library",
+   "type": "library",
+   "city": "Merrimack",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Poly Clean Center",
+   "type": "laundromat",
+   "city": "Hudson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kinsley Street Laundry",
+   "type": "laundromat",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Washboard Laundromat",
+   "type": "laundromat",
+   "city": "Hudson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maison de l'Art",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Actorsingers",
+   "type": "arts_culture",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "31 Bridge Street Laundry",
+   "type": "laundromat",
+   "city": "Hudson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freedom Shrine",
+   "type": "historic_site",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nashua Historical Society",
+   "type": "museum",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palmers Laundromat",
+   "type": "laundromat",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wild Salamander",
+   "type": "arts_culture",
+   "city": "Hollis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Odd Fellows",
+   "type": "brewery_distillery",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hollis Flea Market",
+   "type": "farmers_market",
+   "city": "Hollis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hollis Flea Market",
+   "type": "farmers_market",
+   "city": "Hollis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hill's House",
+   "type": "historic_site",
+   "city": "Hudson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Pine Hill School House",
+   "type": "museum",
+   "city": "Hollis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Hampshire Holocaust Memorial",
+   "type": "historic_site",
+   "city": "Nashua",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Streams Of Water Laundromat",
+   "type": "laundromat",
+   "city": "Litchfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spyglass Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Hudson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Christa McAuliffe Planetarium",
+   "type": "planetarium",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Nature Museum",
+   "type": "museum",
+   "city": "Hopkinton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hannah Duston Memorial",
+   "type": "historic_site",
+   "city": "Penacook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Hampshire State Library Services to the Handicapped",
+   "type": "library",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Josie Langmaid Memorial",
+   "type": "historic_site",
+   "city": "Pembroke",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "League of N.H. Craftsmen",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Daniel Webster",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Concord Clock",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Franklin Pierce",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers and Sailors Memorial Arch",
+   "type": "historic_site",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial",
+   "type": "historic_site",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Parker Hale",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "General John Stark",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty Bell",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Commodore George Hamilton Perkins",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Gilbert Winant",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mary Baker Eddy House",
+   "type": "museum",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Concord Craft Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allenstown Laundromat",
+   "type": "laundromat",
+   "city": "Allenstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Just Wash It Laundromat",
+   "type": "laundromat",
+   "city": "Loudon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pembroke Spartan",
+   "type": "arts_culture",
+   "city": "Pembroke",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boudreau Square",
+   "type": "historic_site",
+   "city": "Penacook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Govenors Center",
+   "type": "coworking",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shara Vineyards",
+   "type": "brewery_distillery",
+   "city": "Hopkinton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hatbox Theatre",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Suncook Village",
+   "type": "historic_site",
+   "city": "Allenstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Pennacook",
+   "type": "historic_site",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pluto",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Neptune",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Uranus",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carter Hill Orchard",
+   "type": "farmers_market",
+   "city": "Penacook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "End of the First N.H. Turnpike",
+   "type": "historic_site",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Christa McAuliffe",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DIY Craft & Thrift",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Go Native Fine Art Gallery",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LaFayette's Tour",
+   "type": "historic_site",
+   "city": "Allenstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oddball Brewing",
+   "type": "brewery_distillery",
+   "city": "Allenstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allenstown Public Library",
+   "type": "library",
+   "city": "Allenstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Galactic Laundry",
+   "type": "laundromat",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heights Branch Library",
+   "type": "library",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Penacook Library & Activity Center",
+   "type": "library",
+   "city": "Penacook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capitol Center For The Arts",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Hampshire State Library",
+   "type": "library",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Hampshire Historical Society",
+   "type": "museum",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NHTI Library",
+   "type": "library",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McAuliffe-Shepard Discovery Center",
+   "type": "science_center",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ohrstrom Library",
+   "type": "library",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Hampshire Records and Archives Library",
+   "type": "library",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Concord Public Library",
+   "type": "library",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pembroke Town Library",
+   "type": "library",
+   "city": "Pembroke",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baker Free Library",
+   "type": "library",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maxfield Public Library",
+   "type": "library",
+   "city": "Loudon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eagle Square",
+   "type": "historic_downtown",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NH Law Enforcement Officers Memorial",
+   "type": "arts_culture",
+   "city": "Concord",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newington Center Historic District",
+   "type": "historic_downtown",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Durham Historic District",
+   "type": "historic_downtown",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Madbury Public Library",
+   "type": "library",
+   "city": "Madbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stoneface Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bad Lab",
+   "type": "brewery_distillery",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Girder Sculpture",
+   "type": "arts_culture",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mag8libo",
+   "type": "arts_culture",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Class of 1906",
+   "type": "historic_site",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carved Bench",
+   "type": "historic_site",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thompson Monument",
+   "type": "historic_site",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1906 Dedication Rock",
+   "type": "historic_site",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benjamin Thompson Dedication Plaque",
+   "type": "historic_site",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Suutari Baker Memorial Bench;Peaper-Fillyaw Memorial Bench",
+   "type": "historic_site",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Conglomerate Rock Sculpture",
+   "type": "arts_culture",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corner Point Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Berwick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Street Laundromat",
+   "type": "laundromat",
+   "city": "Somersworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stripe Nine Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Somersworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Durham Laundrocenter",
+   "type": "laundromat",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garrison City Beerworks",
+   "type": "brewery_distillery",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Strand",
+   "type": "arts_culture",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Auspicious Brew",
+   "type": "brewery_distillery",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Earth Eagle Brewings",
+   "type": "brewery_distillery",
+   "city": "Somersworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stonewall Farm",
+   "type": "farmers_market",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Czar's Brewery",
+   "type": "brewery_distillery",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spider Statue",
+   "type": "arts_culture",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sherwood Cairn Garden",
+   "type": "arts_culture",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Noonan Outdoor Classroom",
+   "type": "arts_culture",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wildcat Statue",
+   "type": "arts_culture",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Snake Eyes",
+   "type": "arts_culture",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ghost Flower Ranch",
+   "type": "live_music",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Engineering & Computer Science Library",
+   "type": "library",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East-West Park",
+   "type": "historic_site",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dance Of The Ray",
+   "type": "arts_culture",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chain Hounds IV, XII, and IX",
+   "type": "arts_culture",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A World Alive by Sculptor Walter Liff",
+   "type": "arts_culture",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Adam's Family Monument",
+   "type": "historic_site",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dimond Library",
+   "type": "library",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Langdon Library",
+   "type": "library",
+   "city": "Newington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rotary Arts Pavillion",
+   "type": "arts_culture",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's Museum of New Hampshire",
+   "type": "museum",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dover Public Library",
+   "type": "library",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chapel + Main",
+   "type": "brewery_distillery",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tendercrop Farm at the Red barn",
+   "type": "farmers_market",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cleary Cleaners",
+   "type": "laundromat",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "75 Broadway Laundromat",
+   "type": "laundromat",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Market & Cafe at Emery Farm",
+   "type": "farmers_market",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Durham Public Library",
+   "type": "library",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cleary Cleaners",
+   "type": "laundromat",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Somersworth Public Library",
+   "type": "library",
+   "city": "Somersworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Somersworth Historical Museum",
+   "type": "museum",
+   "city": "Somersworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Country Hard Cider",
+   "type": "brewery_distillery",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lee Laundermat",
+   "type": "laundromat",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cellar Hole",
+   "type": "historic_site",
+   "city": "Madbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hill House",
+   "type": "historic_site",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hamilton House",
+   "type": "museum",
+   "city": "Rollinsford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theater 1",
+   "type": "arts_culture",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hope Is A Discipline",
+   "type": "arts_culture",
+   "city": "Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Rochester Public Library",
+   "type": "library",
+   "city": "Rochester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Deputy Sheriff Charles E. Smith (1843-1891) Historic Marker",
+   "type": "historic_site",
+   "city": "Barrington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmington Public Library",
+   "type": "library",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gazebo / Bandstand",
+   "type": "arts_culture",
+   "city": "Rochester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rochester Public Library",
+   "type": "library",
+   "city": "Rochester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rochester Historical Society",
+   "type": "museum",
+   "city": "Rochester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hill Library",
+   "type": "library",
+   "city": "Barrington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Strafford Historic Society",
+   "type": "museum",
+   "city": "Barrington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barrington Public Library",
+   "type": "library",
+   "city": "Barrington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rochester Laundromat",
+   "type": "laundromat",
+   "city": "Rochester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cellar Hole",
+   "type": "historic_site",
+   "city": "Barrington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cider House",
+   "type": "farmers_market",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butternut Farm",
+   "type": "farmers_market",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlantic Heights",
+   "type": "historic_downtown",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portsmouth Athenaeum",
+   "type": "library",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warner House Museum",
+   "type": "museum",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moffatt-Ladd House Museum",
+   "type": "museum",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seacoast Repertory Theatre",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Music Hall Lounge",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Founder's Monument",
+   "type": "historic_site",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fishermans Shack",
+   "type": "historic_site",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amo's Wash & Fold",
+   "type": "laundromat",
+   "city": "Rye",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Blue Heron and Cormorant Sculpture",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cleary Cleaners",
+   "type": "laundromat",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Discover Portsmouth",
+   "type": "museum",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bones",
+   "type": "arts_culture",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "My Mother the Wind",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Modern Launderette",
+   "type": "laundromat",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fishermen's Memorial",
+   "type": "historic_site",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Remembrance Memorial",
+   "type": "historic_site",
+   "city": "Greenland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blueberry Bay Farm",
+   "type": "farmers_market",
+   "city": "Greenland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abandoned pier",
+   "type": "historic_site",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fisherman’s Luck",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort William and Mary",
+   "type": "historic_site",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Button Factory",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Piscataqua Fine Arts",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nancy Morgan Art",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liar's Bench Beer Co",
+   "type": "brewery_distillery",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1614 Monument",
+   "type": "historic_site",
+   "city": "Rye",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vigilance",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Regina Piantedosi Gallery",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Loaded Question",
+   "type": "brewery_distillery",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Calvin A. Canney",
+   "type": "historic_site",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lafayette Trail",
+   "type": "historic_site",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Todd Bonita Art Gallery",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ceres Gallery",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Market Square",
+   "type": "historic_downtown",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "N. W. Barrett",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kennedy Gallery & Custom Framing",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Tree Marker",
+   "type": "historic_site",
+   "city": "Greenland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Horse Chestnut",
+   "type": "historic_site",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "3S Artspace",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rye Public Library",
+   "type": "library",
+   "city": "Rye",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Albacore",
+   "type": "museum",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Player's Ring",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seacoast Science Center",
+   "type": "science_center",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wood Island Life Saving Station",
+   "type": "museum",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Strawbery Banke Museum",
+   "type": "museum",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Throwback Brewery",
+   "type": "brewery_distillery",
+   "city": "Rye Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portsmouth Public Library",
+   "type": "library",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battery 204",
+   "type": "historic_site",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Town Museum and Rye Historical Society",
+   "type": "museum",
+   "city": "Rye",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jackson House",
+   "type": "museum",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rundlet-May House Museum",
+   "type": "museum",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "African Burying Ground",
+   "type": "historic_site",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weeks Public Library",
+   "type": "library",
+   "city": "Greenland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Music Hall",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "David C. Noyes Main Stage",
+   "type": "arts_culture",
+   "city": "Greenland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Bay Discovery Center",
+   "type": "science_center",
+   "city": "Greenland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barker's Farm",
+   "type": "farmers_market",
+   "city": "Greenland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Paul Jones House",
+   "type": "museum",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wake Robin Farm",
+   "type": "farmers_market",
+   "city": "Greenland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Castle Public Library",
+   "type": "library",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Castle, NH Historical Society",
+   "type": "museum",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Hampton Public Library and Cultural Center",
+   "type": "library",
+   "city": "Rye Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Albacore Museum",
+   "type": "museum",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battery Seaman",
+   "type": "historic_site",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stratham Veterans' Memorial Garden",
+   "type": "historic_site",
+   "city": "Greenland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chestnut Street Arch",
+   "type": "arts_culture",
+   "city": "Portsmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sanbornton Square Historic District",
+   "type": "historic_downtown",
+   "city": "Sanbornton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gilford Public Library",
+   "type": "library",
+   "city": "Gilford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goss Library",
+   "type": "library",
+   "city": "Laconia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MB Tractor",
+   "type": "farmers_market",
+   "city": "Sanbornton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colonial Theater",
+   "type": "arts_culture",
+   "city": "Laconia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keewakwa Abenaki Keenahbeh",
+   "type": "historic_site",
+   "city": "Laconia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LRAA Art Gallery",
+   "type": "arts_culture",
+   "city": "Sanbornton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plane crash",
+   "type": "historic_site",
+   "city": "Gilford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Autopac Gallery",
+   "type": "museum",
+   "city": "Laconia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stone Brook Hill Farm",
+   "type": "farmers_market",
+   "city": "Gilford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brookside Bath House & Laundry",
+   "type": "laundromat",
+   "city": "Gilford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corner Bath House & Laundry",
+   "type": "laundromat",
+   "city": "Gilford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beans and Greens Farmstand",
+   "type": "farmers_market",
+   "city": "Gilford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laconia Public Library",
+   "type": "library",
+   "city": "Laconia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sanbornton Public Library",
+   "type": "library",
+   "city": "Sanbornton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Belmont Library",
+   "type": "library",
+   "city": "Belmont",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Winnipesaukee Playhouse",
+   "type": "arts_culture",
+   "city": "Laconia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peaceful Serenity",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "D₂D",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Foucault Pendulum",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Inuksuk",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "One Clean Place",
+   "type": "laundromat",
+   "city": "Lebanon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shaker Museum",
+   "type": "museum",
+   "city": "Enfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lebanon Opera House",
+   "type": "arts_culture",
+   "city": "Lebanon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dartmouth Panels",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Feldberg Library",
+   "type": "library",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "X-Delta",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thel",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert Frost",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Feral Seed",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BASIC: The First User-Friendly Computer Programming Language",
+   "type": "historic_site",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Epic of American Civilization",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Perdido",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Refuge",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fountain Figure",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wide Babelki Bowl",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rauner Special Collections Library",
+   "type": "library",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bill Farm",
+   "type": "historic_site",
+   "city": "Enfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Star Memorial Highway",
+   "type": "historic_site",
+   "city": "Enfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "King's Highway",
+   "type": "historic_site",
+   "city": "West Lebanon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bright Side Brewing",
+   "type": "brewery_distillery",
+   "city": "West Lebanon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wrecker",
+   "type": "arts_culture",
+   "city": "Lebanon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1902 Room",
+   "type": "library",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reiss Hall",
+   "type": "library",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hopkins Center for the Arts",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Family Visual Arts Center",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Howe Library",
+   "type": "library",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bema",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baker Library",
+   "type": "library",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berry Library",
+   "type": "library",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AVA Gallery and Art Center",
+   "type": "arts_culture",
+   "city": "Lebanon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lebanon Public Library",
+   "type": "library",
+   "city": "Lebanon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edgewater Farm",
+   "type": "farmers_market",
+   "city": "West Lebanon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kilton Public Library",
+   "type": "library",
+   "city": "West Lebanon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The West Lebanon Laundromat",
+   "type": "laundromat",
+   "city": "West Lebanon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Etna Library",
+   "type": "library",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cummings Dam",
+   "type": "historic_site",
+   "city": "Lebanon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mascoma River Dam Number 2",
+   "type": "historic_site",
+   "city": "West Lebanon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hood Museum of Art",
+   "type": "museum",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Enfield Public Library",
+   "type": "library",
+   "city": "Enfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meriden Library",
+   "type": "library",
+   "city": "Lebanon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverview Farm Barn Store",
+   "type": "farmers_market",
+   "city": "West Lebanon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Porch",
+   "type": "arts_culture",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watch House",
+   "type": "historic_site",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East-West-Chamber",
+   "type": "historic_site",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oracle Chamber",
+   "type": "historic_site",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "V-Hut",
+   "type": "historic_site",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Equinox Sunrise Stone",
+   "type": "historic_site",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eye Stone",
+   "type": "historic_site",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "May Day Monolith",
+   "type": "historic_site",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Summer Solstice Sunrise Stone",
+   "type": "historic_site",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "True North Stone",
+   "type": "historic_site",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Winter Solstice Sunset Monolith",
+   "type": "historic_site",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Border Brewery & Barbecue",
+   "type": "brewery_distillery",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colonial House Foundation",
+   "type": "historic_site",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Salem Transportation Museum",
+   "type": "museum",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tuscan Village Founding Memorial",
+   "type": "historic_site",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tuscan Village Veteran Memorial Monument",
+   "type": "historic_site",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kelley Library",
+   "type": "library",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunshine Laundry Center",
+   "type": "laundromat",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Park",
+   "type": "historic_site",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Village Stage",
+   "type": "arts_culture",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Midway Stage",
+   "type": "arts_culture",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tuscan Market",
+   "type": "farmers_market",
+   "city": "Salem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodstock Station",
+   "type": "brewery_distillery",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Loon Mountain Laundry",
+   "type": "laundromat",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clark History Museum",
+   "type": "museum",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Americana Museum",
+   "type": "museum",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pemigewasset Hook & Ladder",
+   "type": "museum",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Homerun Laundromat",
+   "type": "laundromat",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "What is O'Brien's Way?",
+   "type": "historic_site",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Richard F. Cooper Memorial Bridge",
+   "type": "historic_site",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jean's Playhouse",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Avery's Garage",
+   "type": "museum",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smiley's Produce",
+   "type": "farmers_market",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sea Shell Stage",
+   "type": "arts_culture",
+   "city": "Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hampton Beach Casino Ballroom",
+   "type": "live_music",
+   "city": "Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marine Memorial",
+   "type": "historic_site",
+   "city": "Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hampton Falls Free Library",
+   "type": "library",
+   "city": "Hampton Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lafayette Trail",
+   "type": "historic_site",
+   "city": "Hampton Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hampton Falls Historical Society",
+   "type": "museum",
+   "city": "Hampton Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Science & Nature Center at Seabrook Station",
+   "type": "science_center",
+   "city": "Hampton Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lane Memorial Library",
+   "type": "library",
+   "city": "Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seacoast Wash",
+   "type": "laundromat",
+   "city": "Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seabrook Library",
+   "type": "library",
+   "city": "Seabrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tuck Museum",
+   "type": "museum",
+   "city": "Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "#16 ~ Hand",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "#18 \\ Toe Dancer",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "#21 / Comet",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "#15 / Herons",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "#26 / Stone Sail",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "#27 / Black Sail",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "#23 / Red Wing",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "#20 / Nova",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "#24 / Snowy Owl",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Turitella",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "#10 / Dog",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dragon Fly",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "#25 / Bear",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "#14 / White",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "#28 / South of the Border in Koyoto",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "#19 / Enigmatic Dream",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glenn P. Hart Memorial Walkway",
+   "type": "historic_site",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moulton Farm",
+   "type": "farmers_market",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lake Life Walk",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mill Falls Waterfall",
+   "type": "historic_site",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mill Falls Marketplace and The Inn at Mill Falls",
+   "type": "historic_site",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Panola",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hermit Woods Winery & Eatery",
+   "type": "brewery_distillery",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benjamin M Smith Memorial Library",
+   "type": "library",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art of Turning",
+   "type": "arts_culture",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Twin Barns Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Meredith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "building ruins",
+   "type": "historic_site",
+   "city": "Nottingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blaisdell Memorial Library",
+   "type": "library",
+   "city": "Nottingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Van Dame Museum and Reserch Cente",
+   "type": "museum",
+   "city": "Nottingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barnstormers Theatre",
+   "type": "arts_culture",
+   "city": "Tamworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Derry Historic District",
+   "type": "historic_downtown",
+   "city": "Derry Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brian J. McNamara",
+   "type": "historic_site",
+   "city": "Derry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Adams Memorial Opera House",
+   "type": "arts_culture",
+   "city": "Derry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Derry Museum of History",
+   "type": "museum",
+   "city": "Derry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stockbridge Theater",
+   "type": "arts_culture",
+   "city": "Derry Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cryptic Beer Lounge",
+   "type": "brewery_distillery",
+   "city": "Derry Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Derry Public Library",
+   "type": "library",
+   "city": "Derry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Taylor Library",
+   "type": "library",
+   "city": "Derry Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leach Library",
+   "type": "library",
+   "city": "Londonderry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morrison House Museum",
+   "type": "museum",
+   "city": "Londonderry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Collar",
+   "type": "laundromat",
+   "city": "Derry Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bathroom and Shower",
+   "type": "shower",
+   "city": "Bartlett",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thornton Public Library",
+   "type": "library",
+   "city": "Thornton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Madison Library",
+   "type": "library",
+   "city": "Madison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Madison Historical Society and Museum",
+   "type": "museum",
+   "city": "Madison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jackson Public Library",
+   "type": "library",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Mountain Photo Gallery",
+   "type": "arts_culture",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Boulders",
+   "type": "historic_site",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glen Ellis Laundromat",
+   "type": "laundromat",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Jackson Public Library",
+   "type": "library",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of White Mountain Art / Jackson Historical Society",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Durham Public Library",
+   "type": "library",
+   "city": "New Durham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Speedy Wash N Go",
+   "type": "laundromat",
+   "city": "Alton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gilman Museum",
+   "type": "museum",
+   "city": "Alton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gilman Library",
+   "type": "library",
+   "city": "Alton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stonynook Farm",
+   "type": "farmers_market",
+   "city": "Hopkinton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hopkinton (NH) Town Library",
+   "type": "library",
+   "city": "Hopkinton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plymouth Historic District",
+   "type": "historic_downtown",
+   "city": "Plymouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of the White Mountains",
+   "type": "museum",
+   "city": "Plymouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Last Chair",
+   "type": "brewery_distillery",
+   "city": "Plymouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artistic Roots",
+   "type": "arts_culture",
+   "city": "Plymouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Local Boyscout Harold A. Webster Jr.",
+   "type": "arts_culture",
+   "city": "Plymouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Common",
+   "type": "historic_site",
+   "city": "Plymouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capt. Harl Pease Jr.",
+   "type": "historic_site",
+   "city": "Plymouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Frost House",
+   "type": "historic_site",
+   "city": "Plymouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bobcat Boulder",
+   "type": "historic_site",
+   "city": "Plymouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Draper & Maynard Co.",
+   "type": "historic_site",
+   "city": "Plymouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Captain Douglas A. DiCenzo Bridge",
+   "type": "historic_site",
+   "city": "Plymouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flying Monkey Movie House & Performance Center",
+   "type": "arts_culture",
+   "city": "Plymouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clothes Pin",
+   "type": "laundromat",
+   "city": "Plymouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alfond Library",
+   "type": "library",
+   "city": "Plymouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Herbert H. Lamson Library",
+   "type": "library",
+   "city": "Plymouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pease Public Library",
+   "type": "library",
+   "city": "Plymouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Caddy Camp Alumni Memorial",
+   "type": "historic_site",
+   "city": "Bethlehem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Local Works Marketplace at WREN",
+   "type": "arts_culture",
+   "city": "Bethlehem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meadowstone Farm Shop",
+   "type": "farmers_market",
+   "city": "Bethlehem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rek-Lis Brewing Company Brew Pub",
+   "type": "brewery_distillery",
+   "city": "Bethlehem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rek-Lis Brewing Company Pint House",
+   "type": "brewery_distillery",
+   "city": "Bethlehem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bethlehem Public Library",
+   "type": "library",
+   "city": "Bethlehem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "42 Maple Contemporary Art Center",
+   "type": "arts_culture",
+   "city": "Bethlehem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Red Schoolhouse Museum",
+   "type": "museum",
+   "city": "Goshen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Olive G. Pettis Library",
+   "type": "library",
+   "city": "Goshen",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

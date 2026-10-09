@@ -1,0 +1,3470 @@
+{
+ "state": "ME",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Pumpkin Patch RV Park",
+   "type": "paid_camp",
+   "town": "Bangor, ME",
+   "town_mi": 5.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Paradise Park Resort",
+   "type": "paid_camp",
+   "town": "Old Orchard Beach, ME",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cobscook Bay State Park Campground",
+   "type": "paid_camp",
+   "town": "Lubec, ME",
+   "town_mi": 8.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Migis Lodge",
+   "type": "paid_camp",
+   "town": "Naples, ME",
+   "town_mi": 5.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Goodwins Lodge",
+   "type": "paid_camp",
+   "town": "Naples, ME",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Harborside RV Resort",
+   "type": "paid_camp",
+   "town": "Searsport, ME",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fairy Head 3",
+   "type": "boondocking",
+   "town": "Machias, ME",
+   "town_mi": 15.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fairy Head 2",
+   "type": "boondocking",
+   "town": "Machias, ME",
+   "town_mi": 15.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fairy Head 1",
+   "type": "boondocking",
+   "town": "Machias, ME",
+   "town_mi": 15.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Point Cove",
+   "type": "boondocking",
+   "town": "Lubec, ME",
+   "town_mi": 14.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Acadia Wilderness Lodge",
+   "type": "paid_camp",
+   "town": "Southwest Harbor, ME",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spacious Skies Campgrounds - Balsam Woods",
+   "type": "rv_park",
+   "town": "Guilford, ME",
+   "town_mi": 4.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Myers Lodge West",
+   "type": "paid_camp",
+   "town": "Rangeley, ME",
+   "town_mi": 19.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MITA Camp Site",
+   "type": "boondocking",
+   "town": "Milbridge, ME",
+   "town_mi": 6.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Myers Lodge East",
+   "type": "paid_camp",
+   "town": "Rangeley, ME",
+   "town_mi": 19.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deep Cove Campsite",
+   "type": "paid_camp",
+   "town": "Lubec, ME",
+   "town_mi": 13.2,
+   "badge": "nomad",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dead River Lodge",
+   "type": "paid_camp",
+   "town": "Bingham, ME",
+   "town_mi": 20.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Machias Public Parking",
+   "type": "boondocking",
+   "town": "Machias, ME",
+   "town_mi": 1.3,
+   "badge": "nomad",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Walmart Supercenter",
+   "type": "retail",
+   "town": "Oak Hill, ME",
+   "town_mi": 1.8,
+   "badge": "nomad",
+   "policy": "call_ahead",
+   "osm": true
+  }
+ ],
+ "activities": [
+  {
+   "name": "Hike Wonderland Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Great Head Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Jesup Path and Hemlock Path Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Schoodic Peninsula Trails",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Western Mountain Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike St. Sauveur and Acadia Mountain Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Ship Harbor Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Schiff Path",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Precipice Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Perpendicular and Razorback Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Pemetic Mountain Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Norumbega Mountain Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Kurt Diederichs Climb",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Kebo Brook Trail to Kebo Mountain",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Jordan Pond Path",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Homans Path",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Gorge Path",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Giant Slide Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Flying Mountain Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Cadillac North Ridge Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Bubbles Nubble Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Beech Mountain South Ridge Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Beachcroft Path",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Bald Peak and Parkman Mountain Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike To Barnard Mountain",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike To Orin Falls",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Seboeis Riverside Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Lichen Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Deasey Ponds Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike to Deasey Mountain",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Carlton Pond Waterfowl Production Area",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Moosehorn National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rachel Carson National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sunkhaze Meadows National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Aroostook National Wildlife Refuge",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Stargaze at Katahdin Woods and Waters National Monument",
+   "type": "stargazing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Village Green to Sieur de Monts with Island Explorer Bus",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Pemetic Summit with Island Explorer Bus",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Double Bubble Nubble Loop with Island Explorer",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Gorge/Cadillac Mountain North Ridge Loop with Island Explorer Bus",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Acadia Mountain Loop with Island Explorer Bus",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Sieur de Monts to Jesup Path with Island Explorer Bus",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Beech Cliff Trail with Island Explorer Bus",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Ocean Path Trail with Island Explorer Bus",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Sargent and Penobscot Mountains from JPH with Island Explorer Bus",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Jordan Pond Loop with Island Explorer Bus",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Oldfarm Video Tour",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore Historic Carroll Homestead",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bike the Katahdin Loop Road",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birding In The Southern Section",
+   "type": "birding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birding At The North Gate Area",
+   "type": "birding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Swim Lake Wood",
+   "type": "swimming",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Swim Sand Beach",
+   "type": "swimming",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Swim Echo Lake Beach",
+   "type": "swimming",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddle the East Branch of the Penobscot River (From Lunksoos Boat Launch to Big Seboeis)",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at the Katahdin Loop Road Overlook",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hunting In The Seboeis Parcel",
+   "type": "hunting",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bike the Upper East Branch Loop",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Snowshoe the East Branch Loop",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ski the Northern Section",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at Lunksoos Boat Launch",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at the Oxbow",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bike to Big Spring Brook Hut",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bike the IAT - Wassataquoik Stream Loop",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tidepooling at Wonderland",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Drive Cadillac Mountain",
+   "type": "scenic_drive",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Drive Park Loop Road",
+   "type": "scenic_drive",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birding Cadillac Mountain",
+   "type": "birding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at Jordan Pond",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddle Long Pond",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddle Eagle Lake",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddle Echo Lake",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddle Jordan Pond",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore the Self-guided Interpretive Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Stargazing at Seawall",
+   "type": "stargazing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tidepooling at Ship Harbor",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birding at Thompson Island",
+   "type": "birding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birding Sieur de Monts Springs",
+   "type": "birding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birding Jordan Pond",
+   "type": "birding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tidepooling at Bar Island",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birding Seawall",
+   "type": "birding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birding Isle au Haut",
+   "type": "birding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rockland Breakwater Lighthouse",
+   "type": "hiking",
+   "city": "Rockland",
+   "verified": true,
+   "osm": false
+  },
+  {
+   "name": "John Homestead Preserve",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Faye Leary Hafford Library",
+   "type": "library",
+   "city": "Allagash",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brick Store Museum",
+   "type": "museum",
+   "city": "Kennebunk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Hagenarium",
+   "type": "museum",
+   "city": "Kennebunk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rachel Carson",
+   "type": "historic_site",
+   "city": "Kennebunk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seashore Trolley Museum",
+   "type": "museum",
+   "city": "Arundel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kennebunk Free Library",
+   "type": "library",
+   "city": "Kennebunk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louis T Graves Memorial Public Library",
+   "type": "library",
+   "city": "Kennebunkport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Middle Intervale Farm",
+   "type": "farmers_market",
+   "city": "Newry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Mill Laundry",
+   "type": "laundromat",
+   "city": "Stratton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stratton Public Library",
+   "type": "library",
+   "city": "Stratton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Patten Lumbermans Museum",
+   "type": "museum",
+   "city": "Patten",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Patten Academy Monument & Bell",
+   "type": "historic_site",
+   "city": "Patten",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial Library",
+   "type": "library",
+   "city": "Patten",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Band Stand",
+   "type": "arts_culture",
+   "city": "Patten",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Katahdin Brew Works",
+   "type": "brewery_distillery",
+   "city": "Patten",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louise Clements Memorial Library",
+   "type": "library",
+   "city": "Cutler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tide Mill Organic Farm Stand",
+   "type": "farmers_market",
+   "city": "Whiting",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "York Institute Museum",
+   "type": "museum",
+   "city": "Saco",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Orchard Beach Historical Society Museum",
+   "type": "museum",
+   "city": "Old Orchard Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War Memorial",
+   "type": "historic_site",
+   "city": "Old Orchard Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Library",
+   "type": "library",
+   "city": "Old Orchard Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edith Belle Libby Memorial Library",
+   "type": "library",
+   "city": "Old Orchard Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Orchard Beach Town Square",
+   "type": "historic_downtown",
+   "city": "Old Orchard Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pepperell Square",
+   "type": "historic_downtown",
+   "city": "Saco",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Memorial",
+   "type": "historic_site",
+   "city": "Old Orchard Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "On The Vine Market Place",
+   "type": "farmers_market",
+   "city": "Old Orchard Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pine Tree Seafood & Produce Company (Lobster Pound)",
+   "type": "farmers_market",
+   "city": "Old Orchard Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dyer Library",
+   "type": "library",
+   "city": "Saco",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hyde Library",
+   "type": "library",
+   "city": "Saco",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmstand",
+   "type": "farmers_market",
+   "city": "Freeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Schooner Windfall",
+   "type": "historic_site",
+   "city": "Freeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Farmhouse Foundation",
+   "type": "historic_site",
+   "city": "Freeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Desert of Maine Farm Museum",
+   "type": "museum",
+   "city": "Freeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Memorial",
+   "type": "historic_site",
+   "city": "Freeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freeport Community Library",
+   "type": "library",
+   "city": "Freeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gritty McDuff's Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Freeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mast Landing Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Freeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maine Distilleries - Cold River Vodka",
+   "type": "brewery_distillery",
+   "city": "Freeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goodfire Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Freeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maine Beer Company",
+   "type": "brewery_distillery",
+   "city": "Freeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Twice told tales",
+   "type": "arts_culture",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Elevenses",
+   "type": "local_eats",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Brunswick Bike Trail",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "LL Bean Flagship Store",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Claws - Lobster Shack",
+   "type": "local_eats",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wells Beach Parking",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fore River Local Artist Collective",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portland Public Library - Main Branch",
+   "type": "library",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Belleflower Brewing",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sea Dog Brewery",
+   "type": "brewery_distillery",
+   "city": "Scarborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Falmouth Memorial Library",
+   "type": "library",
+   "city": "Falmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Major Charles Loring Memorial Park",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maine Historical Society",
+   "type": "museum",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wadsworth-Longfellow House",
+   "type": "museum",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brown Research Library",
+   "type": "library",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portland Stage Company",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Public Market House",
+   "type": "farmers_market",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Merrill Auditorium",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shipyard Brewery",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allagash Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liquid Riot",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mayo Street Arts",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Victoria Mansion",
+   "type": "museum",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peloton Labs",
+   "type": "coworking",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Village Laundry Center",
+   "type": "laundromat",
+   "city": "South Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maine Craft Distilling",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glickman Family Library",
+   "type": "library",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brickyard Hollow Brewing",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lyric Music Theater",
+   "type": "arts_culture",
+   "city": "South Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walker Memorial Library",
+   "type": "library",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Apple Cinemas Westbrook",
+   "type": "arts_culture",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Portland Public Library",
+   "type": "library",
+   "city": "South Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portland Players",
+   "type": "arts_culture",
+   "city": "South Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southern Maine Community College Library",
+   "type": "library",
+   "city": "South Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cushing's Point Museum",
+   "type": "museum",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portland Public Library - Burbank Branch",
+   "type": "library",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goddard Mansion",
+   "type": "historic_site",
+   "city": "South Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fifth Maine Regiment Museum",
+   "type": "museum",
+   "city": "Long Island",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mast Landing Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moonlight Cleaners",
+   "type": "laundromat",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Neal Dow House",
+   "type": "museum",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warren Memorial Sculpture Garden",
+   "type": "arts_culture",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sebago Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portland Fire Museum",
+   "type": "museum",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Umbrella Cover Museum",
+   "type": "museum",
+   "city": "Long Island",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battery Hobart",
+   "type": "historic_site",
+   "city": "Cape Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Portland Memorial Branch Library",
+   "type": "library",
+   "city": "South Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maine Narrow Gauge Railroad Museum",
+   "type": "museum",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Geary Brewing",
+   "type": "brewery_distillery",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Longfellow Square",
+   "type": "historic_downtown",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Foulmouthed Brewery",
+   "type": "brewery_distillery",
+   "city": "South Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scarborough Public Library",
+   "type": "library",
+   "city": "Scarborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University of New England Art Gallery",
+   "type": "museum",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tate House Museum",
+   "type": "museum",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Studio",
+   "type": "arts_culture",
+   "city": "South Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Neighborhood Laundromat",
+   "type": "laundromat",
+   "city": "South Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas Memorial Library",
+   "type": "library",
+   "city": "Cape Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rex Memorial",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Allagash Bungalow",
+   "type": "brewery_distillery",
+   "city": "Scarborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chalk Art Wall",
+   "type": "arts_culture",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portland Museum of Art",
+   "type": "museum",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Our Lady of Victories",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Maine Lobsterman",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reiche Branch - Portland Public Library",
+   "type": "library",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Back Cove Historic District",
+   "type": "historic_downtown",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cumberland Mills Historic District",
+   "type": "historic_downtown",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First Civic Monument",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort McKinley Historic District",
+   "type": "historic_downtown",
+   "city": "Long Island",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henry Wadsworth Longfellow Monument",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stroudwater Historic District",
+   "type": "historic_downtown",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westbrook College Historic District",
+   "type": "historic_downtown",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portland Public Library - Riverton Branch",
+   "type": "library",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peaks Island Branch Portland Public Library",
+   "type": "library",
+   "city": "Long Island",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's Museum & Theatre of Maine",
+   "type": "museum",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maine Jewish Museum",
+   "type": "museum",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gritty McDuff's",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "One Longfellow Square",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "State Theatre",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Lawrence Arts Center",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union Station Wash & Fold",
+   "type": "laundromat",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Ford Statue",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rising Tide",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oxbow Blending and Bottling",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allagash Tasting Room",
+   "type": "brewery_distillery",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bissell Brothers",
+   "type": "brewery_distillery",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Foundation Brewing",
+   "type": "brewery_distillery",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Austin Street Brewery",
+   "type": "brewery_distillery",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berlin Wall Memorial",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wall of Heroes",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bissell Brothers Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SPACE Gallery",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grant Wahlquist Gallery",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elizabeth Moss Gallery",
+   "type": "arts_culture",
+   "city": "Falmouth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mast of the USS Portland",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "International Cryptozoology Museum",
+   "type": "museum",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Caldwell Square Memorial",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baxter Pines Monument",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mayor Baxter Woods Memorial",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Portland Civil War Memorial",
+   "type": "historic_site",
+   "city": "South Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baxter Boulevard Sundial",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Triangles At Work",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westbrook Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battery Steele Brewing",
+   "type": "brewery_distillery",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Definitive Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sebago Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sinking of the USS Eagle",
+   "type": "historic_site",
+   "city": "Cape Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty Ship Memorial",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Island Dog Brewing",
+   "type": "brewery_distillery",
+   "city": "Scarborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goodfire Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lone Pine Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maine Mead Works",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Austin Street Brewery",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liliana's Laundry",
+   "type": "laundromat",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soap Bubble Laundromat",
+   "type": "laundromat",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort McKinley Museum",
+   "type": "museum",
+   "city": "Long Island",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abplanalp Library",
+   "type": "library",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portland Library Annex",
+   "type": "library",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Electric Greenhouse",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Après",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SPACE",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Apohadion Theater",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bunker Brewing",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garden Island Laundry",
+   "type": "laundromat",
+   "city": "South Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harmons Vegetable Stand",
+   "type": "farmers_market",
+   "city": "Scarborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civic Center Square",
+   "type": "historic_downtown",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Earth Day 2010",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Loi's Natural Marketplace",
+   "type": "farmers_market",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lieutenant Frothingham Memorial",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas Reed Memorial",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Banded Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Urban Farm Fermentory",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Luminous Arbor",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rosemont Market & Wine Bar",
+   "type": "farmers_market",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tidal Moon",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Split Bench",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pinecone",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cloud Couch",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Constance Corey PhD. Memorial Garden",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jack D. Finley Memorial Plaza",
+   "type": "historic_site",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Biosphere",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Donatelli Square",
+   "type": "historic_downtown",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Congress Square",
+   "type": "historic_downtown",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lookin' Good Laundromat",
+   "type": "laundromat",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers' and Sailors' Monument",
+   "type": "historic_site",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Company M, 1st Maine Volunteer Infantry Memorial",
+   "type": "historic_site",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean War Memorial",
+   "type": "historic_site",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Operation Desert Storm Memorial",
+   "type": "historic_site",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam Conflict Memorial",
+   "type": "historic_site",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "POW - MIA Memorial",
+   "type": "historic_site",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverbank",
+   "type": "historic_site",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cape Elizabeth War Memorial",
+   "type": "historic_site",
+   "city": "Cape Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fishermans Point Shacks",
+   "type": "historic_site",
+   "city": "South Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orange Bike Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tractor",
+   "type": "arts_culture",
+   "city": "Westbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Armillary",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Duck House",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Empire Comedy Club",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seven",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oak Street Studios",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Slugger the Sea Dog",
+   "type": "arts_culture",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cloudport CoWorking",
+   "type": "coworking",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bates College Museum of Art",
+   "type": "museum",
+   "city": "Lewiston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Androscoggin County Historical Museum",
+   "type": "museum",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baxter Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bonney Park",
+   "type": "historic_site",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anthony Fireplace",
+   "type": "historic_site",
+   "city": "Lewiston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miller Fireplace",
+   "type": "historic_site",
+   "city": "Lewiston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wood Memorial",
+   "type": "historic_site",
+   "city": "Lewiston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gritty McDuff's",
+   "type": "brewery_distillery",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corner Laundromat",
+   "type": "laundromat",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coram Library",
+   "type": "library",
+   "city": "Lewiston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George and Helen Ladd Library",
+   "type": "library",
+   "city": "Lewiston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Muskie Archives",
+   "type": "library",
+   "city": "Lewiston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Auburn Public Library",
+   "type": "library",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "L/A Clean & Spin",
+   "type": "laundromat",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beal's Cleaners & Laundromat",
+   "type": "laundromat",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Public Theatre",
+   "type": "arts_culture",
+   "city": "Lewiston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Franco Center",
+   "type": "arts_culture",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "75 Park",
+   "type": "coworking",
+   "city": "Lewiston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Florence Keigwin Amphitheater",
+   "type": "arts_culture",
+   "city": "Lewiston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lewiston Public Library",
+   "type": "library",
+   "city": "Lewiston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clewley Museum",
+   "type": "museum",
+   "city": "Brewer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hose 5 Fire Museum",
+   "type": "museum",
+   "city": "Brewer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hampden Veterans' Memorial",
+   "type": "historic_site",
+   "city": "Hampden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battleship Maine Monument",
+   "type": "historic_site",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paul Bunyan",
+   "type": "arts_culture",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gold Star Cleaners",
+   "type": "laundromat",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zillman Art Museum",
+   "type": "arts_culture",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gold Star Cleaners",
+   "type": "laundromat",
+   "city": "Brewer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Police Museum",
+   "type": "museum",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sea Dog Brewing",
+   "type": "brewery_distillery",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mason's Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Brewer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veteran's Memorial",
+   "type": "historic_site",
+   "city": "Hermon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldier's Monument",
+   "type": "historic_site",
+   "city": "Hermon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Penobscot Theatre Company Dramatic Academy",
+   "type": "arts_culture",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greetings From Bangor Maine",
+   "type": "arts_culture",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "An Optimistic Vision Inspiring Neighborhood Recovery",
+   "type": "arts_culture",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pollinators",
+   "type": "arts_culture",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Together Place",
+   "type": "arts_culture",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spring Woods",
+   "type": "arts_culture",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Good of the Hive",
+   "type": "arts_culture",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "One Native Lupine",
+   "type": "arts_culture",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kenduskeag Stream Trail Mural",
+   "type": "arts_culture",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bangor Wants You",
+   "type": "arts_culture",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nottage Library",
+   "type": "library",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UMA Moose Statue",
+   "type": "arts_culture",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gracie Theatre",
+   "type": "arts_culture",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bangor Public Library",
+   "type": "library",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cole Land Transportation Museum",
+   "type": "museum",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edythe Dyer Library",
+   "type": "library",
+   "city": "Hampden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orono Public Library",
+   "type": "library",
+   "city": "Orono",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maine Air Museum",
+   "type": "museum",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marsh Island Brewing",
+   "type": "brewery_distillery",
+   "city": "Orono",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hammond Street Laundry",
+   "type": "laundromat",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brewer Public Library",
+   "type": "library",
+   "city": "Brewer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maine Savings Ampitheater",
+   "type": "arts_culture",
+   "city": "Bangor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orrington Public Library",
+   "type": "library",
+   "city": "Orrington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mechanic Falls Public Library",
+   "type": "library",
+   "city": "Mechanic Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberal Cup",
+   "type": "brewery_distillery",
+   "city": "Hallowell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Fort Western",
+   "type": "museum",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cushnoc Archeological Site",
+   "type": "historic_site",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cushnoc Annex",
+   "type": "brewery_distillery",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maxim's Laundromat",
+   "type": "laundromat",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's 9/11 Memorial",
+   "type": "historic_site",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Samantha Smith",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civilian Conservation Corps",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hartford Square",
+   "type": "historic_downtown",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Market Square",
+   "type": "historic_downtown",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Community Celebration Mural",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Al Naeem Market",
+   "type": "farmers_market",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "POP-UP 265",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jokers & Rogues Brewing",
+   "type": "brewery_distillery",
+   "city": "Farmingdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maine Vietnam Veterans Memorial",
+   "type": "historic_site",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mausoleum and Memorial of Enoch Lincoln",
+   "type": "historic_site",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheatre",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garden Island Cleaners",
+   "type": "laundromat",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sacred Heart of Jesus",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maine State Museum",
+   "type": "museum",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Monument",
+   "type": "historic_site",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mary's Place Laundry",
+   "type": "laundromat",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lithgow Public Library",
+   "type": "library",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Katz Library",
+   "type": "library",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maine State Library",
+   "type": "library",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kresge Building",
+   "type": "brewery_distillery",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fine Arts Building",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First Amendment Museum at the Gannett House",
+   "type": "museum",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Augusta Colonial Theater",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War I Memorial",
+   "type": "historic_site",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Klahr Center",
+   "type": "museum",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hubbard Free Library",
+   "type": "library",
+   "city": "Hallowell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gardiner Public Library",
+   "type": "library",
+   "city": "Gardiner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Emery's Meat and Produce",
+   "type": "farmers_market",
+   "city": "Gardiner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hallowell Seafood and Produce",
+   "type": "farmers_market",
+   "city": "Hallowell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnson Hall Opera House",
+   "type": "arts_culture",
+   "city": "Gardiner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kennebec Historical Society",
+   "type": "museum",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alan Claude Gallery",
+   "type": "arts_culture",
+   "city": "Gardiner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "L C Bates Museum",
+   "type": "museum",
+   "city": "Shawmut",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Redington Museum",
+   "type": "museum",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Halifax",
+   "type": "historic_site",
+   "city": "Winslow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Framemakers",
+   "type": "arts_culture",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oakland historical artifacts & photo museum",
+   "type": "museum",
+   "city": "Oakland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Mat",
+   "type": "laundromat",
+   "city": "Oakland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mc Cartney House Museum",
+   "type": "museum",
+   "city": "Oakland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tree Spirits",
+   "type": "brewery_distillery",
+   "city": "Oakland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Olin Science Library",
+   "type": "library",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pottery Club Studio",
+   "type": "arts_culture",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colby Woodsmen PV=nRT",
+   "type": "historic_site",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bixler Art and Music Library",
+   "type": "library",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ticonic Sculpture",
+   "type": "arts_culture",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Stone",
+   "type": "arts_culture",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waterville Fire/Rescue Memorial",
+   "type": "historic_site",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "“One Country” Monument",
+   "type": "historic_site",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans’ Memorial Plaque",
+   "type": "historic_site",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "“Roll Of Honor”",
+   "type": "historic_site",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans’ Memorial Bandstand (Plaque)",
+   "type": "historic_site",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rotary International Table",
+   "type": "historic_site",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Lounge Laundromat",
+   "type": "laundromat",
+   "city": "Winslow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miller Library",
+   "type": "library",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colby College Museum of Art",
+   "type": "museum",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waterville Library;Waterville Public Library",
+   "type": "library",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bowl in the Pines",
+   "type": "live_music",
+   "city": "Sidney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alumni Hall",
+   "type": "live_music",
+   "city": "Sidney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gordon Center For Creative & Performing Arts",
+   "type": "arts_culture",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Given Auditorium",
+   "type": "arts_culture",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crawford Art Studio",
+   "type": "arts_culture",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central Maine Veterans Memorial",
+   "type": "historic_site",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairfield Laundromat",
+   "type": "laundromat",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lawrence Public Library",
+   "type": "library",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Winslow Public Library",
+   "type": "library",
+   "city": "Winslow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Albert Brown Memorial Library",
+   "type": "library",
+   "city": "China",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waterville Opera House",
+   "type": "arts_culture",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seven Walls",
+   "type": "arts_culture",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bixler Music & Art Center",
+   "type": "arts_culture",
+   "city": "Waterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jupiter",
+   "type": "arts_culture",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Europa",
+   "type": "arts_culture",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ganymede",
+   "type": "arts_culture",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Callisto",
+   "type": "arts_culture",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mars",
+   "type": "arts_culture",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Earth",
+   "type": "arts_culture",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moon",
+   "type": "arts_culture",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Venus",
+   "type": "arts_culture",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mercury",
+   "type": "arts_culture",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sun",
+   "type": "arts_culture",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northern Maine Museum of Science",
+   "type": "science_center",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Common Gallery",
+   "type": "arts_culture",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Someday Comes",
+   "type": "arts_culture",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ignite",
+   "type": "coworking",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wintergreen Arts Center",
+   "type": "arts_culture",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mark and Emily Turner Memorial Library",
+   "type": "library",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Presque Isle Historical Museum",
+   "type": "museum",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kelley's Laundromat",
+   "type": "laundromat",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center for Innovative Learning",
+   "type": "library",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maysville Museum",
+   "type": "museum",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gauvin Family Center for Cultural Arts",
+   "type": "arts_culture",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edmunds Library",
+   "type": "library",
+   "city": "Presque Isle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Francis Malcom Science Center",
+   "type": "planetarium",
+   "city": "Easton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mariner's Circle",
+   "type": "historic_site",
+   "city": "Biddeford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Rock",
+   "type": "historic_site",
+   "city": "Biddeford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Banded Brewery Company",
+   "type": "brewery_distillery",
+   "city": "Biddeford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Round Turn Distilliing",
+   "type": "brewery_distillery",
+   "city": "Biddeford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Falls Plaza",
+   "type": "historic_downtown",
+   "city": "Biddeford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City Theatre",
+   "type": "arts_culture",
+   "city": "Biddeford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McArthur Public Library",
+   "type": "library",
+   "city": "Biddeford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pearl Plaza",
+   "type": "historic_downtown",
+   "city": "Biddeford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sacred and Profane",
+   "type": "brewery_distillery",
+   "city": "Biddeford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bubbles Laundromat",
+   "type": "laundromat",
+   "city": "Sanford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fluff-n-Puff Laundry",
+   "type": "laundromat",
+   "city": "Sanford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McDougal Orchards",
+   "type": "farmers_market",
+   "city": "Sanford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairy Village",
+   "type": "arts_culture",
+   "city": "Sanford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mousam Valley Apiary Farmstand",
+   "type": "farmers_market",
+   "city": "Sanford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Springvale Public Library",
+   "type": "library",
+   "city": "Sanford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louis B Goodall Memorial Library",
+   "type": "library",
+   "city": "Sanford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pleasant Suds",
+   "type": "laundromat",
+   "city": "Sanford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sanford-Springvale Historical Society",
+   "type": "museum",
+   "city": "Sanford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parsons Memorial Library",
+   "type": "library",
+   "city": "Alfred",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alfred Village Museum",
+   "type": "museum",
+   "city": "Alfred",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bernier Farms and Storage",
+   "type": "farmers_market",
+   "city": "Alfred",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Our Forebearers of the Coast",
+   "type": "arts_culture",
+   "city": "Kennebunkport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northlight Gallery",
+   "type": "arts_culture",
+   "city": "Kennebunkport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portland Farmer's Market",
+   "type": "farmers_market",
+   "city": "Portland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lewiston Farmer's Market",
+   "type": "farmers_market",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West & Bloom Art Collective",
+   "type": "arts_culture",
+   "city": "Oakland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maine Classic Car Museum",
+   "type": "museum",
+   "city": "Biddeford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Princeton War Monument",
+   "type": "historic_site",
+   "city": "Princeton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Princeton Public Library",
+   "type": "library",
+   "city": "Princeton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indian Township Museum",
+   "type": "museum",
+   "city": "Princeton",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

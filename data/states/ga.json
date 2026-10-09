@@ -1,0 +1,9853 @@
+{
+ "state": "GA",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Bainbridge Riverview Campground",
+   "type": "paid_camp",
+   "town": "Bainbridge, GA",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Winfield Scott Campground",
+   "type": "paid_camp",
+   "town": "Blairsville, GA",
+   "town_mi": 9.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tate Branch Campground",
+   "type": "paid_camp",
+   "town": "Tate City, GA",
+   "town_mi": 1.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sandy Bottoms Campground",
+   "type": "paid_camp",
+   "town": "Tate City, GA",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Plantation Parkway RV and Mobile Home Park",
+   "type": "rv_park",
+   "town": "Miccosukee, FL",
+   "town_mi": 9.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DeSoto Falls Campground",
+   "type": "unknown",
+   "town": "Helen, GA",
+   "town_mi": 10.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Conasauga Campground",
+   "type": "unknown",
+   "town": "Eton, GA",
+   "town_mi": 7.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wildcat Lodge & Campground",
+   "type": "paid_camp",
+   "town": "Blairsville, GA",
+   "town_mi": 12.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Beautiful Rock Campground",
+   "type": "paid_camp",
+   "town": "Rockmart, GA",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deep Hole Recreation Area",
+   "type": "paid_camp",
+   "town": "Morganton, GA",
+   "town_mi": 11.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mulky Campground",
+   "type": "paid_camp",
+   "town": "Blairsville, GA",
+   "town_mi": 10.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Canal Run",
+   "type": "unknown",
+   "town": "Homeland, GA",
+   "town_mi": 14.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Altamaha Regional Park",
+   "type": "paid_camp",
+   "town": "Everett, GA",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "EASTBANK",
+   "type": "paid_camp",
+   "town": "Chattahoochee, FL",
+   "town_mi": 1.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WATSADLER",
+   "type": "paid_camp",
+   "town": "Hartwell, GA",
+   "town_mi": 5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tallulah River Campground",
+   "type": "unknown",
+   "town": "Tate City, GA",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Extended Stay RV America",
+   "type": "rv_park",
+   "town": "Sasser, GA",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ponderosa RV Park Inc.",
+   "type": "rv_park",
+   "town": "Rocky Ford, GA",
+   "town_mi": 7.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Sinclair",
+   "type": "unknown",
+   "town": "Crooked Creek, GA",
+   "town_mi": 8.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Griffis Camp",
+   "type": "paid_camp",
+   "town": "Fargo, GA",
+   "town_mi": 10.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MORGANTON POINT",
+   "type": "paid_camp",
+   "town": "Morganton, GA",
+   "town_mi": 0.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jacks River Fields Campground",
+   "type": "paid_camp",
+   "town": "Cherry Log, GA",
+   "town_mi": 9.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hidden River Resort",
+   "type": "paid_camp",
+   "town": "Glen St. Mary, FL",
+   "town_mi": 13.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Savannah River RV Parks",
+   "type": "rv_park",
+   "town": "Sylvania, GA",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Freedom Village",
+   "type": "paid_camp",
+   "town": "Sparta, GA",
+   "town_mi": 8.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blue Moon Campground",
+   "type": "paid_camp",
+   "town": "LaFayette, GA",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Emerald Lake RV Resort",
+   "type": "rv_park",
+   "town": "Donalsonville, GA",
+   "town_mi": 6.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sarah’s creek $",
+   "type": "unknown",
+   "town": "Sky Valley, GA",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sunshine RV Park",
+   "type": "rv_park",
+   "town": "Garden City, GA",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Van Pug South Campground",
+   "type": "unknown",
+   "town": "Rest Haven, GA",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sweetwater Campground",
+   "type": "paid_camp",
+   "town": "Holly Springs, GA",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "OLD FEDERAL",
+   "type": "paid_camp",
+   "town": "Oakwood, GA",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DUCKETT MILL",
+   "type": "paid_camp",
+   "town": "Gainesville, GA",
+   "town_mi": 6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Atlanta South RV Park",
+   "type": "rv_park",
+   "town": "Stockbridge, GA",
+   "town_mi": 4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Legends Premium Camping",
+   "type": "rv_park",
+   "town": "Hampton, GA",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cecil Bay RV Park",
+   "type": "rv_park",
+   "town": "Cecil, GA",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Paradise Valley Campground",
+   "type": "rv_park",
+   "town": "Cleveland, GA",
+   "town_mi": 6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camping Area 2",
+   "type": "rv_park",
+   "town": "Pine Mountain, GA",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Hicita Group Camp",
+   "type": "paid_camp",
+   "town": "Bluffton, GA",
+   "town_mi": 4.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kolomoki Campground",
+   "type": "paid_camp",
+   "town": "Bluffton, GA",
+   "town_mi": 5.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camping Area 1",
+   "type": "rv_park",
+   "town": "Pine Mountain, GA",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camping Area 5",
+   "type": "rv_park",
+   "town": "Pine Mountain, GA",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Harmony RV Park",
+   "type": "rv_park",
+   "town": "Eulonia, GA",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McIntosh Lake RV Park",
+   "type": "rv_park",
+   "town": "Eulonia, GA",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bulldog Park",
+   "type": "rv_park",
+   "town": "Athens-Clarke County, GA",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Don Carter State Park",
+   "type": "unknown",
+   "town": "Lula, GA",
+   "town_mi": 4.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Two Wheels of Suches",
+   "type": "paid_camp",
+   "town": "Dahlonega, GA",
+   "town_mi": 11.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Under the Hemlock",
+   "type": "paid_camp",
+   "town": "Dawsonville, GA",
+   "town_mi": 10.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dockery Lake Campground",
+   "type": "paid_camp",
+   "town": "Dahlonega, GA",
+   "town_mi": 10,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Frank Gross Recreation Area",
+   "type": "paid_camp",
+   "town": "Morganton, GA",
+   "town_mi": 13.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Chattahoochee River Campground",
+   "type": "unknown",
+   "town": "Helen, GA",
+   "town_mi": 6.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Toccoa River Sandy Bottoms Recreation Area",
+   "type": "paid_camp",
+   "town": "Morganton, GA",
+   "town_mi": 6.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cooper Creek Recreation Area",
+   "type": "paid_camp",
+   "town": "Blairsville, GA",
+   "town_mi": 10.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Turners Corner Campground",
+   "type": "rv_park",
+   "town": "Yonah, GA",
+   "town_mi": 9.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ball Field Group Camping Area",
+   "type": "unknown",
+   "town": "Eton, GA",
+   "town_mi": 7.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ball Field Group Camp",
+   "type": "unknown",
+   "town": "Eton, GA",
+   "town_mi": 6.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wildwood Camping Area 1",
+   "type": "unknown",
+   "town": "Appling, GA",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "The Pocket Campground",
+   "type": "paid_camp",
+   "town": "Resaca, GA",
+   "town_mi": 8.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Low Gap Campground",
+   "type": "paid_camp",
+   "town": "Helen, GA",
+   "town_mi": 4.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Unreserved RV Camping",
+   "type": "rv_park",
+   "town": "Hampton, GA",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Family RV Camping",
+   "type": "rv_park",
+   "town": "Hampton, GA",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Legends Lakeside Camping",
+   "type": "rv_park",
+   "town": "Hampton, GA",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Legends Tent Camping",
+   "type": "paid_camp",
+   "town": "Hampton, GA",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Premiere Camping",
+   "type": "rv_park",
+   "town": "Hampton, GA",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Handicapped Camping",
+   "type": "rv_park",
+   "town": "Hampton, GA",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little River Park",
+   "type": "rv_park",
+   "town": "Crooked Creek, GA",
+   "town_mi": 5.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Terrora Campground",
+   "type": "paid_camp",
+   "town": "Tallulah Falls, GA",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Talona Creek Campground",
+   "type": "rv_park",
+   "town": "Talking Rock, GA",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "City of Roses RV Park",
+   "type": "rv_park",
+   "town": "Thomasville, GA",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Georgia Peanut RV Park",
+   "type": "rv_park",
+   "town": "Ashburn, GA",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Oak R V Park",
+   "type": "rv_park",
+   "town": "Tallapoosa, GA",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Skidaway Island State Park Campground",
+   "type": "paid_camp",
+   "town": "Skidaway Island, GA",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Amicalola Falls State Park Campground",
+   "type": "paid_camp",
+   "town": "Dawsonville, GA",
+   "town_mi": 11.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jenny Ridge RV Park",
+   "type": "rv_park",
+   "town": "Folkston, GA",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Talona Ridge RV Resort",
+   "type": "rv_park",
+   "town": "East Ellijay, GA",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagles Roost R V Resort",
+   "type": "rv_park",
+   "town": "Lake Park, GA",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Allatoona Landing Marine Resort Campground",
+   "type": "paid_camp",
+   "town": "Emerson, GA",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "COTTON HILL",
+   "type": "paid_camp",
+   "town": "Fort Gaines, GA",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp David RV Resort",
+   "type": "rv_park",
+   "town": "Phenix City, AL",
+   "town_mi": 6.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Stamp Creek Campground",
+   "type": "paid_camp",
+   "town": "Emerson, GA",
+   "town_mi": 6.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Savannah South KOA Holiday",
+   "type": "rv_park",
+   "town": "Richmond Hill, GA",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blue Ridge / Toccoa River KOA Holiday",
+   "type": "rv_park",
+   "town": "Mineral Bluff, GA",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagle Hammock RV Park",
+   "type": "rv_park",
+   "town": "Kings Bay Base, GA",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Holiday",
+   "type": "rv_park",
+   "town": "St. Marys, GA",
+   "town_mi": 4.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Country Oaks Campground & Rv",
+   "type": "paid_camp",
+   "town": "St. Marys, GA",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "A Big Wheel RV Park",
+   "type": "rv_park",
+   "town": "Kings Bay Base, GA",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Coastal Georgia RV Resort",
+   "type": "paid_camp",
+   "town": "Dock Junction, GA",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Tolochee",
+   "type": "paid_camp",
+   "town": "Dock Junction, GA",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Southern Retreat RV Park",
+   "type": "paid_camp",
+   "town": "Dock Junction, GA",
+   "town_mi": 5.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Inland Harbor RV Park",
+   "type": "paid_camp",
+   "town": "Darien, GA",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Huck's RV Park",
+   "type": "paid_camp",
+   "town": "Kings Bay Base, GA",
+   "town_mi": 7.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Walkabout Camp & RV Park",
+   "type": "paid_camp",
+   "town": "Kingsland, GA",
+   "town_mi": 6.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cathead Creek Ranch & RV Park",
+   "type": "rv_park",
+   "town": "Darien, GA",
+   "town_mi": 6.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kiki RV Park",
+   "type": "rv_park",
+   "town": "St. Marys, GA",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "341 RV Park",
+   "type": "rv_park",
+   "town": "Hazlehurst, GA",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Glamp Blue Ridge",
+   "type": "paid_camp",
+   "town": "Cherry Log, GA",
+   "town_mi": 4.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Metro RV",
+   "type": "rv_park",
+   "town": "Oxford, GA",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Holiday Travel Park of Chattanooga",
+   "type": "rv_park",
+   "town": "East Ridge, TN",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fair Harbor RV Park",
+   "type": "rv_park",
+   "town": "Perry, GA",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Okefenokee RV Park",
+   "type": "rv_park",
+   "town": "Homeland, GA",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Albany RV Resort",
+   "type": "rv_park",
+   "town": "Putney, GA",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yogi Bear's Jellystone Park",
+   "type": "rv_park",
+   "town": "Waco, GA",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Chattooga",
+   "type": "unknown",
+   "town": "Tallulah Falls, GA",
+   "town_mi": 2.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Madison RV Park",
+   "type": "rv_park",
+   "town": "Madison, GA",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Conductor's Corner",
+   "type": "paid_camp",
+   "town": "Folkston, GA",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Southern Gates RV Park and Campground",
+   "type": "rv_park",
+   "town": "Arabi, GA",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chattahoochee RV Park",
+   "type": "rv_park",
+   "town": "Franklin, GA",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CreekFire RV Resort",
+   "type": "rv_park",
+   "town": "Henderson, GA",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Vogel State Park Campground",
+   "type": "paid_camp",
+   "town": "Blairsville, GA",
+   "town_mi": 8.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Valdosta Oaks RV Park",
+   "type": "rv_park",
+   "town": "Remerton, GA",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dream RV Park",
+   "type": "rv_park",
+   "town": "Eastman, GA",
+   "town_mi": 4.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Red Top Mountain State Park Campground",
+   "type": "paid_camp",
+   "town": "Emerson, GA",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Durham Backcountry Campsite",
+   "type": "paid_camp",
+   "town": "West Brow, GA",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nickajack Campsite",
+   "type": "paid_camp",
+   "town": "West Brow, GA",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moonshine Campsite",
+   "type": "paid_camp",
+   "town": "West Brow, GA",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tifton Overnight RV",
+   "type": "rv_park",
+   "town": "Phillipsburg, GA",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Love's RV Stop",
+   "type": "rv_park",
+   "town": "Cordele, GA",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Love's RV Hookup",
+   "type": "rv_park",
+   "town": "Remerton, GA",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Love's RV Hookup",
+   "type": "rv_park",
+   "town": "West Point, GA",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cross Creek Campground",
+   "type": "paid_camp",
+   "town": "Whigham, GA",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagleview Park",
+   "type": "paid_camp",
+   "town": "West Point, GA",
+   "town_mi": 2.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Earl Cook Recreation Area",
+   "type": "paid_camp",
+   "town": "West Point, GA",
+   "town_mi": 6.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hardley Creek Park",
+   "type": "paid_camp",
+   "town": "West Point, GA",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Horace King Park",
+   "type": "paid_camp",
+   "town": "Standing Rock, AL",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Long Cane Recreation Area",
+   "type": "paid_camp",
+   "town": "Fredonia, AL",
+   "town_mi": 4.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McGee Bridge Park",
+   "type": "paid_camp",
+   "town": "LaGrange, GA",
+   "town_mi": 5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rocky Point Recreation Area",
+   "type": "paid_camp",
+   "town": "Fredonia, AL",
+   "town_mi": 4.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Veasey Creek Park",
+   "type": "paid_camp",
+   "town": "Fredonia, AL",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yellowjacket Creek Recreation Area",
+   "type": "paid_camp",
+   "town": "LaGrange, GA",
+   "town_mi": 5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "AMITY RECREATION AREA",
+   "type": "paid_camp",
+   "town": "Lincolnton, GA",
+   "town_mi": 10.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BALD RIDGE CREEK",
+   "type": "paid_camp",
+   "town": "Cumming, GA",
+   "town_mi": 2.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BIG OAKS",
+   "type": "paid_camp",
+   "town": "Hartwell, GA",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BOLDING MILL",
+   "type": "paid_camp",
+   "town": "Gainesville, GA",
+   "town_mi": 7.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BROYLES",
+   "type": "paid_camp",
+   "town": "Centerville, SC",
+   "town_mi": 6.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CONEROSS PARK",
+   "type": "paid_camp",
+   "town": "Utica, SC",
+   "town_mi": 6.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CRESCENT",
+   "type": "paid_camp",
+   "town": "Hartwell, GA",
+   "town_mi": 6.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ELROD FERRY",
+   "type": "paid_camp",
+   "town": "Hartwell, GA",
+   "town_mi": 4.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LAKE SPRINGS",
+   "type": "paid_camp",
+   "town": "Clarks Hill, SC",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "OCONEE POINT",
+   "type": "paid_camp",
+   "town": "Clemson University, SC",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PAYNE CAMPGROUND-ALLATOONA LAKE",
+   "type": "paid_camp",
+   "town": "Woodstock, GA",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SAWNEE",
+   "type": "paid_camp",
+   "town": "Cumming, GA",
+   "town_mi": 3.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SINGING PINES",
+   "type": "paid_camp",
+   "town": "Homeland Park, SC",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SPRINGFIELD",
+   "type": "paid_camp",
+   "town": "Reed Creek, GA",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TWIN LAKES (SC)",
+   "type": "paid_camp",
+   "town": "Clemson University, SC",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "VICTORIA CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Woodstock, GA",
+   "town_mi": 6.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WEST DAM",
+   "type": "paid_camp",
+   "town": "Clarks Hill, SC",
+   "town_mi": 1.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WHITETAIL RIDGE",
+   "type": "paid_camp",
+   "town": "Standing Rock, AL",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WILLIS KNOB HORSE CAMP",
+   "type": "paid_camp",
+   "town": "Longcreek, SC",
+   "town_mi": 8.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Winfield Scott Recreation Area",
+   "type": "paid_camp",
+   "town": "Helen, GA",
+   "town_mi": 9.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cottonwood Patch Campground",
+   "type": "paid_camp",
+   "town": "Conasauga, TN",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brush Creek Campground",
+   "type": "paid_camp",
+   "town": "Franklin, GA",
+   "town_mi": 4.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Okefenokee National Wildlife Refuge Overnight Camping Permit",
+   "type": "paid_camp",
+   "town": "Homeland, GA",
+   "town_mi": 17.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WEST BANK PARK SHELTERS (GA)",
+   "type": "paid_camp",
+   "town": "Cumming, GA",
+   "town_mi": 4.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "THOMPSON CREEK PARK SHELTER (GA)",
+   "type": "paid_camp",
+   "town": "Dawsonville, GA",
+   "town_mi": 8.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BUFORD DAM PARK SHELTERS (GA)",
+   "type": "paid_camp",
+   "town": "Buford, GA",
+   "town_mi": 4.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "VAN PUGH NORTH PARK SHELTER (GA)",
+   "type": "paid_camp",
+   "town": "Rest Haven, GA",
+   "town_mi": 3.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LITTLE HALL SHELTER (GA)",
+   "type": "paid_camp",
+   "town": "Gainesville, GA",
+   "town_mi": 6.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LANIER PARK SHELTER (GA)",
+   "type": "paid_camp",
+   "town": "Buford, GA",
+   "town_mi": 4.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cumberland Island National Seashore Camping Permits",
+   "type": "paid_camp",
+   "town": "St. Marys, GA",
+   "town_mi": 3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Toto Creek Campground",
+   "type": "paid_camp",
+   "town": "Dawsonville, GA",
+   "town_mi": 8.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LAKE RABUN BEACH RECREATION AREA",
+   "type": "paid_camp",
+   "town": "Tallulah Falls, GA",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rest Area — 19",
+   "type": "rest_stop",
+   "town": "Macon-Bibb County, GA",
+   "town_mi": 5.3,
+   "badge": "policy",
+   "policy": "allowed",
+   "osm": true
+  }
+ ],
+ "activities": [
+  {
+   "name": "Chattahoochee-Oconee National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Banks Lake National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Blackbeard Island National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Harris Neck National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Okefenokee National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Piedmont National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wassaw National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gray's Reef National Marine Sanctuary",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sapelo Island National Estuarine Research Reserve",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wolf Island National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bond Swamp National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Allatoona Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Sidney Lanier",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Carters Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walter F. George Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "West Point Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "George W. Andrews Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hartwell Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Richard B. Russell Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birdwatching at Fort Pulaski",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Fort Pulaski's Visitor Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Watch Fort Pulaski's Park Film",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fishing at Fort Pulaski",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Living History Demonstrations",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Attend a Fort Pulaski Ranger Program",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ranger-Led Town Tour",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Plum Orchard Tour",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike a Nature Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Complete the Fort Frederica Scavenger Hunt",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ranger-Led \"Footsteps\" Tour",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Main Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wildlife Watching at Ocmulgee Mounds",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit the Jimmy Carter National Historical Park Bookstore",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Self-Guided Walking Tour of Plains, Georgia",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Self-Guided Tour of the Jimmy Carter Boyhood Farm",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Self-Guided Tour of Plains Depot-1976 Campaign Headquarters",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tour the Museum",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ocmulgee River Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Heritage Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dunlap Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Exploring Palisades East",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "McDougal Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bartram Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Funeral Loop Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hitchiti Village Site Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Southeast Mound Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cornfield Mound Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Opelofa Loop Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Be A CHAT Junior Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Exploring Gold Branch",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Biking at Ocmulgee Mounds",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike to the Top of Big Kennesaw Mountain",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore the Ice House Museum",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Nightingale Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the River Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wildlife Viewing at Dungeness",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cochran Shoals Fitness Loop",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walk Down Broad Street",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore the Mainland Museum",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Brunswick Old Town Historic District",
+   "type": "historic_downtown",
+   "city": "Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Horton House",
+   "type": "historic_site",
+   "city": "St. Simons",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallery on Newcastle",
+   "type": "arts_culture",
+   "city": "Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morgan's Cleaners and Laundromat",
+   "type": "laundromat",
+   "city": "St. Simons",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nature Market",
+   "type": "farmers_market",
+   "city": "St. Simons",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richmand Rum",
+   "type": "brewery_distillery",
+   "city": "Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "S.S. Oklahoma and Esso Baton Rouge Marker",
+   "type": "historic_site",
+   "city": "St. Simons",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jekyll Island Arts Association",
+   "type": "arts_culture",
+   "city": "St. Simons",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty Ship",
+   "type": "historic_site",
+   "city": "Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1st Brunswick Stew Pot",
+   "type": "historic_site",
+   "city": "Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cannon's Costal Cleaners",
+   "type": "laundromat",
+   "city": "Country Club Estates",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brunswick Harbor Market",
+   "type": "farmers_market",
+   "city": "Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forward Brunswick Farmers' Market",
+   "type": "farmers_market",
+   "city": "Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Atlantic Right Whale Mother and Calf",
+   "type": "arts_culture",
+   "city": "St. Simons",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lover's Oak",
+   "type": "historic_site",
+   "city": "Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barracks",
+   "type": "historic_site",
+   "city": "Country Club Estates",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Ritz Theater",
+   "type": "arts_culture",
+   "city": "Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Island Sound",
+   "type": "arts_culture",
+   "city": "St. Simons",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jekyll Island Museum",
+   "type": "museum",
+   "city": "St. Simons",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marshes of Glynn Library",
+   "type": "library",
+   "city": "Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II Home Front Museum",
+   "type": "museum",
+   "city": "St. Simons",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boathouse",
+   "type": "museum",
+   "city": "St. Simons",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clara Gould Library",
+   "type": "library",
+   "city": "Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glynn Visual Arts Center",
+   "type": "arts_culture",
+   "city": "St. Simons",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Simons Island Public Library",
+   "type": "library",
+   "city": "St. Simons",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Street-Brenau Historic District",
+   "type": "historic_downtown",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rabbittown Rabbit",
+   "type": "arts_culture",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial",
+   "type": "historic_site",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Statue at the Square",
+   "type": "historic_site",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Eternal Flame",
+   "type": "historic_site",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Breneau Outdoor Theater",
+   "type": "arts_culture",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Breneau Athletes Artwork",
+   "type": "arts_culture",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Breneau Ballet Center",
+   "type": "arts_culture",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean War Memorial",
+   "type": "historic_site",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gainesville Train",
+   "type": "historic_site",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Poultry Capital of the World Monument",
+   "type": "historic_site",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Sun",
+   "type": "historic_site",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brenau's Tiger",
+   "type": "historic_site",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Metal Horse",
+   "type": "historic_site",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Mushroom",
+   "type": "historic_site",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Biccentenial Park",
+   "type": "historic_site",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "stainless steel",
+   "type": "arts_culture",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallery on the Square",
+   "type": "arts_culture",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Public Safety Monument",
+   "type": "historic_site",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Luminary 830",
+   "type": "arts_culture",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Violin",
+   "type": "arts_culture",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harriet Tubman",
+   "type": "arts_culture",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lavanderia Hispana",
+   "type": "laundromat",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles Donley 11/07/2024",
+   "type": "historic_site",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Mat",
+   "type": "laundromat",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hall County Library Downtown",
+   "type": "library",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash Yer Duds",
+   "type": "laundromat",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blackshear Place Library",
+   "type": "library",
+   "city": "Oakwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Council Rock",
+   "type": "arts_culture",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ivester Amphitheater",
+   "type": "arts_culture",
+   "city": "Gainesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbus Historic District",
+   "type": "historic_downtown",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbus Riverfront Industrial Historic District",
+   "type": "historic_downtown",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Springer Opera House",
+   "type": "arts_culture",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Civil War Naval Museum",
+   "type": "museum",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ranger Memorial Foundation",
+   "type": "historic_site",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SK Laundromat",
+   "type": "laundromat",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scofflaw Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Post Laundromat",
+   "type": "laundromat",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Milton E. Long Library",
+   "type": "library",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Infantry Museum",
+   "type": "museum",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbus Public Library",
+   "type": "library",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rivercenter for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phenix City Amphitheater",
+   "type": "arts_culture",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Columbus Museum",
+   "type": "museum",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Schwob Memorial Library",
+   "type": "library",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coca-Cola Space Science Center",
+   "type": "planetarium",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Columbus Public Library",
+   "type": "library",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Milford Terry Public Library",
+   "type": "library",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smith-McCullers House (Carson McCullers Center)",
+   "type": "museum",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ma Rainey House",
+   "type": "museum",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hudson's Farm Fresh",
+   "type": "farmers_market",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eagle's Cleaners",
+   "type": "laundromat",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Family Cleaners",
+   "type": "laundromat",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westville",
+   "type": "museum",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Columbus Branch Library",
+   "type": "library",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bears on Pole",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wild Heaven West End Brewery & Garden",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eugene Talmadge",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miss Freedom",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dooley Goes On Forever",
+   "type": "arts_culture",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hanley's Funeral Home Historical Marker",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plaza Tower",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Herman Talmadge",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alonzo Herndon",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pounce The Panther",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Lewis Hero Mural",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richard B. Russell",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ellis G. Arnall",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "President Jimmy Carter",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Brown Gordon",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Expelled Because of Color",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West End Mural",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amaz y Paz",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Florence Kopleff Recital Hall",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgia State Players' Theatre",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barbara Miller Asher",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgia Constitution Medallion",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Marble Columns",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Unity",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eternal Flame",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "APD Officers Memorial",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Emma and Joe Adams Concert Hall",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benjamin E. Mays National Memorial",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert C. Williams Paper Museum",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bridge",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "David J. Sencer CDC Museum",
+   "type": "science_center",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Limelight Theatre",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Every Vote Matters\"",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hank Aaron",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin Luther King Junior",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spelman Theatre",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Lifting the Veil of Ignorance\"",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ben F. Johnson III Theatre",
+   "type": "arts_culture",
+   "city": "College Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Gate",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shining Light",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "To Robert Burns",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kabul Market",
+   "type": "farmers_market",
+   "city": "Scottdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Three Taverns",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ivan Allen Tribute",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Androgyne Planet Sculpture",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Arch",
+   "type": "historic_site",
+   "city": "College Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Land Lot 104",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aftercar",
+   "type": "coworking",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Koan Statue",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brittian Laundry",
+   "type": "laundromat",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "An American Dream",
+   "type": "arts_culture",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tower One",
+   "type": "arts_culture",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Director's Chair",
+   "type": "arts_culture",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Construction #200",
+   "type": "arts_culture",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert W. Woodruff",
+   "type": "arts_culture",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Emory Bench",
+   "type": "arts_culture",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whisper Chair",
+   "type": "arts_culture",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stone Grove",
+   "type": "arts_culture",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gravity Research Foundation Monument",
+   "type": "historic_site",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Academy Theatre",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Uptown Comedy Corner",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial to the Battle of Ezra Church",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodruff Monument",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frank L. Staton Monument",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confederate Memorial",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Earth Goddess",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas E. Watson",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joseph and Elizabeth Brown",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Equilibrista 90",
+   "type": "arts_culture",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Persélidas Monumental",
+   "type": "arts_culture",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hombre Universal",
+   "type": "arts_culture",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Split Monumental",
+   "type": "arts_culture",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Metropolitan Studios",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ASW Distillery",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "El Tesoro",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hope Moving Forward",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hosea Williams",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dorothy Lee Bolden",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Alexander Scott II",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rita Jackson Samuels",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Homage to King",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monday Night Brewing - The Grove",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Tree Art Studio",
+   "type": "arts_culture",
+   "city": "Avondale Estates",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gregg Irby Gallery",
+   "type": "arts_culture",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kessler Campanile",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Besharat Gallery & Museum - Atlanta",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coffee Loft",
+   "type": "coworking",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mass Collective",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zucot Gallery",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wild Leap Atlanta",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Illusions Atlanta",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Booga-loo Beat: All Dressed Up and No Place to Go",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled Alligator",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Together We",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlanta Tech Village",
+   "type": "coworking",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The March To The Sea",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Xerona Clayton Statue",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southern Company",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kenny Rogers",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "In Celebration",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Delafield Planetarium",
+   "type": "museum",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lullwater Tower",
+   "type": "historic_site",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ansley Park Historic District",
+   "type": "historic_downtown",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brookwood Hills Historic District",
+   "type": "historic_downtown",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Castleberry Hill Historic District",
+   "type": "historic_downtown",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairlie-Poplar Historic District",
+   "type": "historic_downtown",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garden Hills Historic District",
+   "type": "historic_downtown",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgia Institute of Technology Historic District",
+   "type": "historic_downtown",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Inman Park-Moreland Historic District",
+   "type": "historic_downtown",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Callanwolde Fine Arts Center",
+   "type": "arts_culture",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DeKalb History Center",
+   "type": "museum",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "African American Museum",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Science and Technology Museum of Atlanta",
+   "type": "science_center",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's Museum of Atlanta",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Herndon Home Museum",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McPherson Monument",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Andrew Young Statue",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Public Art: \"Emerging\"",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seen Gallery",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valentine",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Decatur Water Works",
+   "type": "historic_site",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Definition6 Interactive Marketing",
+   "type": "farmers_market",
+   "city": "North Druid Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Olympic Athletes Monument",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Horizon Theatre",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Academy Theatre",
+   "type": "arts_culture",
+   "city": "Avondale Estates",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Apex Museum",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Madame C.J. Walker’s Beauty Shoppe and WERDStudio Museum",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "7 Stages Playhouse",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Splash",
+   "type": "laundromat",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U*Space Gallery",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ABV Gallery",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sabbath Brewing",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Atlanta Farmer's Market",
+   "type": "farmers_market",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Wesley Dobbs",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sig Samuel's Dry Cleaners",
+   "type": "laundromat",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capital City Realty",
+   "type": "farmers_market",
+   "city": "North Druid Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Public Storage",
+   "type": "farmers_market",
+   "city": "North Druid Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grant Park Farmers Market",
+   "type": "farmers_market",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr. and Mrs. King's Tomb",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Midtown Cleaners & Laundry",
+   "type": "laundromat",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Peach",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spaces Peachtree",
+   "type": "coworking",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Synchronicity Theatre",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Living Walls Mural",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Market",
+   "type": "farmers_market",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alliance Theatre",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlanta Symphony Orchestra",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WeWork",
+   "type": "coworking",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Three Taverns",
+   "type": "brewery_distillery",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Decatur Fine Art",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlanta Monetary Museum",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin Luther King Jr.",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DramaTech",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Phoenix",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Einstein Statue",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dean Griffin Statue",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bobby Dodd Statue",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gilbert Memorial Cemetery",
+   "type": "historic_site",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty Plaza Bell",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marjorie Prothro",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlanta from the Ashes",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henry W. Grady",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dancers",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coca-Cola Hapeville Drug",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evereman Mosaic",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sharing our Stories",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hapeville",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butterflies",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sharing Our Stories Stained Glass",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sharing Our Stories Totem",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aviation Mural",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "125th Anniverary Mural",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hapeville Arts Mural",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Star Spangled Butterfly",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jigsaw",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spectrum",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Renaissance",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Summertime",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pieces of the Sky",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "El Corazon de la Ciudad",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Le ppur co",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Skyscape",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stained Glass Menagerie",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wild Thing",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hope",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Believe in Yourself",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Penelope",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Metamorphosis",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frieda",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Masquerade",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlanta Contemporary Art Center",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quilt of Dreams",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quilt of Remembrance",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quilt of Origins",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quilt of the Olympic Spirit",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paralympic Legacy Monument",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quilt of Nations",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baron Pierre de Coubertin Statue",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flame of Freedom",
+   "type": "historic_site",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bold Monk Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meraki",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "I Found my Future in the Wind",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AmericasMart Building 3",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baltimore Block",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Heart",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James J. Andrews",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laughing Skull Lounge",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Organized Chaos 2",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Studio at Norfolk Southern",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brewdog",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trap Music Museum",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Terminal West",
+   "type": "live_music",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sycamore Place Gallery",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Different Trains Art Gallery",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Mt. Zion Church",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Battle of Peachtree Creek",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Federal Forces Engaged",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Confederate Forces Engaged",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fire Maker Beer Garden",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Winecoff Fire",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spaces Colony Square",
+   "type": "coworking",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Inner Voice Brewing",
+   "type": "brewery_distillery",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Olympia",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stealth",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sabine Woman",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trilon",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WeWork",
+   "type": "coworking",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AAPI Music Princess",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlanta Woman's Club",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lavanderia Cin Laundry Wash & Fold",
+   "type": "laundromat",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roaring Social",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Avon Theater",
+   "type": "arts_culture",
+   "city": "Avondale Estates",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Look At Them Look At Us",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "House III",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Shade",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SCAD Studio",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert W. Woodruff",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peachtree Offices",
+   "type": "coworking",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whole World Improv Theatre",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Illuminated Swallows",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lift",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sam Phibian",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Let Me Share The Sky With You",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Williams Street Golden Owl",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union - North Mural",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union - South Mural",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Garden of Eden, Confinement, Forward Ever, Graffiti Sphinx",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confluence: Burst Forth with A Terrific Noise",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Everyday MARTA Scenes",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Swept Up In The Spectrum",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Margaret Mitchell House",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Sole Sitter",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "On The Strip",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlas",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "pb&j gallery",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blooming Hill",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Side Siege Line",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ballet Olympia",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pershing Point Park World War I Memorial",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Octetra",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1942 (Bartaco Loves Art Campaign)",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rhodes Hall - Le Rêve",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maceo A. Brown Memorial Intersection",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battle of Ezra Church",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlanta Fed Eagle",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OuterSpace Mission 5",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wind Chime Brasso Profundo",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Midtown ATL - Artists In Residence",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Silhouette",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chaos Mundaka",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Follow The Flow",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thief Of Your Heart III",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thief Of Your Heart",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henry's Don Cosme Tequila",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled - Outer Space Project",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Avenues of Engagement",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forgotten Alchemy",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dine And Design | Eat. Paint. Drink",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stevenson's Division",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lucid Private Offices",
+   "type": "coworking",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallery Chimera",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ASW Exchange",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hop e Hill Beloved Community Gallery",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mobile Seafood Market - BP West End",
+   "type": "farmers_market",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Drunken Unicorn",
+   "type": "live_music",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tenth Street School Memorial",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Last Meter",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "In Memoriam",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peace Monument",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pioneer Women",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Booker T. Washington",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cotton States Expisition Of 1895",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sons Of Atlanta",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlanta Cyclorama",
+   "type": "arts_culture",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SMART LAUNDRY",
+   "type": "laundromat",
+   "city": "College Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Saga of Gold Tooth John",
+   "type": "historic_site",
+   "city": "North Druid Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The 14th & 20th A.C. Cross at Pace's Ferry",
+   "type": "historic_site",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ATL Nighthawks at the Diner",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stembler Amphitheatre",
+   "type": "arts_culture",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Westminster Amphitheater",
+   "type": "arts_culture",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Woodruff Library",
+   "type": "library",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carlyle Fraser Library",
+   "type": "library",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smythe Gambrell Library",
+   "type": "library",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zone of Light Studio",
+   "type": "arts_culture",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MIDTOWN",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Icon Midtown Mural",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Walk Crosswalk Mural",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "State Farm Arena",
+   "type": "historic_downtown",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Decatur History Center",
+   "type": "museum",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Decatur Library",
+   "type": "library",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fernbank Museum of Natural History",
+   "type": "science_center",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "High Museum of Art",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodruff Arts Center",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carter Presidential Library",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert W. Woodruff Library",
+   "type": "library",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Candler Library",
+   "type": "library",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert H. Ferst Center for the Arts",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morningside Farmers Market",
+   "type": "farmers_market",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Decatur Waterworks Dam",
+   "type": "historic_site",
+   "city": "North Druid Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Michael C. Carlos Museum",
+   "type": "museum",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dana Fine Arts Building",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Independent Distilling Company",
+   "type": "brewery_distillery",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kirkwood Branch Library",
+   "type": "library",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waffle House Museum",
+   "type": "museum",
+   "city": "Avondale Estates",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wild Heaven Beer",
+   "type": "brewery_distillery",
+   "city": "Avondale Estates",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fernbank Science Center",
+   "type": "planetarium",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McCain Library",
+   "type": "library",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Donna and Marvin Schwartz Center for Performing Arts",
+   "type": "arts_culture",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Brick Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SweetWater Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Auburn Avenue Research Library",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freedom Hall",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic Fire Station Number 6",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "King Birth Home",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin Luther King Jr. National Historic Site",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Park Tavern",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Noguchi Playscape",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Tabernacle",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Switchyards",
+   "type": "coworking",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlanta Central Library",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Avis Williams Library - DeKalb County",
+   "type": "library",
+   "city": "North Druid Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ponce De Leon Branch Library",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fox Theatre",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Variety Playhouse",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin Luther King Junior Branch Atlanta-Fulton Public Library",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Laundry Cleaners",
+   "type": "laundromat",
+   "city": "North Druid Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Max Lager's",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlanta Tech Village",
+   "type": "coworking",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Library North",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Library South",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rialto Center for the Arts",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "College Football Hall of Fame",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northside Branch Library",
+   "type": "library",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buckhead Library",
+   "type": "library",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlanta History Center",
+   "type": "museum",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scofflaw Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Contemporary Art of Georgia",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steady Hand Beer Co.",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fire Maker Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Design Atlanta (MODA)",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Christian Science Reading Room",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rhodes Hall",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Millennium Gate Museum",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Electric Saturation",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dogwood Branch Atlanta-Fulton Public Library",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World of Coca-Cola",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert W. Woodruff Library, Atlanta University Center",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dad's Garage",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Adamsville-Collier Heights Branch Library",
+   "type": "library",
+   "city": "East Point",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spelman College Museum of Fine Art",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Atlanta Branch Library",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Switchyards",
+   "type": "coworking",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hammonds House Museum",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West End Branch Atlanta-Fulton Library",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barth Memorial Library",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evelyn G. Lowery Library At Cascade",
+   "type": "library",
+   "city": "East Point",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eventide Brewing",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Adams Park Branch Atlanta-Fulton Public Library",
+   "type": "library",
+   "city": "East Point",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cellairis Amphitheatre at Lakewood",
+   "type": "arts_culture",
+   "city": "East Point",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ArtsXchange",
+   "type": "arts_culture",
+   "city": "East Point",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Point Library",
+   "type": "library",
+   "city": "East Point",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cleveland Avenue Library",
+   "type": "library",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hapeville Library",
+   "type": "library",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hapeville Depot Museum",
+   "type": "museum",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Delta Flight Museum",
+   "type": "museum",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "College Park Branch Atlanta-Fulton Library",
+   "type": "library",
+   "city": "College Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scott Candler Library",
+   "type": "library",
+   "city": "Candler-McAfee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Center for Civil and Human Rights",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Atlanta Prison Farm",
+   "type": "historic_site",
+   "city": "Panthersville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mausoleum",
+   "type": "historic_site",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Walk Crosswalk Mural",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Fourth Distillery",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "artspace",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arts Alley",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Park Artspace",
+   "type": "arts_culture",
+   "city": "Hapeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southern Company Amphitheater",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northwest Library at Scotts Crossing",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art-Haus",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elsewhere Brewing",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ray Charles Proformance Arts Center",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alan Avery Art Company",
+   "type": "arts_culture",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Eastern",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Theatrical Outfit",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carnegie Education Pavilion",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Avondale Arts Alliance",
+   "type": "arts_culture",
+   "city": "Avondale Estates",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George C. Carlos Library",
+   "type": "library",
+   "city": "College Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gresham Branch",
+   "type": "library",
+   "city": "Candler-McAfee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Library Service Center",
+   "type": "library",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brookhaven Branch Library",
+   "type": "library",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louise Watley Library",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Metropolitan Library",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reformation Brewery Smyrna",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mechanicsville Branch Library",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Church School Amphitheatre",
+   "type": "arts_culture",
+   "city": "North Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Halfway Crooks Beer",
+   "type": "brewery_distillery",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgia World Congress Center",
+   "type": "historic_downtown",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hank Aaron Homerun Wall",
+   "type": "historic_site",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OnStage Atlanta",
+   "type": "arts_culture",
+   "city": "Scottdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charity Hamidullah & Nicole King Ahn - Artists In Residence",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shakespeare Tavern",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SCAD Library",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sheffield Botanical Library",
+   "type": "library",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spelman College Center for Innovation and the Arts",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little's Food Store",
+   "type": "farmers_market",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Plaza",
+   "type": "historic_downtown",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hill Auditorium",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center for Puppetry Arts",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Breman Jewish Heritage Museum",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ex Static Test Program",
+   "type": "arts_culture",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SCAD FASH Museum of Fashion And Film",
+   "type": "museum",
+   "city": "Atlanta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Malizia Ampitheater",
+   "type": "arts_culture",
+   "city": "College Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Augusta Museum of History",
+   "type": "museum",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Augusta Flea Market",
+   "type": "farmers_market",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Taxadium Distichum Bald Cypress",
+   "type": "historic_site",
+   "city": "Martinez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Savannah Rapids Love Locks",
+   "type": "arts_culture",
+   "city": "Martinez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mastro And Forever Young",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "What's In The Queue?",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ruthless",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oraiste Agus Liath",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hurrying Home",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Book Bench- A Novel Idea",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rise",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sun Lion",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Augusta Market",
+   "type": "farmers_market",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Signers' Monument",
+   "type": "historic_site",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Brown Statue",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "General James Oglethorpe",
+   "type": "historic_site",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tumbles Coin Laundry",
+   "type": "laundromat",
+   "city": "Martinez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veggie Park Farmers Market",
+   "type": "farmers_market",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tower of Aspiration",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Lotus Cleaners",
+   "type": "laundromat",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lucy Craft Laney",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spirit Creek Baptist Church",
+   "type": "historic_site",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Mayham Tower",
+   "type": "historic_site",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morris Museum of Art",
+   "type": "museum",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Brown Plaza",
+   "type": "historic_site",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greater Augusta Arts Council",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colonial Fort Augusta Stone",
+   "type": "historic_site",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westobou",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LaFayette Visits Augusta",
+   "type": "historic_site",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Celebrated Revolutionary War Hero, Marquis de Lafayette Visited Augusta in March 1825.",
+   "type": "historic_site",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "And They Went Down Both into the Water",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Springfield Baptist Church Birthplace of Morehouse College",
+   "type": "historic_site",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The First Academy of Richmond County",
+   "type": "historic_site",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Broad Street Historic District",
+   "type": "historic_downtown",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Home of Governor Telfair",
+   "type": "historic_site",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peoples Coin Laundry",
+   "type": "laundromat",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flowing Wells Theater",
+   "type": "arts_culture",
+   "city": "Martinez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Imperial Theatre",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert B. Greenblatt, MD Library",
+   "type": "library",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bell Auditorium",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jessye Norman School for the Arts",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodrow Wilson's Boyhood Home",
+   "type": "museum",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jessye Norman Amphitheatre",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colton Ballet School",
+   "type": "arts_culture",
+   "city": "Martinez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Savannah River Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lucy's Laundry",
+   "type": "laundromat",
+   "city": "Martinez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Friedman Branch Library",
+   "type": "library",
+   "city": "Martinez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Collins-Callaway Library",
+   "type": "library",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverwatch Brewery",
+   "type": "brewery_distillery",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Augusta-Richmond County Public Library",
+   "type": "library",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peanut's Laundry",
+   "type": "laundromat",
+   "city": "Martinez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peanut's Laundry",
+   "type": "laundromat",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Appleby Branch",
+   "type": "library",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wallace Branch",
+   "type": "library",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lucy Craft Laney Museum",
+   "type": "museum",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jeff Maxwell Branch Augusta-Richmond County Public Library",
+   "type": "library",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sharon Jones Amphitheater",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Spirit of Funk",
+   "type": "arts_culture",
+   "city": "Augusta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sidney Lanier Cottage",
+   "type": "museum",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cotton Avenue Revival Mural",
+   "type": "arts_culture",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Earthlodge",
+   "type": "historic_site",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McDougal Mound",
+   "type": "historic_site",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Earthwork",
+   "type": "historic_site",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Temple Mound",
+   "type": "historic_site",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southeast Mound",
+   "type": "historic_site",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dunlap Mound",
+   "type": "historic_site",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Funeral Mound",
+   "type": "historic_site",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Star Memorial",
+   "type": "historic_site",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gold Star Memorial",
+   "type": "historic_site",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Medal of Honor",
+   "type": "historic_site",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Power of One - A tribute to Rosa Parks",
+   "type": "historic_site",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Temple of wonder",
+   "type": "arts_culture",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cathy Ivey Community Library",
+   "type": "library",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jack Tarver Library",
+   "type": "library",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Macon Campus Library",
+   "type": "library",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hardman Hall",
+   "type": "library",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tubman Museum",
+   "type": "museum",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgia Sports Hall of Fame",
+   "type": "museum",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnston–Felton–Hay House",
+   "type": "museum",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cannonball House",
+   "type": "museum",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Middle Georgia Regional Library",
+   "type": "library",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Macon City Auditorium",
+   "type": "arts_culture",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Price Library",
+   "type": "library",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bloomfield Library",
+   "type": "library",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Allman Brothers Band Museum at The Big House",
+   "type": "museum",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Arts and Sciences",
+   "type": "science_center",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Macon Little Theater",
+   "type": "arts_culture",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trenches",
+   "type": "historic_site",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hargray Capitol Theatre",
+   "type": "arts_culture",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "State Farmer's Market",
+   "type": "farmers_market",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mercer Music at Capricorn",
+   "type": "museum",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fall Line Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ocmulgee Brewpub",
+   "type": "brewery_distillery",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Douglass Theatre",
+   "type": "museum",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Macon Pops",
+   "type": "arts_culture",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Middle Georgia Art Association",
+   "type": "arts_culture",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shurling Branch Library",
+   "type": "library",
+   "city": "Macon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ardsley Park-Chatham Crescent Historic District",
+   "type": "historic_downtown",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yamacraw Bluff",
+   "type": "historic_site",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trustees Theatre",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green-Meldrim House",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City market open air music",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stephen Kasun Fine Art Gallery",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Herndon \"Johnny\" Mercer",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "African-American Monument",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haitian Monument",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City Market Art Center",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Memorial",
+   "type": "historic_site",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nonfiction Gallery",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A World Apart / Cracked Earth",
+   "type": "historic_site",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lawton Memorial historic marker",
+   "type": "historic_site",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Casimir Pulaski Monument",
+   "type": "historic_site",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gutstein Gallery",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sorrel–Weed House",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Harbor Light",
+   "type": "historic_site",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1996 Olympic Yachting Cauldron",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old City Exchange Bell",
+   "type": "historic_site",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Georgia Hussars",
+   "type": "historic_site",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "General Nathanael Greene",
+   "type": "historic_site",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southbound Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Dane",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SCAD Sign",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mushrooms",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SCAD Sign",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SCAD Sign",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Silence is Golden",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sandfly Historic Marker",
+   "type": "historic_site",
+   "city": "Isle of Hope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sgt. Ebbie Paxton Monument",
+   "type": "historic_site",
+   "city": "Isle of Hope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bilbo Mound - Oldest Civil Engineering Project in North America",
+   "type": "historic_site",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "District Live",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thunderbolt Museum",
+   "type": "museum",
+   "city": "Thunderbolt",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin Luther King Jr.",
+   "type": "historic_site",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Wesley",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gretsch Museum",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jim Richmond donation of property to Garden Club",
+   "type": "historic_site",
+   "city": "Isle of Hope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Graveface Museum",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam Memorial",
+   "type": "historic_site",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Home of the Atom Smashers\"",
+   "type": "arts_culture",
+   "city": "Thunderbolt",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roger Lacy (Lacey) Historic Marker",
+   "type": "historic_site",
+   "city": "Thunderbolt",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roger Lacy (Lacey) Historic Stone Marker",
+   "type": "historic_site",
+   "city": "Thunderbolt",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wine Bar On the River",
+   "type": "brewery_distillery",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Georgia Medical Society",
+   "type": "historic_site",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washington Fire Company",
+   "type": "historic_site",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ships of the Sea Mairitme Museum",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jepson Center for the Arts",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Savannah Theatre",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Telfair Academy of Arts and Sciences",
+   "type": "science_center",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mercer Williams House",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jen Library",
+   "type": "library",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Art",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SCAD Beach",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Prohibition Museum",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Savannah Cultural Arts Center",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Service Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgia State Railroad Museum",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Savannah State Library",
+   "type": "library",
+   "city": "Thunderbolt",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Islands Library",
+   "type": "library",
+   "city": "Whitemarsh Island",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Savannah History Museum",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McGowan Library",
+   "type": "library",
+   "city": "Dutch Island",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "King-Tisdell Cottage",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Port City Library",
+   "type": "library",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garden City Library",
+   "type": "library",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spin City Laundromat",
+   "type": "laundromat",
+   "city": "Thunderbolt",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forest City Library Branch",
+   "type": "library",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shins Cleaners and Sewing Shop",
+   "type": "laundromat",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Webb Military Museum",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Davenport House Museum",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Mercer Williams House Museum",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flannery O’Connor Home Museum",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Andrew Low House Museum",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Savannah Children's Museum",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Davis Produce Stand",
+   "type": "farmers_market",
+   "city": "Talahi Island",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Broad Library",
+   "type": "library",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "W. W. Law Library",
+   "type": "library",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Live Oaks Public Library",
+   "type": "library",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Savannah African Art Museum",
+   "type": "museum",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Two Tides Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forsyth Park Amphitheater",
+   "type": "arts_culture",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carnegie Library",
+   "type": "library",
+   "city": "Savannah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chatham County - Oglethorpe Library",
+   "type": "library",
+   "city": "Isle of Hope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Polk's Market",
+   "type": "farmers_market",
+   "city": "Isle of Hope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Archeological Site 9Ch 965",
+   "type": "historic_site",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rice Field Survey Area 9CH942",
+   "type": "historic_site",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frank E. Mitchell Memorial",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Herman T. Fields Memorial",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "POW/MIA Memorial",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kissing Rock",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The 1996 Olympic Flame",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UGA Main Library",
+   "type": "library",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richard B. Russell Special Collections Library",
+   "type": "library",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Church-Waddel-Brumby House",
+   "type": "museum",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgia Theatre",
+   "type": "live_music",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "T.R.R. Cobb House",
+   "type": "museum",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Normaltown Laundromat",
+   "type": "laundromat",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carnegie Library Learning Center",
+   "type": "library",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Athens-Clarke County Library",
+   "type": "library",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bulldog Coin Laundry",
+   "type": "laundromat",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carol's Laudromat & Drop Off Service",
+   "type": "laundromat",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Winterville Branch Library",
+   "type": "library",
+   "city": "Winterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Piney Woods Art Gallery",
+   "type": "arts_culture",
+   "city": "Winterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carter-Coile Country Doctors Museum",
+   "type": "museum",
+   "city": "Winterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southern Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Athenaeum",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Perfoming Arts Center",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgia Museum of Art",
+   "type": "museum",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shirley Mathis McBay Science Library",
+   "type": "library",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oconee County Library",
+   "type": "library",
+   "city": "Watkinsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Terrapin Beer Company",
+   "type": "brewery_distillery",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Akademia",
+   "type": "brewery_distillery",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eagle Tavern Museum",
+   "type": "museum",
+   "city": "Watkinsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Athens Mural Alley",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J&J Flea Market",
+   "type": "farmers_market",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Porcelain and Decorative Arts Museum",
+   "type": "museum",
+   "city": "Watkinsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Garden",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pinewoods Library And Learning Center",
+   "type": "library",
+   "city": "Hull",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lay Park Resource Center",
+   "type": "library",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aaron Heard Resource Center",
+   "type": "library",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oconee County Library Watkinsville Branch",
+   "type": "library",
+   "city": "Watkinsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "College Square",
+   "type": "historic_downtown",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theater in the Woods",
+   "type": "arts_culture",
+   "city": "Watkinsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Olympic Centennial Games Memorial",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bloomfield Street Historic District",
+   "type": "historic_downtown",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Athens Historic District",
+   "type": "historic_downtown",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Milledge Avenue Historic District",
+   "type": "historic_downtown",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Milledge Circle Historic District",
+   "type": "historic_downtown",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oglethorpe Avenue Historic District",
+   "type": "historic_downtown",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Hancock Avenue Historic District",
+   "type": "historic_downtown",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodlawn Historic District",
+   "type": "historic_downtown",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Princeton Methodist Church 1883-1962",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goddess Athena",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Achachi International Market",
+   "type": "farmers_market",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Vigil",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial Trail",
+   "type": "historic_site",
+   "city": "Winterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orient Mart",
+   "type": "farmers_market",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dearing Street Historic District",
+   "type": "historic_downtown",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Darwin-God Bust",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ascension",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Athens Farmers Market",
+   "type": "farmers_market",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Split",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morton Theatre",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Red and Black",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abraham Baldwin Statue",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gage",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tiny ATH Gallery",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Athens Wash House",
+   "type": "laundromat",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phyllotaxis",
+   "type": "arts_culture",
+   "city": "Watkinsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hot Corner: An Athens Legacy",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles E. Aguar",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louis H. Persley",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Eastside Coin Laundry",
+   "type": "laundromat",
+   "city": "Winterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Runway Cowork",
+   "type": "coworking",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgia Museum of Natural History",
+   "type": "science_center",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Graffiti Bridge",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Herty Field",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Athena",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dawg Walker",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Argo Dawg",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Athens, I Love You",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Biotest Dawg",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Blue Dawg of Happiness",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bugga",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chase the Dawg",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chick-fil-A Dawg",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thurston LaDonnahue III",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freedom Stands Guard",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Muse of Learning",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clover",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Game Dawg",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dollar Dawg",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rugga",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Dawg",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Dawg",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robo Dawg",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Truist Dawg",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Terrell Archie Jackson",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr. C. I. Dawg",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ellie the Exploration Dawg",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flower Power",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgia Power Dawg",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Manu",
+   "type": "arts_culture",
+   "city": "Winterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tugga",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgia's Pioneer Aviatior: Ben T. Epps",
+   "type": "historic_site",
+   "city": "Winterville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vic Chesnutt",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Widespread Panic",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pylon",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hall Johnson",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Rosenbaum",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "B-52s",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Danger Mouse",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "R.E.M.",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Neal Pattman",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Drive-By Truckers",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elephant 6",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Love Tractor",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ISHUES",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bob Cole",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lo Down & Duddy",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University of Georgia Botanical Gardens",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J.C. Laundry",
+   "type": "laundromat",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Athens Cemetery",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bernard Ramsey",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmhouse Chimney",
+   "type": "historic_site",
+   "city": "Watkinsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Archangel",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Athens Confederate Monument",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cook & Brother Confederate Armory",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Last Resort Grill",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chandelier",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hope",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hey Baby",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Welcome to Athens",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Building Bridges",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oak House Distillery",
+   "type": "brewery_distillery",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chapel Bell",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Bass",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgia Flora",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Avenue Laundry",
+   "type": "laundromat",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Angie's Coin Laundry",
+   "type": "laundromat",
+   "city": "Hull",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Birthplace of Bishop A. G. Haygood and Miss Laura A. Haygood",
+   "type": "historic_site",
+   "city": "Watkinsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Uga",
+   "type": "arts_culture",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Owens Resource Center",
+   "type": "library",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hugh Logan Interchange",
+   "type": "historic_site",
+   "city": "Athens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Teaching Museum North",
+   "type": "museum",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roswell Cultural Arts Center",
+   "type": "arts_culture",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roswell Historic Square",
+   "type": "historic_site",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smith Plantation",
+   "type": "museum",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Perfect Note Atlanta",
+   "type": "arts_culture",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gantt House",
+   "type": "historic_site",
+   "city": "Sandy Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Terrell Mill Coin Laundry",
+   "type": "laundromat",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marietta Paper Mills",
+   "type": "historic_site",
+   "city": "Sandy Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Master's Academy Arts & Academics",
+   "type": "arts_culture",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Out of Box Theatre",
+   "type": "arts_culture",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Mill Ruins",
+   "type": "historic_site",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crypt of Civilization time capsule",
+   "type": "historic_site",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Carillon of Lupton Hall",
+   "type": "historic_site",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oglethorpe Museum of Art",
+   "type": "museum",
+   "city": "Brookhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spaces",
+   "type": "coworking",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bobby Cox",
+   "type": "arts_culture",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phil Niekro",
+   "type": "arts_culture",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pontoon Brewing",
+   "type": "brewery_distillery",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cobb Galleria Bell Tower",
+   "type": "arts_culture",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cross Columbarium",
+   "type": "historic_site",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "From the Earth Brewing",
+   "type": "brewery_distillery",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marietta Paper Mills",
+   "type": "historic_site",
+   "city": "Sandy Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sandy Springs Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Sandy Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Star Coin Laundry",
+   "type": "laundromat",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Syms Coin Laundromat",
+   "type": "laundromat",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Police Officer Memorial",
+   "type": "historic_site",
+   "city": "Chamblee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hopstix Asian Brewpub",
+   "type": "brewery_distillery",
+   "city": "Chamblee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marietta Coin Laundry",
+   "type": "laundromat",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Faces of War",
+   "type": "historic_site",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gate City Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Viking Alchemist Meadery",
+   "type": "brewery_distillery",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Power-Jackson Cabin",
+   "type": "historic_site",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iron Hill Brewery",
+   "type": "brewery_distillery",
+   "city": "Dunwoody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Round Trip Brewing",
+   "type": "brewery_distillery",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spring Road Laundry",
+   "type": "laundromat",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eastgate Coin Laundry",
+   "type": "laundromat",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lucid Private Offices",
+   "type": "coworking",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Schoolhouse Brewing",
+   "type": "brewery_distillery",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Regus Coworking",
+   "type": "coworking",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crowne Office Suites Cumberland",
+   "type": "coworking",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Laundry",
+   "type": "laundromat",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Doodle Art Studio",
+   "type": "arts_culture",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mutation Brewing",
+   "type": "brewery_distillery",
+   "city": "Sandy Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SharedSpace Cobb",
+   "type": "coworking",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tiny Bubbles Coin Laundry",
+   "type": "laundromat",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cobb Energy Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vinings Library",
+   "type": "library",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sandy Springs Regional Library",
+   "type": "library",
+   "city": "Sandy Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mimosa Hall",
+   "type": "museum",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Roswell Branch Library",
+   "type": "library",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barn Theatre",
+   "type": "arts_culture",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roswell Branch Library",
+   "type": "library",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Variant Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Doraville Branch Library",
+   "type": "library",
+   "city": "Doraville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Roxy",
+   "type": "arts_culture",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dunwoody Branch Library",
+   "type": "library",
+   "city": "Dunwoody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Swilley Library",
+   "type": "library",
+   "city": "Doraville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Learning Resource Center (LRC)",
+   "type": "library",
+   "city": "Dunwoody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sewell Mill Library & Cultural Center",
+   "type": "library",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chamblee Branch",
+   "type": "library",
+   "city": "Chamblee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Cobb Library",
+   "type": "library",
+   "city": "Sandy Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marietta Paper Mill Ruins",
+   "type": "historic_site",
+   "city": "Sandy Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlanta Office Suites",
+   "type": "coworking",
+   "city": "Vinings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ameris Bank Amphitheatre",
+   "type": "arts_culture",
+   "city": "Alpharetta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Discover Science Center",
+   "type": "science_center",
+   "city": "Alpharetta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Discover Science Center STEM Lab",
+   "type": "science_center",
+   "city": "Alpharetta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kidcreate Studio",
+   "type": "arts_culture",
+   "city": "Alpharetta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mimms Museum of Technology and Art",
+   "type": "museum",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Board & Brush Creative Studio",
+   "type": "arts_culture",
+   "city": "Mountain Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "All Fired Up",
+   "type": "arts_culture",
+   "city": "Mountain Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children Climbing Palisades",
+   "type": "arts_culture",
+   "city": "Alpharetta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liquid Sunshine",
+   "type": "arts_culture",
+   "city": "Alpharetta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berry Patch Farms",
+   "type": "farmers_market",
+   "city": "Mountain Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Market Place at North Point",
+   "type": "arts_culture",
+   "city": "Alpharetta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Scene",
+   "type": "arts_culture",
+   "city": "Alpharetta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lucid Private Offices",
+   "type": "coworking",
+   "city": "Alpharetta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountain View Regional Library",
+   "type": "library",
+   "city": "Mountain Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Art Place - Mountain View",
+   "type": "arts_culture",
+   "city": "Mountain Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peachtree Art Center",
+   "type": "arts_culture",
+   "city": "Mountain Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alpharetta/Louie E. Jones & Gertrude C. Jones Memorial Library",
+   "type": "library",
+   "city": "Alpharetta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Milton Library Branch",
+   "type": "library",
+   "city": "Alpharetta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alpharetta Library",
+   "type": "library",
+   "city": "Alpharetta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northeast-Spruill Oak Regional Library",
+   "type": "library",
+   "city": "Alpharetta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mark Burkhalter Amphitheater",
+   "type": "arts_culture",
+   "city": "Alpharetta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nell's Produce Market",
+   "type": "farmers_market",
+   "city": "Alpharetta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Albany Railroad Depot Historic District",
+   "type": "historic_downtown",
+   "city": "Albany",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burned down house",
+   "type": "historic_site",
+   "city": "Albany",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tractor Barn",
+   "type": "historic_site",
+   "city": "Albany",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Albany",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palmyra",
+   "type": "historic_site",
+   "city": "Albany",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hill Village Sign",
+   "type": "historic_site",
+   "city": "Putney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Pendergrast Memorial Library",
+   "type": "library",
+   "city": "Albany",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oakland Public Library",
+   "type": "library",
+   "city": "Albany",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westtown Library",
+   "type": "library",
+   "city": "Albany",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Talulah Massey Branch Library",
+   "type": "library",
+   "city": "Albany",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northwest Public Library",
+   "type": "library",
+   "city": "Albany",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theatre Albany",
+   "type": "arts_culture",
+   "city": "Albany",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fluff and Fold",
+   "type": "laundromat",
+   "city": "Albany",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Albany Civil Rights Institute",
+   "type": "museum",
+   "city": "Albany",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southside Library",
+   "type": "library",
+   "city": "Albany",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dougherty County Public Library",
+   "type": "library",
+   "city": "Albany",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nola Brantley Memorial Library",
+   "type": "library",
+   "city": "Warner Robins",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scott Exhibit (Hangar 3)",
+   "type": "museum",
+   "city": "Robins Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Century of Flight (Hangar 2)",
+   "type": "museum",
+   "city": "Robins Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nugteren Exhibit (Hangar 1)",
+   "type": "museum",
+   "city": "Robins Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eagle Building",
+   "type": "museum",
+   "city": "Robins Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Aviation",
+   "type": "museum",
+   "city": "Robins Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centerville Public Library",
+   "type": "library",
+   "city": "Centerville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sasnett Fruit & Nuts",
+   "type": "farmers_market",
+   "city": "Centerville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fine Arts Society of Middle Georgia",
+   "type": "arts_culture",
+   "city": "Warner Robins",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "International City Farmer's Market",
+   "type": "farmers_market",
+   "city": "Warner Robins",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heritage Building",
+   "type": "museum",
+   "city": "Robins Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Forum Peachtree Corners",
+   "type": "farmers_market",
+   "city": "Johns Creek",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherry Street Brewpub",
+   "type": "brewery_distillery",
+   "city": "Milton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nick - Bell House",
+   "type": "historic_site",
+   "city": "Milton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ReWax UnWine",
+   "type": "arts_culture",
+   "city": "Johns Creek",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ocee Branch - Fulton County Library",
+   "type": "library",
+   "city": "Johns Creek",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quarry Exhibit",
+   "type": "museum",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freedom Bell",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sherman's Neckties",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confederate Memorial Carving",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Florida Terrace",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisiana Terrace",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Virginia Terrace",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Terrace",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Carolina Terrace",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alabama Terrace",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arkansas Terrace",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky Terrace",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Missouri Terrace",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Carolina Terrace",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sacrifice",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valor",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Texas Terrace",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garrand's Cavalry at Stone Mountain Depot",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgia Terrace",
+   "type": "historic_site",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SMART LAUNDRY",
+   "type": "laundromat",
+   "city": "Lilburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountain Park Library",
+   "type": "library",
+   "city": "Mountain Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confederate Hall",
+   "type": "museum",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sue Kellogg Library",
+   "type": "library",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miniature Chair Museum",
+   "type": "museum",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "4-D Experience Theater",
+   "type": "arts_culture",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Hall",
+   "type": "museum",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ART Station",
+   "type": "arts_culture",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Outrun Brewery",
+   "type": "brewery_distillery",
+   "city": "Stone Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lilburn Branch",
+   "type": "library",
+   "city": "Lilburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Springplace Mission",
+   "type": "historic_site",
+   "city": "Chatsworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chatsworth-Murray County Library",
+   "type": "library",
+   "city": "Chatsworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tantrum Brewing",
+   "type": "brewery_distillery",
+   "city": "Yonah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cooper's Furnace",
+   "type": "historic_site",
+   "city": "Emerson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "An Unknown Hero",
+   "type": "historic_site",
+   "city": "Emerson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allatoona Pass",
+   "type": "historic_site",
+   "city": "Emerson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battle of Allatoona",
+   "type": "historic_site",
+   "city": "Emerson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Etowah Indian Mounds Historic Site Museum",
+   "type": "museum",
+   "city": "Cartersville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bartow History Museum",
+   "type": "museum",
+   "city": "Cartersville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Booth Western Art Museum",
+   "type": "arts_culture",
+   "city": "Cartersville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "All American Coin Laundry",
+   "type": "laundromat",
+   "city": "Cartersville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cartersville Public Library",
+   "type": "library",
+   "city": "Cartersville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum Store",
+   "type": "museum",
+   "city": "Cartersville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rose Lawn Museum",
+   "type": "museum",
+   "city": "Cartersville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Grand Theatre",
+   "type": "arts_culture",
+   "city": "Cartersville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Legion Theater",
+   "type": "arts_culture",
+   "city": "Cartersville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Drowned Valley Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Cartersville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Z's Oriental Market",
+   "type": "farmers_market",
+   "city": "Evans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evans Public Library",
+   "type": "library",
+   "city": "Evans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbia County Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Evans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lady A Pavilion",
+   "type": "arts_culture",
+   "city": "Evans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbia County Amphitheater",
+   "type": "arts_culture",
+   "city": "Evans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbia County Military Memorial Wall",
+   "type": "historic_site",
+   "city": "Evans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Evans Laundry",
+   "type": "laundromat",
+   "city": "Evans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evan’s Farmers Market",
+   "type": "farmers_market",
+   "city": "Evans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camden Tomato House",
+   "type": "farmers_market",
+   "city": "Kingsland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Star Memorial Highway",
+   "type": "historic_site",
+   "city": "Kingsland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camden County Public Library",
+   "type": "library",
+   "city": "Kingsland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dade County Public Library",
+   "type": "library",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Locust Grove Public Library",
+   "type": "library",
+   "city": "Locust Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Station 75 Amphitheater",
+   "type": "arts_culture",
+   "city": "Locust Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Army Aviation Heritage Foundation, Legacy Chapter",
+   "type": "museum",
+   "city": "Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fortson Public Library",
+   "type": "library",
+   "city": "Hampton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairview Historic District",
+   "type": "historic_downtown",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Patterson Street Historic District",
+   "type": "historic_downtown",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valdosta Commercial Historic District",
+   "type": "historic_downtown",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Our Confederate Dead",
+   "type": "historic_site",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lowndes County Sherriff’s Office Memorial",
+   "type": "historic_site",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin Luther King Jr.",
+   "type": "historic_site",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "September 11 Rememberance",
+   "type": "historic_site",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flame of Freedom",
+   "type": "historic_site",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spanish-American War Memorial",
+   "type": "historic_site",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valdosta Runs Circles",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Attainable",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Rise of Agriculture and Industry in Valdosta, Georgia",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River of Life in the Azalea City",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Unarranged Flowers: Where is Mack Now That We Need Him?",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil Rights Mural",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southern Trees Bear Strange Fruit",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greetings From Downtown Valdosta",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Collective",
+   "type": "coworking",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valdosta Office Suites",
+   "type": "coworking",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hyta's Park",
+   "type": "arts_culture",
+   "city": "Remerton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valdosta Studio Imagination",
+   "type": "arts_culture",
+   "city": "Remerton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tabellain Memoriam",
+   "type": "historic_site",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old City Hall",
+   "type": "historic_site",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coca-Cola Alley",
+   "type": "historic_site",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Curate Collective",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Low-Poly Heart",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Doors to Freedom",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Azalea Mural",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wild Magnolia Stuido",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dosta Theater",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coffee Drip",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil Rights Movement",
+   "type": "historic_site",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Early Life",
+   "type": "historic_site",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Legacy",
+   "type": "historic_site",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historical Perspective",
+   "type": "historic_site",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "College Education and Spiritual Growth",
+   "type": "historic_site",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Birth",
+   "type": "historic_site",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "In Memory of Rev. Dr. Martin Luther King Jr.",
+   "type": "historic_site",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marriage",
+   "type": "historic_site",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunflowers",
+   "type": "arts_culture",
+   "city": "Remerton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Azalea City Coin-op Laundry",
+   "type": "laundromat",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fenris",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Odum Library",
+   "type": "library",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Turner Center Art",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Turner Center Hudson Pottery",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Annette Howell Turner Center for the Arts",
+   "type": "arts_culture",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lowndes County Historical Museum",
+   "type": "museum",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgia Beer",
+   "type": "brewery_distillery",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sud City",
+   "type": "laundromat",
+   "city": "Valdosta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Willis L. Miller Library",
+   "type": "library",
+   "city": "Remerton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Holly Springs Baptist Church Col.",
+   "type": "historic_site",
+   "city": "Bowman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bowman Service Outlet",
+   "type": "library",
+   "city": "Bowman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union County Public Library",
+   "type": "library",
+   "city": "Blairsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Union County Courthouse",
+   "type": "museum",
+   "city": "Blairsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Long’s Produce",
+   "type": "farmers_market",
+   "city": "Blairsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Market Woodstock",
+   "type": "farmers_market",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mother Mary",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Express In & Out Laundry",
+   "type": "laundromat",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stout Brothers Coffee Co.",
+   "type": "brewery_distillery",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City of Woodstock 9/11 Memorial",
+   "type": "historic_site",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodstock War Memorial",
+   "type": "historic_site",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodstock Arts Theatre",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oralia",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ear Worm Whisper Bench",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Undulation",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodstock Bass",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmer's Market",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Buzz",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountains In Metro",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Pantry",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodstock Community Mural",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodstock Playground Mural",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vibes On The Green",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bob The Turkey",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Live Love Woodstock Guitar",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodstock Wing Mural",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City Sounds",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sound Wave I",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Olde Towne Coin Laundry",
+   "type": "laundromat",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Made Mercantile",
+   "type": "coworking",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reformation Brewery",
+   "type": "brewery_distillery",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodstock Public Library",
+   "type": "library",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northside Cherokee Amphitheatre",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rose Creek Public Library",
+   "type": "library",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Reeves House Visual Arts Center",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mary F Kish Center For Ceramics & Pottery",
+   "type": "arts_culture",
+   "city": "Woodstock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buford Fine Arts Center",
+   "type": "arts_culture",
+   "city": "Buford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundery",
+   "type": "laundromat",
+   "city": "Sugar Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indio Brewing",
+   "type": "brewery_distillery",
+   "city": "Sugar Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bowl at Sugar Hill",
+   "type": "arts_culture",
+   "city": "Sugar Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Eagle",
+   "type": "arts_culture",
+   "city": "Sugar Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Remembrance",
+   "type": "historic_site",
+   "city": "Sugar Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mr Eggwards",
+   "type": "arts_culture",
+   "city": "Sugar Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greater Good",
+   "type": "historic_site",
+   "city": "Sugar Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Le Tour Polka Dot",
+   "type": "arts_culture",
+   "city": "Sugar Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gwinnett County Public Library",
+   "type": "library",
+   "city": "Buford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gwinnett Public Library - Suwanee Branch",
+   "type": "library",
+   "city": "Sugar Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "StillFire Brewing",
+   "type": "brewery_distillery",
+   "city": "Sugar Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sugar Hill Distillery",
+   "type": "brewery_distillery",
+   "city": "Sugar Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gwinnett Environmental and Heritage Center",
+   "type": "science_center",
+   "city": "Sugar Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sugar Hill Wagon",
+   "type": "historic_site",
+   "city": "Sugar Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherokee Indian Memorial",
+   "type": "historic_site",
+   "city": "Calhoun",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "24/7 Coin Laundry",
+   "type": "laundromat",
+   "city": "Calhoun",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cleaners",
+   "type": "laundromat",
+   "city": "Calhoun",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gem Theater",
+   "type": "arts_culture",
+   "city": "Calhoun",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elliott Memorial",
+   "type": "historic_site",
+   "city": "Calhoun",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Echota Cemetery",
+   "type": "historic_site",
+   "city": "Calhoun",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Calhoun-Gordon County Library",
+   "type": "library",
+   "city": "Calhoun",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Echota State Historic Site Museum",
+   "type": "museum",
+   "city": "Calhoun",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wesley Chapel-William C. Brown Branch",
+   "type": "library",
+   "city": "Panthersville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flat Shoals Branch",
+   "type": "library",
+   "city": "Panthersville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morgan County African-American",
+   "type": "museum",
+   "city": "Madison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morgan County Library",
+   "type": "library",
+   "city": "Madison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pin Point Heritage Museum",
+   "type": "museum",
+   "city": "Isle of Hope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Village Library",
+   "type": "library",
+   "city": "Isle of Hope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Native American Area",
+   "type": "historic_site",
+   "city": "Isle of Hope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tiger Mountain Vineyards",
+   "type": "brewery_distillery",
+   "city": "Tiger",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rabun County Confederate Monument",
+   "type": "historic_site",
+   "city": "Clayton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Currahee Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Clayton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Foxfire Museum",
+   "type": "museum",
+   "city": "Mountain City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rabun County Public Library",
+   "type": "library",
+   "city": "Clayton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Church",
+   "type": "historic_site",
+   "city": "Sautee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Habersham Vineyards & Winery",
+   "type": "brewery_distillery",
+   "city": "Helen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Helen Arts & Heritage Center",
+   "type": "arts_culture",
+   "city": "Helen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White County Public Library-Helen Branch",
+   "type": "library",
+   "city": "Helen",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

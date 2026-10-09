@@ -1,0 +1,4968 @@
+{
+ "state": "AR",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Carter Cove Public Use Area",
+   "type": "unknown",
+   "town": "Plainview, AR",
+   "town_mi": 3.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TOAD SUCK",
+   "type": "paid_camp",
+   "town": "Conway, AR",
+   "town_mi": 4.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Queen Wilhelmina State Park",
+   "type": "rv_park",
+   "town": "Acorn, AR",
+   "town_mi": 10.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RV Park (Private)",
+   "type": "rv_park",
+   "town": "Paragould, AR",
+   "town_mi": 4.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tompkins Bend CoE",
+   "type": "rv_park",
+   "town": "Crystal Springs, AR",
+   "town_mi": 8.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bard Springs Recreation Area",
+   "type": "paid_camp",
+   "town": "Board Camp, AR",
+   "town_mi": 10.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chateau Aux Arc RV Park",
+   "type": "rv_park",
+   "town": "Wiederkehr Village, AR",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DAM - QUARRY",
+   "type": "paid_camp",
+   "town": "Salesville, AR",
+   "town_mi": 2.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mississippi River SP - Beech Point",
+   "type": "paid_camp",
+   "town": "LaGrange, AR",
+   "town_mi": 4.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Coler Grove Camper Parking",
+   "type": "rv_park",
+   "town": "Bentonville, AR",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whitewater RV Park",
+   "type": "rv_park",
+   "town": "Mountain View, AR",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ozark RV Park",
+   "type": "rv_park",
+   "town": "Mountain View, AR",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Twin Pines Mobile Home & RV Park",
+   "type": "rv_park",
+   "town": "White Hall, AR",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little River RV Park",
+   "type": "rv_park",
+   "town": "Horatio, AR",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Campground E",
+   "type": "rv_park",
+   "town": "Winslow, AR",
+   "town_mi": 7.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Green Tree RV Park",
+   "type": "rv_park",
+   "town": "Siloam Springs, AR",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Pine RV Park",
+   "type": "rv_park",
+   "town": "Waldron, AR",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ozone Rec Area",
+   "type": "unknown",
+   "town": "Ozone, AR",
+   "town_mi": 2.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Area B",
+   "type": "paid_camp",
+   "town": "Heber Springs, AR",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Area C",
+   "type": "paid_camp",
+   "town": "Heber Springs, AR",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Area D",
+   "type": "paid_camp",
+   "town": "Heber Springs, AR",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dam Site Campground",
+   "type": "paid_camp",
+   "town": "Tumbling Shoals, AR",
+   "town_mi": 2.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Barkshed Campground",
+   "type": "paid_camp",
+   "town": "Fifty-Six, AR",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "River Ridge Group Campground",
+   "type": "paid_camp",
+   "town": "Wickes, AR",
+   "town_mi": 6.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cossatot Falls Campground",
+   "type": "paid_camp",
+   "town": "Wickes, AR",
+   "town_mi": 5.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sandbar Campground",
+   "type": "paid_camp",
+   "town": "Wickes, AR",
+   "town_mi": 5.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ed Banks Campground",
+   "type": "paid_camp",
+   "town": "Wickes, AR",
+   "town_mi": 5.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "COVE LAKE RECREATION AREA",
+   "type": "paid_camp",
+   "town": "Subiaco, AR",
+   "town_mi": 5.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Delta Heritage Trail State Park Campground",
+   "type": "paid_camp",
+   "town": "Lexa, AR",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Campground",
+   "type": "paid_camp",
+   "town": "Fifty-Six, AR",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Campground",
+   "type": "paid_camp",
+   "town": "Fifty-Six, AR",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lenox Marcus Camp Grounds",
+   "type": "paid_camp",
+   "town": "Bismarck, AR",
+   "town_mi": 4.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LAKE WEDINGTON",
+   "type": "paid_camp",
+   "town": "Farmington, AR",
+   "town_mi": 7.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "AUX ARC",
+   "type": "paid_camp",
+   "town": "Ozark, AR",
+   "town_mi": 2.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Campground D",
+   "type": "rv_park",
+   "town": "Winslow, AR",
+   "town_mi": 7.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HillBilly Haven",
+   "type": "rv_park",
+   "town": "London, AR",
+   "town_mi": 5.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Downtown Riverside RV Park",
+   "type": "rv_park",
+   "town": "North Little Rock, AR",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crater of Diamonds Campground",
+   "type": "rv_park",
+   "town": "Murfreesboro, AR",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Parker's RV Park",
+   "type": "rv_park",
+   "town": "Batavia, AR",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Burns Park - RV Campground",
+   "type": "rv_park",
+   "town": "Cammack Village, AR",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Timbercrest RV & Mobile Home Park",
+   "type": "rv_park",
+   "town": "Hot Springs, AR",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ivy's Cove",
+   "type": "rv_park",
+   "town": "Russellville, AR",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hickory Creek Park (AR)",
+   "type": "paid_camp",
+   "town": "Prairie Creek, AR",
+   "town_mi": 6.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eureka Springs KOA Journey",
+   "type": "rv_park",
+   "town": "Eureka Springs, AR",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hike-in campground",
+   "type": "paid_camp",
+   "town": "Winslow, AR",
+   "town_mi": 6.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sunrise RV Park",
+   "type": "rv_park",
+   "town": "Texarkana, AR",
+   "town_mi": 6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Memphis KOA Journey",
+   "type": "rv_park",
+   "town": "Jericho, AR",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "White Rock Mountain Campground",
+   "type": "paid_camp",
+   "town": "Mountainburg, AR",
+   "town_mi": 11.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Daisy State Park",
+   "type": "unknown",
+   "town": "Daisy, AR",
+   "town_mi": 0.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Catherine's Landing",
+   "type": "rv_park",
+   "town": "Diamondhead, AR",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Oak Square RV Park",
+   "type": "rv_park",
+   "town": "Mountain View, AR",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pecan Grove RV Park",
+   "type": "paid_camp",
+   "town": "Lake Village, AR",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BUFFALO POINT",
+   "type": "paid_camp",
+   "town": "Buffalo City, AR",
+   "town_mi": 9.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Norphlet RV Park",
+   "type": "rv_park",
+   "town": "Norphlet, AR",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Outdoor Living Center RV Park",
+   "type": "rv_park",
+   "town": "Russellville, AR",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mack's Pines RV Park",
+   "type": "rv_park",
+   "town": "Hector, AR",
+   "town_mi": 8.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Road Hog RV Park",
+   "type": "rv_park",
+   "town": "Fayetteville, AR",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fort Smith Riverfront RV Resort",
+   "type": "rv_park",
+   "town": "Moffett, OK",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Group Campground",
+   "type": "paid_camp",
+   "town": "Gilbert, AR",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Southgate RV Park",
+   "type": "rv_park",
+   "town": "Fayetteville, AR",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hutch's RV Park",
+   "type": "rv_park",
+   "town": "Searcy, AR",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pig Trail Lodging & RV Park",
+   "type": "rv_park",
+   "town": "St. Paul, AR",
+   "town_mi": 10.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moccasin Gap Campground",
+   "type": "paid_camp",
+   "town": "Hector, AR",
+   "town_mi": 9.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Richland Creek Recreation Area",
+   "type": "paid_camp",
+   "town": "Witts Springs, AR",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Robinson Point",
+   "type": "unknown",
+   "town": "Henderson, AR",
+   "town_mi": 2.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Old Post Road",
+   "type": "unknown",
+   "town": "Dardanelle, AR",
+   "town_mi": 1.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fort Chaffee RV Park",
+   "type": "rv_park",
+   "town": "Barling, AR",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Vine Prairie Park Campground",
+   "type": "unknown",
+   "town": "Mulberry, AR",
+   "town_mi": 1.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Campground Loop",
+   "type": "paid_camp",
+   "town": "Fifty-Six, AR",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Group Camp 2",
+   "type": "paid_camp",
+   "town": "Fifty-Six, AR",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blue Springs RV Park",
+   "type": "rv_park",
+   "town": "Goshen, AR",
+   "town_mi": 4.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buffalo Outdoor Center RV Park",
+   "type": "rv_park",
+   "town": "Ponca, AR",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bryant's Properties",
+   "type": "rv_park",
+   "town": "Arkansas City, AR",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Love's RV Hookup",
+   "type": "rv_park",
+   "town": "Clarksville, AR",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dell RV Park",
+   "type": "rv_park",
+   "town": "Dell, AR",
+   "town_mi": 0.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HIGHWAY 125 PARK BULL SHOALS",
+   "type": "paid_camp",
+   "town": "Diamond City, AR",
+   "town_mi": 8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BIDWELL POINT PARK",
+   "type": "paid_camp",
+   "town": "Henderson, AR",
+   "town_mi": 1.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BLANCHARD SPRINGS RECREATION AREA",
+   "type": "paid_camp",
+   "town": "Fifty-Six, AR",
+   "town_mi": 3.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PRAIRIE CREEK (AR)",
+   "type": "paid_camp",
+   "town": "Prairie Creek, AR",
+   "town_mi": 1.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WILLOW BEACH",
+   "type": "paid_camp",
+   "town": "Scott, AR",
+   "town_mi": 2.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ALPINE RIDGE",
+   "type": "paid_camp",
+   "town": "Bismarck, AR",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WAVELAND PARK",
+   "type": "paid_camp",
+   "town": "Blue Mountain, AR",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MERRISACH LAKE",
+   "type": "paid_camp",
+   "town": "Gillett, AR",
+   "town_mi": 8.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TAR CAMP",
+   "type": "paid_camp",
+   "town": "Redfield, AR",
+   "town_mi": 4.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "COWHIDE COVE",
+   "type": "paid_camp",
+   "town": "Kirby, AR",
+   "town_mi": 5.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "STARKEY CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Lost Bridge Village, AR",
+   "town_mi": 2.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "GAMALIEL",
+   "type": "paid_camp",
+   "town": "Gamaliel, AR",
+   "town_mi": 2.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LAKEVIEW PARK",
+   "type": "paid_camp",
+   "town": "Lakeview, AR",
+   "town_mi": 0.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DAM SITE LAKE CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Lost Bridge Village, AR",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SPRINGHILL",
+   "type": "paid_camp",
+   "town": "Barling, AR",
+   "town_mi": 1.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Indian Creek Campground (AR)",
+   "type": "paid_camp",
+   "town": "Lost Bridge Village, AR",
+   "town_mi": 2.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ARLIE MOORE",
+   "type": "paid_camp",
+   "town": "Bismarck, AR",
+   "town_mi": 3.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CADDO DRIVE",
+   "type": "paid_camp",
+   "town": "Bismarck, AR",
+   "town_mi": 4.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "EDGEWOOD",
+   "type": "paid_camp",
+   "town": "Bismarck, AR",
+   "town_mi": 4.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "IRON MOUNTAIN",
+   "type": "paid_camp",
+   "town": "Caddo Valley, AR",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PARKER CREEK",
+   "type": "paid_camp",
+   "town": "Murfreesboro, AR",
+   "town_mi": 5.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SHOUSE FORD",
+   "type": "paid_camp",
+   "town": "Bismarck, AR",
+   "town_mi": 5.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "NOTREBES BEND PARK",
+   "type": "paid_camp",
+   "town": "Watson, AR",
+   "town_mi": 7.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "STE MARIE PARK",
+   "type": "paid_camp",
+   "town": "Pine Bluff, AR",
+   "town_mi": 6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Highway 27 Campground",
+   "type": "paid_camp",
+   "town": "Mount Ida, AR",
+   "town_mi": 7.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WHITE CLIFFS PARK",
+   "type": "paid_camp",
+   "town": "Yarborough Landing, AR",
+   "town_mi": 4.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "COTTONSHED PARK (AR)",
+   "type": "paid_camp",
+   "town": "Tollette, AR",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BEARD'S BLUFF PARK (AR)",
+   "type": "paid_camp",
+   "town": "Saratoga, AR",
+   "town_mi": 3.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Ouachita National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ozark-St. Francis National Forests",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bald Knob National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Big Lake National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cache River National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Felsenthal National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Holla Bend National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Ouachita",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Degray Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Greeson",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Overflow National Wildlife Refuge",
+   "type": "hunting",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pond Creek National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wapanocca National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dale Bumpers White River National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arkansas River - Norrell Pool",
+   "type": "boating",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arkansas River - Wilbur D. Mills Pool",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arkansas River - Pool 3",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arkansas River - Pool 4",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arkansas River - Pool 5",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arkansas River - Terry Lock and Dam",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arkansas River - Murray Lock and Dam",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arkansas River - Toad Suck Ferry Pool",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arkansas River - Rockefeller Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "John Paul Hammerschmidt Lake",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Beaver Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Blue Mountain Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dardanelle Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dequeen Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dierks Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gillham Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Greers Ferry Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Millwood Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Nimrod Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Norfork Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ozark Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bull Shoals Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bicycles in Pea Ridge National Park",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Guided Tour of Birthplace Home",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Hot Springs Junior Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore the Park's Visitor Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tour the Visitor Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddling Gilbert to South Maumee",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Lost Valley Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike to Hideout Hollow",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike to Big Bluff",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore the Parade Ground",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Fort Smith BARK Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Buffalo Point Campground Trails",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Rush Mine Level Trail and Morning Star Interpretive Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Indian Rockhouse Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Junior Ranger Activity Book",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walk the River Loop Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddle Kyles Landing to Erbie",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddle Steel Creek to Kyles Landing",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Cecil Cove Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Beaver Jim Villines Homestead Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Buffalo River Trail - Boxley to Pruitt",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Oak Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "An Overview: Hot Springs and North Mountain Trails",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Honeysuckle Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Short Cut Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "West Mountain Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Whittington Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mountain Top Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Canyon Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pullman Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Upper Dogwood Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arlington Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Floral Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gulpha Gorge Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Goat Rock Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tufa Terrace Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Grand Avenue Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fountain Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Reserve Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hot Springs Mountain Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sunset Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Oertel Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Peak Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Grand Promenade National Recreation Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddling Mt. Hersey to Woolum",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Display Springs",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit the Hot Water Cascade",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddling Carver to Mt. Hersey",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddling North Maumee to Spring Creek",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddling Spring Creek to Dillards Ferry",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddling Dillards Ferry to Buffalo Point",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddling Rush Landing to the White River",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Shine Eye to Gilbert",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddling Woolum to Baker Ford",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddle Ponca to Steel Creek",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddle Hasty to Carver",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddle Erbie to Ozark",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddle Boxley to Ponca",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Old Railroad Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Buffalo River Trail - Woolum to Tyler Bend",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Tyler Bend Trails",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddling Tyler Bend to Grinder's Ferry",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddling Baker Ford to Tyler Bend",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paddling Grinder's Ferry to Gilbert",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ouachita-Black River - Calion Pool",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "U of A Laundry",
+   "type": "laundromat",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Puritan Coffee & Beer",
+   "type": "brewery_distillery",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Castle",
+   "type": "arts_culture",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Strengthen the Arm of Liberty Monument",
+   "type": "arts_culture",
+   "city": "Johnson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World Peace Fountain",
+   "type": "historic_site",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kamp Laundry",
+   "type": "laundromat",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sit & Spin",
+   "type": "laundromat",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mandrell Amphitheater",
+   "type": "arts_culture",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Diamonds",
+   "type": "arts_culture",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Compass",
+   "type": "arts_culture",
+   "city": "Johnson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Mountain Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wilson Circle",
+   "type": "arts_culture",
+   "city": "Johnson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hippie Hollow Refill",
+   "type": "farmers_market",
+   "city": "Johnson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cattails",
+   "type": "arts_culture",
+   "city": "Johnson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Poppy Seed",
+   "type": "arts_culture",
+   "city": "Johnson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Filter Form",
+   "type": "arts_culture",
+   "city": "Johnson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Love Unites Us",
+   "type": "arts_culture",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greenland Public Library",
+   "type": "library",
+   "city": "Greenland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pond Gallery",
+   "type": "arts_culture",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University of Arkansas Arthropod Museum",
+   "type": "museum",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Comic Book & Superhero Toy Museum",
+   "type": "museum",
+   "city": "Johnson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "David W. Mullins Library",
+   "type": "library",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Headquarters House",
+   "type": "museum",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crisis Brewing",
+   "type": "brewery_distillery",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walton Arts Center",
+   "type": "arts_culture",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chi Omega Greek Theatre",
+   "type": "arts_culture",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clinton House Museum",
+   "type": "museum",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George's Majestic Lounge",
+   "type": "live_music",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fayetteville Public Library",
+   "type": "library",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arts Live Theatre",
+   "type": "arts_culture",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbus House Brewery",
+   "type": "brewery_distillery",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hawg Wash Laundry",
+   "type": "laundromat",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Art Experience",
+   "type": "arts_culture",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fossil Cove Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mad Rooster Beer Company",
+   "type": "brewery_distillery",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "JJ's Live",
+   "type": "brewery_distillery",
+   "city": "Johnson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Community Creative Center",
+   "type": "arts_culture",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TheatreSquared",
+   "type": "arts_culture",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sassafras Springs Vineyard",
+   "type": "brewery_distillery",
+   "city": "Johnson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saddlebock Brewery & Restaurant",
+   "type": "brewery_distillery",
+   "city": "Johnson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arkansas Air & Military Museum",
+   "type": "museum",
+   "city": "Greenland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmington Public Library",
+   "type": "library",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garland County Library",
+   "type": "library",
+   "city": "Hot Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hot Springs Confederate Monument",
+   "type": "historic_site",
+   "city": "Hot Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central Avenue Marketplace",
+   "type": "farmers_market",
+   "city": "Hot Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amazing Finds Bazaar",
+   "type": "farmers_market",
+   "city": "Hot Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Justus Fine Art Gallery",
+   "type": "arts_culture",
+   "city": "Hot Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Timberwood Ampitheater",
+   "type": "arts_culture",
+   "city": "Hot Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crystal Ridge Distillery",
+   "type": "brewery_distillery",
+   "city": "Hot Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Galaxy Connection",
+   "type": "museum",
+   "city": "Hot Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mid-America Science Museum",
+   "type": "science_center",
+   "city": "Hot Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riley Art Glass Studio",
+   "type": "arts_culture",
+   "city": "Hot Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Superior Bathhouse Brewery",
+   "type": "brewery_distillery",
+   "city": "Hot Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Winery of Hot Springs",
+   "type": "brewery_distillery",
+   "city": "Hot Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gangster Museum",
+   "type": "museum",
+   "city": "Hot Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dardanelle Confederate Monument",
+   "type": "historic_site",
+   "city": "Dardanelle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arkansas Tech Astronomical Observatory",
+   "type": "planetarium",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hindsman Bell Tower",
+   "type": "historic_site",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kaleidoclasm The Gallery",
+   "type": "arts_culture",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lemley House Art Guild",
+   "type": "arts_culture",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Junkin' Paradise",
+   "type": "farmers_market",
+   "city": "Pottsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old House Foundation",
+   "type": "historic_site",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Block City",
+   "type": "farmers_market",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hometown Flair",
+   "type": "farmers_market",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pope County Library",
+   "type": "library",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ross Pendergraft Library & Technology Center",
+   "type": "library",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center for the Arts",
+   "type": "arts_culture",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Latino Market",
+   "type": "farmers_market",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "CoCreate Innovation Hub",
+   "type": "coworking",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Betty's laundry",
+   "type": "laundromat",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pope County Library Dover",
+   "type": "library",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Potts Inn Museum",
+   "type": "museum",
+   "city": "Pottsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arkansas River Valley Arts Center",
+   "type": "arts_culture",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East E Laundry",
+   "type": "laundromat",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Open 24/7 Laundry",
+   "type": "laundromat",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Open 24/7 Laundry",
+   "type": "laundromat",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Barn",
+   "type": "farmers_market",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmer Dan's",
+   "type": "farmers_market",
+   "city": "Russellville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Testament",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fallen Fire Fights of Arkansas",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Eternal Flame",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War of 1812 Memorial Fountain",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monument to Confederate Women",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam Veterans Memorial",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Law Enforcement Officers' Memorial",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Revolution Bicentennial Monument & Fountain",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Minnesota Monument",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "David O. Dodd Memorial",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial to Company A",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confederate Soldiers Monument",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forever A Rose",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bust of Pulaski",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Center",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whimsical Notes",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Twisted Circle",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henry Thoreau Quote",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crane Unfolding",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Ties That Bind",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Patty Cake",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hulahoop",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Breaking The Cycle",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camdeboo",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Medal of Honor Memorial",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arkansas Korean War Veterans Memorial",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Granite Mountain Boulder",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bauxite Boulder",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Prisoners' Memorial",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "C.G. \"Crip\" Hall Marker",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kelly Bryant Marker",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Old Mill",
+   "type": "historic_site",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plane Folding",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Retro Trees",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elwood",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wherever He Wants",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Infinity",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "3 Sparrows",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bateleur Eagle",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Through the Looking Glass",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nautilus",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Helping Hands",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "cantrell gallery",
+   "type": "arts_culture",
+   "city": "Cammack Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ten Commandments",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sun Dial",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "M2Gallery",
+   "type": "arts_culture",
+   "city": "Cammack Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Illustraion",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Sidney S. McMath",
+   "type": "arts_culture",
+   "city": "Cammack Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Angel",
+   "type": "arts_culture",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Juxtaposition",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "We Live Here, Too",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mallards on the Arkansas River",
+   "type": "arts_culture",
+   "city": "Cammack Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Water is Life",
+   "type": "arts_culture",
+   "city": "Cammack Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "All Together",
+   "type": "arts_culture",
+   "city": "Cammack Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Love Birds",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walking on Sunshine",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Who Trashed the River?",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Circle of Life",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunset on the Water",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forest Grove",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Basking in the Sun",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Usual Suspects",
+   "type": "arts_culture",
+   "city": "Cammack Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Don't Clutter the Gutter",
+   "type": "arts_culture",
+   "city": "Cammack Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Save the Babies",
+   "type": "arts_culture",
+   "city": "Cammack Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Make a Splash",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bottled Nature",
+   "type": "arts_culture",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Blue",
+   "type": "arts_culture",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Transformative Magic of Clean Water",
+   "type": "arts_culture",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Cherry On Top",
+   "type": "arts_culture",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bayou Meto Art Drain",
+   "type": "arts_culture",
+   "city": "Sherwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keep Our Plants Alive",
+   "type": "arts_culture",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Don't Hurt bambi",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tub the Turtle",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Angels Eye View",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oh! What a View!",
+   "type": "arts_culture",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "One Fish, Two Fish",
+   "type": "arts_culture",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Symmetry",
+   "type": "arts_culture",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "This Does Not taste Right",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Love All Creatures",
+   "type": "arts_culture",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Loony Bin Comedy Club",
+   "type": "arts_culture",
+   "city": "Cammack Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ATA Statue",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vestcom Sculpture",
+   "type": "arts_culture",
+   "city": "Cammack Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Helping Hands Statue",
+   "type": "arts_culture",
+   "city": "Cammack Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Little Rock",
+   "type": "historic_site",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sturgis Plaza",
+   "type": "historic_downtown",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Birdies Cabaret and Lounge",
+   "type": "arts_culture",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fellowship Hall Sound",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Discovery",
+   "type": "science_center",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William J Clinton Presidential Library",
+   "type": "museum",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robinson Center",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old State House",
+   "type": "museum",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arkansas Museum of Fine Arts",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Witt Stephens Jr. Central Arkansas Nature Center",
+   "type": "museum",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MacArthur Museum of Arkansas Military History",
+   "type": "museum",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic Arkansas Museum",
+   "type": "museum",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arkansas Repertory Theatre",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central Arkansas Library System - Main Library",
+   "type": "library",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Argenta Branch Library",
+   "type": "library",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flyway",
+   "type": "brewery_distillery",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Argenta Community Theater",
+   "type": "arts_culture",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A. W. Young Library",
+   "type": "library",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ottenheimer Library",
+   "type": "library",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fun Wash",
+   "type": "laundromat",
+   "city": "Cammack Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vino's Brewpub",
+   "type": "brewery_distillery",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hillary Rodham Clinton Children's Library & Learning Center",
+   "type": "library",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mosaic Templars Cultural Center",
+   "type": "museum",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Studio Theatre",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lost Forty Brewery",
+   "type": "brewery_distillery",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Gould Fletcher Library",
+   "type": "library",
+   "city": "Cammack Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sidney S. McMath Library",
+   "type": "library",
+   "city": "Cammack Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Diamond Bear",
+   "type": "brewery_distillery",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverfest Amphitheatre",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Adolphine Fletcher Terry Library",
+   "type": "library",
+   "city": "Cammack Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dee Brown Library",
+   "type": "library",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stones Throw Brewery",
+   "type": "brewery_distillery",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rock Town Distillery",
+   "type": "brewery_distillery",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Esse Purse Museum & Store",
+   "type": "museum",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Black Arkansans and Performing Arts",
+   "type": "museum",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "D. W. Reynolds Library and Technology Center",
+   "type": "library",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Daisy Bates House",
+   "type": "museum",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joseph Taylor Robinson House",
+   "type": "museum",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Deal Studio & Gallery",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civitan Amphitheater",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weekend Theatre",
+   "type": "arts_culture",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arkansas National Guard Museum",
+   "type": "museum",
+   "city": "Sherwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stone's Throw Brewing Stifft Station Taproom",
+   "type": "brewery_distillery",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fun Wash",
+   "type": "laundromat",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William F Laman Public Library",
+   "type": "library",
+   "city": "North Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Esporta Fitness Mural",
+   "type": "arts_culture",
+   "city": "Cammack Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bobby L. Roberts Library of Arkansas History & Art",
+   "type": "library",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sue Cowan Williams Library - CALS",
+   "type": "library",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J.C. Oliver Library",
+   "type": "library",
+   "city": "Little Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Belle Grove Historic District",
+   "type": "historic_downtown",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boreham Library",
+   "type": "library",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NUMA Bronze Statue",
+   "type": "arts_culture",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Initial Point Marker",
+   "type": "historic_site",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Van Buren Confederate Monument",
+   "type": "historic_site",
+   "city": "Van Buren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spirit of the American Doughboy",
+   "type": "historic_site",
+   "city": "Van Buren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Smith Confederate Monument",
+   "type": "historic_site",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SURVEY Monument",
+   "type": "historic_site",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Van Buren Public Library",
+   "type": "library",
+   "city": "Van Buren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Michelle’s Laundry and Dry Cleaning",
+   "type": "laundromat",
+   "city": "Arkoma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mr. Rob's Dry Cleaners & Laundry",
+   "type": "laundromat",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Flower Tower",
+   "type": "arts_culture",
+   "city": "Barling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bass Reeves Statue",
+   "type": "historic_site",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial",
+   "type": "historic_site",
+   "city": "Van Buren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arts on Main",
+   "type": "arts_culture",
+   "city": "Van Buren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William O. Darby",
+   "type": "historic_site",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Judge Isaac C. Parker",
+   "type": "historic_site",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mother Mary Teresa Farrell, R.S.M.",
+   "type": "historic_site",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mother Mary Teresa Farrell",
+   "type": "historic_site",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Carnall",
+   "type": "historic_site",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "King Opera House",
+   "type": "arts_culture",
+   "city": "Van Buren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Smith Trolley Museum",
+   "type": "museum",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Smith Museum of HIstory",
+   "type": "museum",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clayton House",
+   "type": "museum",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Smith Public Library - Dallas Street Branch",
+   "type": "library",
+   "city": "Barling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Smith Public Library - Main Branch",
+   "type": "library",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Smith Regional Art Museum",
+   "type": "museum",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Temple Live",
+   "type": "arts_culture",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Smith Little Theatre",
+   "type": "arts_culture",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center For Art & Education",
+   "type": "arts_culture",
+   "city": "Van Buren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Front Amphitheater",
+   "type": "arts_culture",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "United States Marshals Museum",
+   "type": "museum",
+   "city": "Fort Smith",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Washroom Coin Laundry",
+   "type": "laundromat",
+   "city": "Arkoma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arkoma Public Library",
+   "type": "library",
+   "city": "Arkoma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ELM SPRINGS IN THE CIVIL WAR",
+   "type": "historic_site",
+   "city": "Elm Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elm Springs Civil War monument",
+   "type": "historic_site",
+   "city": "Elm Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quick & Clean",
+   "type": "laundromat",
+   "city": "Springdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shiloh Museum of Ozark History",
+   "type": "museum",
+   "city": "Springdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shiloh Museum",
+   "type": "museum",
+   "city": "Springdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Springdale High School Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Springdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Springdale Public Library",
+   "type": "library",
+   "city": "Springdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arts Center of the Ozarks",
+   "type": "arts_culture",
+   "city": "Lowell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tontitown Historical Museum",
+   "type": "museum",
+   "city": "Tontitown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tontitown Winery",
+   "type": "brewery_distillery",
+   "city": "Tontitown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tontitown Flea Market & Antique mall",
+   "type": "farmers_market",
+   "city": "Tontitown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tiago",
+   "type": "arts_culture",
+   "city": "Jonesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Arch",
+   "type": "historic_site",
+   "city": "Jonesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bookout Plaza",
+   "type": "historic_site",
+   "city": "Jonesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arkansas State University Museum",
+   "type": "museum",
+   "city": "Jonesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Craighead County Law Library",
+   "type": "library",
+   "city": "Jonesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Doughboy Statue",
+   "type": "arts_culture",
+   "city": "Jonesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Foundation of Arts- Forum Theater",
+   "type": "arts_culture",
+   "city": "Jonesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fowler Center",
+   "type": "arts_culture",
+   "city": "Jonesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Craighead County Jonesboro Public Library",
+   "type": "library",
+   "city": "Jonesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Native Brew Works",
+   "type": "brewery_distillery",
+   "city": "Jonesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rogers Public Library",
+   "type": "library",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Olive Street Laundry",
+   "type": "laundromat",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moonbroch Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rogers Experimental House",
+   "type": "arts_culture",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pauline Whitaker Library",
+   "type": "library",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Donald E. White Auditorium",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial",
+   "type": "historic_site",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "E & J Gallo Winery",
+   "type": "brewery_distillery",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Navy Anchor",
+   "type": "historic_site",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWI field artillery",
+   "type": "historic_site",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Happy Coin Laundry",
+   "type": "laundromat",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Three People on Four Benches",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mille-Fleur",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LOVE",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maelstrom",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Group of Bears",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shore Lunch",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tortoise and Hare",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tour de Apple Tree",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stella",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Redstick",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Two-Headed Figure",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yield",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chaise Gabion",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fly's Eye Dome",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lowell's Ocean",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Already Set in Motion",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maman",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Earth to Mars",
+   "type": "arts_culture",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frisco Caboose",
+   "type": "historic_site",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Natural State Beer Company",
+   "type": "brewery_distillery",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sassy",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Launch Intention",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sound Art Installation",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Peace Sign\"",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Bike Tower",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orange Bike Tower",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Bike Tower",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Deer/Crow/Fish",
+   "type": "arts_culture",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Checkered cover sidewalk",
+   "type": "arts_culture",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frisco",
+   "type": "arts_culture",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wall Ride",
+   "type": "arts_culture",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butterfly Tower",
+   "type": "arts_culture",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colors Tower",
+   "type": "arts_culture",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bleu Girl",
+   "type": "arts_culture",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oz Rhino",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flight",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Monarch and Dandelions",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Universal Inseparability",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Now is Better",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freebird",
+   "type": "arts_culture",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Helen’s Amphitheater",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flyway",
+   "type": "brewery_distillery",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Deconstructed Barn",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Founding of Benton County",
+   "type": "historic_site",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buckyball",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barn Dance",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bentonville Public Library",
+   "type": "library",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Native American History",
+   "type": "museum",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scott Family Amazeum",
+   "type": "museum",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Way of Color",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Daisy Airgun Museum",
+   "type": "museum",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arkansas Public Theater",
+   "type": "arts_culture",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ozark Beer Company",
+   "type": "brewery_distillery",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bentonville Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butterfield Stage",
+   "type": "live_music",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bike Rack Brewery",
+   "type": "brewery_distillery",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Momentary",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bentonville History Museum office",
+   "type": "museum",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arkansas Music Pavilion",
+   "type": "arts_culture",
+   "city": "Cave Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Peel Mansion Museum & Heritage Gardens",
+   "type": "museum",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arend Arts Center",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hawk Moth Brewery & Beer Parlor",
+   "type": "brewery_distillery",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rogers Historical Museum",
+   "type": "museum",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Foxtrail Distillery",
+   "type": "brewery_distillery",
+   "city": "Rogers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Province Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Little Flock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thaden Library",
+   "type": "library",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confederate Mothers Monument",
+   "type": "historic_site",
+   "city": "Texarkana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Texarkana",
+   "type": "historic_site",
+   "city": "Texarkana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scott Joplin",
+   "type": "historic_site",
+   "city": "Texarkana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "United States Post Office and Courthouse",
+   "type": "historic_site",
+   "city": "Texarkana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crossties",
+   "type": "arts_culture",
+   "city": "Texarkana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First Disciples of Christ in Texas",
+   "type": "historic_site",
+   "city": "Texarkana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Offenhauser Building",
+   "type": "historic_site",
+   "city": "Texarkana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Regional History",
+   "type": "museum",
+   "city": "Texarkana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Four States Auto Museum",
+   "type": "museum",
+   "city": "Texarkana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "P. J. Ahern Home",
+   "type": "museum",
+   "city": "Texarkana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean War/Vietnam War Memorial",
+   "type": "historic_site",
+   "city": "Texarkana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lantern Theatre",
+   "type": "arts_culture",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Conway Confederate Monument",
+   "type": "historic_site",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "All Wars Memorial",
+   "type": "historic_site",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II Memorial",
+   "type": "historic_site",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Faulkner County Courthouse Anchor",
+   "type": "historic_site",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Junktion Flea Market",
+   "type": "farmers_market",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Candy Jones",
+   "type": "historic_site",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jerry Cooper",
+   "type": "historic_site",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liz Snipan-Rogers",
+   "type": "historic_site",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Electric Alley",
+   "type": "arts_culture",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Conway Coin Laundry",
+   "type": "laundromat",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valor The Bear",
+   "type": "historic_site",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Champion Willow Oak",
+   "type": "historic_site",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Torreyson Library",
+   "type": "library",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Curtain Theatre",
+   "type": "arts_culture",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James H. Clark Auditorium",
+   "type": "arts_culture",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reynolds Performance Hall",
+   "type": "arts_culture",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Olin C. Bailey Library",
+   "type": "library",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SGA Amphitheater",
+   "type": "arts_culture",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Conway Public Library",
+   "type": "library",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Faulkner County Museum",
+   "type": "museum",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Plaza",
+   "type": "historic_site",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Story Library",
+   "type": "library",
+   "city": "Conway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial",
+   "type": "historic_site",
+   "city": "Bella Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Bike Tower",
+   "type": "arts_culture",
+   "city": "Bentonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bike Art (and more)",
+   "type": "arts_culture",
+   "city": "Pea Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bella Vista Public Library",
+   "type": "library",
+   "city": "Bella Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bella Vista Historical Museum",
+   "type": "museum",
+   "city": "Bella Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Strengthening the Arm of Liberty",
+   "type": "historic_site",
+   "city": "Pine Bluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Generator",
+   "type": "coworking",
+   "city": "Pine Bluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Community Theater",
+   "type": "arts_culture",
+   "city": "Pine Bluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arkansas Railroad Museum",
+   "type": "museum",
+   "city": "Pine Bluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John B. Watson Library",
+   "type": "library",
+   "city": "Pine Bluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arts & Science Center for Southeast Arkansas",
+   "type": "science_center",
+   "city": "Pine Bluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martha Mitchell House",
+   "type": "museum",
+   "city": "Pine Bluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pine Bluff Historical Museum",
+   "type": "museum",
+   "city": "Pine Bluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Hall Museum",
+   "type": "museum",
+   "city": "White Hall",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pine Bluff Jefferson County Public Library",
+   "type": "library",
+   "city": "Pine Bluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Works",
+   "type": "arts_culture",
+   "city": "Pine Bluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Art Space on Main",
+   "type": "arts_culture",
+   "city": "Pine Bluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coca Cola",
+   "type": "arts_culture",
+   "city": "Pine Bluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U of A Pine Bluff Mural",
+   "type": "arts_culture",
+   "city": "Pine Bluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "El Dorado Confederate Monument",
+   "type": "historic_site",
+   "city": "El Dorado",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newton House",
+   "type": "museum",
+   "city": "El Dorado",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Arkansas Arts Center",
+   "type": "arts_culture",
+   "city": "El Dorado",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Arkansas Community College Library",
+   "type": "library",
+   "city": "El Dorado",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rail Car",
+   "type": "historic_site",
+   "city": "Jacksonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wayne B. Tucker",
+   "type": "historic_site",
+   "city": "Jacksonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Rock Air Force Base Library",
+   "type": "library",
+   "city": "Jacksonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Global War on Terrorism Memorial",
+   "type": "historic_site",
+   "city": "Jacksonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "High Flight Memorial",
+   "type": "historic_site",
+   "city": "Jacksonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Herk Hall",
+   "type": "arts_culture",
+   "city": "Jacksonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "W Main St Flea Market",
+   "type": "farmers_market",
+   "city": "Jacksonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "T's Beauty Supply Inc",
+   "type": "farmers_market",
+   "city": "Jacksonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Esther DeWitt Nixon Library",
+   "type": "library",
+   "city": "Jacksonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jacksonville Museum of Military History",
+   "type": "museum",
+   "city": "Jacksonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grahuntley Flea Market & Pawn",
+   "type": "farmers_market",
+   "city": "Jacksonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gann Museum of Saline County",
+   "type": "museum",
+   "city": "Benton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saline County Library / Bob Herzfeld Memorial Library",
+   "type": "library",
+   "city": "Benton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chaffee Barbershop Museum",
+   "type": "museum",
+   "city": "Barling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DeltaARTS",
+   "type": "arts_culture",
+   "city": "West Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Memphis Civil Center",
+   "type": "arts_culture",
+   "city": "West Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Performing Arts Center",
+   "type": "arts_culture",
+   "city": "West Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Memphis Library",
+   "type": "library",
+   "city": "West Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Esperanza Bonanza Stage",
+   "type": "arts_culture",
+   "city": "West Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clean Wash Coin Laundry",
+   "type": "laundromat",
+   "city": "Maumelle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maumelle Library",
+   "type": "library",
+   "city": "Maumelle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Searcy Confederate Monument",
+   "type": "historic_site",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Searcy Art Gallery",
+   "type": "arts_culture",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spring Park",
+   "type": "historic_site",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anthony and Wright Administration Auditorium",
+   "type": "arts_culture",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cracked Tree",
+   "type": "arts_culture",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ulrey Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Botham Jean Memorial",
+   "type": "historic_site",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Uncle Bud",
+   "type": "historic_site",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J. C. Lewis Brown, Walter Cunningham, and David Johnson",
+   "type": "historic_site",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elijah Anthony and Howard Wright",
+   "type": "historic_site",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thelma Fae Smith and Curtis H. Sykes",
+   "type": "historic_site",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bee Kind",
+   "type": "arts_culture",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beeler Ferry",
+   "type": "historic_site",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beeler House",
+   "type": "historic_site",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Total Eclipse",
+   "type": "arts_culture",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam War Memorial",
+   "type": "historic_site",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Action at Whitney’s Lane",
+   "type": "historic_site",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Searcy Mural",
+   "type": "arts_culture",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Janett & Larry Crain Memorial Library",
+   "type": "library",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Day Wash and Fold",
+   "type": "laundromat",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nita Cochran Stage",
+   "type": "historic_site",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benson Auditorium",
+   "type": "arts_culture",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brackett Library",
+   "type": "library",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center On the Square",
+   "type": "arts_culture",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Searcy Suds Laundromat",
+   "type": "laundromat",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Alley",
+   "type": "arts_culture",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pioneer Village",
+   "type": "museum",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "C. L. Kay Plaza",
+   "type": "historic_downtown",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Patriotic Mural",
+   "type": "arts_culture",
+   "city": "Searcy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arkansas Craft Gallery",
+   "type": "arts_culture",
+   "city": "Mountain View",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Ozark Highlands Theater",
+   "type": "arts_culture",
+   "city": "Mountain View",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Guild",
+   "type": "arts_culture",
+   "city": "Mountain View",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stone County Museum",
+   "type": "museum",
+   "city": "Mountain View",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ozark Area Depot Museum",
+   "type": "museum",
+   "city": "Ozark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Geographic Center of Arkansas, placed 1936",
+   "type": "historic_site",
+   "city": "Alexander",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oley E. Rooker Library",
+   "type": "library",
+   "city": "Alexander",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Devil’s Backbone Road Cut—Geology",
+   "type": "historic_site",
+   "city": "Marshall",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plane Crash Memorial Plaque",
+   "type": "historic_site",
+   "city": "Jasper",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bradley House Museum",
+   "type": "museum",
+   "city": "Jasper",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AGFC Hillary Jones Wildlife Museum",
+   "type": "museum",
+   "city": "Jasper",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Memorial",
+   "type": "historic_site",
+   "city": "Heber Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brinkley Courtyard",
+   "type": "historic_downtown",
+   "city": "Heber Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cleburne County Library",
+   "type": "library",
+   "city": "Heber Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Carl Garner Visitor Center",
+   "type": "museum",
+   "city": "Heber Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry World",
+   "type": "laundromat",
+   "city": "Alma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alma Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Alma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alma Public Library",
+   "type": "library",
+   "city": "Alma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cross County Museum",
+   "type": "museum",
+   "city": "Wynne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wynne Depot Foundation",
+   "type": "historic_site",
+   "city": "Wynne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWI Memorial",
+   "type": "historic_site",
+   "city": "Mayflower",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Star Memorial Highway",
+   "type": "historic_site",
+   "city": "Mayflower",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Room",
+   "type": "laundromat",
+   "city": "Mayflower",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mayflower Public Library",
+   "type": "library",
+   "city": "Mayflower",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ka-Do-Ha Indian Village Museum",
+   "type": "museum",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Town Square Gallery",
+   "type": "arts_culture",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

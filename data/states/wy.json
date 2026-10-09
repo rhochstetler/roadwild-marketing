@@ -1,0 +1,6147 @@
+{
+ "state": "WY",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Cave Falls Campground",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 15.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Alpine North Loop Campground",
+   "type": "paid_camp",
+   "town": "Alpine Northwest, WY",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Squirrel Meadows Cabin",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 15.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blacktail Cabin (East)",
+   "type": "paid_camp",
+   "town": "Jardine, MT",
+   "town_mi": 4.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Summit Ridge Lookout Cabin",
+   "type": "paid_camp",
+   "town": "Hill View Heights, WY",
+   "town_mi": 5.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Beaver Creek Campground (WY)",
+   "type": "paid_camp",
+   "town": "Newcastle, WY",
+   "town_mi": 17.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Tongue River Campground",
+   "type": "unknown",
+   "town": "Dayton, WY",
+   "town_mi": 14.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Warren Bridge Campground",
+   "type": "blm",
+   "town": "Cora, WY",
+   "town_mi": 7.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Winter Creek North",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 10.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yellowstone Valley Inn",
+   "type": "rv_park",
+   "town": "Cody, WY",
+   "town_mi": 17.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "REX HALE",
+   "type": "paid_camp",
+   "town": "Cody, WY",
+   "town_mi": 33.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Kampground",
+   "type": "rv_park",
+   "town": "Laramie, WY",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "4W2 Wapiti Lake",
+   "type": "unknown",
+   "town": "Silver Gate, MT",
+   "town_mi": 24.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wolf Lake",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 16.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Worthen Meadow Campground",
+   "type": "paid_camp",
+   "town": "Lander, WY",
+   "town_mi": 13.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Curtis Gulch",
+   "type": "unknown",
+   "town": "Esterbrook, WY",
+   "town_mi": 12.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dead Swede Campground",
+   "type": "unknown",
+   "town": "Dayton, WY",
+   "town_mi": 15.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BUCKBOARD CROSSING",
+   "type": "paid_camp",
+   "town": "Washam, WY",
+   "town_mi": 17.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RYAN PARK",
+   "type": "paid_camp",
+   "town": "Ryan Park, WY",
+   "town_mi": 0.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Group Camp",
+   "type": "unknown",
+   "town": "Teton Village, WY",
+   "town_mi": 5.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Group Camp",
+   "type": "unknown",
+   "town": "Teton Village, WY",
+   "town_mi": 5.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lone Star (OA1)",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 22.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Firehole",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 22.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Firehole Springs",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 22.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mallard Lake SE",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 20.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mallard Lake Outlet",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 20.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fairy Meadows (OD1)",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 15.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Firehole Meadows",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 15.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Firehole Falls",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 15.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Imperial Meadows",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 15,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Goose Lake",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 15.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Summit Lake",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 19,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sentinel Meadows East",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 14.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gneiss Creek",
+   "type": "paid_camp",
+   "town": "Hebgen Lake Estates, MT",
+   "town_mi": 7.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gallatin River Stock",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 13.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Gallatin River",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 12.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Fan Creek",
+   "type": "paid_camp",
+   "town": "Gardiner, MT",
+   "town_mi": 14.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fan Creek",
+   "type": "paid_camp",
+   "town": "Gardiner, MT",
+   "town_mi": 13.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Fork Fan Creek",
+   "type": "paid_camp",
+   "town": "Gardiner, MT",
+   "town_mi": 11.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Blacktail Creek",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 4.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rescue Creek",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 3.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lava Creek",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Horn Pass Trail",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 6.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Straight Creek South",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 10.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Winter Creek",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 12.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fawn Creek",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gardner’s Hole",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 4.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gardner River",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 5.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Soldier’s Corral",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "E Cottonwood Creek",
+   "type": "paid_camp",
+   "town": "Jardine, MT",
+   "town_mi": 6.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Cottonwood Creek",
+   "type": "paid_camp",
+   "town": "Jardine, MT",
+   "town_mi": 8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yellowstone River Trail",
+   "type": "paid_camp",
+   "town": "Jardine, MT",
+   "town_mi": 5.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Oxbow Creek",
+   "type": "paid_camp",
+   "town": "Jardine, MT",
+   "town_mi": 5.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "N Yell/Hell Confluence",
+   "type": "paid_camp",
+   "town": "Jardine, MT",
+   "town_mi": 9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hellroaring Creek",
+   "type": "paid_camp",
+   "town": "Jardine, MT",
+   "town_mi": 9.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hellroaring Creek",
+   "type": "paid_camp",
+   "town": "Jardine, MT",
+   "town_mi": 10.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Slough Creek",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 12.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hornaday Creek",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 12.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Slough Creek",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 11.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elk Tongue",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 11,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Slough Creek Stock Camp - South",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 11.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Agate Creek",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 18.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Cache Creek",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 12.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cache Creek",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 10.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Cache Creek",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 6.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cold Creek Jct",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 23.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lemon City",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 24.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cache Creek Ford N",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 15.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Lamar",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 16.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Middle Lamar Stock",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 19.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Warm Spring Meadow",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 21.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Appaloosa Meadows",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 18.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Miller Creek",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 18.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Canoe Lake Junction",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 18.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Boundary",
+   "type": "paid_camp",
+   "town": "Cooke City, MT",
+   "town_mi": 20.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Pebble Creek",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 7.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pebble Creek",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 6.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bliss Pass Jct",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 6.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mist Creek Meadows",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 28.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Willow Creek",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 22.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Saddle Creek",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 23.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Joseph’s Coat Spring",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 24.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Broad Creek",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 25.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wapiti Junction",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 25.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Old Seven Mile Hole",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 20.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sulphur Creek",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 20.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ice Lake North",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 17.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ice Lake East",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 17.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascade Lake West",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 17.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascade Lake North",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 17.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascade Creek",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 17.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Norris Meadows",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 16.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grebe Lake Southeast",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 16.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grebe Lake East",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 16.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grebe Lake North",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 16.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moss Creek",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 23.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Observation Peak",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 15.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "4R1 - Ribbon Lake West",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 20.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "4R2 - Ribbon Lake North",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 20.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "4W1 - Wrangler Lake",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 23.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wapiti Lake Point",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 24.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fern Lake",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 26.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Broad Creek",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 26.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Beaverdam Trail",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 49,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Terrace Point",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 48.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brimstone Point",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 47.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brimstone Bay",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 46.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Columbine Meadow",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 44.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Meadow Creek",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 42.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Park Point S",
+   "type": "paid_camp",
+   "town": "Mammoth, WY",
+   "town_mi": 42.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Monument Camp",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 47.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chipmunk Creek Outlet",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 46.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Promontory Point",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 44,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Promontory Shore",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 44,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Promontory Bay",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 44.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Promontory Tip",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 44.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SE Arm Inlet",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 48.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trail Point",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 49.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trail Bay",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 50.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Ford",
+   "type": "paid_camp",
+   "town": "Silver Gate, MT",
+   "town_mi": 50.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Colter Meadows",
+   "type": "paid_camp",
+   "town": "Kelly, WY",
+   "town_mi": 51.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "River’s Edge",
+   "type": "paid_camp",
+   "town": "Kelly, WY",
+   "town_mi": 50,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Turret View",
+   "type": "paid_camp",
+   "town": "Kelly, WY",
+   "town_mi": 51,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Mountain Creek",
+   "type": "paid_camp",
+   "town": "Kelly, WY",
+   "town_mi": 48.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mountain Creek Stock",
+   "type": "paid_camp",
+   "town": "Kelly, WY",
+   "town_mi": 49.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mountain Creek",
+   "type": "paid_camp",
+   "town": "Kelly, WY",
+   "town_mi": 51.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Howell Creek",
+   "type": "paid_camp",
+   "town": "Cody, WY",
+   "town_mi": 50.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Table Mountain",
+   "type": "paid_camp",
+   "town": "Cody, WY",
+   "town_mi": 50.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Howell Creek",
+   "type": "paid_camp",
+   "town": "Cody, WY",
+   "town_mi": 49,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mariposa Lake",
+   "type": "paid_camp",
+   "town": "Kelly, WY",
+   "town_mi": 41.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Two Ocean Plateau Trail Junction",
+   "type": "paid_camp",
+   "town": "Kelly, WY",
+   "town_mi": 41,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Passage Creek",
+   "type": "paid_camp",
+   "town": "Kelly, WY",
+   "town_mi": 44.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fox Creek",
+   "type": "paid_camp",
+   "town": "Kelly, WY",
+   "town_mi": 39.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Thorofare",
+   "type": "paid_camp",
+   "town": "Kelly, WY",
+   "town_mi": 44.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Yell River",
+   "type": "paid_camp",
+   "town": "Kelly, WY",
+   "town_mi": 44,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "East Confluence",
+   "type": "paid_camp",
+   "town": "Kelly, WY",
+   "town_mi": 45.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cliff Creek",
+   "type": "paid_camp",
+   "town": "Kelly, WY",
+   "town_mi": 46.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Three Mile Bend",
+   "type": "paid_camp",
+   "town": "Kelly, WY",
+   "town_mi": 46.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yellowstone Meadows",
+   "type": "paid_camp",
+   "town": "Kelly, WY",
+   "town_mi": 48.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Frank Island Bay South",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 40.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grouse Creek",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 46.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Breeze Bay North",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 35.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Breeze Bay",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 36.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ravine",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 37,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wolf Bay",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 37.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagle Bay",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 39.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bodego Bay",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 40.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Flat Mtn Arm N",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 39.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grizzly Bay",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 39.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Flat Mtn Bay",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 40.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Plover Point",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 41.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Plover Bay",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 42,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Arm Meadow",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 42.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Arm",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 43.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gowdy Camp",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 45.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Southwest Bay",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 45.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Beula Lake South",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 27.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Basin Creek",
+   "type": "paid_camp",
+   "town": "Alta, WY",
+   "town_mi": 40.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Snake Hot Springs Stock Camp",
+   "type": "paid_camp",
+   "town": "Alta, WY",
+   "town_mi": 35.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nine Mile Meadow",
+   "type": "paid_camp",
+   "town": "Alta, WY",
+   "town_mi": 36,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Snake River",
+   "type": "paid_camp",
+   "town": "Alta, WY",
+   "town_mi": 38.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Snake River",
+   "type": "paid_camp",
+   "town": "Alta, WY",
+   "town_mi": 41.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Snake River Ford",
+   "type": "paid_camp",
+   "town": "Alta, WY",
+   "town_mi": 36,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crooked Creek",
+   "type": "paid_camp",
+   "town": "Kelly, WY",
+   "town_mi": 39.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shoshone Meadows (8G1)",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 24.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Bay",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 40.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sheridan Creek",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 40.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hideaway",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 40.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Shore",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 39.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rustic",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 39.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Beaver Creek Meadow",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 41.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Surprise Creek",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 43.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Heart River",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 43.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "East Shore",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 43.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moose Creek (8M1)",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 29.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moose Creek Meadow (8M2)",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 29.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Outlet Creek",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 44.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pitchstone",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 29.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Phantom",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 29.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "S Narrow Point",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 28.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "S Narrow Beach",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 28.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moose Creek Point",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 28.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Channel",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 29.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Windy Point",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 27.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bluff Top",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 27,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cove",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 26.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Flat Top",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 26.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Basin Bay Point (8R5)",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 26.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Outlet (8S1)",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 30.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DeLacy Creek",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 26.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Coyote",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 26.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "N Grizzly Beach",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 27.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "S Grizzly Beach",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 27.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Narrows",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 27.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Basin Beach",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 27.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hillside",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 28.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tranquility",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 27.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Boundary Creek Meadows",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 16.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Boundary Creek",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 16.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dunanda Falls",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 17,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Talus Terrace",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 17.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Boundary Creek",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 16.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bechler Ford",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 17.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trail Spring",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 18.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ouzel Falls",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 18.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Colonnade Fall",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 20.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Bechler Canyon Ford",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 21.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Talus Spring",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 21.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Bechler Canyon Ford",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 22.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Albright Falls",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 23.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rocky Ford",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 16.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ferris Fork",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 24.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gregg Fork",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 25.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Douglas Knob Meadow",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 26.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Continental Divide",
+   "type": "paid_camp",
+   "town": "West Yellowstone, MT",
+   "town_mi": 25.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Falls River Cutoff",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 19.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mountain Ash Creek",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 20,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Union Falls",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 21.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Union Falls Warm Fork 9U3",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 20.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Caves",
+   "type": "unknown",
+   "town": "Teton Village, WY",
+   "town_mi": 9.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Garnet Meadows",
+   "type": "unknown",
+   "town": "Teton Village, WY",
+   "town_mi": 9.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Saddle",
+   "type": "unknown",
+   "town": "Teton Village, WY",
+   "town_mi": 10.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moraines",
+   "type": "unknown",
+   "town": "Teton Village, WY",
+   "town_mi": 10,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Platform Campsites",
+   "type": "unknown",
+   "town": "Teton Village, WY",
+   "town_mi": 9.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Fork",
+   "type": "unknown",
+   "town": "Teton Village, WY",
+   "town_mi": 9.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ranger Creek Campground",
+   "type": "unknown",
+   "town": "Shell, WY",
+   "town_mi": 14,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Medicine Lodge Lake Campground",
+   "type": "paid_camp",
+   "town": "Hyattville, WY",
+   "town_mi": 15.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shell Creek Campground",
+   "type": "unknown",
+   "town": "Shell, WY",
+   "town_mi": 13.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sitting Bull",
+   "type": "unknown",
+   "town": "Ten Sleep, WY",
+   "town_mi": 15.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Willow Park Campground",
+   "type": "unknown",
+   "town": "Ten Sleep, WY",
+   "town_mi": 14.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Island Park Campground",
+   "type": "unknown",
+   "town": "Ten Sleep, WY",
+   "town_mi": 15.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Tensleep Lake Campground",
+   "type": "unknown",
+   "town": "Ten Sleep, WY",
+   "town_mi": 19.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gray Reef Dam Campground",
+   "type": "paid_camp",
+   "town": "Alcova, WY",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hunter Campground",
+   "type": "paid_camp",
+   "town": "Buffalo, WY",
+   "town_mi": 12.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Town of Encampment RV Park",
+   "type": "rv_park",
+   "town": "Encampment, WY",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Newton Creek Campground",
+   "type": "paid_camp",
+   "town": "Cody, WY",
+   "town_mi": 34.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BIG GAME CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Cody, WY",
+   "town_mi": 27.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CLEARWATER CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Cody, WY",
+   "town_mi": 30.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lazy R campground",
+   "type": "rv_park",
+   "town": "Ranchester, WY",
+   "town_mi": 0,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hatchet Campground",
+   "type": "unknown",
+   "town": "Kelly, WY",
+   "town_mi": 19.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "East Fork Campground",
+   "type": "paid_camp",
+   "town": "Big Horn, WY",
+   "town_mi": 11.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Goose Campground",
+   "type": "paid_camp",
+   "town": "Big Horn, WY",
+   "town_mi": 12.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Middle Fork/South Fork",
+   "type": "unknown",
+   "town": "Teton Village, WY",
+   "town_mi": 3.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Middle Fork Campground",
+   "type": "unknown",
+   "town": "Buffalo, WY",
+   "town_mi": 11.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tie Hack Campground",
+   "type": "rv_park",
+   "town": "Buffalo, WY",
+   "town_mi": 12,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Fork Campground",
+   "type": "rv_park",
+   "town": "Buffalo, WY",
+   "town_mi": 12.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Circle Park Campground",
+   "type": "rv_park",
+   "town": "Buffalo, WY",
+   "town_mi": 14.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hettinger Group Campground",
+   "type": "unknown",
+   "town": "Buffalo, WY",
+   "town_mi": 12,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Boulder Park Campground",
+   "type": "paid_camp",
+   "town": "Ten Sleep, WY",
+   "town_mi": 13.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lost Cabin Campground",
+   "type": "rv_park",
+   "town": "Buffalo, WY",
+   "town_mi": 17.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "wolf den rv park",
+   "type": "rv_park",
+   "town": "Freedom, WY",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wapiti Village RV Park",
+   "type": "rv_park",
+   "town": "Alpine, WY",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Friend Park Camp",
+   "type": "unknown",
+   "town": "Esterbrook, WY",
+   "town_mi": 11.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whiskey Grove Campground",
+   "type": "paid_camp",
+   "town": "Bondurant, WY",
+   "town_mi": 19.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bearlodge - USFS",
+   "type": "paid_camp",
+   "town": "Hulett, WY",
+   "town_mi": 13.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cook Lake Recreation Area",
+   "type": "paid_camp",
+   "town": "Hulett, WY",
+   "town_mi": 11,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Reuter Campground",
+   "type": "paid_camp",
+   "town": "Sundance, WY",
+   "town_mi": 3.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kodiak Mountain Resort RV Park U.S.",
+   "type": "rv_park",
+   "town": "Osmond, WY",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Leigh Creek Campground",
+   "type": "paid_camp",
+   "town": "Ten Sleep, WY",
+   "town_mi": 7.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Doyle Creek Campground",
+   "type": "paid_camp",
+   "town": "Buffalo, WY",
+   "town_mi": 22.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Prune Creek Campground",
+   "type": "unknown",
+   "town": "Dayton, WY",
+   "town_mi": 12.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Owen Creek Campground",
+   "type": "unknown",
+   "town": "Dayton, WY",
+   "town_mi": 16.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wagon Wheel RV Park",
+   "type": "rv_park",
+   "town": "Afton, WY",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "FREMONT LAKE",
+   "type": "paid_camp",
+   "town": "Pinedale, WY",
+   "town_mi": 6.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Flat Creek RV Park & Cabins",
+   "type": "rv_park",
+   "town": "Thayne, WY",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Star Valley Ranch RV Park",
+   "type": "rv_park",
+   "town": "Star Valley Ranch, WY",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Alice Campground",
+   "type": "unknown",
+   "town": "Smoot, WY",
+   "town_mi": 17.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp HOst",
+   "type": "rv_park",
+   "town": "Alta, WY",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Teton reservoir recreation area",
+   "type": "unknown",
+   "town": "Rawlins, WY",
+   "town_mi": 12.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Esterbrook Camp 2",
+   "type": "unknown",
+   "town": "Esterbrook, WY",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Surprise Lake",
+   "type": "unknown",
+   "town": "Teton Village, WY",
+   "town_mi": 10.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Casper East RV Park & Campground",
+   "type": "rv_park",
+   "town": "Evansville, WY",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Granite Canyon Camping Zone",
+   "type": "unknown",
+   "town": "Teton Village, WY",
+   "town_mi": 4.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sibley Lake Recreation Area",
+   "type": "unknown",
+   "town": "Dayton, WY",
+   "town_mi": 11.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tie Flume Campground",
+   "type": "unknown",
+   "town": "Dayton, WY",
+   "town_mi": 14.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Kampground",
+   "type": "rv_park",
+   "town": "Fox Farm-College, WY",
+   "town_mi": 5.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HUNTER PEAK",
+   "type": "paid_camp",
+   "town": "Cooke City, MT",
+   "town_mi": 15.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ponderosa Campground",
+   "type": "paid_camp",
+   "town": "Cody, WY",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bald Mountain Campground",
+   "type": "unknown",
+   "town": "Shell, WY",
+   "town_mi": 19,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Porcupine Campground",
+   "type": "unknown",
+   "town": "Shell, WY",
+   "town_mi": 20.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Paintbrush Camping Zone",
+   "type": "unknown",
+   "town": "Alta, WY",
+   "town_mi": 13.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Paintbrush Camping Zone",
+   "type": "paid_camp",
+   "town": "Alta, WY",
+   "town_mi": 11.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Absaroka Bay RV Park",
+   "type": "rv_park",
+   "town": "Cody, WY",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "A.B. Camping",
+   "type": "rv_park",
+   "town": "South Greeley, WY",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lazy Acres",
+   "type": "rv_park",
+   "town": "Riverside, WY",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Prior Flat Campground",
+   "type": "blm",
+   "town": "Alcova, WY",
+   "town_mi": 22.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Medicine Lodge Lower Campground",
+   "type": "paid_camp",
+   "town": "Hyattville, WY",
+   "town_mi": 4.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Green River Lakes - Bridger-Teton NF (WY)",
+   "type": "paid_camp",
+   "town": "Dubois, WY",
+   "town_mi": 19.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trails End Campground",
+   "type": "paid_camp",
+   "town": "Pinedale, WY",
+   "town_mi": 11.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Red Desert Rose Campground",
+   "type": "rv_park",
+   "town": "Rawlins, WY",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "French Creek Campground",
+   "type": "paid_camp",
+   "town": "Ryan Park, WY",
+   "town_mi": 6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Outlaw Cave Campground",
+   "type": "blm",
+   "town": "Kaycee, WY",
+   "town_mi": 17.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Holiday",
+   "type": "rv_park",
+   "town": "Greybull, WY",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Corral Creek Recreation Site",
+   "type": "blm",
+   "town": "Ryan Park, WY",
+   "town_mi": 5.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bennett Peak Campground",
+   "type": "blm",
+   "town": "Ryan Park, WY",
+   "town_mi": 6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "The Virginian RV Park",
+   "type": "rv_park",
+   "town": "Jackson, WY",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deer Haven RV Park",
+   "type": "rv_park",
+   "town": "Saratoga, WY",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Medicine Waters Mobile Home Park",
+   "type": "rv_park",
+   "town": "Saratoga, WY",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buffalo KOA Journey",
+   "type": "rv_park",
+   "town": "Buffalo, WY",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cody KOA",
+   "type": "rv_park",
+   "town": "Cody, WY",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crazy Woman Campground",
+   "type": "rv_park",
+   "town": "Gillette, WY",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Windmill RV Park",
+   "type": "rv_park",
+   "town": "Gillette, WY",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "High Plains RV Resort and Campground",
+   "type": "rv_park",
+   "town": "Gillette, WY",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fort Bridger RV Camp",
+   "type": "rv_park",
+   "town": "Fort Bridger, WY",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ten Sleep RV Park",
+   "type": "paid_camp",
+   "town": "Ten Sleep, WY",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Prospector Village",
+   "type": "rv_park",
+   "town": "Gillette, WY",
+   "town_mi": 8.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake View Campground",
+   "type": "rv_park",
+   "town": "Ten Sleep, WY",
+   "town_mi": 15.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HALF MOON LAKE CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Pinedale, WY",
+   "town_mi": 7.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Silver Lake Campground",
+   "type": "paid_camp",
+   "town": "Ryan Park, WY",
+   "town_mi": 6.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sugarloaf Campground",
+   "type": "paid_camp",
+   "town": "Centennial, WY",
+   "town_mi": 8.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brooklyn Lake Campground",
+   "type": "paid_camp",
+   "town": "Centennial, WY",
+   "town_mi": 7.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "East Table Creek Campground",
+   "type": "paid_camp",
+   "town": "Hoback, WY",
+   "town_mi": 7.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "STATION CREEK CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Hoback, WY",
+   "town_mi": 8.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LITTLE COTTONWOOD GROUP",
+   "type": "paid_camp",
+   "town": "Alpine Northeast, WY",
+   "town_mi": 3.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Atherton Creek Campground",
+   "type": "unknown",
+   "town": "Kelly, WY",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bow River Campground",
+   "type": "paid_camp",
+   "town": "Arlington, WY",
+   "town_mi": 10.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sandy Beach Campground",
+   "type": "rv_park",
+   "town": "Glendo, WY",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sundance Horse Camp",
+   "type": "unknown",
+   "town": "Sundance, WY",
+   "town_mi": 2.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rangeland Court Motel & RV park",
+   "type": "rv_park",
+   "town": "Moorcroft, WY",
+   "town_mi": 0.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Greys River Cove RV Park",
+   "type": "paid_camp",
+   "town": "Alpine, WY",
+   "town_mi": 0.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Encampment River Campground",
+   "type": "blm",
+   "town": "Encampment, WY",
+   "town_mi": 1.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cody Trout Ranch Camp - RV & Tipi Park",
+   "type": "rv_park",
+   "town": "Cody, WY",
+   "town_mi": 5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "THREEMILE CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Cooke City, MT",
+   "town_mi": 36.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Casper KOA Journey",
+   "type": "rv_park",
+   "town": "Bar Nunn, WY",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Missile Drive Manufactured Home Community",
+   "type": "rv_park",
+   "town": "Warren AFB, WY",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WYO Campground & RV Park",
+   "type": "rv_park",
+   "town": "Hillsdale, WY",
+   "town_mi": 4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "T Joe's RV Park",
+   "type": "rv_park",
+   "town": "Ranchettes, WY",
+   "town_mi": 7.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fireside RV Park",
+   "type": "rv_park",
+   "town": "Moose Wilson Road, WY",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hoback Campground",
+   "type": "unknown",
+   "town": "Hoback, WY",
+   "town_mi": 7.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sheridan KOA",
+   "type": "rv_park",
+   "town": "Sheridan, WY",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yellowstone Trail RV Park",
+   "type": "rv_park",
+   "town": "Pinedale, WY",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Parkway RV Campground",
+   "type": "rv_park",
+   "town": "Cody, WY",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Boulder Campground",
+   "type": "paid_camp",
+   "town": "Boulder, WY",
+   "town_mi": 8.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Atlantic City Campground",
+   "type": "paid_camp",
+   "town": "Atlantic City, WY",
+   "town_mi": 1.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Atlantic Gulch Campground",
+   "type": "blm",
+   "town": "Atlantic City, WY",
+   "town_mi": 1.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sagebluff RV Park",
+   "type": "rv_park",
+   "town": "Wright, WY",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Vedauwoo Campground (Tent)",
+   "type": "unknown",
+   "town": "Laramie, WY",
+   "town_mi": 16,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Phillips RV Park",
+   "type": "rv_park",
+   "town": "Evanston, WY",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KC RV Park",
+   "type": "paid_camp",
+   "town": "Kaycee, WY",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Peter D's",
+   "type": "rv_park",
+   "town": "Sheridan, WY",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "JB's Camp Ground",
+   "type": "rv_park",
+   "town": "Lusk, WY",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cottonwood Campground",
+   "type": "paid_camp",
+   "town": "Bairoil, WY",
+   "town_mi": 10.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hams Fork Campground",
+   "type": "unknown",
+   "town": "Cokeville, WY",
+   "town_mi": 16.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "NARROWS CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Cora, WY",
+   "town_mi": 10.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WAPITI CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Cody, WY",
+   "town_mi": 28.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Worland RV Park",
+   "type": "rv_park",
+   "town": "Worland, WY",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Bluffs RV Resort",
+   "type": "rv_park",
+   "town": "Pine Bluffs, WY",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RV Park Jacz",
+   "type": "rv_park",
+   "town": "Etna, WY",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Oasis Motel and RV Park",
+   "type": "rv_park",
+   "town": "Meeteetse, WY",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "The Ham's Fork Grill",
+   "type": "rv_park",
+   "town": "Diamondville, WY",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nash Fork Campground",
+   "type": "paid_camp",
+   "town": "Centennial, WY",
+   "town_mi": 6.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverside RV & Mobile Home Park",
+   "type": "rv_park",
+   "town": "Diamondville, WY",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Sandy Campground",
+   "type": "paid_camp",
+   "town": "Boulder, WY",
+   "town_mi": 22.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Island Lake Campground",
+   "type": "paid_camp",
+   "town": "Cooke City, MT",
+   "town_mi": 19,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Small Vehicle Campground",
+   "type": "paid_camp",
+   "town": "Boulder, WY",
+   "town_mi": 9.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Weeping Rock Campground",
+   "type": "paid_camp",
+   "town": "Fontenelle, WY",
+   "town_mi": 1.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blowout Campground",
+   "type": "paid_camp",
+   "town": "Alpine Northwest, WY",
+   "town_mi": 2.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dugway Campground",
+   "type": "paid_camp",
+   "town": "Sinclair, WY",
+   "town_mi": 6.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "FIREHOLE CANYON CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Green River, WY",
+   "town_mi": 11.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "New Fork Lake Group Campground",
+   "type": "paid_camp",
+   "town": "Cora, WY",
+   "town_mi": 8.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "REUNION FLAT",
+   "type": "paid_camp",
+   "town": "Alta, WY",
+   "town_mi": 4.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TETON CANYON",
+   "type": "paid_camp",
+   "town": "Alta, WY",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TRAIL CREEK",
+   "type": "paid_camp",
+   "town": "Victor, ID",
+   "town_mi": 5.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LA PRELE GUARD STATION",
+   "type": "paid_camp",
+   "town": "Esterbrook, WY",
+   "town_mi": 23.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "JACK CREEK CREW QUARTERS",
+   "type": "paid_camp",
+   "town": "Encampment, WY",
+   "town_mi": 17,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "JACK CREEK GUARD STATION",
+   "type": "paid_camp",
+   "town": "Encampment, WY",
+   "town_mi": 17,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BRUSH CREEK WORK CENTER BARRACK",
+   "type": "paid_camp",
+   "town": "Ryan Park, WY",
+   "town_mi": 2.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SANDSTONE CABIN",
+   "type": "paid_camp",
+   "town": "Dixon, WY",
+   "town_mi": 19.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HOG PARK CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Encampment, WY",
+   "town_mi": 13.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SNOW SURVEY CABIN",
+   "type": "paid_camp",
+   "town": "Ryan Park, WY",
+   "town_mi": 5.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MUDDY GUARD CABIN",
+   "type": "paid_camp",
+   "town": "Buffalo, WY",
+   "town_mi": 15.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "COTTONWOOD GROUP CAMPSITE",
+   "type": "paid_camp",
+   "town": "Smoot, WY",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MEADOWS CABIN",
+   "type": "paid_camp",
+   "town": "Turnerville, WY",
+   "town_mi": 10.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MCCAIN CABIN",
+   "type": "paid_camp",
+   "town": "Hoback, WY",
+   "town_mi": 13,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DEER CREEK CABIN (WY)",
+   "type": "paid_camp",
+   "town": "Nordic, WY",
+   "town_mi": 8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CAZIER CABIN",
+   "type": "paid_camp",
+   "town": "Smoot, WY",
+   "town_mi": 13.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SCALER GUARD STATION",
+   "type": "paid_camp",
+   "town": "Smoot, WY",
+   "town_mi": 21.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LA BARGE GUARD STATION",
+   "type": "paid_camp",
+   "town": "Smoot, WY",
+   "town_mi": 12.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SUNLIGHT RANGERS CABIN",
+   "type": "paid_camp",
+   "town": "Cooke City, MT",
+   "town_mi": 26.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stateline Cove Campground",
+   "type": "paid_camp",
+   "town": "Washam, WY",
+   "town_mi": 4.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Willows Campground",
+   "type": "paid_camp",
+   "town": "Manila, UT",
+   "town_mi": 4.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wolverine ATV Trailhead/Campground",
+   "type": "paid_camp",
+   "town": "Oakley, UT",
+   "town_mi": 25.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hayden Fork Campground",
+   "type": "paid_camp",
+   "town": "Oakley, UT",
+   "town_mi": 22.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Meeks Cabin Campground",
+   "type": "paid_camp",
+   "town": "Robertson, WY",
+   "town_mi": 14.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bear River Campground",
+   "type": "paid_camp",
+   "town": "Evanston, WY",
+   "town_mi": 25.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dead Horse Campground",
+   "type": "paid_camp",
+   "town": "Robertson, WY",
+   "town_mi": 10.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "POLE CREEK CABIN",
+   "type": "paid_camp",
+   "town": "Buffalo, WY",
+   "town_mi": 15,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Fox Campground",
+   "type": "paid_camp",
+   "town": "Lead, SD",
+   "town_mi": 14.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pete's Draw Campground",
+   "type": "paid_camp",
+   "town": "Alcova, WY",
+   "town_mi": 2.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Golden Currant Campground",
+   "type": "paid_camp",
+   "town": "Bessemer Bend, WY",
+   "town_mi": 8.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chalk Bluffs Campground",
+   "type": "paid_camp",
+   "town": "Bessemer Bend, WY",
+   "town_mi": 7.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Boulder Lake Campground",
+   "type": "paid_camp",
+   "town": "Boulder, WY",
+   "town_mi": 6.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dutch Joe Campground",
+   "type": "paid_camp",
+   "town": "Boulder, WY",
+   "town_mi": 24.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Green River Lake Lodge",
+   "type": "paid_camp",
+   "town": "Dubois, WY",
+   "town_mi": 19.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pinnacles Campground",
+   "type": "paid_camp",
+   "town": "Dubois, WY",
+   "town_mi": 22.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lodgepole Campground",
+   "type": "paid_camp",
+   "town": "Casper Mountain, WY",
+   "town_mi": 5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blucher Creek Campground",
+   "type": "paid_camp",
+   "town": "Atlantic City, WY",
+   "town_mi": 21.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sweetwater Guard Station Campground",
+   "type": "paid_camp",
+   "town": "Atlantic City, WY",
+   "town_mi": 17.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buffalo Creek Campground",
+   "type": "paid_camp",
+   "town": "Powder River, WY",
+   "town_mi": 29.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grave Springs Campground",
+   "type": "paid_camp",
+   "town": "Powder River, WY",
+   "town_mi": 30.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rim Campground",
+   "type": "paid_camp",
+   "town": "Casper Mountain, WY",
+   "town_mi": 4.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cave Falls Campground",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 15.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Chittenden Road - Mount Washburn Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Forces of the Northern Range Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hutton Lake National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bamforth National Wildlife Refuge",
+   "type": "hunting",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Grassy Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Big Sandy Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bridger-Teton National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Red Grade Trails",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Old Quarry Trails",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bighorn National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Medicine Bow-Routt NFs & Thunder Basin NG",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Shoshone National Forest",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Alcova Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Boysen Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Buffalo Bill Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Deaver Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Glendo Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gray Reef Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Guernsey Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Keyhole Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kortes Reservoir/Miracle Mile Area",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Cameahwait",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ocean Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pathfinder Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pilot Butte Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ralston Reservoir",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Red Canyon Overlook",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Oregon, Mormon Pioneer, California & Pony Express National Historic Trails Corridor",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Red Gulch/Alkali Back Country Byway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Trapper Creek WSA",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bennett Mountains",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bobcat Draw Badlands WSA",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cedar Mountain WSA",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Copper Mountain",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dubois Badlands",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Encampment River Canyon",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ferris Mountains",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Honeycombs WSA",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "McCullough Peaks",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Mountain",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Medicine Lodge WSA",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Owl Creek WSA",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Prospect Mountain",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Raymond Mountain",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Red Butte WSA",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sand Dunes",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Scab Creek Primitive Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sheep Mountain WSA",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sweetwater Canyon",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sweetwater Rocks (Lankin Dome)",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sweetwater Rocks (Miller Springs)",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sweetwater Rocks (Savage Peak)",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sweetwater Rocks (Split Rock)",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Whiskey Mountain",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Big Cedar Ridge",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bald Ridge Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bobcat-Houlihan Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Four Bear Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gooseberry Badlands Scenic Overlook Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lone Tree Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mallo Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paint Rock Canyon Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Salt Lick Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "South Bighorn/Red Wall Back Country Byway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dugway Recreation Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Teton Reservoir Recreation Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pine Creek Camp Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tailrace Camp Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Green River/Warren Bridge River Access Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "CCC Ponds/Pinedale Pathway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Miner's Delight",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "McCullough PeaksWild Horse Herd Management Area",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pilot Butte Wild Horse Scenic Tour",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Baldwin Creek Climbing Area",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sinks Canyon",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Steamboat Lake Interpretive Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Atlantic City/South Pass",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hydrology Road",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Deep Gulch",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Shirley Mountains",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Viva Naughton Trail",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Castle Gardens Petroglyph Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Scab Creek Recreation Area",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "National Elk Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pathfinder National Wildlife Refuge",
+   "type": "hunting",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Seedskadee National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sheep Mountain Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Clarks Fork of The Yellowstone",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "North Fork Shoshone River",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "South Fork Shoshone River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Shoshone River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gardner Mountain WSA",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sweetwater River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Greater Sand Dunes SRMA",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "North Fork of the Powder River WSA",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "National Bighorn Sheep Interpretive Center and Whiskey Mount",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "South Pass Historic Mining Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "North Platte River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Shoshone River Pathway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Newton Lakes",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Castle Gardens Scenic Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Weston Hills",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rim Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Boulder Lake Recreation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Upper Green River Recreation Area",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fontenelle Creek Recreation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Names Hill",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Killpecker Sand Dunes Open Play Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cokeville Meadows National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Stateline Islands Unit",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fremont Canyon Recreation Area (Pathfinder Dam)",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Death Canyon - Static Peak Divide Junction",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Moose-Wilson Road in Winter",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Teton Park Road in Winter",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Eagle Nest Point Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cundick Ridge Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rubey Point Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fossil Butte Visitor Center Exhibits",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fossil Butte Nature Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Historic Quarry Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Emma Matilda Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bearpaw and Trapper Lakes",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Garnet Canyon",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Forks of Cascade Canyon",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "C130H Hercules",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "F-86L Sabre",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Locomotive",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "children reading",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "children at play",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "child reading",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "flagpost structure",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coyote & Hares Run",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Water",
+   "type": "arts_culture",
+   "city": "Fox Farm–College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cheyenne Frontier Days Boot",
+   "type": "arts_culture",
+   "city": "Fox Farm–College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountain View Memorial Park",
+   "type": "historic_site",
+   "city": "Ranchettes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo Soldier",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Doll Houses",
+   "type": "historic_site",
+   "city": "Warren Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gen. John J. Pershing",
+   "type": "historic_site",
+   "city": "Warren Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Rise and Fall of the Union Pacific Railroad",
+   "type": "historic_site",
+   "city": "Warren Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Red Wave",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cowgirls of the West Museum",
+   "type": "museum",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rabbit Reach",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Spirit of Wyoming",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Tooth Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dino",
+   "type": "arts_culture",
+   "city": "Warren Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dino",
+   "type": "arts_culture",
+   "city": "South Greeley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dino",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dino",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dino",
+   "type": "arts_culture",
+   "city": "South Greeley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dino",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cheyenne Children's Museum",
+   "type": "museum",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WY fresh",
+   "type": "farmers_market",
+   "city": "South Greeley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Great Blue",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dino",
+   "type": "arts_culture",
+   "city": "Fox Farm–College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dino",
+   "type": "arts_culture",
+   "city": "Fox Farm–College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "For The Love Of The Game",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connie Burnside",
+   "type": "historic_site",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dreams of Greatness",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Durant Bell",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Royal Red",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Who's Watching Who",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "In Memory Of Alexander Frye",
+   "type": "historic_site",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jeff Wiggins",
+   "type": "historic_site",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dino",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Covered wagon - Messenger's Old West Museum",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Moment of Glory\"",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Exposed Rock Wall",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Visionaries",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cheyenne",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Warren Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Warren Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Fox Farm–College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Warren Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Warren Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Warren Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Warren Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Warren Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Warren Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Ranchettes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Fox Farm–College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boot",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wyoming State Museum",
+   "type": "museum",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laramie County Library",
+   "type": "library",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cheyenne Depot Museum",
+   "type": "museum",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LCCC Ludden Library",
+   "type": "library",
+   "city": "Fox Farm–College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wyoming National Guard Museum",
+   "type": "museum",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Drop N Dash Laundromat",
+   "type": "laundromat",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cheyenne Frontier Days - Old West Museum",
+   "type": "museum",
+   "city": "Warren Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cheyenne Artists Guild",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheatre",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wyoming State Library",
+   "type": "library",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlas Theatre",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mary Godfrey Playhouse",
+   "type": "arts_culture",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nelson Museum of the West",
+   "type": "museum",
+   "city": "Cheyenne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prometheus",
+   "type": "arts_culture",
+   "city": "Casper",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wardwell Field",
+   "type": "historic_site",
+   "city": "Bar Nunn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gertrude Krampert Center for Theatre and Dance at Casper College",
+   "type": "museum",
+   "city": "Casper",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Historic Trails Interpretive Center",
+   "type": "museum",
+   "city": "Casper",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ida Goodstein Visual Arts Center",
+   "type": "museum",
+   "city": "Casper",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tate Geological Museum",
+   "type": "museum",
+   "city": "Casper",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Science Zone",
+   "type": "science_center",
+   "city": "Casper",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nicolaysen Art Museum",
+   "type": "museum",
+   "city": "Casper",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Natrona County Library",
+   "type": "library",
+   "city": "Casper",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Backwards Distilling Company",
+   "type": "brewery_distillery",
+   "city": "Mills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wonder Bar",
+   "type": "brewery_distillery",
+   "city": "Casper",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oil City Beer Company",
+   "type": "brewery_distillery",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountain Hops Brewhouse",
+   "type": "brewery_distillery",
+   "city": "Casper",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Caspar Museum",
+   "type": "museum",
+   "city": "Mills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Birds Museum",
+   "type": "museum",
+   "city": "Vista West",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wyoming Veterans Memorial Museum",
+   "type": "museum",
+   "city": "Vista West",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Werner Wildlife Museum",
+   "type": "museum",
+   "city": "Casper",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blackmore Marketplace",
+   "type": "farmers_market",
+   "city": "Evansville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincare, Bark Avenue Pet Salon",
+   "type": "farmers_market",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ideal business center",
+   "type": "farmers_market",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northgate businesses",
+   "type": "farmers_market",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laramie Farmer's Market",
+   "type": "farmers_market",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Octogon Graffiti Umbrella",
+   "type": "arts_culture",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The University Family",
+   "type": "arts_culture",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UW Art Museum",
+   "type": "arts_culture",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benjamin Franklin",
+   "type": "arts_culture",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam Memorial",
+   "type": "historic_site",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gryphon Theatre",
+   "type": "arts_culture",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fanning a Twister",
+   "type": "arts_culture",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cowboy Tough",
+   "type": "arts_culture",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Women’s History statue",
+   "type": "arts_culture",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Matthew Shepard Memorial",
+   "type": "historic_site",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "T-Rex",
+   "type": "arts_culture",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wyoming Cowboy",
+   "type": "arts_culture",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Breakin' Through",
+   "type": "arts_culture",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tommy Thompson",
+   "type": "arts_culture",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chief Washakie",
+   "type": "arts_culture",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A Deep Seat and a Long Rein",
+   "type": "arts_culture",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Library",
+   "type": "brewery_distillery",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Altitude Chophouse & Brewery",
+   "type": "brewery_distillery",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laramie Historic Railroad Depot and Museum",
+   "type": "museum",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spic and Span Laundrette",
+   "type": "laundromat",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Great Untamed",
+   "type": "brewery_distillery",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coe Library",
+   "type": "library",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coal Creek Tap",
+   "type": "brewery_distillery",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Albany County Public Library",
+   "type": "library",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laramie Plains Museum",
+   "type": "museum",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edgar J. Lewis Band Shell",
+   "type": "arts_culture",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buchanan Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wyoming Territorial Prison State Historic Site",
+   "type": "museum",
+   "city": "Laramie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "CAM-PLEX Heritage Center Art Gallery",
+   "type": "arts_culture",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Campbell County School District Planetarium",
+   "type": "planetarium",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Delilah",
+   "type": "arts_culture",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Einstein",
+   "type": "arts_culture",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memory of the 8",
+   "type": "historic_site",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Talvez Manana",
+   "type": "arts_culture",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waiting for the Kiss",
+   "type": "arts_culture",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Samson",
+   "type": "arts_culture",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Daly Memorial Library",
+   "type": "library",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Ten Commandments",
+   "type": "arts_culture",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Campbell County War Memorial",
+   "type": "historic_site",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moon Creature",
+   "type": "arts_culture",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shovel Shoe Henge",
+   "type": "arts_culture",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pulling Leather",
+   "type": "arts_culture",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memory of the 8",
+   "type": "historic_site",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memory of the 8",
+   "type": "historic_site",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memory of the 8",
+   "type": "historic_site",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eastside Laundry",
+   "type": "laundromat",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Campbell County Public Library",
+   "type": "library",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AVA Community Art Center",
+   "type": "arts_culture",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frontier Auto Museum",
+   "type": "museum",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's Memorial Garden",
+   "type": "historic_site",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Surf 'n Suds",
+   "type": "laundromat",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Campbell County War Memorial",
+   "type": "historic_site",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Lost Meadery and Brewery",
+   "type": "brewery_distillery",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Campbell County Rockpile Museum",
+   "type": "museum",
+   "city": "Gillette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "US Army Tank",
+   "type": "arts_culture",
+   "city": "Rock Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "US Air Force Jet",
+   "type": "arts_culture",
+   "city": "Rock Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rock Springs Library",
+   "type": "library",
+   "city": "Rock Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Mountain Library",
+   "type": "library",
+   "city": "Clearview Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bitter Creek Brewery",
+   "type": "brewery_distillery",
+   "city": "Rock Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Square State Brewing",
+   "type": "brewery_distillery",
+   "city": "Rock Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash Yer Wollies",
+   "type": "laundromat",
+   "city": "Sheridan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sheridan Eco-n-o Wash",
+   "type": "laundromat",
+   "city": "Sheridan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin-op Laundry",
+   "type": "laundromat",
+   "city": "Sheridan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Luminous Brewhouse",
+   "type": "brewery_distillery",
+   "city": "Sheridan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sheridan County Museum",
+   "type": "museum",
+   "city": "Sheridan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trail End State Historic Site",
+   "type": "museum",
+   "city": "Sheridan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Tooth Brewery",
+   "type": "brewery_distillery",
+   "city": "Sheridan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WYO Theater",
+   "type": "arts_culture",
+   "city": "Sheridan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sheridan County Library",
+   "type": "library",
+   "city": "Sheridan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evanston Flying Club Airfield",
+   "type": "historic_site",
+   "city": "Evanston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Uinta County Museum",
+   "type": "museum",
+   "city": "Evanston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center for the Arts",
+   "type": "arts_culture",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thai Me Up",
+   "type": "brewery_distillery",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Missing Sock",
+   "type": "laundromat",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pearl Street Market and Delicatessen",
+   "type": "farmers_market",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mangelsen Images of Nature Gallery",
+   "type": "arts_culture",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wilcox Gallery",
+   "type": "arts_culture",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jackson Hole Veteran Monument",
+   "type": "historic_site",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jackson Hole Playhouse",
+   "type": "arts_culture",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lassiter Fine Art",
+   "type": "arts_culture",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bait Shop Business Center",
+   "type": "coworking",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Teton County Library",
+   "type": "library",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Museum of Wildlife Art of the United States",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Knoll Fire Memorial",
+   "type": "historic_site",
+   "city": "Wilson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fremont County Public Library Riverton Branch",
+   "type": "library",
+   "city": "Riverton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wind River Heritage Center",
+   "type": "museum",
+   "city": "Riverton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverton Museum",
+   "type": "museum",
+   "city": "Riverton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam Memorial",
+   "type": "historic_site",
+   "city": "Cody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo Bill – The Scout",
+   "type": "arts_culture",
+   "city": "Cody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Horner Site",
+   "type": "historic_site",
+   "city": "Cody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cody Firearms Museum",
+   "type": "museum",
+   "city": "Cody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whitney Western Art Museum",
+   "type": "museum",
+   "city": "Cody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Draper Natural History Museum",
+   "type": "science_center",
+   "city": "Cody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo Bill Museum",
+   "type": "museum",
+   "city": "Cody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plains Indian Museum",
+   "type": "museum",
+   "city": "Cody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bear",
+   "type": "arts_culture",
+   "city": "Cody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Park County Public Library",
+   "type": "library",
+   "city": "Cody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo Bill Center of the West",
+   "type": "museum",
+   "city": "Cody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Open Range Images",
+   "type": "arts_culture",
+   "city": "Cody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wild West Spectacular",
+   "type": "arts_culture",
+   "city": "Cody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo Bill Boyhood Home",
+   "type": "museum",
+   "city": "Cody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cody Heritage Museum",
+   "type": "museum",
+   "city": "Cody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cody Dug Up Gun Museum",
+   "type": "museum",
+   "city": "Cody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cody Arts",
+   "type": "arts_culture",
+   "city": "Cody",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Powell Colorado River Expedition",
+   "type": "historic_site",
+   "city": "Green River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sweetwater Brewery",
+   "type": "brewery_distillery",
+   "city": "Green River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sweetwater County Historical Museum",
+   "type": "museum",
+   "city": "Green River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jim Gatchell Memorial Museum",
+   "type": "museum",
+   "city": "Buffalo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Potters' Depot",
+   "type": "arts_culture",
+   "city": "Buffalo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alta Library",
+   "type": "library",
+   "city": "Alta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Menors Ferry Historic District",
+   "type": "historic_downtown",
+   "city": "Moose",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moose",
+   "type": "arts_culture",
+   "city": "Moose",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fremont County Public Library",
+   "type": "library",
+   "city": "Lander",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lander Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Lander",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Lander Pioneer Museum",
+   "type": "museum",
+   "city": "Lander",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ten Sleep Pioneer Museum",
+   "type": "museum",
+   "city": "Ten Sleep",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waskakie County Library",
+   "type": "library",
+   "city": "Ten Sleep",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tensleep Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Ten Sleep",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Encampment Public Library",
+   "type": "library",
+   "city": "Encampment",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Encampment Museum;Grand Encampment Museum Doc Culleton Building",
+   "type": "museum",
+   "city": "Encampment",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

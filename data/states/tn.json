@@ -1,0 +1,8018 @@
+{
+ "state": "TN",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "PARKSVILLE LAKE RV CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Benton, TN",
+   "town_mi": 5.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "David Crockett State Park Campground No. 2",
+   "type": "rv_park",
+   "town": "Lawrenceburg, TN",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "David Crockett State Park Campground No. 1",
+   "type": "rv_park",
+   "town": "Lawrenceburg, TN",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Forge Creek #12",
+   "type": "paid_camp",
+   "town": "Fontana Dam, NC",
+   "town_mi": 7.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Flint Gap #14",
+   "type": "paid_camp",
+   "town": "Fontana Dam, NC",
+   "town_mi": 10.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ledbetter Ridge #10",
+   "type": "paid_camp",
+   "town": "Townsend, TN",
+   "town_mi": 6.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Marks Cove #28",
+   "type": "paid_camp",
+   "town": "Townsend, TN",
+   "town_mi": 9.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Creek #23",
+   "type": "paid_camp",
+   "town": "Gatlinburg, TN",
+   "town_mi": 9.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ANTHONY CREEK HORSE CAMP",
+   "type": "paid_camp",
+   "town": "Townsend, TN",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rough Creek #24",
+   "type": "paid_camp",
+   "town": "Gatlinburg, TN",
+   "town_mi": 7.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Turkeypen Ridge #6",
+   "type": "paid_camp",
+   "town": "Townsend, TN",
+   "town_mi": 3.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Jakes Gap #27",
+   "type": "paid_camp",
+   "town": "Townsend, TN",
+   "town_mi": 9.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Prong #18",
+   "type": "paid_camp",
+   "town": "Townsend, TN",
+   "town_mi": 4.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "King Branch #20",
+   "type": "paid_camp",
+   "town": "Gatlinburg, TN",
+   "town_mi": 8.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Porters Flat #31",
+   "type": "paid_camp",
+   "town": "Pittman Center, TN",
+   "town_mi": 6.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Otter Creek #29",
+   "type": "paid_camp",
+   "town": "Cosby, TN",
+   "town_mi": 4.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sugar Cove #34",
+   "type": "paid_camp",
+   "town": "Cosby, TN",
+   "town_mi": 3.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gilliland Creek #35",
+   "type": "paid_camp",
+   "town": "Cosby, TN",
+   "town_mi": 4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rabbit Creek #15",
+   "type": "paid_camp",
+   "town": "Townsend, TN",
+   "town_mi": 10.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Bottoms #17",
+   "type": "paid_camp",
+   "town": "Townsend, TN",
+   "town_mi": 9.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rich Mountain #5",
+   "type": "paid_camp",
+   "town": "Townsend, TN",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cane Creek #2",
+   "type": "paid_camp",
+   "town": "Walland, TN",
+   "town_mi": 7.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hesse Creek #3",
+   "type": "paid_camp",
+   "town": "Walland, TN",
+   "town_mi": 5.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ELKMONT GROUP CAMP",
+   "type": "paid_camp",
+   "town": "Gatlinburg, TN",
+   "town_mi": 6.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Anthony Creek #9",
+   "type": "paid_camp",
+   "town": "Townsend, TN",
+   "town_mi": 6.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Scott Gap #16",
+   "type": "paid_camp",
+   "town": "Townsend, TN",
+   "town_mi": 10.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dripping Spring Mountain #26",
+   "type": "paid_camp",
+   "town": "Gatlinburg, TN",
+   "town_mi": 9.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cooper Road #1",
+   "type": "paid_camp",
+   "town": "Maryville, TN",
+   "town_mi": 9.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Beard Cane #11",
+   "type": "paid_camp",
+   "town": "Townsend, TN",
+   "town_mi": 7.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sheep Pen Gap #13",
+   "type": "paid_camp",
+   "town": "Fontana Dam, NC",
+   "town_mi": 6.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Henderson #19",
+   "type": "paid_camp",
+   "town": "Townsend, TN",
+   "town_mi": 6.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mile 53 #21",
+   "type": "paid_camp",
+   "town": "Gatlinburg, TN",
+   "town_mi": 6.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Three Forks #30",
+   "type": "paid_camp",
+   "town": "Gatlinburg, TN",
+   "town_mi": 9.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Engine Creek #32",
+   "type": "paid_camp",
+   "town": "Pittman Center, TN",
+   "town_mi": 4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Settlers Camp #33",
+   "type": "paid_camp",
+   "town": "Pittman Center, TN",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "THUNDER ROCK CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Ducktown, TN",
+   "town_mi": 6.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Isengard",
+   "type": "paid_camp",
+   "town": "Waverly, TN",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CHILHOWEE GROUP CAMP",
+   "type": "paid_camp",
+   "town": "Benton, TN",
+   "town_mi": 2.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Old Forge Campground",
+   "type": "paid_camp",
+   "town": "Tusculum, TN",
+   "town_mi": 6.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Horse Creek Campground",
+   "type": "paid_camp",
+   "town": "Tusculum, TN",
+   "town_mi": 6.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dinky Line",
+   "type": "unknown",
+   "town": "Beersheba Springs, TN",
+   "town_mi": 5.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Saw Mill Campground",
+   "type": "unknown",
+   "town": "Beersheba Springs, TN",
+   "town_mi": 3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jake Best Campground",
+   "type": "paid_camp",
+   "town": "Kahite, TN",
+   "town_mi": 11.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BACKBONE ROCK CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Damascus, VA",
+   "town_mi": 3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Holiday",
+   "type": "rv_park",
+   "town": "Pigeon Forge, TN",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Paint Creek Campground",
+   "type": "paid_camp",
+   "town": "Hot Springs, NC",
+   "town_mi": 5.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spruce Creek Stables & Campground",
+   "type": "paid_camp",
+   "town": "Allardt, TN",
+   "town_mi": 9.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Saddle Valley Campground",
+   "type": "paid_camp",
+   "town": "Allardt, TN",
+   "town_mi": 9.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Baileyton RV Park",
+   "type": "rv_park",
+   "town": "Baileyton, TN",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sam Good Park",
+   "type": "rv_park",
+   "town": "Baileyton, TN",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Timber Ridge Horse Campground",
+   "type": "paid_camp",
+   "town": "Allardt, TN",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "East Fork Stables",
+   "type": "paid_camp",
+   "town": "Allardt, TN",
+   "town_mi": 5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Houston Valley Campground",
+   "type": "paid_camp",
+   "town": "Hot Springs, NC",
+   "town_mi": 8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jacobs Creek Campground",
+   "type": "paid_camp",
+   "town": "Bristol, VA",
+   "town_mi": 9.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Oak Campground",
+   "type": "paid_camp",
+   "town": "Bristol, VA",
+   "town_mi": 8.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Holly Flats Campground",
+   "type": "paid_camp",
+   "town": "Coker Creek, TN",
+   "town_mi": 6.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Round Mountain Campground",
+   "type": "paid_camp",
+   "town": "Hot Springs, NC",
+   "town_mi": 7.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Indian Boundary Campground",
+   "type": "paid_camp",
+   "town": "Tellico Plains, TN",
+   "town_mi": 11,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Oak Cove Campground",
+   "type": "paid_camp",
+   "town": "Marble, NC",
+   "town_mi": 10.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Birch Branch Campground",
+   "type": "paid_camp",
+   "town": "Coker Creek, TN",
+   "town_mi": 10.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dam Creek Walk-In Campground and Picnic Area",
+   "type": "paid_camp",
+   "town": "Coker Creek, TN",
+   "town_mi": 9.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Davis Branch Campground",
+   "type": "paid_camp",
+   "town": "Coker Creek, TN",
+   "town_mi": 10.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rough Ridge Campground",
+   "type": "paid_camp",
+   "town": "Marble, NC",
+   "town_mi": 10.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "State Line Campground",
+   "type": "paid_camp",
+   "town": "Marble, NC",
+   "town_mi": 10.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Holder Cove Campground",
+   "type": "paid_camp",
+   "town": "Marble, NC",
+   "town_mi": 11.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spivey Cove Campground",
+   "type": "paid_camp",
+   "town": "Coker Creek, TN",
+   "town_mi": 10.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rock Creek Recreation Area (Cherokee National Forest, TN)",
+   "type": "paid_camp",
+   "town": "Erwin, TN",
+   "town_mi": 3.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DENNIS COVE CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Hampton, TN",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Backcountry Campsite 1",
+   "type": "paid_camp",
+   "town": "Rural Hill, TN",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Hill Pond State Park Campground",
+   "type": "paid_camp",
+   "town": "Pocahontas, TN",
+   "town_mi": 4.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "AAA RV Park",
+   "type": "rv_park",
+   "town": "Union City, TN",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pickwick Landing Campground",
+   "type": "paid_camp",
+   "town": "Counce, TN",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chickasaw State Park - Tent",
+   "type": "paid_camp",
+   "town": "Silerton, TN",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Caver's Paradise",
+   "type": "paid_camp",
+   "town": "Sherwood, TN",
+   "town_mi": 6.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SEVEN POINTS (TN)",
+   "type": "paid_camp",
+   "town": "Rural Hill, TN",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nashville North RV Resort",
+   "type": "paid_camp",
+   "town": "Millersville, TN",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gee Creek Campground",
+   "type": "unknown",
+   "town": "Delano, TN",
+   "town_mi": 1.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Journey",
+   "type": "rv_park",
+   "town": "Lobelville, TN",
+   "town_mi": 8.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lost Creek Campsite",
+   "type": "paid_camp",
+   "town": "Lynchburg Moore County, TN",
+   "town_mi": 7.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Waters Edge",
+   "type": "rv_park",
+   "town": "Spring City, TN",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hawk Nest Cabin Rentals",
+   "type": "paid_camp",
+   "town": "Briceville, TN",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "The Hamptons RV Park",
+   "type": "rv_park",
+   "town": "Hampton, TN",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Low Meadow Farms",
+   "type": "paid_camp",
+   "town": "Seymour, TN",
+   "town_mi": 4.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mountaintop RV Resort",
+   "type": "rv_park",
+   "town": "Rockwood, TN",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Anchors Away RV Park",
+   "type": "rv_park",
+   "town": "Spring City, TN",
+   "town_mi": 6.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Virgin Falls Campsite",
+   "type": "free_camp",
+   "town": "Bon Air, TN",
+   "town_mi": 7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stevenson Branch Campsites",
+   "type": "paid_camp",
+   "town": "Mowbray Mountain, TN",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Chickamauga Campsite",
+   "type": "paid_camp",
+   "town": "Mowbray Mountain, TN",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cooper Creek Campsite",
+   "type": "paid_camp",
+   "town": "Mowbray Mountain, TN",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cable Crossing Campsite",
+   "type": "paid_camp",
+   "town": "Mowbray Mountain, TN",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Young Branch Campground",
+   "type": "paid_camp",
+   "town": "Kahite, TN",
+   "town_mi": 8.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riley Creek Campground",
+   "type": "paid_camp",
+   "town": "Kingston, TN",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blue Acres RV Park",
+   "type": "rv_park",
+   "town": "Stanton, TN",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fooshee Pass Campground",
+   "type": "paid_camp",
+   "town": "Spring City, TN",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pandora's Resort",
+   "type": "rv_park",
+   "town": "Mayland, TN",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BANDY CREEK",
+   "type": "paid_camp",
+   "town": "Helenwood, TN",
+   "town_mi": 8.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Clear Creek Campground",
+   "type": "paid_camp",
+   "town": "Wartburg, TN",
+   "town_mi": 8.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dark Hollow East Backcounty Campsite",
+   "type": "paid_camp",
+   "town": "Maynardville, TN",
+   "town_mi": 6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dark Hollow West Backcounty Campsite",
+   "type": "paid_camp",
+   "town": "Andersonville, TN",
+   "town_mi": 7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sharps Station Backcounty Campsite",
+   "type": "paid_camp",
+   "town": "Maynardville, TN",
+   "town_mi": 6.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Backcountry Site 1",
+   "type": "paid_camp",
+   "town": "Norris, TN",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Backcountry Site 3",
+   "type": "paid_camp",
+   "town": "Rocky Top, TN",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North River Campsite #1",
+   "type": "unknown",
+   "town": "Tellico Plains, TN",
+   "town_mi": 9.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Honeysuckle campground",
+   "type": "paid_camp",
+   "town": "Cosby, TN",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Davenport Gap Shelter",
+   "type": "paid_camp",
+   "town": "Cosby, TN",
+   "town_mi": 7.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Derrick Knob Shelter",
+   "type": "paid_camp",
+   "town": "Townsend, TN",
+   "town_mi": 9.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Double Spring Gap Shelter",
+   "type": "paid_camp",
+   "town": "Bryson City, NC",
+   "town_mi": 11,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mollies Ridge Shelter",
+   "type": "paid_camp",
+   "town": "Fontana Dam, NC",
+   "town_mi": 8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mount Collins Shelter",
+   "type": "paid_camp",
+   "town": "Gatlinburg, TN",
+   "town_mi": 9.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mount LeConte Shelter",
+   "type": "paid_camp",
+   "town": "Gatlinburg, TN",
+   "town_mi": 5.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Russell Field Shelter",
+   "type": "paid_camp",
+   "town": "Townsend, TN",
+   "town_mi": 7.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Silers Bald Shelter",
+   "type": "paid_camp",
+   "town": "Bryson City, NC",
+   "town_mi": 11.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lazy Acres RV Park",
+   "type": "rv_park",
+   "town": "Lenoir City, TN",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "River Plantation RV Resort",
+   "type": "rv_park",
+   "town": "Sevierville, TN",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Journey",
+   "type": "rv_park",
+   "town": "Newport, TN",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Meadow Park Lake Campground",
+   "type": "paid_camp",
+   "town": "Lake Tansi, TN",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pickett State Park Campground",
+   "type": "paid_camp",
+   "town": "Jamestown, TN",
+   "town_mi": 11.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fall Creek Falls State Park Campground",
+   "type": "paid_camp",
+   "town": "Spencer, TN",
+   "town_mi": 8.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mama J’s Cabin & Powder Horn Campground",
+   "type": "rv_park",
+   "town": "Lawrenceburg, TN",
+   "town_mi": 6.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Panther Creek State Park Campground",
+   "type": "paid_camp",
+   "town": "Morristown, TN",
+   "town_mi": 5.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "T. O. Fuller State Park Campground",
+   "type": "paid_camp",
+   "town": "Lakeview, MS",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Paris Landing State Park Campground",
+   "type": "paid_camp",
+   "town": "Buchanan, TN",
+   "town_mi": 6.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ebenerez Acres",
+   "type": "paid_camp",
+   "town": "Algood, TN",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Manchester KOA",
+   "type": "rv_park",
+   "town": "Manchester, TN",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "FLOATING MILL PARK",
+   "type": "paid_camp",
+   "town": "Smithville, TN",
+   "town_mi": 6.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fall Creek Campground",
+   "type": "rv_park",
+   "town": "Russellville, TN",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cherokee Dam Campground",
+   "type": "rv_park",
+   "town": "Jefferson City, TN",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Destiny Parks and Pavillions",
+   "type": "rv_park",
+   "town": "Fort Campbell North, KY",
+   "town_mi": 5.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Granville Recreation Area / Indian Creek Campground",
+   "type": "unknown",
+   "town": "Carthage, TN",
+   "town_mi": 8.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Paris Landing / Kentucky Lake KOA",
+   "type": "paid_camp",
+   "town": "Buchanan, TN",
+   "town_mi": 4.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Safe Harbor RV Resort",
+   "type": "rv_park",
+   "town": "Rural Hill, TN",
+   "town_mi": 6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yarberry Camp Ground",
+   "type": "rv_park",
+   "town": "Lenoir City, TN",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pin Oak RV Campground",
+   "type": "rv_park",
+   "town": "Chesterfield, TN",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lakeview RV Park",
+   "type": "rv_park",
+   "town": "Bluff City, TN",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Smokemont Area",
+   "type": "rv_park",
+   "town": "Lakesite, TN",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ANDERSON ROAD CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Rural Hill, TN",
+   "town_mi": 5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Webb's Lakefront Campground",
+   "type": "rv_park",
+   "town": "Bean Station, TN",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cornette Campground",
+   "type": "rv_park",
+   "town": "Morristown, TN",
+   "town_mi": 4.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Turtle Rock RV Park",
+   "type": "rv_park",
+   "town": "Bean Station, TN",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Greenlee Campground",
+   "type": "rv_park",
+   "town": "Rutledge, TN",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Maysprings Campground",
+   "type": "rv_park",
+   "town": "Rutledge, TN",
+   "town_mi": 5.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Anchor Down RV Resort",
+   "type": "rv_park",
+   "town": "Dandridge, TN",
+   "town_mi": 6.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rocky Springs Campground",
+   "type": "rv_park",
+   "town": "Bean Station, TN",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagles Nest Campground",
+   "type": "rv_park",
+   "town": "Bean Station, TN",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "The Point RV Park",
+   "type": "rv_park",
+   "town": "Dandridge, TN",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nashville I-24 Campground",
+   "type": "rv_park",
+   "town": "Smyrna, TN",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Overlook RV Park",
+   "type": "rv_park",
+   "town": "Dandridge, TN",
+   "town_mi": 5.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Over-Niter RV Park",
+   "type": "paid_camp",
+   "town": "Athens, TN",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverside RV Park",
+   "type": "rv_park",
+   "town": "Biltmore, TN",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rock Haven Lodge",
+   "type": "rv_park",
+   "town": "Christiana, TN",
+   "town_mi": 8.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Made in the Shade RV Park",
+   "type": "paid_camp",
+   "town": "Centerville, TN",
+   "town_mi": 12.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buffalo Run Area",
+   "type": "rv_park",
+   "town": "Lakesite, TN",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Windy Hills Area",
+   "type": "rv_park",
+   "town": "Lakesite, TN",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tent Camping Area",
+   "type": "paid_camp",
+   "town": "Lakesite, TN",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tent Camping Area",
+   "type": "paid_camp",
+   "town": "Lakesite, TN",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jellystone Park - Watts Bar Lake",
+   "type": "rv_park",
+   "town": "Loudon, TN",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grand Ole RV Park",
+   "type": "rv_park",
+   "town": "Goodlettsville, TN",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sunset Cove",
+   "type": "rv_park",
+   "town": "Samburg, TN",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hayes Lakefront",
+   "type": "rv_park",
+   "town": "Samburg, TN",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lakeside Cottage",
+   "type": "rv_park",
+   "town": "Samburg, TN",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pickwick Dam - TVA",
+   "type": "paid_camp",
+   "town": "Counce, TN",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Cove Campground",
+   "type": "paid_camp",
+   "town": "Tracy City, TN",
+   "town_mi": 4.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grundy Forest Campground",
+   "type": "paid_camp",
+   "town": "Tracy City, TN",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Timberline Campground",
+   "type": "rv_park",
+   "town": "Lebanon, TN",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Honeysuckle Meadows RV Park",
+   "type": "rv_park",
+   "town": "Townsend, TN",
+   "town_mi": 5.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Evans Campground",
+   "type": "rv_park",
+   "town": "Belvidere, TN",
+   "town_mi": 5.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Love's RV Hookup",
+   "type": "rv_park",
+   "town": "Newport, TN",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MCNABB CREEK GROUP",
+   "type": "paid_camp",
+   "town": "Tellico Plains, TN",
+   "town_mi": 9.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BLUE HERON CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Stearns, KY",
+   "town_mi": 2.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CAGES BEND",
+   "type": "paid_camp",
+   "town": "Hendersonville, TN",
+   "town_mi": 4.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DOVER",
+   "type": "paid_camp",
+   "town": "Dover, TN",
+   "town_mi": 0.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DYERS CREEK",
+   "type": "paid_camp",
+   "town": "Dover, TN",
+   "town_mi": 1.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LOCK A",
+   "type": "paid_camp",
+   "town": "Pleasant View, TN",
+   "town_mi": 9.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LONE BRANCH",
+   "type": "paid_camp",
+   "town": "Green Hill, TN",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Long Branch (Center Hill Lake)",
+   "type": "paid_camp",
+   "town": "Hickman, TN",
+   "town_mi": 6.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "NAT CALDWELL PARK",
+   "type": "paid_camp",
+   "town": "Gallatin, TN",
+   "town_mi": 3.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "OLD HICKORY BEACH",
+   "type": "paid_camp",
+   "town": "Hendersonville, TN",
+   "town_mi": 3.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "POOLE KNOBS",
+   "type": "paid_camp",
+   "town": "La Vergne, TN",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RAGLAND BOTTOM",
+   "type": "paid_camp",
+   "town": "Smithville, TN",
+   "town_mi": 5.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ROARING RIVER PARK",
+   "type": "paid_camp",
+   "town": "Gainesboro, TN",
+   "town_mi": 1.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SALT LICK CREEK",
+   "type": "paid_camp",
+   "town": "Carthage, TN",
+   "town_mi": 8.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SHUTES BRANCH",
+   "type": "paid_camp",
+   "town": "Green Hill, TN",
+   "town_mi": 0.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TAILWATER REC AREA",
+   "type": "paid_camp",
+   "town": "Carthage, TN",
+   "town_mi": 1.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WARTRACE CK REC AREA",
+   "type": "paid_camp",
+   "town": "Gainesboro, TN",
+   "town_mi": 7.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SMITH SPRINGS",
+   "type": "paid_camp",
+   "town": "Rural Hill, TN",
+   "town_mi": 4.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "JEFFERSON SPRINGS",
+   "type": "paid_camp",
+   "town": "Smyrna, TN",
+   "town_mi": 3.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "APPALACHIAN CLUBHOUSE",
+   "type": "paid_camp",
+   "town": "Gatlinburg, TN",
+   "town_mi": 7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HURRICANE BRIDGE",
+   "type": "paid_camp",
+   "town": "Smithville, TN",
+   "town_mi": 6.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DONLEY CABIN",
+   "type": "paid_camp",
+   "town": "Coker Creek, TN",
+   "town_mi": 11.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SPENCE CABIN",
+   "type": "paid_camp",
+   "town": "Gatlinburg, TN",
+   "town_mi": 6.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ROCKLAND RECREATION AREA",
+   "type": "paid_camp",
+   "town": "Hendersonville, TN",
+   "town_mi": 2.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DALE HOLLOW LAKE - PRIMITIVE CAMPING",
+   "type": "paid_camp",
+   "town": "Celina, TN",
+   "town_mi": 1.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "QUINN SPRINGS PAVILION",
+   "type": "paid_camp",
+   "town": "Delano, TN",
+   "town_mi": 2.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bear Creek Campground - KY",
+   "type": "paid_camp",
+   "town": "Stearns, KY",
+   "town_mi": 4.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HARPETH RIVER BRIDGE CAMPGROUND (TN)",
+   "type": "paid_camp",
+   "town": "Ashland City, TN",
+   "town_mi": 6.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rock Creek Campground (TN)",
+   "type": "paid_camp",
+   "town": "Wartburg, TN",
+   "town_mi": 4.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Right Bank Recreation Area",
+   "type": "paid_camp",
+   "town": "Pleasant View, TN",
+   "town_mi": 9.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BIG CREEK CAMPGROUND (GREAT SMOKY MOUNTAINS NATIONAL PARK)",
+   "type": "paid_camp",
+   "town": "Cosby, TN",
+   "town_mi": 8.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Joy, Inc.",
+   "type": "paid_camp",
+   "town": "Lynchburg Moore County, TN",
+   "town_mi": 5.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Knoxville Campground",
+   "type": "rv_park",
+   "town": "Norris, TN",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lakeview Campground",
+   "type": "rv_park",
+   "town": "Maynardville, TN",
+   "town_mi": 6.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LeConte Lodge",
+   "type": "unknown",
+   "town": "Gatlinburg, TN",
+   "town_mi": 5.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DEFEATED CREEK PARK",
+   "type": "paid_camp",
+   "town": "Carthage, TN",
+   "town_mi": 3.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Raccoon Valley RV Park",
+   "type": "rv_park",
+   "town": "Powell, TN",
+   "town_mi": 4.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cedar Grove Campground",
+   "type": "rv_park",
+   "town": "New Tazewell, TN",
+   "town_mi": 8.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "The Ridge Outdoor Resort",
+   "type": "rv_park",
+   "town": "Pigeon Forge, TN",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nashville RV Resort and Cabins",
+   "type": "rv_park",
+   "town": "Nashville-Davidson, TN",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pigeon Forge KOA",
+   "type": "rv_park",
+   "town": "Pigeon Forge, TN",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gatlinburg East KOA Holiday",
+   "type": "rv_park",
+   "town": "Cosby, TN",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Athens I-75 RV Campground",
+   "type": "rv_park",
+   "town": "Athens, TN",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Four Corners RV Resort",
+   "type": "rv_park",
+   "town": "La Vergne, TN",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CADES COVE GROUP",
+   "type": "paid_camp",
+   "town": "Townsend, TN",
+   "town_mi": 5.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "COSBY GROUP CAMP",
+   "type": "paid_camp",
+   "town": "Cosby, TN",
+   "town_mi": 3.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Mountain RV Park",
+   "type": "rv_park",
+   "town": "Pigeon Forge, TN",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Margaritaville RV Resort and Lodge - Pigeon Forge",
+   "type": "rv_park",
+   "town": "Pigeon Forge, TN",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rivers Edge Campground",
+   "type": "rv_park",
+   "town": "Pigeon Forge, TN",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Riverslanding",
+   "type": "rv_park",
+   "town": "Pigeon Forge, TN",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cove Mountain RV Resort",
+   "type": "rv_park",
+   "town": "Pigeon Forge, TN",
+   "town_mi": 6.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Graceland RV Park and Campground",
+   "type": "rv_park",
+   "town": "Memphis, TN",
+   "town_mi": 5.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Skull Island Recreation Area",
+   "type": "paid_camp",
+   "town": "Lakesite, TN",
+   "town_mi": 4.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tana-See Campground",
+   "type": "rv_park",
+   "town": "Newport, TN",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Notchy Creek Campground",
+   "type": "paid_camp",
+   "town": "Kahite, TN",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spring City RV Park and Storage",
+   "type": "rv_park",
+   "town": "Spring City, TN",
+   "town_mi": 4.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eden Campground",
+   "type": "rv_park",
+   "town": "Spring City, TN",
+   "town_mi": 8.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Campground on the Lakeshore",
+   "type": "rv_park",
+   "town": "Spring City, TN",
+   "town_mi": 8.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mountain Cove Campground",
+   "type": "paid_camp",
+   "town": "Sevierville, TN",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Douglas Headwater Campground",
+   "type": "rv_park",
+   "town": "Sevierville, TN",
+   "town_mi": 5.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ABRAM'S CREEK CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Maryville, TN",
+   "town_mi": 9.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Express RV Park",
+   "type": "rv_park",
+   "town": "Loudon, TN",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pleasure Lake",
+   "type": "rv_park",
+   "town": "Bon Air, TN",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Colonial RV Park",
+   "type": "rv_park",
+   "town": "Soddy-Daisy, TN",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SALT LICK CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Gainesboro, TN",
+   "town_mi": 8.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Journey",
+   "type": "rv_park",
+   "town": "Huntsville, TN",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fox Fire Riverside Campground",
+   "type": "rv_park",
+   "town": "Cosby, TN",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "River View",
+   "type": "rv_park",
+   "town": "Embreeville, TN",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Cherokee National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Chickasaw National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cross Creeks National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hatchie National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Isom National Wildlife Refuge",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lower Hatchie National Wildlife Refuge",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Reelfoot National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tennessee National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Center Hill Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cheatham Lock and Dam",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cordell Hull Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dale Hollow Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "J Percy Priest Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Old Hickory Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hiking the Highland Rim Section of the Natchez Trace National Scenic Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Stones River NB Junior Ranger Program",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore How it all Began - the Early Home",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Oak Ridge: Enjoy the Community Swimming Pool",
+   "type": "swimming",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Oak Ridge: Explore Haw Ridge Park",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Los Alamos: Hike Kwage Mesa",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Oak Ridge: Visit the K-25 History Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Oak Ridge: Explore the Children's Museum of Oak Ridge",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Oak Ridge: Visit the New Hope Center at Y-12",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Exploring the Meriwether Lewis Death and Burial Site",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pay Homage - The Andrew Johnson National Cemetery",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Get oriented at the Visitor Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walk in the Last Footsteps of Meriwether Lewis",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "John Sevier Monument",
+   "type": "historic_site",
+   "city": "Boyds Creek",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chasing Rainbows Museum",
+   "type": "museum",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Patriot Park Patriot Missile",
+   "type": "historic_site",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Patriot Park Liberty Bell",
+   "type": "historic_site",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cooter's Place",
+   "type": "museum",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parton Back Porch Theatre",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valley Theater",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wings of America Theater",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dolly Parton",
+   "type": "arts_culture",
+   "city": "Sevierville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Statue",
+   "type": "arts_culture",
+   "city": "Sevierville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fish",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Summit Amphitheater",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Junction 35 Spirits Disillery",
+   "type": "brewery_distillery",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tienda la Olanchanita Market",
+   "type": "farmers_market",
+   "city": "Sevierville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Apple Barn Dessert Wine Shoppe",
+   "type": "brewery_distillery",
+   "city": "Sevierville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buttonwillow Civil War Theater",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theater of the Stars",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Country Tonite Theatre",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Musicks Mountain Theater",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pigeon Forge Public Library",
+   "type": "library",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pirates Voyage Dinner & Show",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dolly Parton's Stampede",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alcatraz East Crime Museum",
+   "type": "museum",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stages West",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Comedy Barn Theater",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Forge Distillery",
+   "type": "brewery_distillery",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Celebrity Theater",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Showstreet Palace Theater",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The McMahan Indian Mound",
+   "type": "historic_site",
+   "city": "Sevierville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Floyd Garett's Muscle Car Museum",
+   "type": "museum",
+   "city": "Sevierville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Museum of Aviation",
+   "type": "museum",
+   "city": "Sevierville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Apple Barn Winery",
+   "type": "brewery_distillery",
+   "city": "Sevierville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dreamsong Theater",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Back Porch Theater",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "King Family Library",
+   "type": "library",
+   "city": "Sevierville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sevier County Heritage Museum",
+   "type": "museum",
+   "city": "Sevierville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert A. Tino Gallery",
+   "type": "arts_culture",
+   "city": "Sevierville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shine Girl",
+   "type": "brewery_distillery",
+   "city": "Sevierville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Shine Co",
+   "type": "brewery_distillery",
+   "city": "Sevierville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wings Of Wander Mural",
+   "type": "museum",
+   "city": "Sevierville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tree Art Chainsaw Carving",
+   "type": "museum",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Biblical Times Dinner Theater",
+   "type": "arts_culture",
+   "city": "Pigeon Forge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Performing Arts Center (TPAC)",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Adventure Science Center",
+   "type": "science_center",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Croft House",
+   "type": "museum",
+   "city": "Oak Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Sports Hall of Fame",
+   "type": "museum",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charlie Daniels Museum",
+   "type": "museum",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee State Museum - Military Branch",
+   "type": "museum",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nicholson's Cleaners",
+   "type": "laundromat",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Belle Meade Plantation",
+   "type": "museum",
+   "city": "Belle Meade",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cheekwood Mansion",
+   "type": "museum",
+   "city": "Belle Meade",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harding Place Coin Laundry",
+   "type": "laundromat",
+   "city": "Oak Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunshine Laundromat",
+   "type": "laundromat",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Central Railway Museum",
+   "type": "museum",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Natchez Hills Winery at Fontanel",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Jones Museum",
+   "type": "museum",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Andrew Jackson",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James K. Polk Theater",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Musicians Hall of Fame",
+   "type": "museum",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Robertson and John Donelson",
+   "type": "historic_site",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sam Davis",
+   "type": "historic_site",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Amphitheater",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statehood Memorial (McNairy Spring)",
+   "type": "historic_site",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ghost Ballet for the East Bank Machineworks",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Museum of African American Music",
+   "type": "museum",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Heights Brewery",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Brew Works",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jackalope Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Collins Alumni Auditorium",
+   "type": "arts_culture",
+   "city": "Oak Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Refinery",
+   "type": "coworking",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nashville Repertory Theatre",
+   "type": "arts_culture",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "seedspace",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "#educationisnotacrime",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "mild climate",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "COOP",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Channel to Channel",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Poverty & the Arts",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sauvage Gallery",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ESPS",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BW Gallery",
+   "type": "arts_culture",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Proper Sake Co.",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ground Floor Gallery",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Outstanding Nashvillian Monument",
+   "type": "historic_site",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jacques Timothe Boucher De Montbrun",
+   "type": "historic_site",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alvin York",
+   "type": "historic_site",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nashville Desegregation Plaque",
+   "type": "historic_site",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Officers Memorial",
+   "type": "historic_site",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Musica",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Agricultural Museum",
+   "type": "museum",
+   "city": "Oak Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ed Jones Auditorium",
+   "type": "arts_culture",
+   "city": "Oak Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Life Can Be Sweet",
+   "type": "arts_culture",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richland Park Farmer's Market",
+   "type": "farmers_market",
+   "city": "Belle Meade",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Courtesy Coin Laundry",
+   "type": "laundromat",
+   "city": "Oak Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WhatLiftsYou",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zeitgeist",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kidd Epps Art Shop",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jesus Statue",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dragon",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Texas Troubadour Theatre",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nashville Theatre",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WELD Nashville",
+   "type": "coworking",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Workshop",
+   "type": "coworking",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plateone",
+   "type": "coworking",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bending Normal",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louise & Rebecca Dudley Park",
+   "type": "historic_site",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Catfish",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MLK Jubilee",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Nashville Ballet",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Nashville Opera at the Noah Liff Opera Center",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "RONE",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bitcoin Magazine Art Gallery",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Gallery",
+   "type": "arts_culture",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wedgewood Houston Makers + Growers Market",
+   "type": "farmers_market",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eleven Willow",
+   "type": "coworking",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nelson's Green Brier Distillery",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "O Gallery",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Jungle and Juanita Historical Marker",
+   "type": "historic_site",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wedgehill Market -Mixtape: Memories",
+   "type": "arts_culture",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Minnesota Monument",
+   "type": "historic_site",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U.S.C.T Monument",
+   "type": "historic_site",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monday Night Preservation Co.",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bitcoin Park",
+   "type": "coworking",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crazy Gnome Brewery",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southern Grist - The Nations",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "e|spaces - The Nations",
+   "type": "coworking",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tailgate Brewery",
+   "type": "brewery_distillery",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kenect Nashville",
+   "type": "coworking",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Murphy Road Laundry",
+   "type": "laundromat",
+   "city": "Belle Meade",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bearded Iris - Sylvan Supply",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dozen Bakery",
+   "type": "brewery_distillery",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Timothy Demonbreun",
+   "type": "historic_site",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TailGate Brewery - Germantown",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Christian and Gospel Music",
+   "type": "museum",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Speed Queen Laundry",
+   "type": "laundromat",
+   "city": "Belle Meade",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Threshold",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Edgehill Polar Bear Statues",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Incline",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beaman Library",
+   "type": "library",
+   "city": "Oak Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee State Library and Archives",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frist Art Museum",
+   "type": "museum",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ryman Auditorium",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Country Music Hall of Fame and Museum",
+   "type": "museum",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nashville Farmer's Market",
+   "type": "farmers_market",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thompson Lane Branch Nashville Public Library",
+   "type": "library",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nashville Municipal Auditorium",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martha River Ingram Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Neely Auditorium",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Ole Opry House",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lane Motor Museum",
+   "type": "museum",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TPFW",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cooter's",
+   "type": "museum",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nashville Children's Theatre",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Langford Auditorium",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City Winery",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "RCA Studio B",
+   "type": "museum",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stix",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vanderbilt University Special Collections and Archives",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Johnny Cash Museum & Cafe",
+   "type": "museum",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dark Horse Theater",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eskind Biomedical Library",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corsair Distillery",
+   "type": "brewery_distillery",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Julia Martin Gallery",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "David Lusk Gallery",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Packing Plant",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nashville Craft Distilery",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Abbey",
+   "type": "brewery_distillery",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Diskin Cidery",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Nashville Beer Works",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II Memorial",
+   "type": "historic_site",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centennial Memorial",
+   "type": "historic_site",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edgehill Branch Nashville and Davidson Public Library",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martha M Brown-Lois H Daniel Library",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jean & Alexander Heard Library",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peabody Library",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centennial Arts Center",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jackalope Brewery",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Branch | Nashville Public Library",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ascend Amphitheater",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Witness Walls Memorial",
+   "type": "historic_site",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Branch Nashville Public Library",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pruitt Branch | Nashville Public Library",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Robertson - Founder Of Nashville",
+   "type": "historic_site",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Platetone Printmaking, Paper and Book Arts",
+   "type": "coworking",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elephant Gallery",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watkins Park Community Branch Nashville and Davidson Public Library",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waggoner Library",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Contemporary Art Nashville (MOCAN)",
+   "type": "museum",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Looby Branch Nashville Public Library",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richland Park Branch Nashville Public Library",
+   "type": "library",
+   "city": "Belle Meade",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee State Museum",
+   "type": "museum",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TennFold Brewing",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Machine Distillery & Tavern",
+   "type": "brewery_distillery",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ole Smoky Moonshine",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nashville Public Library | Inglewood Branch",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Upper Room",
+   "type": "museum",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blackstone Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shamblin Theatre",
+   "type": "arts_culture",
+   "city": "Oak Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flatt Amphitheater",
+   "type": "arts_culture",
+   "city": "Oak Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Hope and Aurelia Elizabeth Franklin Library",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fat Bottom Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bordeaux Branch | Nashville Public Library",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Drkmttr Collective",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bearded Iris Brewing",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Musician's Corner",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Once Upon a Time in France",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Harpeth Brewery",
+   "type": "brewery_distillery",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Basement East",
+   "type": "arts_culture",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hadley Park Branch Nashville and Davidson Public Library",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Hills Branch Nashville and Davidson Public Library",
+   "type": "library",
+   "city": "Oak Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Madison Branch Library",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Donelson Branch Library",
+   "type": "library",
+   "city": "Nashville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zmphitheater",
+   "type": "arts_culture",
+   "city": "Oak Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New",
+   "type": "brewery_distillery",
+   "city": "Berry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lakeway Performing Arts Center",
+   "type": "arts_culture",
+   "city": "White Pine",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1907 Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Morristown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morristown-Hamblen Public Library",
+   "type": "library",
+   "city": "Morristown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherokee Park Amphitheatre",
+   "type": "arts_culture",
+   "city": "Morristown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morristown Farmer's Market",
+   "type": "farmers_market",
+   "city": "Morristown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hamblen County Veterans Memorial",
+   "type": "historic_site",
+   "city": "Morristown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Pine Public Library",
+   "type": "library",
+   "city": "White Pine",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnny Cash Museum",
+   "type": "museum",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clark House Museum and Trailhead",
+   "type": "museum",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oak Grove Market",
+   "type": "farmers_market",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sumner County Museum",
+   "type": "museum",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wynnewood State Historical Site",
+   "type": "museum",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallatin Public Library",
+   "type": "library",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stahlman Showerhouse 2",
+   "type": "shower",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stahlman Showerhouse 3",
+   "type": "shower",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capp Museum",
+   "type": "museum",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stahlman Showerhouse 1",
+   "type": "shower",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cubworld Showerhouse 1",
+   "type": "shower",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cubworld Showerhouse 2",
+   "type": "shower",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parnell Showerhouse 3",
+   "type": "shower",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parnell Showerhouse 2",
+   "type": "shower",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parnell Showerhouse 1",
+   "type": "shower",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Craig Showerhouse 2",
+   "type": "shower",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Craig Showerhouse 1",
+   "type": "shower",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Craig Showerhouse 3",
+   "type": "shower",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Welch Library",
+   "type": "library",
+   "city": "Gallatin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tucker Springs Historical Marker",
+   "type": "historic_site",
+   "city": "Maryville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pistol Creek Dam and Mill Race",
+   "type": "historic_site",
+   "city": "Maryville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wildwood Laundromat",
+   "type": "laundromat",
+   "city": "Alcoa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blood Stripe Brewing",
+   "type": "brewery_distillery",
+   "city": "Maryville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peaceful Side Brewery",
+   "type": "brewery_distillery",
+   "city": "Maryville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blount County Public Library",
+   "type": "library",
+   "city": "Maryville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Market",
+   "type": "farmers_market",
+   "city": "Maryville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clayton Center for the Arts",
+   "type": "arts_culture",
+   "city": "Maryville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heritage Planetarium",
+   "type": "planetarium",
+   "city": "Maryville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capitol Theater",
+   "type": "arts_culture",
+   "city": "Maryville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palace Theater",
+   "type": "arts_culture",
+   "city": "Maryville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blackhorse Pub and Brewery",
+   "type": "brewery_distillery",
+   "city": "Alcoa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cades Cove Preservation Association & Cades Cove Museum",
+   "type": "museum",
+   "city": "Maryville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coning Family Farm Market",
+   "type": "farmers_market",
+   "city": "Maryville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Graceland Mansion",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elvis Automobile Museum",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "W. C. Handy",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elvis Presley Memorial",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheatre",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Cotton Museum at the Memphis Cotton Exchange",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stax Museum",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Belz Museum of Asian and Judaic Art",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rufus Thomas",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "W. C. Handy Home and Museum",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Eel on Beale (Withers Museum)",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yellow Fever Memorial",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iraq War Memorial",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Doughboy World War I Statue",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II Memorial",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memphis Belle Memorial",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean War Memorial At Veteran's Plaza",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean War Memorial",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Margaret Polk Statue",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memory Grove",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam War Memorial",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veteran's Plaza Memorial",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "50th Anniversary Tree",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Levitt Shell (Raoul Wallenberg Shell)",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ted Rust",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lilian May Elizabeth Nelson Byrd Memorial (DAR)",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sophie G. Freidman Memorial",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ashburn-Coppock Park",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memphis Martyrs",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James A. Hyter, Ol Man River",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tom Lee (1885-1952)",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tom Lee Memorial",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Assumption",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John James Audubon",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memphis Trail of Tears Historical Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memphis Boat Supply Historical Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Schools For Freedmen Historical Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lansky Brothers Clothier to the King Historical Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beale Street Center for Southern Folklore Sign",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beale Street Center for Southern Folklore 9",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hooks Brothers Photography Historical Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ida B. Wells Historical Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rufus Thomas Jr. Historical Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nat D. Williams Historical Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pee Wee Saloon",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert R Church Historical Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sojourner Truth Memorial Time Capsule",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert R. Church Jr.",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Church Park Auditorium Historical Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sara Roberta Church Historical Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Church Park Historical Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Solvent Savings Bank Historical Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mary Church Terrell",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phi Beta Sigma Historical Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beale Street Baptist Church",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memphis Queen II Historical Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Sultana Disaster Historic Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cobblestone Landing Historic Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mud Island Historic Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "B. B. King",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memphis Welcome Center EGG",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U.s Supreme Court rules on Overton Park and I-40",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Amvets Memorial",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Site of First Memphis Telephone Historical Marker",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Modern Movie Making in Memphis",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam Memorial Tree Trail",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spanish War Memorial",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bosco's",
+   "type": "brewery_distillery",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whirl",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Jude Biomedical Library",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1968 Memphis Sanitation Workers Strike Monument",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spinners",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mercury Valet",
+   "type": "laundromat",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elvis Presley",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crosstown Arts",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Upstander",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "I Have Been to the Mountaintop",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Halloran Centre Theater",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memphis Music Hall of Fame",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Kids",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ramesses the Great Statue",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Danny Thomas and Child",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memphis Suffrage Monument",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Third Church of Christ, Scientist",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Jude Thaddeus",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forrest and the Memphis Slave Trade",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flex Offices at Crane Co Building of Memphis",
+   "type": "coworking",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Presley Family at Lauderdale Courts",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memphis Filling Station Brewing",
+   "type": "brewery_distillery",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grind City Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flyway Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grind City Amphitheater",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ducks Unlimited Waterfowling Heritage Center",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First Tavern",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "C.H. Nash Museum",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Civil Rights Museum",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Orpheum",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fire Museum of Memphis",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Playhouse on the Square",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mud Island Amphitheater",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memphis Farmers Market",
+   "type": "farmers_market",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Cannon Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ned R McWherter Library",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theatre Building",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benjamin L. Hooks Central Library",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cossitt-Goodwyn Public Library",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Daisy Theatre",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mallory-Neely House",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Science and History, Pink Palace",
+   "type": "science_center",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brooks Museum of Art",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plough Library",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memphis Children's Museum",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wiseacre Brewery",
+   "type": "brewery_distillery",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Branch Memphis Public Library",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boscos on the Square",
+   "type": "brewery_distillery",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Plaza at Overton Park",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Circuit Playhouse",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theatre Works",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burrow Library",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Metal Museum",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J.T. Willingham Memorial Fountain",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Halloran Centre for Performing Arts & Education",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memphis Rock 'N Soul Museum",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodruff-Fontaine House",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ghost River Brewery",
+   "type": "brewery_distillery",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crosstown Theater",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crosstown Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hattiloo Theatre",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evergreen Theater",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Levi Branch Public Library",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TigerMan Karate Dojo and Museum",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scheidt Family Music Center",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Randolph Branch Memphis Public Library",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherokee Branch Memphis Public Library",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memphis Public Libraries Orange Mound Branch",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hollie Price Library",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cornelia Crenshaw Branch Memphis Public Library",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blues Hall of Fame",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joysmith Gallery",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Dominick's Distillery",
+   "type": "brewery_distillery",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Magevney House",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soul & Spirits Brewery",
+   "type": "brewery_distillery",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roxie's Grocery",
+   "type": "farmers_market",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Slave Haven Underground Railroad Museum",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Note Bourbon",
+   "type": "brewery_distillery",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgian Hills Coin Laundry",
+   "type": "laundromat",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frayser Branch Memphis Public Library",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Linen King",
+   "type": "laundromat",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wiseacre Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baptist Health Topic Library",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sun Studio",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hollywood Branch Memphis Public Library",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gaston Park Branch Public Library",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Branch Memphis Public Library",
+   "type": "library",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "L.B. McFarland Memorial Campanile",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jenny M. Higbee Memorial",
+   "type": "historic_site",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Overton Park Shell",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mempis Hometown Heros 2",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edge Motor Museum",
+   "type": "museum",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert Church Park Memorial",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "I AM A MAN",
+   "type": "arts_culture",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memphis International Fleamarket",
+   "type": "farmers_market",
+   "city": "Memphis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Muse Knoxville",
+   "type": "museum",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash Me Coin Laundry",
+   "type": "laundromat",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ramsey House Visitor Center",
+   "type": "museum",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Winstead Mansion",
+   "type": "museum",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alliance Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Family Bubble Laundromat",
+   "type": "laundromat",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saw Works Brewery",
+   "type": "brewery_distillery",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Torchbearer Statue",
+   "type": "arts_culture",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pendergrass Library",
+   "type": "library",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yee-Haw Brewing",
+   "type": "brewery_distillery",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abridged Beer Company",
+   "type": "brewery_distillery",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crafty Bastard Brewery",
+   "type": "brewery_distillery",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Printshop Beer Co.",
+   "type": "brewery_distillery",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Last Days of Autumn",
+   "type": "brewery_distillery",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Knoxville Historic Train",
+   "type": "historic_site",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Market Square",
+   "type": "historic_downtown",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pour Taproom",
+   "type": "brewery_distillery",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University of Tennessee Knoxville art Gallery",
+   "type": "arts_culture",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old City Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southern Rail Station",
+   "type": "farmers_market",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Southern Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Monument",
+   "type": "historic_site",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pat Summitt Statue",
+   "type": "arts_culture",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crafty Bakser Creek",
+   "type": "brewery_distillery",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tienda La Pequeñita Mexican Store",
+   "type": "farmers_market",
+   "city": "Powell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freedom Health CBD",
+   "type": "farmers_market",
+   "city": "Powell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alex Haley Statue",
+   "type": "arts_culture",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Million Dollar Fire",
+   "type": "historic_site",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wash House",
+   "type": "laundromat",
+   "city": "Powell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Herbert Student Services",
+   "type": "coworking",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Christian-Newsom Memorial",
+   "type": "historic_site",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Broadway Studios and Gallery",
+   "type": "arts_culture",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University of Tennessee Agriculture Farm Mound",
+   "type": "historic_site",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Super Wash House - Rocky Hill",
+   "type": "laundromat",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John C. Hodges Library",
+   "type": "library",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hoskins Library",
+   "type": "library",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McClung Museum",
+   "type": "museum",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clarence Brown Theatre",
+   "type": "arts_culture",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Shrimp Dock - Bearden",
+   "type": "farmers_market",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lawson McGhee Library",
+   "type": "library",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Tennessee History Center",
+   "type": "museum",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bijou Theatre",
+   "type": "arts_culture",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Theatre",
+   "type": "arts_culture",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blount Mansion",
+   "type": "museum",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beck Cultural Exchange Center",
+   "type": "museum",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norwood Branch Library",
+   "type": "library",
+   "city": "Powell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Mary's Hospital",
+   "type": "historic_site",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Women's Basketball Hall of Fame",
+   "type": "museum",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Knoxville Museum of Art",
+   "type": "museum",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Knoxville Branch Library",
+   "type": "library",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Knox County Library - Bearden",
+   "type": "library",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Josie Fine Memorial",
+   "type": "historic_site",
+   "city": "Powell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Amphitheatre",
+   "type": "arts_culture",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Tennessee Veterans Memorial",
+   "type": "historic_site",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central Filling Station",
+   "type": "farmers_market",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Schulz Brau Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mabry-Hazen House",
+   "type": "museum",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Knox County Library - Powell",
+   "type": "library",
+   "city": "Powell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Howard Pinkston Public Library",
+   "type": "library",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lilienthal Gallery",
+   "type": "arts_culture",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sequoyah Branch Library",
+   "type": "library",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burlington Branch Library",
+   "type": "library",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miller's Building Arch",
+   "type": "historic_site",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mcclung, E.Tn History Center & Knox Archives",
+   "type": "library",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Terra",
+   "type": "historic_site",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "79th New York Infantry Momument",
+   "type": "historic_site",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Murphy Branch Library",
+   "type": "library",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Knoxville Branch Library",
+   "type": "library",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fountain City Branch Public Library",
+   "type": "library",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Xul Beer Company",
+   "type": "brewery_distillery",
+   "city": "Knoxville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pillar of Cloud and Fire",
+   "type": "historic_site",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam Memorial",
+   "type": "historic_site",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "APSU CECA Downtown Gallery",
+   "type": "arts_culture",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clarksville-Montgomery County Public Library | North Branch",
+   "type": "library",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Super Suds Laundromat",
+   "type": "laundromat",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Man",
+   "type": "arts_culture",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First Baptist Church Music Library",
+   "type": "library",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Window to the World",
+   "type": "arts_culture",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Strawberry Alley Ale Works",
+   "type": "brewery_distillery",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Austin Peay State University",
+   "type": "historic_site",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Great American Laundromat",
+   "type": "laundromat",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blackhorse Pub & Brewery",
+   "type": "brewery_distillery",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trazo Meadery",
+   "type": "brewery_distillery",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roxy Regional Theatre",
+   "type": "arts_culture",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Customs House Museum",
+   "type": "museum",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Felix G. Woodward Library",
+   "type": "library",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trahern Building",
+   "type": "arts_culture",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tradewinds North Laundromat",
+   "type": "laundromat",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Country Junction",
+   "type": "farmers_market",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lisa's Flea Market",
+   "type": "farmers_market",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Queen City Flea Market",
+   "type": "farmers_market",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Dutchman's Laundry",
+   "type": "laundromat",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "As The River Flows",
+   "type": "museum",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cash and Carry Barn",
+   "type": "farmers_market",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beachaven Vineyards & Winery",
+   "type": "brewery_distillery",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kings Bluff Brewery",
+   "type": "brewery_distillery",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Glory Distilling Company",
+   "type": "brewery_distillery",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Star Spangled Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evill Nash Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sevier Station Park",
+   "type": "museum",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clarksville Montgomery County Public Library",
+   "type": "library",
+   "city": "Clarksville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tivoli Theatre",
+   "type": "arts_culture",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Siskin Museum of Religious Artifacts",
+   "type": "museum",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Rhino",
+   "type": "arts_culture",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "In Town Gallery",
+   "type": "arts_culture",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AVA Art Gallery",
+   "type": "arts_culture",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Gallery",
+   "type": "arts_culture",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Street Market",
+   "type": "farmers_market",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hamilton Memorial Gardens",
+   "type": "historic_site",
+   "city": "Red Bank",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New York Peace Monument",
+   "type": "historic_site",
+   "city": "Lookout Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "laundry mat",
+   "type": "laundromat",
+   "city": "Red Bank",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chattanooga Whiskey",
+   "type": "brewery_distillery",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iowa Monument",
+   "type": "historic_site",
+   "city": "Lookout Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ohio Monument",
+   "type": "historic_site",
+   "city": "Lookout Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DeBarge Urban Winery and Tasting Room",
+   "type": "brewery_distillery",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Revelry Room",
+   "type": "live_music",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battle of Wauhatchie Site (New York Monument)",
+   "type": "historic_site",
+   "city": "Lookout Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New York State Monument at Lookout Ridge",
+   "type": "historic_site",
+   "city": "Lookout Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hutton and Smith Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brainerd Coin Laundry",
+   "type": "laundromat",
+   "city": "East Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Andrew's Raiders Monument",
+   "type": "historic_site",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Resurgence I",
+   "type": "arts_culture",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nutrition Sculpture",
+   "type": "arts_culture",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Industrial Heritage",
+   "type": "historic_site",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Urban Renewal",
+   "type": "historic_site",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ruth Holmberg Memorial",
+   "type": "arts_culture",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "2nd Minnesota Regiment Monument",
+   "type": "historic_site",
+   "city": "Ridgeside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fabric Care Coin Laundry",
+   "type": "laundromat",
+   "city": "East Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Star Memorial Marker",
+   "type": "historic_site",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "4th Army Corps Monument",
+   "type": "historic_site",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camp Ross Historical Site & Plackard",
+   "type": "historic_site",
+   "city": "Lookout Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southern Railway Historical Assoc",
+   "type": "museum",
+   "city": "Ridgeside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisville & Nashville Historical Society",
+   "type": "museum",
+   "city": "Ridgeside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherry Street Brewing",
+   "type": "brewery_distillery",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kolwych Library",
+   "type": "library",
+   "city": "Red Bank",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Five Witts Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Laundry",
+   "type": "laundromat",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ayelet's Style",
+   "type": "arts_culture",
+   "city": "East Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chi Farmers Market",
+   "type": "farmers_market",
+   "city": "Red Bank",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ben's Garden",
+   "type": "historic_site",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Illinois State Monument",
+   "type": "historic_site",
+   "city": "East Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trail Of Tears",
+   "type": "historic_site",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moonrise",
+   "type": "arts_culture",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Denise Heinly Art Center",
+   "type": "arts_culture",
+   "city": "Red Bank",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coolidge National Medal of Honor Heritage Center",
+   "type": "museum",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shakespeare",
+   "type": "arts_culture",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grose's Brigade and Regimental monuments at Lookout Mountain",
+   "type": "historic_site",
+   "city": "Lookout Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodland Tiger",
+   "type": "arts_culture",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Summertime",
+   "type": "arts_culture",
+   "city": "Ridgeside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moonshine Still",
+   "type": "historic_site",
+   "city": "Signal Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Highway 58 Coin Laundry",
+   "type": "laundromat",
+   "city": "Ridgeside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chickamauga Mound",
+   "type": "historic_site",
+   "city": "Red Bank",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Courage",
+   "type": "arts_culture",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Summertime (Art in Neighborhoods bus stop wrap)",
+   "type": "arts_culture",
+   "city": "Ridgeside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Theatre",
+   "type": "arts_culture",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Houston Museum of Decorative Arts",
+   "type": "museum",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Creative Discovery Museum",
+   "type": "science_center",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chattanooga Public Library",
+   "type": "library",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bessie Smith Cultural Center and Chattanooga African American Museum",
+   "type": "museum",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "O'Dells Deli",
+   "type": "farmers_market",
+   "city": "Lookout Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Chattanooga Branch Library",
+   "type": "library",
+   "city": "Lookout Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eastgate Branch Library",
+   "type": "library",
+   "city": "East Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Signal Mountain Playhouse",
+   "type": "arts_culture",
+   "city": "Signal Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ochs Memorial Museum",
+   "type": "museum",
+   "city": "Lookout Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northgate Branch Library",
+   "type": "library",
+   "city": "Red Bank",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fabric Care Coin Laundry",
+   "type": "laundromat",
+   "city": "Red Bank",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Ridge City Library & City Hall",
+   "type": "library",
+   "city": "East Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Valley Railroad Museum - Grand Junction",
+   "type": "museum",
+   "city": "Ridgeside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fabric Care Coin Laundry",
+   "type": "laundromat",
+   "city": "Red Bank",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UTC Library",
+   "type": "library",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battles of Chattanooga Museum",
+   "type": "museum",
+   "city": "Lookout Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Signal Mountain Library",
+   "type": "library",
+   "city": "Signal Mountain",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UTC Student Amphitheater",
+   "type": "arts_culture",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Valley Railroad Museum",
+   "type": "museum",
+   "city": "Ridgeside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Valley Railroad Museum",
+   "type": "museum",
+   "city": "Ridgeside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Frog Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Red Bank",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "International Towing and Recovery Hall of Fame and Museum",
+   "type": "museum",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Avondale Library",
+   "type": "library",
+   "city": "Ridgeside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boyd-Buchanan School Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Ridgeside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ed Johnson Memorial",
+   "type": "historic_site",
+   "city": "Chattanooga",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "General Bragg Headquarters",
+   "type": "historic_site",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hazen's Brigade Monument",
+   "type": "historic_site",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artillery Monument",
+   "type": "historic_site",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rosecrans Headquarters",
+   "type": "historic_site",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Horseshoe",
+   "type": "arts_culture",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Geographical Center of Tennessee",
+   "type": "historic_site",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas Kinkade Art Gallery",
+   "type": "arts_culture",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hop Springs Beer Park",
+   "type": "brewery_distillery",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Board and Brush",
+   "type": "arts_culture",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Michigan Historic Marker",
+   "type": "historic_site",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Toll Site",
+   "type": "historic_site",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Church Street Gallery",
+   "type": "arts_culture",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Murfreesboro Art League",
+   "type": "arts_culture",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mr Brews Taphouse",
+   "type": "brewery_distillery",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Myrtle Glanton Lord Learning Center/Library",
+   "type": "library",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TailGate Brewery Murfreesboro",
+   "type": "brewery_distillery",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historical Research Center",
+   "type": "library",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Discovery Center",
+   "type": "science_center",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mayday",
+   "type": "brewery_distillery",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Airplane on a Stick",
+   "type": "historic_site",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Technology Engagement Center (TEC)",
+   "type": "library",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bradley Academy Museum and Cultural Center",
+   "type": "museum",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MTSU Veteran's Memorial",
+   "type": "historic_site",
+   "city": "Murfreesboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carnton Plantation",
+   "type": "museum",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Town Bridge",
+   "type": "historic_site",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Brigadier Generals Monuments",
+   "type": "historic_site",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battle of Franklin State Monuments",
+   "type": "historic_site",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battle of Franklin Monuments",
+   "type": "historic_site",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battle of Franklin - Winstead Hill",
+   "type": "historic_site",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cannon",
+   "type": "historic_site",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio Tenn Theatre Company",
+   "type": "arts_culture",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Franklin County Public Library",
+   "type": "library",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confederate Monument",
+   "type": "historic_site",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pull-Tight Players Theatre",
+   "type": "arts_culture",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brentwood Library",
+   "type": "library",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glass Indian Mound",
+   "type": "historic_site",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glass Indian Mound",
+   "type": "historic_site",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McLemore House",
+   "type": "museum",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Williamson County Archives and Museum",
+   "type": "museum",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carter House",
+   "type": "museum",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wines in the Fork",
+   "type": "brewery_distillery",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mockingbird Theater & Bar",
+   "type": "arts_culture",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lotz House Museum",
+   "type": "museum",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leiper's Fork Public Library",
+   "type": "library",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carillion",
+   "type": "historic_site",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "International Storytelling Center",
+   "type": "arts_culture",
+   "city": "Jonesborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yee-Haw Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnson City - Washington County, TN Veterans' Memorial",
+   "type": "historic_site",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Animals Brewery",
+   "type": "brewery_distillery",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Suds and Duds",
+   "type": "laundromat",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spark Plaza",
+   "type": "coworking",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Junaluska",
+   "type": "arts_culture",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Laundry",
+   "type": "laundromat",
+   "city": "Central",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jonesborough Repertory Theatre",
+   "type": "arts_culture",
+   "city": "Jonesborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Transylvania Purchase",
+   "type": "historic_site",
+   "city": "Central",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watauga Fort",
+   "type": "historic_site",
+   "city": "Central",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watauga Purchase",
+   "type": "historic_site",
+   "city": "Central",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sycamore Shoals of the Watauga",
+   "type": "historic_site",
+   "city": "Central",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Tipton Family",
+   "type": "historic_site",
+   "city": "Central",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sycamore Shoals State Historic Area Interpretive Exhibit",
+   "type": "museum",
+   "city": "Central",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fischman Gallery",
+   "type": "arts_culture",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sycamore Shoals of the Watauga",
+   "type": "historic_site",
+   "city": "Central",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Massengill Monument",
+   "type": "historic_site",
+   "city": "Piney Flats",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Overmountain Victory National Historic Trail",
+   "type": "historic_site",
+   "city": "Central",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eden Workspaces",
+   "type": "coworking",
+   "city": "Central",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "On Main",
+   "type": "coworking",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sherrod Library",
+   "type": "library",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Hills Brewstillery",
+   "type": "brewery_distillery",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quillen College of Medicine Library",
+   "type": "library",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Hills Distillery",
+   "type": "brewery_distillery",
+   "city": "Jonesborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bonnie Kate",
+   "type": "arts_culture",
+   "city": "Central",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washington County Library",
+   "type": "library",
+   "city": "Jonesborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Welshimer Library",
+   "type": "library",
+   "city": "Pine Crest",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elizabethton Veterans War Memorial",
+   "type": "historic_site",
+   "city": "Central",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veteran's Walk of Honor",
+   "type": "historic_site",
+   "city": "Central",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jonesborough History Museum",
+   "type": "museum",
+   "city": "Jonesborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goulding Amphitheater",
+   "type": "arts_culture",
+   "city": "Piney Flats",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnson City Public Library",
+   "type": "library",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Davis Apartments Laundry",
+   "type": "laundromat",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rocky Mount State Historic Site",
+   "type": "museum",
+   "city": "Piney Flats",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wallace Theatre",
+   "type": "arts_culture",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chuckey Railroad Depot Museum",
+   "type": "museum",
+   "city": "Jonesborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tipton Gallery",
+   "type": "arts_culture",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chester Inn State Historic Site and Museum",
+   "type": "museum",
+   "city": "Jonesborough",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnson City Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Oak Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ETSU Amphitheatre",
+   "type": "arts_culture",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elizabethton-Carter County Public Library",
+   "type": "library",
+   "city": "Central",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Station",
+   "type": "laundromat",
+   "city": "Central",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Warrior's Canvas & Veterans Art Center",
+   "type": "arts_culture",
+   "city": "Johnson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Main Street Historic District",
+   "type": "historic_downtown",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northwood Avenue Historic District",
+   "type": "historic_downtown",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art in the Village",
+   "type": "arts_culture",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ayers Hall",
+   "type": "arts_culture",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dodson Science Auditorium",
+   "type": "arts_culture",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rock A Billy Hall of Fame",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jackson Madison County Library - Main Public Library",
+   "type": "library",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bemis Mill Village Museum",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hub City Brewing",
+   "type": "brewery_distillery",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rusty's TV & Movie Car Museum",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Casey Jones Museum",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jackson Farmer's Market",
+   "type": "farmers_market",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jackson-Madison County Library North",
+   "type": "library",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Casey Jones Home",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NC&StL Railroad Museum",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Slave Cemetery",
+   "type": "historic_site",
+   "city": "Smyrna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Washboard Coin Laundry",
+   "type": "laundromat",
+   "city": "Smyrna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rual Hill Farm",
+   "type": "farmers_market",
+   "city": "La Vergne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sewart Air Force Base",
+   "type": "historic_site",
+   "city": "Smyrna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "La Vergne Public Library",
+   "type": "library",
+   "city": "La Vergne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Helicopter Distature Statue",
+   "type": "arts_culture",
+   "city": "La Vergne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial Wall",
+   "type": "historic_site",
+   "city": "La Vergne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smyrna Public Library",
+   "type": "library",
+   "city": "Smyrna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capt. Jeff Kuss USMC \"Blue Angel\" Memorial",
+   "type": "historic_site",
+   "city": "Smyrna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sam Davis Home Visitor Center and Museum",
+   "type": "museum",
+   "city": "Smyrna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tailgate Brewery",
+   "type": "brewery_distillery",
+   "city": "La Vergne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battle of Kingsport",
+   "type": "historic_site",
+   "city": "Kingsport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eagle Scout Dedication",
+   "type": "historic_site",
+   "city": "Colonial Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Suzanne Barrett Justis Fine Art",
+   "type": "arts_culture",
+   "city": "Kingsport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gypsy Circus Cider Company",
+   "type": "brewery_distillery",
+   "city": "Colonial Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kingsport Public Library",
+   "type": "library",
+   "city": "Kingsport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kingsport Farmer's Market",
+   "type": "farmers_market",
+   "city": "Kingsport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Car Museum",
+   "type": "museum",
+   "city": "Kingsport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Launderette",
+   "type": "laundromat",
+   "city": "Kingsport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Model City Taphouse",
+   "type": "brewery_distillery",
+   "city": "Kingsport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mount Carmel Library",
+   "type": "library",
+   "city": "Kingsport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bays Mountain Observatory",
+   "type": "planetarium",
+   "city": "Kingsport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Renaissance Arts Center",
+   "type": "arts_culture",
+   "city": "Kingsport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colonial Heights Branch Library",
+   "type": "library",
+   "city": "Colonial Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sullivan Gardens Branch Library",
+   "type": "library",
+   "city": "Colonial Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bloomingdale Branch Library",
+   "type": "library",
+   "city": "Bloomingdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Super Suds Coin Laundry",
+   "type": "laundromat",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sugarlands Stone Cabin",
+   "type": "historic_site",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hollywood Star Cars Museum",
+   "type": "museum",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heartwood Galleries",
+   "type": "arts_culture",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Well Wishing Laundromat",
+   "type": "laundromat",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bear",
+   "type": "arts_culture",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "10th Mountain Division Ski Troops Memorial",
+   "type": "historic_site",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smoky Mountain Brewery",
+   "type": "brewery_distillery",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Homemade Wines",
+   "type": "brewery_distillery",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gatlinburg Winery",
+   "type": "brewery_distillery",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Shine Co.",
+   "type": "brewery_distillery",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gatlinburg Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ripley's Believe It Or Not!",
+   "type": "museum",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ole Smoky: \"The Barrelhouse\" (Whiskey)",
+   "type": "brewery_distillery",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Speedwerkz Exotic Car Experience",
+   "type": "museum",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Salt and Pepper Shaker Museum;The Salt & Pepper Shaker Museum",
+   "type": "museum",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Mountain Wine Company",
+   "type": "brewery_distillery",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sugarland Distilling Company",
+   "type": "brewery_distillery",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elkmont Winery",
+   "type": "brewery_distillery",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morning Mist Village",
+   "type": "farmers_market",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arts and Crafts Village",
+   "type": "farmers_market",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crafters Place",
+   "type": "farmers_market",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Glades Center",
+   "type": "farmers_market",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anna Porter Public Library",
+   "type": "library",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arrowmont School of Arts and Crafts",
+   "type": "arts_culture",
+   "city": "Gatlinburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "G Webb Gallery",
+   "type": "arts_culture",
+   "city": "Pittman Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paul Murray Gallery",
+   "type": "arts_culture",
+   "city": "Pittman Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Papworth Photographic",
+   "type": "arts_culture",
+   "city": "Pittman Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ole Smokey Brewery",
+   "type": "brewery_distillery",
+   "city": "Pittman Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dolly Parton childhood home",
+   "type": "historic_site",
+   "city": "Pittman Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountain Arts Complex",
+   "type": "farmers_market",
+   "city": "Pittman Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vern Hippensteal Gallery",
+   "type": "arts_culture",
+   "city": "Pittman Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tellico Plains Veterans Memorial",
+   "type": "historic_site",
+   "city": "Tellico Plains",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tellico Plains Public Library",
+   "type": "library",
+   "city": "Tellico Plains",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles Hall Museum",
+   "type": "museum",
+   "city": "Tellico Plains",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dollar General bear statue",
+   "type": "arts_culture",
+   "city": "Goodlettsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "3LS WorkSpaces",
+   "type": "coworking",
+   "city": "Goodlettsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Splish Splash Coin Laundry",
+   "type": "laundromat",
+   "city": "Goodlettsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goodlettsville Branch Library",
+   "type": "library",
+   "city": "Goodlettsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mansker's Station Frontier Life Center",
+   "type": "museum",
+   "city": "Goodlettsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Millersville Public Library Of Sumner County",
+   "type": "library",
+   "city": "Millersville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Scott County",
+   "type": "museum",
+   "city": "Helenwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Senator Howard H. Baker Library",
+   "type": "library",
+   "city": "Helenwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spring City Depot Museum & Railfan Spot",
+   "type": "museum",
+   "city": "Spring City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spring City Bus/Train Accident Memorial",
+   "type": "historic_site",
+   "city": "Spring City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Valley Theatre",
+   "type": "arts_culture",
+   "city": "Spring City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sam",
+   "type": "arts_culture",
+   "city": "Spring City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Laundry",
+   "type": "laundromat",
+   "city": "Spring City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Audrey Pack Memorial Library",
+   "type": "library",
+   "city": "Spring City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confederate War Memorial",
+   "type": "historic_site",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cannon Monument",
+   "type": "historic_site",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stewart County Public Library",
+   "type": "library",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sequoyah Birthplace Museum",
+   "type": "museum",
+   "city": "Vonore",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vonore Public Library",
+   "type": "library",
+   "city": "Vonore",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edmondson Pike Branch Nashville and Davidson Public Library",
+   "type": "library",
+   "city": "Brentwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Salubrious Farms Stand",
+   "type": "farmers_market",
+   "city": "Farragut",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crafty Bastard Brewery West",
+   "type": "brewery_distillery",
+   "city": "Farragut",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farragut High School Auditorium",
+   "type": "arts_culture",
+   "city": "Farragut",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smoky Mountain Brewery",
+   "type": "brewery_distillery",
+   "city": "Farragut",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farragut Branch Library",
+   "type": "library",
+   "city": "Farragut",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Atlantic Street Historic District",
+   "type": "historic_downtown",
+   "city": "Tullahoma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tullahoma Art Center",
+   "type": "arts_culture",
+   "city": "Tullahoma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tullahoma History Museum",
+   "type": "museum",
+   "city": "Tullahoma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hands-On Science Center",
+   "type": "science_center",
+   "city": "Tullahoma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beechcraft Heritage Museum",
+   "type": "museum",
+   "city": "Tullahoma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Jackson Civic Center",
+   "type": "arts_culture",
+   "city": "Tullahoma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coffee County Lannom Memorial Public Library",
+   "type": "library",
+   "city": "Tullahoma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Calfkiller Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Sparta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White County Public Library",
+   "type": "library",
+   "city": "Sparta",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beersheba Springs Public Library",
+   "type": "library",
+   "city": "Beersheba Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Manchester Arts Center",
+   "type": "arts_culture",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Park Office / Visitor Center / Museum / Gift Shop",
+   "type": "museum",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coffee County-Manchester Public Library",
+   "type": "library",
+   "city": "Manchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Village of Brothers",
+   "type": "historic_site",
+   "city": "Rocky Top",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Itinerant Miners' Cemetery",
+   "type": "historic_site",
+   "city": "Rocky Top",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fraterville Disaster",
+   "type": "historic_site",
+   "city": "Rocky Top",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fire on Coal Creek",
+   "type": "historic_site",
+   "city": "Rocky Top",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Chestnuts",
+   "type": "historic_site",
+   "city": "Rocky Top",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Breastworks",
+   "type": "historic_site",
+   "city": "Rocky Top",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Militia Hill",
+   "type": "historic_site",
+   "city": "Rocky Top",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Convict Lease System",
+   "type": "historic_site",
+   "city": "Rocky Top",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coal Creek War",
+   "type": "historic_site",
+   "city": "Rocky Top",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Why Miners Fought",
+   "type": "historic_site",
+   "city": "Rocky Top",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Anderson",
+   "type": "historic_site",
+   "city": "Rocky Top",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ghosts of Convict Miners",
+   "type": "historic_site",
+   "city": "Rocky Top",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rocky Top Public Library",
+   "type": "library",
+   "city": "Rocky Top",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maytag Coin Laundry",
+   "type": "laundromat",
+   "city": "Rocky Top",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coal Creek Miners Museum",
+   "type": "museum",
+   "city": "Rocky Top",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rocky Top Veterans Memorial",
+   "type": "historic_site",
+   "city": "Rocky Top",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

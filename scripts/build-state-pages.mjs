@@ -427,6 +427,31 @@ ${footer(false)}
 `;
 }
 
+// Agency data (mostly Forest Service) stores some names in block capitals:
+// "(LAKE ALPINE) SILVER TIP CAMPGROUND". Recase ONLY names with no lowercase
+// letter at all, keeping acronyms and "(GA)"-style state tags upper, and move
+// a leading parenthetical to the end so the name starts with the name. Page
+// display only -- the app's data is untouched. Anything already mixed-case is
+// shown exactly as the source wrote it.
+const KEEP_UPPER = new Set(['RV', 'OHV', 'ATV', 'NF', 'NP', 'US', 'BLM', 'USFS', 'CCC', 'KOA', 'YMCA', 'II', 'III', 'IV']);
+const SMALL_WORDS = new Set(['of', 'and', 'the', 'at', 'on', 'in', 'by', 'to', 'a']);
+
+function tidyName(name) {
+  const s = String(name || '').trim();
+  if (!s || /[a-z]/.test(s)) return s;
+  let out = s.split(/(\s+|-|\/|\(|\))/).map((tok, i) => {
+    if (!/[A-Z]/.test(tok)) return tok;
+    if (KEEP_UPPER.has(tok)) return tok;
+    const lower = tok.toLowerCase();
+    if (i > 0 && SMALL_WORDS.has(lower)) return lower;
+    return lower.charAt(0).toUpperCase() + lower.slice(1);
+  }).join('');
+  out = out.replace(/\((\w\w)\)/g, (m, st) => STATES[st.toUpperCase()] ? `(${st.toUpperCase()})` : m);
+  const lead = out.match(/^\(([^)]+)\)\s*(.+)$/);
+  if (lead) out = `${lead[2]} (${lead[1]})`;
+  return out;
+}
+
 // ---------------------------------------------------------------------------
 
 const intros = existsSync(join(ROOT, 'data', 'intros.json'))
@@ -442,6 +467,7 @@ for (const f of files) {
   if (/"(lat|lon|lng|latitude|longitude|id|share_token)"\s*:/.test(text)) {
     throw new Error(`${f} contains a coordinate or id field. Refusing to build.`);
   }
+  for (const r of [...(data.spots || []), ...(data.activities || [])]) r.name = tidyName(r.name);
   loaded[code] = data;
 }
 const built = new Set(Object.keys(loaded));

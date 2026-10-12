@@ -1,0 +1,6154 @@
+{
+ "state": "IA",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Rathbun Marina",
+   "type": "paid_camp",
+   "town": "Rathbun, IA",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Fork Marina",
+   "type": "paid_camp",
+   "town": "Mystic, IA",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Honey Creek State Park",
+   "type": "paid_camp",
+   "town": "Rathbun, IA",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Honey Creek Resort Park",
+   "type": "paid_camp",
+   "town": "Rathbun, IA",
+   "town_mi": 5.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pleasant Creek State Park Campground",
+   "type": "paid_camp",
+   "town": "Shellsburg, IA",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cutty's Okoboji Resort Club",
+   "type": "paid_camp",
+   "town": "Spirit Lake, IA",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pikes Peak State Park",
+   "type": "paid_camp",
+   "town": "McGregor, IA",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crystal Lake State Park Campground",
+   "type": "paid_camp",
+   "town": "Crystal Lake, IA",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Clear Lake State Park Campground",
+   "type": "paid_camp",
+   "town": "Clear Lake, IA",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Skip A Way Resort",
+   "type": "paid_camp",
+   "town": "Clermont, IA",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deer Run Resort",
+   "type": "paid_camp",
+   "town": "Elkader, IA",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bellevue State Park Campground - Dyas Unit",
+   "type": "paid_camp",
+   "town": "Bellevue, IA",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Hawk State Park Campground",
+   "type": "paid_camp",
+   "town": "Lake View, IA",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dolliver Memorial State Park Campground",
+   "type": "paid_camp",
+   "town": "Lehigh, IA",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Geode State Park Campground",
+   "type": "paid_camp",
+   "town": "Lowell, IA",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Green Valley State Park Campground",
+   "type": "paid_camp",
+   "town": "Creston, IA",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gull Point State Park Campground",
+   "type": "paid_camp",
+   "town": "Wahpeton, IA",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Honey Creek State Park Campground",
+   "type": "paid_camp",
+   "town": "Rathbun, IA",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lacey-Keosauqua State Park Campground",
+   "type": "paid_camp",
+   "town": "Keosauqua, IA",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Ahquabi State Park Campground",
+   "type": "paid_camp",
+   "town": "Indianola, IA",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Anita State Park Campground",
+   "type": "paid_camp",
+   "town": "Anita, IA",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Darling State Park Campground",
+   "type": "paid_camp",
+   "town": "Pleasant Plain, IA",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Keomah State Park Campground",
+   "type": "paid_camp",
+   "town": "Keomah Village, IA",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake of Three Fires State Park Campground",
+   "type": "paid_camp",
+   "town": "Bedford, IA",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ledges State Park Campground",
+   "type": "paid_camp",
+   "town": "Luther, IA",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McIntosh Woods State Park Campground",
+   "type": "paid_camp",
+   "town": "Ventura, IA",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nine Eagles State Park Campground",
+   "type": "paid_camp",
+   "town": "Pleasanton, IA",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Prairie Rose State Park West Campground",
+   "type": "paid_camp",
+   "town": "Jacksonville, IA",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Prairie Rose State Park East Campground",
+   "type": "paid_camp",
+   "town": "Jacksonville, IA",
+   "town_mi": 4.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Red Haw State Park Campground",
+   "type": "paid_camp",
+   "town": "Chariton, IA",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Springbrook State Park Campground",
+   "type": "paid_camp",
+   "town": "Lake Panorama, IA",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stone State Park Campground",
+   "type": "paid_camp",
+   "town": "North Sioux City, SD",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Waubonsie State Park Campground",
+   "type": "paid_camp",
+   "town": "Sidney, IA",
+   "town_mi": 4.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wildcat Den State Park Campground",
+   "type": "paid_camp",
+   "town": "Fairport, IA",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Macbride State Park Campground",
+   "type": "paid_camp",
+   "town": "Solon, IA",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Shore RV Resort & Campground",
+   "type": "paid_camp",
+   "town": "Oelwein, IA",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lakeside Marina Campground",
+   "type": "paid_camp",
+   "town": "Lakeside, IA",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Backbone State Park six Pines",
+   "type": "paid_camp",
+   "town": "Dundee, IA",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Independence City RV Park",
+   "type": "paid_camp",
+   "town": "Independence, IA",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wapsipinicon State Park Campground",
+   "type": "paid_camp",
+   "town": "Anamosa, IA",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Massey Marina and Park Campgrounds",
+   "type": "paid_camp",
+   "town": "Menominee, IL",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Highland General Store & Campground",
+   "type": "paid_camp",
+   "town": "Mabel, MN",
+   "town_mi": 7.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pilot Knob State Park Campground",
+   "type": "paid_camp",
+   "town": "Forest City, IA",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Miners Creek Campground and RV Park",
+   "type": "paid_camp",
+   "town": "Guttenberg, IA",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Latitudes RV Resort",
+   "type": "paid_camp",
+   "town": "Bouton, IA",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Walk the Nature Trails",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "DeSoto National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Driftless Area National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Iowa Wetland Management District",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Neal Smith National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Coralville Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mississippi River - Pools 11-22",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Red Rock",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Saylorville Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Union Slough National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rathbun Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Port Louisa National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Be a Junior Ranger at Herbert Hoover National Historic Site",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Get Started at the Visitor Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Take a Self-guided Tour",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic Where the President Picnicked",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tour the Presidential Library & Museum",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Downtown West Branch",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore Herbert Hoover's Hometown With the NPS App",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Golden Spike Monument",
+   "type": "historic_site",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Angel of Death Statue (Black Angel)",
+   "type": "historic_site",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ruth Anne Dodge Memorial",
+   "type": "historic_site",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "RailsWest Railroad Museum",
+   "type": "museum",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Plains Wing Museum",
+   "type": "museum",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Molecule Man Sculpture",
+   "type": "arts_culture",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Homestyle Laundry & Dry Cleaners",
+   "type": "laundromat",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Squirrel Nest",
+   "type": "arts_culture",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Public Safety First Responders Plaza",
+   "type": "historic_site",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Looking Up",
+   "type": "arts_culture",
+   "city": "Carter Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union Pacific Railroad Museum",
+   "type": "museum",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmers Market",
+   "type": "farmers_market",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Front Door",
+   "type": "arts_culture",
+   "city": "Carter Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lone Mountain",
+   "type": "arts_culture",
+   "city": "Carter Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Council Bluffs Police Building Plaque",
+   "type": "historic_site",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Full Fledged Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Hazard",
+   "type": "museum",
+   "city": "Carter Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Max I. Walker Cleaners & Launderers",
+   "type": "laundromat",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lewis and Clark Monument",
+   "type": "historic_site",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kaplin Monument",
+   "type": "historic_site",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weeping Family",
+   "type": "arts_culture",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Rock",
+   "type": "arts_culture",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rock Island Train Depot Sign",
+   "type": "arts_culture",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Golden Spike",
+   "type": "arts_culture",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roberts Park Entrance Sign",
+   "type": "arts_culture",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Public Library",
+   "type": "library",
+   "city": "Council Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Julien Dubuque Monument",
+   "type": "historic_site",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Rivers Hall of Fame",
+   "type": "museum",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heitkamp Planetarium",
+   "type": "planetarium",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zebulon Pike Monument",
+   "type": "historic_site",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eagle Statue",
+   "type": "historic_site",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam Veterans Memorial",
+   "type": "historic_site",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veteran's Memorial Plaza",
+   "type": "historic_site",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Backpocket Dubuque",
+   "type": "brewery_distillery",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Continuum",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leaf Skeleton",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ram",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mark Twain Statue",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Creekside Amphitheater",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dubuque Packing Company Memorial",
+   "type": "historic_site",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portal 2",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "RBG",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Precontact",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "T.J.M. Still Life",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nosce Te Ipsum",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Take Me Out to The Ball Game",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rising Sun",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wisdom",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Automate",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moon Goddess",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bird Dog",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ada Hayden",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Undercurrent",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mississippi Dance",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Young David",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Justice",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cut Flowers",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pattern Revival",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wild Rose",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hush of Heaven",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Solidarity",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Another Odd Fellow",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Julien Dubuque",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Persistence",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Healing Waters",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "We The People",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Shouldered Hawk",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Resilient",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Inevitability of Land",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Each One, Teach One, Two Learn",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kerouac Quotation",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "An Ode to the River",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Fate of Santa Clara",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "America Needs a Hug",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Owl's Moon",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Liberty",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jubeck New World Brewing",
+   "type": "brewery_distillery",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Liberty",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Multilingual Peace Pole",
+   "type": "historic_site",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UD Spartan Statue",
+   "type": "historic_site",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "“Mancherlei Gaben und ein Geist” Sculpture",
+   "type": "historic_site",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Voices Studios",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portal",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coretta Scott King",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fincels Sweet Corn",
+   "type": "farmers_market",
+   "city": "Asbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Diamond Jo National River Center",
+   "type": "museum",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shiras Memorial Pavilion",
+   "type": "historic_site",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles C. Myers Library",
+   "type": "library",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Five Flags Center",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dimensional Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mississippi Mud Studios",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Grand Opera House",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "7 Hills Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Main Street Historic District",
+   "type": "historic_downtown",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Mississippi River Museum & Aquarium",
+   "type": "museum",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dubuque Regional Airport",
+   "type": "historic_site",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Max Laundromat",
+   "type": "laundromat",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paddlewheel",
+   "type": "arts_culture",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steeple Square",
+   "type": "historic_downtown",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bell Tower Theater",
+   "type": "arts_culture",
+   "city": "Asbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centenial Cross",
+   "type": "historic_site",
+   "city": "Dubuque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunset Ridge Winery",
+   "type": "brewery_distillery",
+   "city": "Sageville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sergeant Floyd Monument",
+   "type": "historic_site",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Queen Of Peace",
+   "type": "historic_site",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orpheum Theater",
+   "type": "arts_culture",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sioux City Public Museum",
+   "type": "museum",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bomgaars",
+   "type": "farmers_market",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Public Safety Memorial",
+   "type": "historic_site",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abraham Lincoln Statue",
+   "type": "arts_culture",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Combination Bridge Pillar",
+   "type": "historic_site",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flight 232 Memorial",
+   "type": "historic_site",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Betty Strong Encounter Center",
+   "type": "museum",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lewis & Clark Interpretive Center",
+   "type": "museum",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theophile Bruguier Monument",
+   "type": "historic_site",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Circle of Life",
+   "type": "historic_site",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heaven's Very Special Child Shrine",
+   "type": "historic_site",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shrine to the Holy Family",
+   "type": "historic_site",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Michael Statue",
+   "type": "historic_site",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Sacred Heart of Jesus",
+   "type": "historic_site",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First Bride's Grave",
+   "type": "historic_site",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sioux City Farmers Market",
+   "type": "farmers_market",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Father Harold Cooper",
+   "type": "historic_site",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Francis",
+   "type": "historic_site",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sky Art",
+   "type": "historic_site",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hard Rock Guitar",
+   "type": "historic_site",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "This Is Sioux CIty",
+   "type": "arts_culture",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River City Laundry",
+   "type": "laundromat",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Railroad Museum",
+   "type": "museum",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marto Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Siouxland Veteran Memorial Bridge Plaque",
+   "type": "historic_site",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Block",
+   "type": "arts_culture",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Select Laundry",
+   "type": "laundromat",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sioux City Art Center",
+   "type": "museum",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wilbur Aalfs Library",
+   "type": "library",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sioux City Community Theatre",
+   "type": "arts_culture",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mid America Air Museum",
+   "type": "museum",
+   "city": "Sergeant Bluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sergent Floyd River Museum",
+   "type": "museum",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Klinger-Neal Theatre",
+   "type": "arts_culture",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LaunchPAD Children's Museum",
+   "type": "museum",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clean Choice Laundromat",
+   "type": "laundromat",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jolly Time Koated Kernels",
+   "type": "museum",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morningside Branch Library",
+   "type": "library",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gilchrist Learning Center",
+   "type": "arts_culture",
+   "city": "Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clive Public Library",
+   "type": "library",
+   "city": "Clive",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sheslow Auditorium",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crusoe Umbrella",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Des Moines Art Center",
+   "type": "museum",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iowa Hall of Pride",
+   "type": "museum",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Court Avenue Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quantum Leaf",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "V.F.W. Monument",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spanish Howitzer",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Revolution Monument",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Parrot Rifle",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Boyd Allison Memorial",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean War Memorial",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pioneer Statuary Group",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wilson Alexander Scott Grave",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln and Tad",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Liberty",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam War Memorial",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mortar",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers and Sailors Monument",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Purple Heart Memorial",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peace Pole",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "G.A.R. Flagpole",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Five Stones - One Tree",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Pinnacle",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "G.A.R. Sundial",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spanish-American War Monument",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Christopher Columbus Memorial",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bochumer Verein Cannon",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bryant Boulder",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peace Officers' Memorial",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shattering Silence",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "S-36 Submarine Memorial",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWII Memorial Plaza",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty Bell",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Last Laugh Comedy Club",
+   "type": "arts_culture",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Duds 'n' Suds",
+   "type": "laundromat",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "515 Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled (Three Dancing Figures, version C)",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nomade",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Five Plate Pentagon",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Back of a Snowman (Black)",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marriage",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Willy",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Ghost",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reclining Figure",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Order",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gymnast III",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ancient Forest",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Juno",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spider",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thinker on a Rock",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MOONRISE. east. august",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "air gets into everything even nothing",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MOONRISE. east. january",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Character Counts Pillars",
+   "type": "historic_site",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Japanese Bell of Peace and Friendship",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Post Balzac",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Modular Piece",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Decoy",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "In the Morning",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confluence Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seating for Eight",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Back of a Snowman (White)",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plantoir",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Man and Pegasus",
+   "type": "arts_culture",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shadow",
+   "type": "arts_culture",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Three Way Piece No.1: Points",
+   "type": "arts_culture",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Animal Pyramid",
+   "type": "arts_culture",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seat/Leg Table",
+   "type": "arts_culture",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Double Niche",
+   "type": "arts_culture",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Place",
+   "type": "laundromat",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Daughter's of the American Revolution",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr. Norman Borlaug",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Ruan Sr.",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rex Mathes Auditorium",
+   "type": "arts_culture",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rainbow Cleaning Machine",
+   "type": "laundromat",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Across Currents",
+   "type": "arts_culture",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Gateway Colossus",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "2Rhinos",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peace Boulder",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War I Monument",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sheriff Sam's Saloon Show",
+   "type": "arts_culture",
+   "city": "Norwoodville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chruch Garden",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ampersand Sculpture",
+   "type": "arts_culture",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roger the Rad Moose",
+   "type": "arts_culture",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wings",
+   "type": "arts_culture",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grow",
+   "type": "arts_culture",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hydraulic Jump 2",
+   "type": "arts_culture",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mines of Spain",
+   "type": "arts_culture",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red",
+   "type": "arts_culture",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Succulent Bloom",
+   "type": "arts_culture",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Circle of Life",
+   "type": "arts_culture",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columnar",
+   "type": "arts_culture",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Dreamer",
+   "type": "arts_culture",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leap",
+   "type": "arts_culture",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heartbeat of the Heartland",
+   "type": "arts_culture",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Strata",
+   "type": "arts_culture",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Circle of Fun",
+   "type": "arts_culture",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Talking Times",
+   "type": "arts_culture",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MidAmerican Energy Stage",
+   "type": "arts_culture",
+   "city": "Pleasant Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richard L. Easter Museum Complex",
+   "type": "museum",
+   "city": "Pleasant Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "County School",
+   "type": "museum",
+   "city": "Pleasant Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Halls of Law and Flame",
+   "type": "museum",
+   "city": "Pleasant Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Summer Fun",
+   "type": "arts_culture",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wedges 3",
+   "type": "arts_culture",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iowa Teacher Boulder",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joy of Music",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Puppet Theater",
+   "type": "arts_culture",
+   "city": "Norwoodville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spectral Liberation",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miffy Fountain",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A Monumental Journey",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wounded",
+   "type": "arts_culture",
+   "city": "Clive",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Constellation",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Straw Sculpture",
+   "type": "arts_culture",
+   "city": "Pleasant Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bulldog",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "T12 Distillery @ The Foundary (formerly Foundry Distilling Co.)",
+   "type": "brewery_distillery",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "P-51",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "F-16",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heartbeat Of The heartland",
+   "type": "arts_culture",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WOW",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Panoramic awareness pavilion",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iron Tree Trunk",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LOVE",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cosmic Seed",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Big Questions",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A Veteran’s Prayer for Eternal Peace",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Construction",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Boot Distillery",
+   "type": "brewery_distillery",
+   "city": "Saylorville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lift Off",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Path of Peace",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sphere Within a Sphere",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Family at Corner",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Landscape Piece #1",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Primavera III",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Column of Change",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dephinus",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "XII",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Folded Circle Zig",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Theater",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Granite Tree",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harbach Public Library",
+   "type": "library",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Grove Brewery & Taproom",
+   "type": "brewery_distillery",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Better Together",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Olson-Larson Galleries",
+   "type": "arts_culture",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "RAGBRAI: River to River",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gravitate Coworking",
+   "type": "coworking",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flix Brewhouse",
+   "type": "brewery_distillery",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Washington Carver and Henry Wallace",
+   "type": "historic_site",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prairie Song",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mary J. Coggeshall Historical Marker",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Suzy's Laundry Wash n' Fold",
+   "type": "laundromat",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Site of Camp Burnside 1862",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clean Laundry",
+   "type": "laundromat",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Park Coin Laundry",
+   "type": "laundromat",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liz Lidgett Gallery & Design",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flying Home",
+   "type": "arts_culture",
+   "city": "Johnston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "State of Iowa Historical Building",
+   "type": "museum",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civic Center of Greater Des Moines",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Science Center of Iowa",
+   "type": "science_center",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Des Moines Central Public Library",
+   "type": "library",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Temple Theater",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnston Public Library",
+   "type": "library",
+   "city": "Johnston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Susan Knapp Amphitheater",
+   "type": "arts_culture",
+   "city": "Pleasant Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anne & Bill Riley Stage",
+   "type": "arts_culture",
+   "city": "Pleasant Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ralph H. Deets Historical Museum",
+   "type": "museum",
+   "city": "Pleasant Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richard O. Jacobson Hall & Kenyon Gallery",
+   "type": "museum",
+   "city": "Pleasant Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fallen Soldier Memorial Plaza",
+   "type": "historic_site",
+   "city": "Saylorville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World Food Prize Hall of Laureates",
+   "type": "museum",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Japanese Bell House",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Urbandale Public Library",
+   "type": "library",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Val-Air Ballroom",
+   "type": "live_music",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Room",
+   "type": "laundromat",
+   "city": "Norwoodville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Side Library",
+   "type": "library",
+   "city": "Marquisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Birthplace of Des Moines Cabin",
+   "type": "historic_site",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cowles Library",
+   "type": "library",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Exile Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Des Moines South Side Library",
+   "type": "library",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kum & Go Theater",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hoyt Sherman Place",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henry G. Harmon Fine Arts Center",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Opperman Hall and Law Library",
+   "type": "library",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Busy Bubbles Laundry",
+   "type": "laundromat",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wise Cleaners",
+   "type": "laundromat",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Des Moines Community Playhouse",
+   "type": "arts_culture",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Des Moines Franklin Avenue Library",
+   "type": "library",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waveland Laundry & Rainbow Dry Cleaning",
+   "type": "laundromat",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Busy Bubbles Laundry",
+   "type": "laundromat",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Place",
+   "type": "laundromat",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnston Historical Museum",
+   "type": "museum",
+   "city": "Johnston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sylvan Theater",
+   "type": "arts_culture",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fun Forest Stage",
+   "type": "arts_culture",
+   "city": "Pleasant Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richard Meier Building",
+   "type": "arts_culture",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Studios",
+   "type": "arts_culture",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eliel Saarinen Building",
+   "type": "arts_culture",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Salisbury House",
+   "type": "museum",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "I.M. Pei Building",
+   "type": "arts_culture",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Expansion",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Des Moines Public Library",
+   "type": "library",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tallgrass Theatre Company",
+   "type": "arts_culture",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iowa Genealogical Society",
+   "type": "library",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Side Library",
+   "type": "library",
+   "city": "Norwoodville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Place",
+   "type": "laundromat",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Swirl",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Urbandale Public Art Park",
+   "type": "arts_culture",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Urbandale Veterans Memorial",
+   "type": "historic_site",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Viking Theater",
+   "type": "arts_culture",
+   "city": "Marquisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand View University Library",
+   "type": "library",
+   "city": "Marquisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lefty's Live Music",
+   "type": "live_music",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coca-Cola Cafe Stage",
+   "type": "arts_culture",
+   "city": "Norwoodville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wivfat Plaza",
+   "type": "historic_downtown",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Simon Estes Amphitheater",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lua Brewing",
+   "type": "brewery_distillery",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colby Park Performance Pavilion",
+   "type": "arts_culture",
+   "city": "Windsor Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iowa",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "La Casa Cultural Center",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Cultural Center",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jamie Hurd Amphitheatre",
+   "type": "arts_culture",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lauridsen Amphitheater",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prairie Meadows Riviera Amphitheater",
+   "type": "arts_culture",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Des Moines Forest Avenue Library",
+   "type": "library",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Twisted Vine",
+   "type": "brewery_distillery",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Bubbles",
+   "type": "laundromat",
+   "city": "Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bennett School",
+   "type": "museum",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "History Center",
+   "type": "museum",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The History Center",
+   "type": "library",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mount Mercy Library",
+   "type": "library",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tree of Five Seasons",
+   "type": "historic_site",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lost Sock Laundromat",
+   "type": "laundromat",
+   "city": "Marion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Squares",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Modern Gallery And Framing",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Karibu Market",
+   "type": "farmers_market",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gilded Pear Gallery",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Witch's Basement",
+   "type": "historic_site",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Striving",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Conley",
+   "type": "historic_site",
+   "city": "Marion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morel",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pix Fiz",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rollic",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Regeneration",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lion",
+   "type": "arts_culture",
+   "city": "Marion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clean Laundry",
+   "type": "laundromat",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sister Frances Warde",
+   "type": "historic_site",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sister Catherine McAuley",
+   "type": "historic_site",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blessed Art Thou Arch",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arch",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cedar Rapids African and Oriental Market",
+   "type": "farmers_market",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vintage Market & Supply Co.",
+   "type": "farmers_market",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Kleen Laudromat",
+   "type": "laundromat",
+   "city": "Hiawatha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butterfly Wings",
+   "type": "arts_culture",
+   "city": "Marion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butterfly Wings",
+   "type": "arts_culture",
+   "city": "Marion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio 17 of the Eastern Iowa ARTS Academy",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Liberty",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trumpet",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "To Wing",
+   "type": "arts_culture",
+   "city": "Western",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "In Transit",
+   "type": "arts_culture",
+   "city": "Western",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westside Rising",
+   "type": "historic_site",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherry",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Campbell Steele Callery",
+   "type": "arts_culture",
+   "city": "Marion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Grove Brewery",
+   "type": "brewery_distillery",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clean Laundry",
+   "type": "laundromat",
+   "city": "Western",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Busse Branch",
+   "type": "library",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theatre Cedar Rapids",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sinclair Auditorium",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stewart Memorial Library",
+   "type": "library",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dows Fine Arts Center",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherry Auditorium",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Czech & Slovak Museum & Library",
+   "type": "museum",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cedar Rapids Museum of Art",
+   "type": "museum",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hiawatha Public Library",
+   "type": "library",
+   "city": "Hiawatha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brucemore",
+   "type": "museum",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paramount Theatre",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marion Laundromat",
+   "type": "laundromat",
+   "city": "Marion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iowa Masonic Library",
+   "type": "library",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "African American Museum Of Iowa",
+   "type": "museum",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cedar Rapids Public Library",
+   "type": "library",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NewBo City Market",
+   "type": "farmers_market",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Coe \"Victory\" Bell",
+   "type": "historic_site",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1st Avenue Wine House",
+   "type": "brewery_distillery",
+   "city": "Marion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cedar Rapids Scottish Rite Temple",
+   "type": "museum",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soapy Waters Laundromat",
+   "type": "laundromat",
+   "city": "Hiawatha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DKW Art Gallery",
+   "type": "arts_culture",
+   "city": "Marion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seminole Valley Farm Museum",
+   "type": "museum",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barb's Fine Art",
+   "type": "arts_culture",
+   "city": "Marion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Granger House - Marion Historical Museum",
+   "type": "museum",
+   "city": "Marion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Kleen Laundromat",
+   "type": "laundromat",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McGrath Amphitheatre",
+   "type": "arts_culture",
+   "city": "Cedar Rapids",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marion Heritage Center",
+   "type": "museum",
+   "city": "Marion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marion Public Library",
+   "type": "library",
+   "city": "Marion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bettendorf Veterans Memorial",
+   "type": "historic_site",
+   "city": "Bettendorf",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dillon Memorial Fountain",
+   "type": "historic_site",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lady Of Germania",
+   "type": "arts_culture",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Irish Memorial",
+   "type": "historic_site",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Octagon Pistols",
+   "type": "arts_culture",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Curved Spire",
+   "type": "arts_culture",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cat's Eye Distillery",
+   "type": "brewery_distillery",
+   "city": "Panorama Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldier's Monument",
+   "type": "historic_site",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camp McClellan",
+   "type": "historic_site",
+   "city": "Bettendorf",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Granite City Brewery",
+   "type": "brewery_distillery",
+   "city": "Bettendorf",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bootleg Hill",
+   "type": "brewery_distillery",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hose Station No. 4",
+   "type": "museum",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eastern Avenue Branch Library",
+   "type": "library",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Fairmount Branch",
+   "type": "library",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Davenport Public Library",
+   "type": "library",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freight House Farmers Market",
+   "type": "farmers_market",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Ambrose University Library",
+   "type": "library",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burke Cleaners",
+   "type": "laundromat",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bettendorf Public Library",
+   "type": "library",
+   "city": "Bettendorf",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Side Laundry",
+   "type": "laundromat",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Adler Theater",
+   "type": "arts_culture",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artisan Grain Distillery",
+   "type": "brewery_distillery",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "German American Heritage Center & Museum",
+   "type": "museum",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Village Theatre",
+   "type": "arts_culture",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "David D. Palmer Health Sciences Library",
+   "type": "library",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "5ive Cities Brewing",
+   "type": "brewery_distillery",
+   "city": "Panorama Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Twin Span Brewing",
+   "type": "brewery_distillery",
+   "city": "Panorama Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marycrest College Historic District",
+   "type": "historic_downtown",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverview Terrace Historic District",
+   "type": "historic_downtown",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hamburg Historic District",
+   "type": "historic_downtown",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "College Square Historic District",
+   "type": "historic_downtown",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbia Avenue Historic District",
+   "type": "historic_downtown",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prospect Park Historic District",
+   "type": "historic_downtown",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Davenport Motor Row and Industrial Historic District",
+   "type": "historic_downtown",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bridge Avenue Historic District",
+   "type": "historic_downtown",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East 14th Street Historic District",
+   "type": "historic_downtown",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gordon-Van Tine Company Historic District",
+   "type": "historic_downtown",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oak Lane Historic District",
+   "type": "historic_downtown",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Katherine's Historic District",
+   "type": "historic_downtown",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Figge Art Museum",
+   "type": "arts_culture",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capitol Theater",
+   "type": "arts_culture",
+   "city": "Davenport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eric Jacobs Memorial",
+   "type": "historic_site",
+   "city": "Ankeny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ankeny Veteran's Memorial",
+   "type": "historic_site",
+   "city": "Ankeny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shelly Dunham Memorial",
+   "type": "historic_site",
+   "city": "Ankeny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ankeny Laundromat",
+   "type": "laundromat",
+   "city": "Ankeny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "M47 Patton",
+   "type": "historic_site",
+   "city": "Johnston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "M60",
+   "type": "historic_site",
+   "city": "Johnston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joy",
+   "type": "arts_culture",
+   "city": "Ankeny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wooden carved bear",
+   "type": "arts_culture",
+   "city": "Ankeny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hawkeye Estates Herky Statue",
+   "type": "arts_culture",
+   "city": "Johnston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Meadows Lion",
+   "type": "arts_culture",
+   "city": "Johnston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Meadows Lion",
+   "type": "arts_culture",
+   "city": "Johnston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Meadows Lion",
+   "type": "arts_culture",
+   "city": "Johnston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Meadows Lion",
+   "type": "arts_culture",
+   "city": "Johnston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Meadows Lion",
+   "type": "arts_culture",
+   "city": "Johnston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Meadows Lion",
+   "type": "arts_culture",
+   "city": "Johnston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fender's Brewery",
+   "type": "brewery_distillery",
+   "city": "Polk City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kids Create",
+   "type": "arts_culture",
+   "city": "Polk City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Creek Historical Museum",
+   "type": "museum",
+   "city": "Polk City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "30 Hop",
+   "type": "brewery_distillery",
+   "city": "Ankeny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ankeny Art Center",
+   "type": "museum",
+   "city": "Ankeny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Firetrucker Brewery",
+   "type": "brewery_distillery",
+   "city": "Ankeny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ankeny Historical Museum",
+   "type": "museum",
+   "city": "Ankeny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reclaimed Rails Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Bondurant",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bondurant Community Library",
+   "type": "library",
+   "city": "Bondurant",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iowa Gold Star Museum",
+   "type": "museum",
+   "city": "Johnston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ankeny Kirkendall Public Library",
+   "type": "library",
+   "city": "Ankeny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iowa Children's Museum",
+   "type": "museum",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Natural History",
+   "type": "science_center",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Capitol Museum",
+   "type": "museum",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Herky",
+   "type": "historic_site",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brain",
+   "type": "arts_culture",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rose Garden",
+   "type": "historic_site",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iowa Firefighters Memorial",
+   "type": "historic_site",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Man on a Bench",
+   "type": "arts_culture",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sacred Stone Circle",
+   "type": "arts_culture",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Visionary Stone",
+   "type": "arts_culture",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Relationships",
+   "type": "arts_culture",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Life",
+   "type": "arts_culture",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Family",
+   "type": "arts_culture",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Made of Money",
+   "type": "arts_culture",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iowa Blue: The Urbane Chicken",
+   "type": "arts_culture",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iowa City Farmers Market",
+   "type": "farmers_market",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Market Wagon",
+   "type": "farmers_market",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reunion Brewery",
+   "type": "brewery_distillery",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coexist",
+   "type": "arts_culture",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alidade",
+   "type": "arts_culture",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "From the River",
+   "type": "arts_culture",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prairie Breeze Bench",
+   "type": "arts_culture",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hayden Fry",
+   "type": "arts_culture",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "To Dorothy",
+   "type": "arts_culture",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A Thousand Acres",
+   "type": "arts_culture",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "CoWork @ 808",
+   "type": "coworking",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Furaha Market",
+   "type": "farmers_market",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brush and Barrel",
+   "type": "arts_culture",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theatre Building",
+   "type": "arts_culture",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Capitol",
+   "type": "museum",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Library",
+   "type": "library",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sciences Library",
+   "type": "library",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hardin Library for the Health Sciences",
+   "type": "library",
+   "city": "University Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stanley Museum of Art",
+   "type": "museum",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spin City Laundry",
+   "type": "laundromat",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverside Festival Stage",
+   "type": "arts_culture",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Englert Theatre",
+   "type": "arts_culture",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iowa City Public Library",
+   "type": "library",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hancher Auditorium",
+   "type": "arts_culture",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Devonian Fossil Gorge",
+   "type": "historic_site",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Grove Brewery",
+   "type": "brewery_distillery",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soapy Waters Laundromat",
+   "type": "laundromat",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brown Street Historic District",
+   "type": "historic_downtown",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "College Green Historic District",
+   "type": "historic_downtown",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodlawn Historic District",
+   "type": "historic_downtown",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Summit Street Historic District",
+   "type": "historic_downtown",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Muscatine Avenue Moffitt Cottage Historic District",
+   "type": "historic_downtown",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gilbert-Linn Street Historic District",
+   "type": "historic_downtown",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnson County Poor Farm and Asylum Historic District",
+   "type": "historic_downtown",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Longfellow Historic District",
+   "type": "historic_downtown",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Melrose Historic District",
+   "type": "historic_downtown",
+   "city": "University Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weatherdance Fountain",
+   "type": "arts_culture",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverside Theatre",
+   "type": "arts_culture",
+   "city": "Iowa City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "30hop Coralville",
+   "type": "brewery_distillery",
+   "city": "Coralville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Funny Bone Comedy Club",
+   "type": "arts_culture",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jordan Creek Amphitheater",
+   "type": "arts_culture",
+   "city": "West Des Moines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barn Town Brewing",
+   "type": "brewery_distillery",
+   "city": "Waukee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Meadows Lion",
+   "type": "arts_culture",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dragon Head Sculpture",
+   "type": "arts_culture",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dragon Head Sculpture",
+   "type": "arts_culture",
+   "city": "Urbandale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cooper's Hawk",
+   "type": "brewery_distillery",
+   "city": "Clive",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norwalk Easter Public Library",
+   "type": "library",
+   "city": "Norwalk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waukee Public Library",
+   "type": "library",
+   "city": "Waukee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iowa Band Museum",
+   "type": "museum",
+   "city": "Cedar Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phelps Youth Pavillion",
+   "type": "museum",
+   "city": "Waterloo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue Of Liberty Replica",
+   "type": "arts_culture",
+   "city": "Waterloo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "POW Memorial",
+   "type": "historic_site",
+   "city": "Waterloo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Second State Brewing",
+   "type": "brewery_distillery",
+   "city": "Cedar Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "College Hill Farmers Market",
+   "type": "farmers_market",
+   "city": "Cedar Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waterloo Urban Farmers Market",
+   "type": "farmers_market",
+   "city": "Waterloo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Wrestling Hall Of Fame",
+   "type": "museum",
+   "city": "Waterloo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evansdale Public Library",
+   "type": "library",
+   "city": "Evansdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clean Laundry",
+   "type": "laundromat",
+   "city": "Evansdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clean Laundry",
+   "type": "laundromat",
+   "city": "Cedar Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cedar Falls Historical Society",
+   "type": "museum",
+   "city": "Cedar Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OVERMAN PARK",
+   "type": "historic_site",
+   "city": "Cedar Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Frank E. Evans D7540",
+   "type": "historic_site",
+   "city": "Waterloo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rod Library",
+   "type": "library",
+   "city": "Cedar Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallagher Bluedorn Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Cedar Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cedar Falls Theatre",
+   "type": "arts_culture",
+   "city": "Cedar Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SingleSpeed Brewing Cedar Falls Taproom",
+   "type": "brewery_distillery",
+   "city": "Cedar Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ice House",
+   "type": "museum",
+   "city": "Cedar Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little School House",
+   "type": "museum",
+   "city": "Cedar Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cedar Falls Public Library",
+   "type": "library",
+   "city": "Cedar Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Victorian House Museum",
+   "type": "museum",
+   "city": "Cedar Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SingleSpeed Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Waterloo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waterloo Public LIbrary",
+   "type": "library",
+   "city": "Waterloo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "RiverLoop Amphitheatre",
+   "type": "arts_culture",
+   "city": "Waterloo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dan Gable Wrestling Museum",
+   "type": "museum",
+   "city": "Waterloo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waterloo Community Playhouse",
+   "type": "arts_culture",
+   "city": "Waterloo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leo P. Rooff Memorial",
+   "type": "historic_site",
+   "city": "Waterloo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Deere Tractor & Museum",
+   "type": "museum",
+   "city": "Waterloo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Russell Rensselaer House Museum",
+   "type": "museum",
+   "city": "Waterloo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waterloo Center for the Arts",
+   "type": "arts_culture",
+   "city": "Waterloo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waterloo Community Theatre",
+   "type": "arts_culture",
+   "city": "Waterloo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brunnier Art Museum",
+   "type": "museum",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Octagon Center for the Arts",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carom",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sequence",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Moth",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Inuksuk",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Inuksuk",
+   "type": "arts_culture",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Inuksuit #1",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Medicine Wheel",
+   "type": "historic_site",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Skunk River Overlook",
+   "type": "historic_site",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plains Overlook",
+   "type": "historic_site",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stuart Smith Park Trees Rock",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Audubon Trail Restoration 2012 Rock",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John F Lacey Rock",
+   "type": "historic_site",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louis H. Pammel Rock",
+   "type": "historic_site",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paul Errington Rock",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ada Hayden Rock",
+   "type": "historic_site",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bohumil Shimek Rock",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aldo Leopold Rock",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jay Norwood Ding Darling Rock",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sylvan Runkel Rock",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Madson Rock",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jester",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dire Enticement",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bird",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Handprint Table",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Firetruck",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butterfly",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rising Wave",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Window on a Blue Garden",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Site of First House Built in West Ames",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Site of First Home in Ames",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woman's Head",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ben J. Cole Rock",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Skate Park Mosaic",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Raymond and Gertrude Daley Memorial Rock",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Helen Daley Smith Memorial Rock",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert Paul Daley Pathway Rock",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Billy Sunday Birthplace Rock",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "H.L. Munn Memorial",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ames Circle of Arts",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "David A. Dobell Memorial",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Durham Bandshell Memorial",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Inis Grove Park Rock",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phi Kappa Phi Rock",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Emma McCarthy Lee Memorial Park Rock",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "O'Neil Park Rock",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richard Morgen Flowers",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Squeaky Clean Laundromat",
+   "type": "laundromat",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Conversations",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Three Crosses of Calvary",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jack Trice",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Border Crossing",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Panthers",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forward",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Left-Sided Angel",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Air Spiral",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Three Athletes",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bighorn Sheep",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Solo",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Epilogue",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mujer Pegada Series No. 1",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Transformation",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Procession",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whirlwind",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bravo III",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Start to Finish",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shep",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pediment",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dikotomia",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kristin's Flowers",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AAOSE Site",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AAOSE Site",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "See Yourself in Ames",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cynthia Duff Gateway B",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AASOE Site",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AAOSE Site",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AASOE Site",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AAOSE Site",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Janus Agri Altar",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ames City Auditorium",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Protect and Serve Cy",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Voices of the Prairie I",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crescendo",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ice Blue",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Teaching Sculpture",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tau Beta Pi",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monolith",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moon Rising",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dance of the Prairie Dawn",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Just Between Thieves",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Power Tennis",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cy-House Rock!",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Breaking Barriers",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "I Will",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Acorn Music Hall",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alluvial Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barbara’s Portal",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Into the Maelstrom",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Improbable Balance",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Heron with Sunfish",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bunny",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spikey Smooth",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled Flower",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cyclone Twister",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Campustown Mural",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lake LaVerne Swans",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lake LaVerne Restoration",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lake LaVerne",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Archie A. and Nancy C. Martin Hall",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gordon P. Eaton Hall",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln Highway Marker",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Student Services Plaza",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prairie Moon",
+   "type": "brewery_distillery",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alleviate Brewing Tap Room",
+   "type": "brewery_distillery",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ames Historical District Mural",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Easy Peasy Mural",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iowa Farm Mural",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ames Train Mural",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "YSS and ISU Mural",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cardinal and Flower Mural",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ames Historical Bikes Mural",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ames Mural",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Space Theme",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AAOSE Site",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Purple Dragon",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orange Dragon",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colorful Chalk Transformer Box",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Depot Marker",
+   "type": "historic_site",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eagle Mural",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ancient Creatures",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Air Bass Guitar",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Umbrellas",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AAOSE Site",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dripping Lips Mural",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Squiggly Lines",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cy the Dentist Guy",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Balance",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A World to Teach",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Silly Monsters",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abstract Mural",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riding High",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Snake, Skull, and Roses",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Origami Cranes",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parks Library",
+   "type": "library",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farm House Museum",
+   "type": "museum",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fisher Theater",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stephens Auditorium",
+   "type": "arts_culture",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sckhilletter-University Village Laundromat",
+   "type": "laundromat",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ames History Museum",
+   "type": "museum",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ames Public Library",
+   "type": "library",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Torrent Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Ames",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Meadows Lion",
+   "type": "arts_culture",
+   "city": "Johnston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grimes Public Library",
+   "type": "library",
+   "city": "Grimes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MHM Ranch",
+   "type": "farmers_market",
+   "city": "Bertram",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pink Elephant Statue",
+   "type": "arts_culture",
+   "city": "Marquette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marquette Depot Museum & Information Center",
+   "type": "museum",
+   "city": "Marquette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McGregor Historical Museum",
+   "type": "museum",
+   "city": "McGregor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eagle Landing Winery",
+   "type": "brewery_distillery",
+   "city": "Marquette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Driftless Area Wetlands Centre",
+   "type": "museum",
+   "city": "Marquette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Man River Restaurant & Brewery",
+   "type": "brewery_distillery",
+   "city": "McGregor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bremer County Historical Society Museum",
+   "type": "museum",
+   "city": "Waverly",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dancing St. Francis",
+   "type": "arts_culture",
+   "city": "Waverly",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bremer Brewng Company",
+   "type": "brewery_distillery",
+   "city": "Waverly",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Handy Laundry",
+   "type": "laundromat",
+   "city": "Waverly",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vogel Library",
+   "type": "library",
+   "city": "Waverly",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moravia Public Library",
+   "type": "library",
+   "city": "Moravia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moravia Wabash Depot Museum",
+   "type": "museum",
+   "city": "Moravia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Higgins Museum",
+   "type": "museum",
+   "city": "Okoboji",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dickinson County Museum",
+   "type": "museum",
+   "city": "Spirit Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pearson Lakes Art Center",
+   "type": "arts_culture",
+   "city": "Okoboji",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Okoboji Summer Theatre",
+   "type": "arts_culture",
+   "city": "Okoboji",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Okoboji Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Spirit Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elkader Public Library",
+   "type": "library",
+   "city": "Elkader",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carter House Museum",
+   "type": "museum",
+   "city": "Elkader",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Earthmoving Legacy Center",
+   "type": "museum",
+   "city": "Elkader",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Hill",
+   "type": "historic_site",
+   "city": "Park View",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fayette County Historical Museum;Fayette County Historical Library",
+   "type": "museum",
+   "city": "West Union",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norby's farm fleet",
+   "type": "farmers_market",
+   "city": "West Union",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lake Mills Veterans Memorial/ Freedom Rock",
+   "type": "historic_site",
+   "city": "Lake Mills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fremont County Historical Society",
+   "type": "museum",
+   "city": "Sidney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sidney Public Library",
+   "type": "library",
+   "city": "Sidney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World's Largest Bullhead",
+   "type": "historic_site",
+   "city": "Crystal Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Register of Historic Places",
+   "type": "historic_site",
+   "city": "Clear Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Three Stars Monument",
+   "type": "historic_site",
+   "city": "Clear Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Surf Ballroom and Museum",
+   "type": "arts_culture",
+   "city": "Clear Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kinney Pioneer Museum",
+   "type": "museum",
+   "city": "Clear Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clear Lake Bandshell",
+   "type": "arts_culture",
+   "city": "Clear Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clear Lake Fire Museum",
+   "type": "museum",
+   "city": "Clear Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World Trade Center Steel Memorial",
+   "type": "historic_site",
+   "city": "Clear Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Giant Wash",
+   "type": "laundromat",
+   "city": "Clear Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iowa Great Lakes Maritime Museum",
+   "type": "museum",
+   "city": "Arnolds Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clark Museum of Area History",
+   "type": "museum",
+   "city": "West Okoboji",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iowa Rock N Roll Museum",
+   "type": "museum",
+   "city": "Arnolds Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West O Beer",
+   "type": "brewery_distillery",
+   "city": "West Okoboji",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bike Monument",
+   "type": "historic_site",
+   "city": "Wahpeton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arnolds Park Museum",
+   "type": "museum",
+   "city": "Arnolds Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Preservation Plaza",
+   "type": "arts_culture",
+   "city": "Arnolds Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "German American Museum, Library and Family History Center",
+   "type": "museum",
+   "city": "Saint Lucas",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

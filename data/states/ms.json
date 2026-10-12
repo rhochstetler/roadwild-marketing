@@ -1,0 +1,2386 @@
+{
+ "state": "MS",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Sam's Town RV Park",
+   "type": "rv_park",
+   "town": "Tunica Resorts, MS",
+   "town_mi": 5.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CHOCTAW LAKE",
+   "type": "paid_camp",
+   "town": "Ackerman, MS",
+   "town_mi": 3.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Go Fish R. V. Park",
+   "type": "rv_park",
+   "town": "Sandersville, MS",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RV Campground",
+   "type": "rv_park",
+   "town": "Ocean Springs, MS",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dub Patton Campground",
+   "type": "paid_camp",
+   "town": "Eudora, MS",
+   "town_mi": 4.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CLEAR CREEK (MS)",
+   "type": "paid_camp",
+   "town": "University, MS",
+   "town_mi": 10.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PINEY GROVE",
+   "type": "paid_camp",
+   "town": "New Site, MS",
+   "town_mi": 5.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yogi On The Lake Jellystone Park",
+   "type": "rv_park",
+   "town": "Pelahatchie, MS",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mississippi Petrified Forest",
+   "type": "paid_camp",
+   "town": "Flora, MS",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CHEWALLA LAKE RECREATION AREA",
+   "type": "paid_camp",
+   "town": "Potts Camp, MS",
+   "town_mi": 6.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tippah County Lake - MDWFP",
+   "type": "paid_camp",
+   "town": "Falkner, MS",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lefleur's Bluff State Park",
+   "type": "paid_camp",
+   "town": "Jackson, MS",
+   "town_mi": 4.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moody's Landing - USFS",
+   "type": "unknown",
+   "town": "Bond, MS",
+   "town_mi": 10.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Belmont RV park",
+   "type": "rv_park",
+   "town": "Belmont, MS",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Forrest County RV Park",
+   "type": "rv_park",
+   "town": "Hattiesburg, MS",
+   "town_mi": 4.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hollywood Casino RV Park",
+   "type": "rv_park",
+   "town": "Tunica Resorts, MS",
+   "town_mi": 5.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Boomtown RV Park",
+   "type": "rv_park",
+   "town": "D'Iberville, MS",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fox's RV Park",
+   "type": "rv_park",
+   "town": "Biloxi, MS",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WHITTEN PARK",
+   "type": "paid_camp",
+   "town": "Fulton, MS",
+   "town_mi": 2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DEWAYNE HAYES",
+   "type": "paid_camp",
+   "town": "Columbus AFB, MS",
+   "town_mi": 2.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Natchez State Park Campground",
+   "type": "paid_camp",
+   "town": "Morgantown, MS",
+   "town_mi": 8.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wild Country Off-road",
+   "type": "paid_camp",
+   "town": "Leakesville, MS",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shady Cove RV Park",
+   "type": "rv_park",
+   "town": "Rawls Springs, MS",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Creek",
+   "type": "paid_camp",
+   "town": "Soso, MS",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Goshen Springs Campground",
+   "type": "paid_camp",
+   "town": "Canton, MS",
+   "town_mi": 9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Perk Beach RV Park",
+   "type": "rv_park",
+   "town": "Wiggins, MS",
+   "town_mi": 4.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bonita Lakes RV Park",
+   "type": "rv_park",
+   "town": "Meridian, MS",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "NORTH ABUTMENT",
+   "type": "paid_camp",
+   "town": "Grenada, MS",
+   "town_mi": 5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Willie's Last Resort",
+   "type": "rv_park",
+   "town": "Indianola, MS",
+   "town_mi": 0,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cane Creek Outdoor CLub",
+   "type": "rv_park",
+   "town": "Canton, MS",
+   "town_mi": 9.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Quilly's Magnolia RV Park",
+   "type": "rv_park",
+   "town": "Vicksburg, MS",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ameristar RV Park",
+   "type": "rv_park",
+   "town": "Vicksburg, MS",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Natchez Trace RV Park",
+   "type": "rv_park",
+   "town": "Verona, MS",
+   "town_mi": 6.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lee Estates RV Park",
+   "type": "rv_park",
+   "town": "Morgantown, MS",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Movietown RV Park",
+   "type": "rv_park",
+   "town": "Canton, MS",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mid-South RV Park (Closed)",
+   "type": "rv_park",
+   "town": "Tunica Resorts, MS",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Holiday",
+   "type": "rv_park",
+   "town": "Lyman, MS",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mill Creek RV Park",
+   "type": "rv_park",
+   "town": "Wiggins, MS",
+   "town_mi": 6.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Love's RV Hookup",
+   "type": "rv_park",
+   "town": "Hattiesburg, MS",
+   "town_mi": 4.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BLUE BLUFF CAMPGROUND (ABERDEEN MS)",
+   "type": "paid_camp",
+   "town": "Aberdeen, MS",
+   "town_mi": 1.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TOWN CREEK CAMPGROUND - WEST POINT - MS",
+   "type": "paid_camp",
+   "town": "Columbus AFB, MS",
+   "town_mi": 3.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TWILTLEY BRANCH",
+   "type": "paid_camp",
+   "town": "Collinsville, MS",
+   "town_mi": 2.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CHICKASAW HILL",
+   "type": "paid_camp",
+   "town": "Pope, MS",
+   "town_mi": 7.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hernando Point Campground",
+   "type": "paid_camp",
+   "town": "Arkabutla, MS",
+   "town_mi": 3.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "NORTH GRAYSPORT",
+   "type": "paid_camp",
+   "town": "Coffeeville, MS",
+   "town_mi": 10.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PERSIMMON HILL(ENID LAKE)",
+   "type": "paid_camp",
+   "town": "Oakland, MS",
+   "town_mi": 5.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WALLACE CREEK",
+   "type": "paid_camp",
+   "town": "Pope, MS",
+   "town_mi": 4.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WATER VALLEY LANDING",
+   "type": "paid_camp",
+   "town": "Water Valley, MS",
+   "town_mi": 7.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Abutment Campground",
+   "type": "paid_camp",
+   "town": "Arkabutla, MS",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Oak Grove Campground",
+   "type": "paid_camp",
+   "town": "Sardis, MS",
+   "town_mi": 7.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DELTA NATIONAL FOREST - CAMPING",
+   "type": "paid_camp",
+   "town": "Cary, MS",
+   "town_mi": 8.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "National Forests in Mississippi",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dahomey National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Grand Bay National Wildlife Refuge",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hillside National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arkabutla Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Enid Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mathews Brake National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Grenada Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mississippi Sandhill Crane National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Morgan Brake National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sardis Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sam D. Hamilton Noxubee National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Theodore Roosevelt National Wildlife Refuge Complex Headquarters - Panther Swamp National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "St. Catherine Creek National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tallahatchie National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Yazoo National Wildlife Refuge",
+   "type": "boating",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Grand Bay National Estuarine Research Reserve",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Coldwater River National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tennessee-Tombigbee Waterway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Okatibbee Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hiking the Blackland Prairie Section of the Natchez Trace National Scenic Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hiking the Yockanookany Section of the Natchez Trace National Scenic Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Exploring The Brices Cross Roads Battlefield",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore Melrose",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Natchez Visitor Center",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birding on the Natchez Trace Parkway",
+   "type": "birding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit the William Johnson House",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Forks of the Road",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Natchez Trace Junior Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hiking the Potkopinu Section of the Natchez Trace National Scenic Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hiking the Rocky Springs Section of the Natchez Trace National Scenic Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Exploring The Battle of Tupelo",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walking or Biking the Chisha Foka Multi-Use Trail",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "See Fort Rosalie",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hurricane Camille Memorial",
+   "type": "historic_site",
+   "city": "Gulfport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Friendship Oak",
+   "type": "historic_site",
+   "city": "Long Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City of Long Beach Centennial 1905-2005",
+   "type": "historic_site",
+   "city": "Long Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Long Beach Schools",
+   "type": "historic_site",
+   "city": "Long Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Health Nuts",
+   "type": "farmers_market",
+   "city": "Gulfport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TrainTastic",
+   "type": "museum",
+   "city": "Gulfport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mississippi Aviation Heritage Museum",
+   "type": "museum",
+   "city": "Gulfport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Long Beach Public Library",
+   "type": "library",
+   "city": "Long Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orange Grove Public Library",
+   "type": "library",
+   "city": "Gulfport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Long Beach WWII Memorial",
+   "type": "historic_site",
+   "city": "Long Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maritime & Seafood Industry Museum",
+   "type": "museum",
+   "city": "Gulfport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benny's BooM BooM RooM",
+   "type": "live_music",
+   "city": "Hattiesburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lucille Parker Gallery",
+   "type": "arts_culture",
+   "city": "Hattiesburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sarah Gillespie Museum",
+   "type": "museum",
+   "city": "Hattiesburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Last Bare Knuckle Prize Fight",
+   "type": "historic_site",
+   "city": "Hattiesburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bonhomie",
+   "type": "historic_site",
+   "city": "Hattiesburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Petal Library",
+   "type": "library",
+   "city": "Petal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lofty Return",
+   "type": "arts_culture",
+   "city": "Hattiesburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southern Prohibition",
+   "type": "brewery_distillery",
+   "city": "Hattiesburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McCain Library and Archives",
+   "type": "library",
+   "city": "Hattiesburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saenger Theater",
+   "type": "arts_culture",
+   "city": "Hattiesburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hattiesburg Public Library",
+   "type": "library",
+   "city": "Hattiesburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Mississippi Genealogical and Historical Society Genealogy Library",
+   "type": "library",
+   "city": "Hattiesburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "African American Military History Museum",
+   "type": "museum",
+   "city": "Hattiesburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Street Laundromat",
+   "type": "laundromat",
+   "city": "Hattiesburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Basket",
+   "type": "laundromat",
+   "city": "Hattiesburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eureka School Museum",
+   "type": "museum",
+   "city": "Hattiesburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Fountain",
+   "type": "historic_site",
+   "city": "Petal",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palmers Crossing Heritage Museum",
+   "type": "museum",
+   "city": "Hattiesburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oak Grove Public Library",
+   "type": "library",
+   "city": "Hattiesburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MSU Riley Center",
+   "type": "arts_culture",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mississippi Industrial Heritage Museum",
+   "type": "museum",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Key Brothers Aviation Museum",
+   "type": "museum",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mississippi Children's Museum",
+   "type": "museum",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hallie Ward Interiors ft Queen City Art Gallery",
+   "type": "arts_culture",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meridian Museum of Art",
+   "type": "museum",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jimmie Rodgers Museum",
+   "type": "museum",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mississippi Arts + Entertainment Experience (The MAX)",
+   "type": "museum",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meridian-Lauderdale County Public Library",
+   "type": "library",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Temple Theater for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Natchez Trace Visitors Center",
+   "type": "museum",
+   "city": "Tupelo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tupelo Battlefield Memorial",
+   "type": "historic_site",
+   "city": "Tupelo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oren Dunn City Museum",
+   "type": "museum",
+   "city": "Tupelo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elvis",
+   "type": "arts_culture",
+   "city": "Tupelo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elvis Presley",
+   "type": "historic_site",
+   "city": "Tupelo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elvis Presley Birthplace & Museum",
+   "type": "museum",
+   "city": "Tupelo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lee County Library",
+   "type": "library",
+   "city": "Tupelo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Queen's Reward Meadery",
+   "type": "brewery_distillery",
+   "city": "Tupelo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tupelo Furniture Market",
+   "type": "farmers_market",
+   "city": "Tupelo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mississippi Museum of Natural Science",
+   "type": "science_center",
+   "city": "Flowood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smith Robertson Museum and Cultural Center",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Oaks House Museum",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "International Museum of Muslim Cultures",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arts Center of Mississippi",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "G. Chastine Flynt Memorial Library",
+   "type": "library",
+   "city": "Flowood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Capitol Museum",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Firefighter Memorial",
+   "type": "historic_site",
+   "city": "Pearl",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fallen Fire Fighters Memorial",
+   "type": "arts_culture",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodmen Of The World",
+   "type": "historic_site",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fertile Ground Beer Co.",
+   "type": "brewery_distillery",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alsalam Market",
+   "type": "farmers_market",
+   "city": "Flowood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mississippi Museum of Art",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thalia Mara Hall",
+   "type": "arts_culture",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Russell C Davis Planetarium",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Millsaps-Wilson Library",
+   "type": "library",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mississippi Agriculture & Forestry Museum",
+   "type": "museum",
+   "city": "Flowood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mississippi Sports Hall of Fame & Museum",
+   "type": "museum",
+   "city": "Flowood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eudora Welty House",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Medgar and Myrlie Evers House",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pearl Public Library",
+   "type": "library",
+   "city": "Pearl",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mississippi Museum of Civil Rights",
+   "type": "museum",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mississippi Children's Museum",
+   "type": "museum",
+   "city": "Flowood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphiteatre",
+   "type": "arts_culture",
+   "city": "Flowood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mississippi Library Commission",
+   "type": "library",
+   "city": "Flowood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Suncrest Coin Laundry",
+   "type": "laundromat",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Merci Train",
+   "type": "historic_site",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Municipal Art Gallery",
+   "type": "arts_culture",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richland Public Library",
+   "type": "library",
+   "city": "Richland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "W. J. Davis",
+   "type": "historic_site",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richland Coin Laundry",
+   "type": "laundromat",
+   "city": "Richland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richard Wright Library",
+   "type": "library",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Margaret Walker Alexander Library",
+   "type": "library",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Medgar Evers Library",
+   "type": "library",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fannie Lou Hamer Library",
+   "type": "library",
+   "city": "Jackson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cleary Road Coin Laundry",
+   "type": "laundromat",
+   "city": "Richland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mississippi Vietnam Memorial",
+   "type": "historic_site",
+   "city": "Ocean Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Biloxi Little Theater",
+   "type": "arts_culture",
+   "city": "Biloxi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Biloxi Memorial",
+   "type": "historic_site",
+   "city": "Biloxi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hurricane Camille Memorial",
+   "type": "historic_site",
+   "city": "Biloxi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seaman Memorial",
+   "type": "historic_site",
+   "city": "Ocean Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crooked Feather",
+   "type": "arts_culture",
+   "city": "Ocean Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blossman Memorial",
+   "type": "historic_site",
+   "city": "Ocean Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "D'Iberville statue",
+   "type": "arts_culture",
+   "city": "Ocean Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coast Guard Station Barracks",
+   "type": "historic_site",
+   "city": "Biloxi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coastal Coin Laundry",
+   "type": "laundromat",
+   "city": "Ocean Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ocean Springs Mosiac Wall",
+   "type": "arts_culture",
+   "city": "Ocean Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hurricane Katrina Memorial",
+   "type": "historic_site",
+   "city": "Biloxi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Astronaut Fred Haise, Biloxian",
+   "type": "arts_culture",
+   "city": "Biloxi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles R. Hegwood Community Market",
+   "type": "farmers_market",
+   "city": "Biloxi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mary O'Keefe Cultural Arts Center",
+   "type": "arts_culture",
+   "city": "Ocean Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hops and Growlers",
+   "type": "brewery_distillery",
+   "city": "Ocean Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Th Art Cottage",
+   "type": "arts_culture",
+   "city": "Ocean Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pink Rooster",
+   "type": "arts_culture",
+   "city": "Ocean Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Art House",
+   "type": "arts_culture",
+   "city": "Ocean Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "D'Iberville Public Library",
+   "type": "library",
+   "city": "D'Iberville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City of Biloxi Center For Ceramics",
+   "type": "museum",
+   "city": "Biloxi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maritime and Seafood Industry Museuem",
+   "type": "museum",
+   "city": "Biloxi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ocean Springs Library",
+   "type": "library",
+   "city": "Ocean Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moving Arts Center",
+   "type": "arts_culture",
+   "city": "Ocean Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pleasant Reed Interpretive Center",
+   "type": "museum",
+   "city": "Biloxi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "M.R. Davis Public Library",
+   "type": "library",
+   "city": "Southaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BankPlus Amptheater at Snowden Grove",
+   "type": "arts_culture",
+   "city": "Southaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greenville History Museum",
+   "type": "museum",
+   "city": "Greenville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "E.E. Bass Cultural Arts Center",
+   "type": "arts_culture",
+   "city": "Greenville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Meredith statue",
+   "type": "historic_site",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Faulkner statue",
+   "type": "historic_site",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Three Way Laundry",
+   "type": "laundromat",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washboard Coin Laundry",
+   "type": "laundromat",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southside Gallery",
+   "type": "arts_culture",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burns-Belfry Museum and Multicultural Center",
+   "type": "museum",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Living Foods",
+   "type": "farmers_market",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio Whimzy",
+   "type": "arts_culture",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Midtown Farmers' Market",
+   "type": "farmers_market",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wonderbird Spirits",
+   "type": "brewery_distillery",
+   "city": "Taylor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Circle and Square",
+   "type": "brewery_distillery",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Davis Williams Library",
+   "type": "library",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ford Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lafayette County & Oxford Public Library",
+   "type": "library",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University of Mississippi Museum",
+   "type": "museum",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Lyric Oxford",
+   "type": "arts_culture",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oxford Community Market",
+   "type": "farmers_market",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "L.Q.C. Lamar House Museum",
+   "type": "museum",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yoknapatawpha Arts Council",
+   "type": "arts_culture",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fant Memorial Library",
+   "type": "library",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbus-Lowndes Public Library",
+   "type": "library",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbus Arts Council",
+   "type": "arts_culture",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hitching Lot Farmer's Market",
+   "type": "farmers_market",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kathleen McIlwain Gautier Public Library",
+   "type": "library",
+   "city": "Gautier",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pascagoula Library",
+   "type": "library",
+   "city": "Pascagoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mitchell Park Veterans Memorial",
+   "type": "historic_site",
+   "city": "Pascagoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Captain Calhoun's Anchor",
+   "type": "arts_culture",
+   "city": "Pascagoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue",
+   "type": "arts_culture",
+   "city": "Pascagoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Faulkner's summer house",
+   "type": "historic_site",
+   "city": "Pascagoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Menagerie On Market",
+   "type": "farmers_market",
+   "city": "Pascagoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Round Island Lighthouse",
+   "type": "historic_site",
+   "city": "Pascagoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Pascagoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ocean Springs Veterans' Memorial",
+   "type": "historic_site",
+   "city": "Moss Point",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spin-N-Jacks",
+   "type": "laundromat",
+   "city": "Pascagoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of the Mississippi Delta",
+   "type": "museum",
+   "city": "Greenwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmer's Market",
+   "type": "farmers_market",
+   "city": "Greenwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Emmett Till",
+   "type": "historic_site",
+   "city": "Greenwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greenwood-Leflore Library",
+   "type": "library",
+   "city": "Greenwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmer's Market",
+   "type": "farmers_market",
+   "city": "Greenwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McComb Public Library",
+   "type": "library",
+   "city": "McComb",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black History Gallery",
+   "type": "arts_culture",
+   "city": "McComb",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tractor Supply Company",
+   "type": "farmers_market",
+   "city": "McComb",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Olive Branch Public Library",
+   "type": "library",
+   "city": "Olive Branch",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Cairo Museum",
+   "type": "museum",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lower Mississippi River Museum",
+   "type": "museum",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Arch",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Minnesota Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Michigan Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wisconsin Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New York Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "African American Soldiers' Monument",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Massachusetts Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Hampshire Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ulysses S. Grant Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pennsylvania Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rhode Island Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Navy Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Missouri Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arkansas Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisiana Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mississippi Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Texas Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alabama Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgia Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indiana Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iowa Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Carolina Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Florida Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maryland Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Carolina Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Virginia Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battery De Golyer",
+   "type": "arts_culture",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battery De Golyer",
+   "type": "arts_culture",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Surrender Interview Site",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Illinois Memorial",
+   "type": "historic_site",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Court House Museum",
+   "type": "museum",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warren County-Vicksburg Public Library",
+   "type": "library",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vicksburg Theatre Guild - Parkside Playhouse",
+   "type": "arts_culture",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Biedenharn Coca-Cola Museum",
+   "type": "museum",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Key City Brewery",
+   "type": "brewery_distillery",
+   "city": "Vicksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brahear's Stand",
+   "type": "historic_site",
+   "city": "Ridgeland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boyd Mounds",
+   "type": "historic_site",
+   "city": "Madison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Trace Trail",
+   "type": "historic_site",
+   "city": "Ridgeland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flower",
+   "type": "arts_culture",
+   "city": "Ridgeland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 memorial",
+   "type": "historic_site",
+   "city": "Madison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plaque",
+   "type": "historic_site",
+   "city": "Madison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bicycle Sculpture",
+   "type": "arts_culture",
+   "city": "Ridgeland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bull Statue",
+   "type": "arts_culture",
+   "city": "Ridgeland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weird sculpture",
+   "type": "arts_culture",
+   "city": "Madison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children Playing",
+   "type": "arts_culture",
+   "city": "Madison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mississippi Crafts Center",
+   "type": "museum",
+   "city": "Ridgeland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rebecca Baine Rigby Library",
+   "type": "library",
+   "city": "Madison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elise E. Jurgens Ridgeland Public Library",
+   "type": "library",
+   "city": "Ridgeland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flower Fountain",
+   "type": "arts_culture",
+   "city": "Ridgeland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Village of the Natchez",
+   "type": "historic_site",
+   "city": "Natchez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Public Library",
+   "type": "library",
+   "city": "Natchez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forks of the Road",
+   "type": "historic_site",
+   "city": "Natchez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Natchez Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Natchez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Village of the Natchez",
+   "type": "historic_site",
+   "city": "Natchez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Judge George W. Armstrong Library",
+   "type": "library",
+   "city": "Natchez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Natchez Museum of African American History and Culture",
+   "type": "museum",
+   "city": "Natchez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rosalie Mansion and Gardens",
+   "type": "museum",
+   "city": "Natchez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Magnolia Hall",
+   "type": "museum",
+   "city": "Natchez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Canton Train Museum",
+   "type": "museum",
+   "city": "Canton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sam Wilhite Transportation Museum",
+   "type": "museum",
+   "city": "West Point",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nathaniel 'Slim' Jack",
+   "type": "historic_site",
+   "city": "Indianola",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Club Ebony - Indianola",
+   "type": "historic_site",
+   "city": "Indianola",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "B.B. King Museum",
+   "type": "museum",
+   "city": "Indianola",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henry M. Seymour Library",
+   "type": "library",
+   "city": "Indianola",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quick Clean",
+   "type": "laundromat",
+   "city": "Indianola",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brindley Theater",
+   "type": "arts_culture",
+   "city": "Indianola",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hernando Public Library",
+   "type": "library",
+   "city": "Hernando",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A-OK Dry Cleaners",
+   "type": "laundromat",
+   "city": "Hernando",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DeSoto County Museum",
+   "type": "museum",
+   "city": "Hernando",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mound B",
+   "type": "historic_site",
+   "city": "Batesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mound A",
+   "type": "historic_site",
+   "city": "Batesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mound C",
+   "type": "historic_site",
+   "city": "Batesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mound D",
+   "type": "historic_site",
+   "city": "Batesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tate County Genealogical",
+   "type": "museum",
+   "city": "Senatobia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Senatobia Library",
+   "type": "library",
+   "city": "Senatobia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heindl Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Senatobia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bynum Mound and Village Site",
+   "type": "historic_site",
+   "city": "Houston",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

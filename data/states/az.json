@@ -1,0 +1,9171 @@
+{
+ "state": "AZ",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Burnt Corral Campground",
+   "type": "paid_camp",
+   "town": "Roosevelt, AZ",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Rim Campground (AZ)",
+   "type": "paid_camp",
+   "town": "Grand Canyon Village, AZ",
+   "town_mi": 11.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buffalo Crossing Campground",
+   "type": "paid_camp",
+   "town": "Alpine, AZ",
+   "town_mi": 12.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Potato Patch Campground",
+   "type": "paid_camp",
+   "town": "Jerome, AZ",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Hospital Flat Group Site",
+   "type": "paid_camp",
+   "town": "Swift Trail Junction, AZ",
+   "town_mi": 10,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spring Valley Cabin & Bunkhouse",
+   "type": "paid_camp",
+   "town": "Parks, AZ",
+   "town_mi": 5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Schoolhouse Campground (AZ)",
+   "type": "paid_camp",
+   "town": "Roosevelt Estates, AZ",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Caldwell Cabin",
+   "type": "paid_camp",
+   "town": "Alpine, AZ",
+   "town_mi": 14.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sycamore Cabin",
+   "type": "paid_camp",
+   "town": "Cordes Lakes, AZ",
+   "town_mi": 8.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whitetail Campground",
+   "type": "paid_camp",
+   "town": "Willow Canyon, AZ",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Apache Trout Campground",
+   "type": "paid_camp",
+   "town": "Greer, AZ",
+   "town_mi": 9.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kellner Group Campground",
+   "type": "paid_camp",
+   "town": "Icehouse Canyon, AZ",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Twilight Group Site",
+   "type": "paid_camp",
+   "town": "Swift Trail Junction, AZ",
+   "town_mi": 8.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "White Horse Lake Campground",
+   "type": "paid_camp",
+   "town": "Parks, AZ",
+   "town_mi": 12.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crook Campground",
+   "type": "paid_camp",
+   "town": "Christopher Creek, AZ",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rock Bluff Group Site",
+   "type": "paid_camp",
+   "town": "Sierra Vista, AZ",
+   "town_mi": 12.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Owl Creek Campground",
+   "type": "paid_camp",
+   "town": "Clifton, AZ",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Frazier Group Campground",
+   "type": "paid_camp",
+   "town": "Roosevelt, AZ",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lynx Campground",
+   "type": "paid_camp",
+   "town": "Prescott, AZ",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Alto Pit OHV Campground",
+   "type": "paid_camp",
+   "town": "Prescott, AZ",
+   "town_mi": 6.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Portal Bunkhouse",
+   "type": "paid_camp",
+   "town": "Rodeo, NM",
+   "town_mi": 8.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverview Campground",
+   "type": "paid_camp",
+   "town": "San Jose, AZ",
+   "town_mi": 8.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Windy Point Campground",
+   "type": "paid_camp",
+   "town": "Chloride, AZ",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rose Canyon Campground",
+   "type": "paid_camp",
+   "town": "Willow Canyon, AZ",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Painted Rock Petroglyph Campground",
+   "type": "paid_camp",
+   "town": "Theba, AZ",
+   "town_mi": 11.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grayling Campground",
+   "type": "paid_camp",
+   "town": "Greer, AZ",
+   "town_mi": 9.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Flat Campground West",
+   "type": "paid_camp",
+   "town": "Oak Creek Canyon, AZ",
+   "town_mi": 4.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lynx Lake Recreation Area",
+   "type": "paid_camp",
+   "town": "Prescott, AZ",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Molino Campground",
+   "type": "paid_camp",
+   "town": "Willow Canyon, AZ",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hoyer Campground",
+   "type": "paid_camp",
+   "town": "Greer, AZ",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Peppersauce Campground",
+   "type": "paid_camp",
+   "town": "Campo Bonito, AZ",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Windy Hill Campground",
+   "type": "paid_camp",
+   "town": "Roosevelt, AZ",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Palisades Ranger Residence Cabin",
+   "type": "paid_camp",
+   "town": "Willow Canyon, AZ",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chavez Crossing Group Campground",
+   "type": "paid_camp",
+   "town": "Sedona, AZ",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pinegrove Campground",
+   "type": "paid_camp",
+   "town": "Mormon Lake, AZ",
+   "town_mi": 8.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Wolf Creek Group Campground",
+   "type": "paid_camp",
+   "town": "Prescott, AZ",
+   "town_mi": 9.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cave Creek Group Site",
+   "type": "paid_camp",
+   "town": "Carefree, AZ",
+   "town_mi": 10.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wild Cow Springs Campground",
+   "type": "paid_camp",
+   "town": "Pine Lake, AZ",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Luna Lake Campground",
+   "type": "paid_camp",
+   "town": "Alpine, AZ",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dogtown Lake Campground",
+   "type": "paid_camp",
+   "town": "Williams, AZ",
+   "town_mi": 4.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cherry Area Camping",
+   "type": "paid_camp",
+   "town": "Verde Village, AZ",
+   "town_mi": 9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brown Creek Campground",
+   "type": "paid_camp",
+   "town": "Vernon, AZ",
+   "town_mi": 7.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hilltop Campground (Prescott)",
+   "type": "paid_camp",
+   "town": "Prescott, AZ",
+   "town_mi": 6.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Canyon Point Campground",
+   "type": "paid_camp",
+   "town": "Forest Lakes, AZ",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Rucker Group Site",
+   "type": "paid_camp",
+   "town": "Sunizona, AZ",
+   "town_mi": 18.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fernow Cabin",
+   "type": "paid_camp",
+   "town": "Oak Creek Canyon, AZ",
+   "town_mi": 7.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kent Springs Cabin",
+   "type": "paid_camp",
+   "town": "Elephant Head, AZ",
+   "town_mi": 7.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mingus Mountain Campground",
+   "type": "paid_camp",
+   "town": "Jerome, AZ",
+   "town_mi": 4.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Elden Springs Horse Camp",
+   "type": "paid_camp",
+   "town": "Timberline-Fernwood, AZ",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Arcadia Campground",
+   "type": "paid_camp",
+   "town": "Swift Trail Junction, AZ",
+   "town_mi": 7.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cholla Campground",
+   "type": "paid_camp",
+   "town": "Roosevelt, AZ",
+   "town_mi": 6.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Honeymoon Campground",
+   "type": "paid_camp",
+   "town": "Morenci, AZ",
+   "town_mi": 30,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Calabasas Group Campground",
+   "type": "paid_camp",
+   "town": "Nogales, AZ",
+   "town_mi": 7.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Horsethief Basin Recreation Area",
+   "type": "paid_camp",
+   "town": "Spring Valley, AZ",
+   "town_mi": 13.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Manzanita Campground",
+   "type": "paid_camp",
+   "town": "Oak Creek Canyon, AZ",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rainbow Campground",
+   "type": "paid_camp",
+   "town": "Greer, AZ",
+   "town_mi": 9.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crossroads Campground",
+   "type": "paid_camp",
+   "town": "Cienega Springs, AZ",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yavapai Campground",
+   "type": "paid_camp",
+   "town": "Prescott, AZ",
+   "town_mi": 5.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tusayan-Montane Campground",
+   "type": "paid_camp",
+   "town": "Tusayan, AZ",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Granite Basin Recreation Area",
+   "type": "paid_camp",
+   "town": "Prescott, AZ",
+   "town_mi": 6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spillway Campground",
+   "type": "paid_camp",
+   "town": "Christopher Creek, AZ",
+   "town_mi": 4.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Groom Creek Horse Camp",
+   "type": "paid_camp",
+   "town": "Prescott, AZ",
+   "town_mi": 8.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Aspen Campground (Woods Canyon)",
+   "type": "paid_camp",
+   "town": "Christopher Creek, AZ",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Burro Creek Campground",
+   "type": "paid_camp",
+   "town": "Wikieup, AZ",
+   "town_mi": 13.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Reynolds Creek Group Campground",
+   "type": "paid_camp",
+   "town": "Rock House, AZ",
+   "town_mi": 16.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cave Spring Campground",
+   "type": "paid_camp",
+   "town": "Oak Creek Canyon, AZ",
+   "town_mi": 3.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cutthroat Campground",
+   "type": "paid_camp",
+   "town": "Greer, AZ",
+   "town_mi": 9.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hull Cabin",
+   "type": "paid_camp",
+   "town": "Tusayan, AZ",
+   "town_mi": 9.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Promontory Pit Road Campground",
+   "type": "paid_camp",
+   "town": "Christopher Creek, AZ",
+   "town_mi": 4.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jumpup Cabin",
+   "type": "paid_camp",
+   "town": "Kaibab, AZ",
+   "town_mi": 22.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "O'Leary Group Campground",
+   "type": "paid_camp",
+   "town": "Timberline-Fernwood, AZ",
+   "town_mi": 3.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Winn Campground",
+   "type": "paid_camp",
+   "town": "Greer, AZ",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Showers Point Group Site",
+   "type": "paid_camp",
+   "town": "Willow Canyon, AZ",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stockton Pass Campground",
+   "type": "paid_camp",
+   "town": "Swift Trail Junction, AZ",
+   "town_mi": 12.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagle Ridge Group Campground",
+   "type": "paid_camp",
+   "town": "Prescott, AZ",
+   "town_mi": 6.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "White Spar Campground",
+   "type": "paid_camp",
+   "town": "Prescott, AZ",
+   "town_mi": 6.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Horsethief Cabin",
+   "type": "paid_camp",
+   "town": "Black Canyon City, AZ",
+   "town_mi": 11.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Wolf Creek Campground",
+   "type": "paid_camp",
+   "town": "Wilhoit, AZ",
+   "town_mi": 9.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dairy Springs Campground",
+   "type": "paid_camp",
+   "town": "Mormon Lake, AZ",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Playground Group Campground",
+   "type": "paid_camp",
+   "town": "Jerome, AZ",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Cathedral Rock Vortex Hike",
+   "type": "hiking",
+   "city": "Sedona",
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arizona Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Echo Canyon to Visitor Center",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gillard Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ape Index",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bonita Creek Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Barnum Rock",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lost Man Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Beaver Wall",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cactus Flower West",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Lower Cliff Dwelling Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lower Rhyolite Canyon Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sugarloaf Mountain Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Coon Bluff",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Watch the Sunset from Desert View Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Monolith Garden Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cerbat Foothills Recreation Area (CFRA)",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wabayuma Peak Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Havasu",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hell's Canyon Wilderness",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Willcox Playa National Natural Landmark",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cactus Plain Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Black Canyon National Recreation Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Coconino National Forest Recreation",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kaibab National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Prescott National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tonto National Forest",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Apache-Sitgreaves National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kanab Creek Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Buenos Aires National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cabeza Prieta National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arrastra Mountain Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Aubrey Peak Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Baboquivari Peak Wilderness",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Big Horn Mountains Wilderness",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Eagletail Mountains Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "East Cactus Plain Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gibraltar Mountain Wilderness",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Harcuvar Mountains Wilderness",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Harquahala Mountains Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hassayampa River Canyon Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hummingbird Springs Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mount Nutt Wilderness",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mount Tipton Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mount Wilson Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Muggins Mountain Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Needle's Eye Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "New Water Mountains Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rawhide Mountains Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sierra Estrella Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Signal Mountain Wilderness",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Swansea Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Table Top Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tres Alamos Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Trigo Mountain Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cibola National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Upper Burro Creek Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wabayuma Peak Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Warm Springs Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "White Canyon Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Woolsey Peak Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Imperial Reservoir Area: Mittry Lake Wildlife Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Imperial National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bill Williams River Locality",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Canyon Overlook Picnic Area",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sun Valley Mine",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Turkey Creek Cliff Dwelling Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kofa National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "San Bernardino National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Davis Dam",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paria Canyon-Vermilion Cliffs Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Quartz Peak Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Coyote Mountains Wilderness",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gila River Recreation Area",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lava Flow Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Table Top Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Standard Wash OHV Area",
+   "type": "off_roading",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Black Hills Back Country Byway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Homestead Climbing Area",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Harquahala Mountain Back Country Byway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Aravaipa Canyon Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Little Black Mountain Petroglyph Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "San Simon Valley",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Vermilion Cliffs Highway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Imperial Dam Long Term Visitor Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Powell",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hot Well Dunes Recreation Area",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Copper Basin Dunes OHV Area",
+   "type": "off_roading",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gila Box Riparian National Conservation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Windy Point Recreation Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Crossroads OHV Area",
+   "type": "off_roading",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Blythe Intaglios",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Las Cienegas National Conservation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Round Mountain Rockhound Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Indian Bread Rocks Picnic Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Turkey Creek",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rug Road",
+   "type": "off_roading",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dos Cabezas Mountains Wilderness",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "North Santa Teresa Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Redfield Canyon Wilderness",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fishhooks Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Baker Canyon Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dankworth Village",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Grand Canyon - Parashant National Monument",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ironwood Forest National Monument",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sonoran Desert National Monument",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arizona-Sonora Desert Museum",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bill Williams River National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Leslie Canyon National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "WestWorld",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Safford-Morenci Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Alamo Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Virgin River Canyon Recreation Area (P)",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Burro Creek Recreation Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "San Pedro Riparian National Conservation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "La Posa Long Term Visitor Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Parker Strip Recreation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Pleasant",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Betty's Kitchen Watchable Wildlife Viewing Area and National Recreation Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bill Williams River",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Muleshoe Ranch",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Route 66 Historic Back Country Byway",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Crack-In-Rock Ranger-Led Hike",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "View Montezuma Castle",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Tuzigoot Pueblo",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Lower Cliff Dwelling Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Massai Point Nature Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Trails at Chiricahua",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Lone Palm Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Goldstrike Canyon Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "History Exhibit - The Amazing Kolb Brothers",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Scramble down Cathedral Wash Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "From Your Boat To The Bridge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Callville Summit Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Historic Railroad Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kaibab House Ranger-Led Hike",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "East Mesa Ranger-Led Hike",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Swimming in Lake Powell",
+   "type": "swimming",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Montezuma Castle and Tuzigoot BARK Ranger",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Echo Canyon Grottoes",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Silver Spur Meadow Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bonita Creek Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at South Arizona Telepone Cove",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at Rogers Spring",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Citadel and Nalakihu Pueblos",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Junior Ranger at Walnut Canyon",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Historic Old County Road!",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at Echo Bay",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sugarloaf Mountain Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Junior Ranger at Wupatki",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at Princess Cove",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at Cottonwood Cove",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at Temple Bar",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Estes Canyon/Bull Pasture Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at Willow Beach",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at Katherine Landing",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at Las Vegas Bay",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at Callville Bay",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at 33 Hole Overlook",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at Redstone",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Junior Ranger at Sunset Crater Volcano",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Echo Canyon to Visitor Center",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Wupatki Pueblo",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Wukoki Pueblo",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Lomaki and Box Canyon Pueblos",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Peek into the Paleo Lab",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Driving to Alstrom Point",
+   "type": "scenic_drive",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Senita Basin Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Drive the Ajo Mountain Loop",
+   "type": "scenic_drive",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike to Victoria Mine",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Unearth Dripping Springs Mine",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Alamo Canyon",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Arch Canyon",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walk Your Pet along Palo Verde Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Watch the Sunset from Desert View Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "See Endangered Pupfish Along the Visitor Center Nature Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lower Rhyolite Canyon Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Contemplate Your Place in the Landscape At The Big Map",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Stretch Your Legs on the Campground Perimeter Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become an Organ Pipe Junior Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Heart of Rocks Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore the Mission Grounds",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Drive South Puerto Blanco Road",
+   "type": "scenic_drive",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Desert Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Anza Trail from Tumacácori to Tubac, AZ",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "The Big Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Trail to Natural Bridge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walk Long Logs Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walk the Tawa Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walk the Painted Desert Rim Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walk Puerco Pueblo Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walk Crystal Forest Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walk Blue Mesa Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore at the Paleo Exhibits at Rainbow Forest Museum",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Take a Self-Guided Tour of Giant Logs",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lonely Dell Ranch Historic Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Coronado Visitor Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Take a stroll to Horseshoe Bend Overlook",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Painted Rock Dam",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Temple Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mt. Trumbull",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mokaac Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Vermilion Cliffs National Monument",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sharlot Hall Museum",
+   "type": "museum",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Indigenous People",
+   "type": "museum",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iron Springs Plaza Laundry",
+   "type": "laundromat",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thumb Butte Distillery",
+   "type": "brewery_distillery",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phippen Museum of Western Art",
+   "type": "museum",
+   "city": "Prescott Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cowboy at Rest",
+   "type": "arts_culture",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prescott P",
+   "type": "historic_site",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Whipple Museum",
+   "type": "museum",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lynx Lake Store & Marina",
+   "type": "farmers_market",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Firefighters Memorial",
+   "type": "historic_site",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Granite Creek",
+   "type": "historic_site",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yavapai County Service Flag",
+   "type": "historic_site",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pauline Weaver",
+   "type": "historic_site",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Captain William O’Neill",
+   "type": "historic_site",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hotel St. Michael",
+   "type": "historic_site",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prescott College Library",
+   "type": "library",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bent of Tau Beta Pi",
+   "type": "arts_culture",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Campus Miniature Model",
+   "type": "arts_culture",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statehood Tree",
+   "type": "historic_site",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bicentennial Tree",
+   "type": "historic_site",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Upper Granite Creek Watershed",
+   "type": "arts_culture",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Del Rio Springs Vineyard Wine Tasting Room",
+   "type": "brewery_distillery",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joseph Robertson Gallery",
+   "type": "arts_culture",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Western Heritage Center",
+   "type": "museum",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Van Gogh’s Ear",
+   "type": "arts_culture",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountain Spirit Gallery",
+   "type": "arts_culture",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arts Prescott Gallery",
+   "type": "arts_culture",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weir Gallery",
+   "type": "arts_culture",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ian Russell Gallery of Fine Art",
+   "type": "arts_culture",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hazy Library",
+   "type": "library",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prescott Public Library",
+   "type": "library",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mark Hines Designs",
+   "type": "arts_culture",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Highlands Center for Natural History",
+   "type": "science_center",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hardyville Road Marker",
+   "type": "historic_site",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jim and Linda Lee Planetarium",
+   "type": "planetarium",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lockheed F-104 Starfighter 811",
+   "type": "arts_culture",
+   "city": "Prescott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The People",
+   "type": "arts_culture",
+   "city": "Safford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Epley's Ruin",
+   "type": "historic_site",
+   "city": "Safford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Safford Public Library",
+   "type": "library",
+   "city": "Safford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eastern Arizona Museum and Historical Society",
+   "type": "museum",
+   "city": "Pima",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Library Annex",
+   "type": "library",
+   "city": "Safford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "old stone houses",
+   "type": "historic_site",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phoenix Park ‘N Swap",
+   "type": "farmers_market",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Arizona Monument",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Social Spin Laundromat",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phoenix Police Museum",
+   "type": "museum",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phoenix Cancer Survivors",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Release the Fear",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "eye lounge",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tempe Farmers Market",
+   "type": "farmers_market",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Agua Clean Laundry",
+   "type": "laundromat",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Taco Guild",
+   "type": "brewery_distillery",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Desarrollo Incubator",
+   "type": "coworking",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean War Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Arizona Mast",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ernest W. McFarland Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Law Enforcement K9 Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Peace Officer Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Enduring Freedom Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Armenian Holocaust Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam Veterans Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Father Eusibio Kino Statue",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Navajo Code Talkers Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bushmasters Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Workers Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Pioneer Women Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confederate Troops Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Law Enforcement Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civilian Conservation Corps Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mother Bunch Brewing",
+   "type": "brewery_distillery",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Arizona Stern Flag Marker",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Arizona/Missouri Bow Flag Marker",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Missouri Stern Flag Marker",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freeway Pot",
+   "type": "arts_culture",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freeway Pot",
+   "type": "arts_culture",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pedal Haus Brewery",
+   "type": "brewery_distillery",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tree of Life",
+   "type": "historic_site",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rosson House Museum",
+   "type": "museum",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coinless Laundry",
+   "type": "laundromat",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valley Youth Theater",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Her Secret is Patience",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freeway Pot",
+   "type": "arts_culture",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freeway Pot",
+   "type": "arts_culture",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Superior Court Law Library Resource Center",
+   "type": "library",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kwik Wash",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ottosen Gallery",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Perl Charles Memoral Trail",
+   "type": "historic_site",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Torch Theatre",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "O.H.S.O",
+   "type": "brewery_distillery",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Landry",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camp Papago WWII Prisoner Escape Tunnel Exit",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sparkles Laundromat",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "An Gorta Mór, the Great Hunger Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Unity Wall",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "El Espiritu del Desierto",
+   "type": "arts_culture",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cuatro Animales Salvajes",
+   "type": "arts_culture",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A Brief History of Technology",
+   "type": "arts_culture",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cesar Chavez",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Setting up the Competition",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shachi",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Legend City Studios",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eric Fischl Gallery",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woman",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dynamite Beer Company",
+   "type": "brewery_distillery",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Canyon University Library",
+   "type": "library",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Latino Arts and Cultural Center",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Combine Studios",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Nash Jazz Club",
+   "type": "live_music",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Trunk Space",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Blaze",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First Studio",
+   "type": "coworking",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clean Laundry",
+   "type": "laundromat",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "[mood room]",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Market Monarca",
+   "type": "farmers_market",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sparkles Laundromat",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Less Laundry",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Salvaged Ironwood",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freeway Pot",
+   "type": "arts_culture",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Window of Dialectic Views",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leonardo da Vinci’s Window",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunshine Laundry",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "circle of children playing",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Pope John Paul II",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Mother Teresa of Calcutta",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St Francis of Assisi",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Our Lady of Guadalupe",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Winged Victory",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pope John Paul II Visit Cupola",
+   "type": "historic_site",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Risen Christ",
+   "type": "arts_culture",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OHSO Brewery and Distillery",
+   "type": "brewery_distillery",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pagoda",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mayors’ Tree",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Arizona Bolas",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Our Lade of Guadlupe",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Xico",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Marylin",
+   "type": "coworking",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hatfield Commercial Laundry & Linen",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crucifix",
+   "type": "historic_site",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Country Fresh West",
+   "type": "farmers_market",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Less Laundry",
+   "type": "laundromat",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "RS Produce",
+   "type": "farmers_market",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Regal Laundries",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Armory",
+   "type": "coworking",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "[nueBOX]",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sisāo Gallery",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Arthaus",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Onyx Art Gallery",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Five15Arts @ Chartreuse",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goat Heart Studio",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The McKinley Club",
+   "type": "coworking",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roses by the Stairs Brewing",
+   "type": "brewery_distillery",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Rude Gallery",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newing Studio & Gallery",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garfield Galleria",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stem Wine Company",
+   "type": "brewery_distillery",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kreative Arts Collective",
+   "type": "coworking",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "My Laundry Room",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beyond What We Were",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Industrious",
+   "type": "coworking",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vattra Laundry II",
+   "type": "laundromat",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Craft Brewer's Guild",
+   "type": "brewery_distillery",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MAC6 Coworking Space",
+   "type": "coworking",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bower Park Commemoration",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dietary Building Commemoration",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "W.P. Hunt Building Commemoration",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Administration Building Commemoration",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chapel Commemoration",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil Hospital Dedication",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "All Souls Cemetery Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watermark",
+   "type": "arts_culture",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farah Laundromat",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prism Specialties Art of Phoenix",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William G. Hartranft",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kasuga-Doro",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spaces of Opportunity",
+   "type": "farmers_market",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tree of Life",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Kiln",
+   "type": "coworking",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amadio Ranch",
+   "type": "farmers_market",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grandma’s Farm",
+   "type": "farmers_market",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint John Via Vianney",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City Laundry",
+   "type": "laundromat",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lonely Flight",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A Path for Water",
+   "type": "arts_culture",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Infinite Possibilities",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "High Flight",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Shop Beer Co.",
+   "type": "brewery_distillery",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OHSO Brewery + Distillery",
+   "type": "brewery_distillery",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Six Byrd Cider Co",
+   "type": "brewery_distillery",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dorrance DOME",
+   "type": "planetarium",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lucid Private Offices",
+   "type": "coworking",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Econo Wash",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rapid Wash Laundry",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clean Laundry",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whitman Hall",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Earth Walking",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Mining and Mineral Museum",
+   "type": "museum",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Financial Theatre",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carnegie Public Library",
+   "type": "library",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Suntown Cleaners",
+   "type": "laundromat",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SaltFire Brewery Co Taphouse",
+   "type": "brewery_distillery",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burton Barr Central Library",
+   "type": "library",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Herberger Theater",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phoenix Symphony Hall",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hall of Flame Fire Museum",
+   "type": "museum",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Modified Arts",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairview Place Historic District",
+   "type": "historic_downtown",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodlea Historic District",
+   "type": "historic_downtown",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idylwilde Park Historic District",
+   "type": "historic_downtown",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heritage and Science Park",
+   "type": "historic_downtown",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orpheum Theatre",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phoenix Employee Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Wilderness DTPHX",
+   "type": "brewery_distillery",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phoenix Center for the Arts",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Arizona Puppet Theater",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brentwood Historic District",
+   "type": "historic_downtown",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Armstrong Prior Gallery",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rise Spirits",
+   "type": "brewery_distillery",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Avenue of Stars",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fate Brewing Company - Phoenix",
+   "type": "brewery_distillery",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vision Produce Company",
+   "type": "farmers_market",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Teatro Bravo",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lisa Sette Gallery",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ashland Place Historic District",
+   "type": "historic_downtown",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yucca Library",
+   "type": "library",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prickly Pear Library",
+   "type": "library",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palo Verde Branch Library",
+   "type": "library",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pueblo Grande Ball Court",
+   "type": "historic_site",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "S'edav Va'aki Museum",
+   "type": "museum",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Room",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Treeo",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheatre",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nina Mason Pulliam Rio Salado Audubon Center",
+   "type": "museum",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pueblo Grande",
+   "type": "historic_site",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Loma del Rio Ruins",
+   "type": "historic_site",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tempe Center for the Arts",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pueblo Grande Museum and Archaeological Park",
+   "type": "historic_site",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pueblo Grande Museum and Archaeological Park",
+   "type": "historic_site",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marquee Theatre",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fashion Cleaners",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "PHX BEER CO",
+   "type": "brewery_distillery",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guns to Salute the Fallen",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Arizona Cannon",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Missouri Cannon",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Econo Wash",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Fire Fighers Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "HY-VIEW",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "timeline",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Swimming Dreamers",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "CultureHUB",
+   "type": "coworking",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Mountain Community Library",
+   "type": "library",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stardust Foundation Plaza",
+   "type": "historic_downtown",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ullman Terrace",
+   "type": "historic_downtown",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Opera",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Century Branch Library",
+   "type": "library",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tryst Marker",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Science Center",
+   "type": "science_center",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Create at Arizona Science Center",
+   "type": "science_center",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Agua Caliente 24 Hour Laundromat",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Madison Center for the Arts",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saguaro Library",
+   "type": "library",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harmon Library",
+   "type": "library",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ardie & Steve Evans Cardon Plaza",
+   "type": "historic_downtown",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shemer Art Center",
+   "type": "museum",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Petersen House Museum",
+   "type": "museum",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phoenix Trolley Museum",
+   "type": "museum",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Avenue Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pomeroy Art Studio",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cesar Chavez Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eastlake Amphitheatre",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tela Art Resource",
+   "type": "arts_culture",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center Stage",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tiny Bubbles 24 Hour Laundromat",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Doornbos Discovery Amphitheater",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corral Cleaners & Launderers",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ocotillo Library",
+   "type": "library",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Less Laundry",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's Museum of Phoenix",
+   "type": "museum",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greenwood Brewery",
+   "type": "brewery_distillery",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Villa Verde Historic District",
+   "type": "historic_downtown",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Papago Amphitheater",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artessy",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soak N Snack",
+   "type": "laundromat",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peace Portal",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Kax Theatre",
+   "type": "arts_culture",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heard Museum",
+   "type": "museum",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phoenix Art Museum",
+   "type": "museum",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "David and Gladys Wright House",
+   "type": "museum",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Military Museum",
+   "type": "museum",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "CO+HOOTS Coworking",
+   "type": "coworking",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Washington Carver Museum and Cultural Center",
+   "type": "museum",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "International Wildlife Museum",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gadsden-Pacific Division Toy Train Operating Museum",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Town Artisans",
+   "type": "farmers_market",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saguarohenge",
+   "type": "historic_site",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frank De La Cruz-El Pueblo Library",
+   "type": "library",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Borderlands Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U.S.S. Arizona Mall Memorial",
+   "type": "historic_site",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J. Knox Corbett House",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moments To Remember",
+   "type": "arts_culture",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barrio Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miracle Mile Historic District",
+   "type": "historic_downtown",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Airmen Memorial Bridge",
+   "type": "historic_site",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ignite Sign Art Museum",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Tucson Fine Mineral Gallery",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Theatre Company",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Philibaum Glass Gallery",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mr. Heads Gallery",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MIssion Public Library",
+   "type": "library",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quincie Douglas Library",
+   "type": "library",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Supercleaners",
+   "type": "laundromat",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gaslight Theatre",
+   "type": "arts_culture",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pima County Library",
+   "type": "library",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fiesta Lavanderia",
+   "type": "laundromat",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nimbus Brewing Company",
+   "type": "brewery_distillery",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Screwbean Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bowen Stone House Ruins",
+   "type": "historic_site",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Linen Fresh Laundry Ft. Lowell",
+   "type": "laundromat",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Postal History Foundation",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flowing Wells Library",
+   "type": "library",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "January 8th Memorial",
+   "type": "historic_site",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University Indian Ruin",
+   "type": "historic_site",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Solar Culture",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Diamondback Bridge",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crooked Tooth Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rialto Theatre",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona History Museum",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aldea Linda Residential Historic District",
+   "type": "historic_downtown",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colonia Solana Residential Historic District",
+   "type": "historic_downtown",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "San Clemente Historic District",
+   "type": "historic_downtown",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pie Allen Historic District",
+   "type": "historic_downtown",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warehouse Historic District",
+   "type": "historic_downtown",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fox Theatre",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Art",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Health Sciences Library",
+   "type": "library",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spoke6",
+   "type": "coworking",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pueblo Vida Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Canyon State/The Arizonan Motel Historic Neon Sign",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Magic Carpet Golf Historic Neon Sign",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tucson Miracle Mile Neon Welcome Sign",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tropicana Motor Hotel Historic Neon Sign",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Medina's Sporting Goods Historic Neon Sign",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monterey Court",
+   "type": "farmers_market",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Community Playhouse",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Historical Society Downtown Museum",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pima Community College Downtown Library",
+   "type": "library",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Fort Lowell Hospital",
+   "type": "historic_site",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Connect Coworking",
+   "type": "coworking",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Neighborhood Artwork",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Desert Mural",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Table of the Sun Cubed",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Another Martyr #4",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Girl with Doves",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "25 Scientists",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wildcat Family",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Border Dynamics",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Arizona Tile Piece",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Uaspire #1",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Curving Arcades",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "La Primera Vista",
+   "type": "arts_culture",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"A\" Statue",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zerorez Tucson",
+   "type": "laundromat",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "B-52 Bomber Tail",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battle of the Bulge",
+   "type": "historic_site",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Poncho Villa",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Exchange at the Presidio - The Mormon Battalion Enters Tucson",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "JFK Memorial Plaque",
+   "type": "historic_site",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Desert O",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Solar Tower",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sentinel Plaza Gateway Park",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greetings from Tucson Mural",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frida and Diego All Souls Mural",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "G’s Horn",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Legacy Gallery",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nest",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butterfly Project Installation",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wells Fargo Foyer Gallery",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maytag Laundry",
+   "type": "laundromat",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Polo Field",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint Frances Cabrini",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesquite Garden Archway",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Cruz Gateway",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Be Kind",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tumamoc and the River of Life",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tucson Desert Art Museum",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children’s Museum Oro Valley",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sam Lena Library",
+   "type": "library",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr. Thomas Mixner Memorial",
+   "type": "historic_site",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mike's \"Just Like Home\" Coin Laundromat",
+   "type": "laundromat",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McT-Rex",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Stallion",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arts Express Theatre",
+   "type": "arts_culture",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Uhc Stores",
+   "type": "farmers_market",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Troubadour Theatre",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "N.E. Corner Adobe Wall of Spanish Presidio of Tucson",
+   "type": "historic_site",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Organ Pipe Cactus",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bouquet",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bike Church",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cool Cat Laundromat",
+   "type": "laundromat",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wyatt Earp and Doc Holliday",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Century Room",
+   "type": "live_music",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Presidio San Agustin Del Tucson",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ZOO",
+   "type": "arts_culture",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona State Museum South",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona State Museum",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pima County Public Library (Joel D. Valdez Main Branch)",
+   "type": "library",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eller Theater",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John P. Schaefer Center for Creative Photography",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tucson Museum of Art",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "La Casa Cordova",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leo Rich Theater",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Linda Ronstadt Music Hall",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Pueblo Trolley Barn",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tucson Children's Museum",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Contemporary Art",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DeMeester Performance Center",
+   "type": "arts_culture",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southern Arizona Transportation Museum",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Auditorium",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eckstrom-Columbus Branch Library",
+   "type": "library",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martha Cooper Branch Library",
+   "type": "library",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woods Branch Library",
+   "type": "library",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Drawing Studio",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Philip's Plaza",
+   "type": "farmers_market",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Himmel Branch Library",
+   "type": "library",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "H. H. Franklin Auto Museum",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valley of the Moon",
+   "type": "historic_site",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Mini Time Machine Museum",
+   "type": "museum",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sun Circle",
+   "type": "historic_site",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Murphy Wilmot Branch Library",
+   "type": "library",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Rosa Library",
+   "type": "library",
+   "city": "South Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Donald R. Nickerson Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AHSC Library",
+   "type": "library",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona State University Art Museum",
+   "type": "museum",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camp Lehi Memorial",
+   "type": "historic_site",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LOVE",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eco Laundry",
+   "type": "laundromat",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Postino",
+   "type": "brewery_distillery",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Brush Bar",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MCC Planetarium",
+   "type": "planetarium",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles Miller",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Need To Know",
+   "type": "arts_culture",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pioneer Park Monument",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pioneer Park Grotto",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vision Gallery",
+   "type": "arts_culture",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Helianthus",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Library Media Center",
+   "type": "library",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stage",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Revolution",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lion Statue",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kats Village Coin Laundry",
+   "type": "laundromat",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Desert Monk Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Intersection",
+   "type": "arts_culture",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TLC Wash N Clean",
+   "type": "laundromat",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesa Laundry",
+   "type": "laundromat",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Desert Cider House",
+   "type": "brewery_distillery",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alamo Professional Laundry Services",
+   "type": "laundromat",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Down Time Wines",
+   "type": "brewery_distillery",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "COIN Less Laundry",
+   "type": "laundromat",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Chandler Laundry",
+   "type": "laundromat",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "COIN Less Laundry",
+   "type": "laundromat",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Econo Wash",
+   "type": "laundromat",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Royal Craft Gallery",
+   "type": "arts_culture",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "INSPIRE Entertainment",
+   "type": "arts_culture",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tuscany Theatre",
+   "type": "arts_culture",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vattra Laundry I",
+   "type": "laundromat",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Less Laundry",
+   "type": "laundromat",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pixypros Selfie Museum",
+   "type": "museum",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scrap Book Boy",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hot Bread",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ribaudo Fine Arts Studio",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Neighborhood Comedy Theatre",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Nile Theater",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OneOhOne Art Gallery",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Melting Mural",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prime Cut & Sew",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "D.E.S. Mural",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gotham City Comics Mural",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Milano Music Mural",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "What Lifts You",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lost Neon Sign Mural",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Surf & Ski Mural",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cinderella Mural",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Floral Mural",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Desert Landscape Mural",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sonance",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flowering Stiletto",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Betty",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Big Pink Chair",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Builder",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quackers",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "W.H. Passey",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Teaching Children Since 1878",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Desert Rose",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Mesa Mural",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Deadwood",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Booked for the Day",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pete’s Place",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wall Street Farmer",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Two Horses",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big League Dreams",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Black Charlie",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Truth",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shadow Curtain: Open Windows",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Home Delivery",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Howling Wolf",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Climb as High as Your Dreams",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "They Are Waiting",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forever New Frontiers",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dancer #1",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Learning Together",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zebulon Pearce",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spring Fever",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soul Survivor",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Citrus Grower",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wayne Pomeroy",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bearly Fishin’",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Acrocanthosaurus",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Autosaurs",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dilophosaur",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Polar Bear & Cubs",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Humpty Dumpty",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Regus",
+   "type": "coworking",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesa Contemporary Arts Museum",
+   "type": "museum",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Super Laundry",
+   "type": "laundromat",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ernest W. McFarland",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Star Memorial",
+   "type": "historic_site",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Never Forget Garden",
+   "type": "historic_site",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fine Art For Bodies",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wine 2 U",
+   "type": "brewery_distillery",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peace Pole",
+   "type": "historic_site",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Night People",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Piper Repertory Theater",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tempe Improv Comedy Theatre",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesa Musical Shadows",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southwestern Pieta",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spirit",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spirit of Inquiry",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Celebration",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Less Laundry",
+   "type": "laundromat",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heirloom Gallery",
+   "type": "arts_culture",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frame of Mind",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Regus",
+   "type": "coworking",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jack Knife",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "One-Eyed Jack",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tide Dry Cleaners",
+   "type": "laundromat",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry (Lavanderia)",
+   "type": "laundromat",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tall Cross",
+   "type": "historic_site",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plaza Laundromat",
+   "type": "laundromat",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OHSO Brewery",
+   "type": "brewery_distillery",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wash Clinic Laundromat",
+   "type": "laundromat",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WeWork",
+   "type": "coworking",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Superwash Laundromat",
+   "type": "laundromat",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "2nd A",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bridge Improv Theater",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Katzin Concert Hall",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evelyn Smith Music Theatre",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Regional Theatre",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Adventurous Stills",
+   "type": "brewery_distillery",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cecilia's Market",
+   "type": "farmers_market",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Winfield Scott Memorial",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pearson Company",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jim Klein Art Factory",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blurred Lines",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Andyvine Market",
+   "type": "arts_culture",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Limelight Youth Theatre",
+   "type": "arts_culture",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waiting for a Date",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Opportunity (reflection)",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Snake Skin Boots With Snake Heads",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art One",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chandler Youth Theatre",
+   "type": "arts_culture",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A+ Coin Laundry",
+   "type": "laundromat",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Caduceus",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Catalyst Crafted Ales",
+   "type": "brewery_distillery",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Six Byrd CIder Co",
+   "type": "brewery_distillery",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ikeda Theater",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "One Handsome Bastard",
+   "type": "brewery_distillery",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Yearlings",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windows to the West",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civic Center Public Gallery",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fate Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Venture X Chandler Office Space",
+   "type": "coworking",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hayden Library",
+   "type": "library",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hayden Library Concourse",
+   "type": "library",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ross-Blakley Hall",
+   "type": "library",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grady Gammage Memorial Auditorium",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hale Theater",
+   "type": "arts_culture",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southeast Regional Library",
+   "type": "library",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paul A. Elsner Library",
+   "type": "library",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MCC Theatre",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civic Center Library",
+   "type": "library",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "F-86 Sabre",
+   "type": "historic_site",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Museum of Natural History",
+   "type": "science_center",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesa Public Library",
+   "type": "library",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesa Arts Center",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "il Vinaio",
+   "type": "brewery_distillery",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hoo-Hoogam Ki Museum",
+   "type": "museum",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scottsdale Center for The Performing Arts",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesa Monument",
+   "type": "historic_site",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dobson Ranch Branch Library",
+   "type": "library",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chandler Downtown Library",
+   "type": "library",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scottsdale Community College Library",
+   "type": "library",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Four Peaks Wilson",
+   "type": "brewery_distillery",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gilbert Farmers Market",
+   "type": "farmers_market",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chandler Center for the Arts",
+   "type": "arts_culture",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scottsdale Museum of Contemporary Art",
+   "type": "museum",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Air Apparent",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shepherd Auditorium",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Tilted Landscape",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodnotes Cellar",
+   "type": "brewery_distillery",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert P. Curry Library",
+   "type": "library",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "idea Museum",
+   "type": "museum",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "COIN Less Laundry",
+   "type": "laundromat",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tempe History Museum",
+   "type": "museum",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edna Vihel Activity Center",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tempe Public Library",
+   "type": "library",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boeing Veteran's Memorial",
+   "type": "historic_site",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Creative Center of Scottsdale",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goldwater Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Western Spirit: Scottsdale's Museum of the West",
+   "type": "museum",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paul Scott Gallery",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Gallery",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Less Laundry",
+   "type": "laundromat",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Craft 64",
+   "type": "brewery_distillery",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Commemorative Air Force Museum",
+   "type": "museum",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Heritage Center",
+   "type": "museum",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Social Spin Laundromat",
+   "type": "laundromat",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mystery Mansion Dinner Theater",
+   "type": "arts_culture",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Wheel",
+   "type": "laundromat",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WaveMax Laundromat",
+   "type": "laundromat",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Millet House Art Collective",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SanTan Brewery",
+   "type": "brewery_distillery",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chandler Downtown Stage",
+   "type": "arts_culture",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zarco Guerrero",
+   "type": "museum",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Silver Star Theater",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Valley Children's Theatre",
+   "type": "arts_culture",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bollinger Atelier",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frank-Lin Beverage Group",
+   "type": "brewery_distillery",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crescent Crown Distributing",
+   "type": "brewery_distillery",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "COIN Less LAUNDRY",
+   "type": "laundromat",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Country Club Laundry",
+   "type": "laundromat",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rocket Space",
+   "type": "arts_culture",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Collaboratory",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "24 Hour Coin Laundry",
+   "type": "laundromat",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesa Historical Museum",
+   "type": "museum",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freeman Farms",
+   "type": "farmers_market",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesa Grande Cultural Park",
+   "type": "historic_site",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hundred Mile Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Tempe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Street Creative Arts Center",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Superwash Laundromat",
+   "type": "laundromat",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesa Amphitheatre",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scottsdale Neighborhood Arts Place",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr. Ruth Tan Lim Performance Hall",
+   "type": "arts_culture",
+   "city": "Mesa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gilbert Historical Society Museum",
+   "type": "museum",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dianoga",
+   "type": "arts_culture",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chandler Public Library-Hamilton Branch",
+   "type": "library",
+   "city": "Sun Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Railway Museum",
+   "type": "museum",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boulder",
+   "type": "historic_site",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rocket to Stars",
+   "type": "historic_site",
+   "city": "Sun Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Eagle in Flight",
+   "type": "historic_site",
+   "city": "Sun Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fresh and Easy",
+   "type": "historic_site",
+   "city": "Sun Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Metal Art - Earth Element",
+   "type": "historic_site",
+   "city": "Sun Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moroni",
+   "type": "historic_site",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Continuum Globe",
+   "type": "historic_site",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial of Chandler",
+   "type": "historic_site",
+   "city": "Sun Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sundial",
+   "type": "arts_culture",
+   "city": "Sun Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thermometer",
+   "type": "arts_culture",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "H. L. (Tom) Earley, Jr.",
+   "type": "historic_site",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Chandler Sign",
+   "type": "historic_site",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash Works Laundry Center",
+   "type": "laundromat",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barnone AZ",
+   "type": "farmers_market",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valley Tap Room",
+   "type": "brewery_distillery",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Park Lucero",
+   "type": "farmers_market",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vinum 55",
+   "type": "brewery_distillery",
+   "city": "Sun Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AMC Ahwatukee 24",
+   "type": "arts_culture",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chandler Sunset Library",
+   "type": "library",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "H.O.P. Central Brewing Company and Taproom",
+   "type": "brewery_distillery",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goldwater Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fuse Flex Space",
+   "type": "coworking",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brews",
+   "type": "brewery_distillery",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Huss Brewing",
+   "type": "brewery_distillery",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arnette Scott Ward Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Discovery Park Amptheatre",
+   "type": "arts_culture",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wall with Waves scultpure",
+   "type": "arts_culture",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chandler Public Library Basha Branch",
+   "type": "library",
+   "city": "Sun Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ed Robson Library",
+   "type": "library",
+   "city": "Sun Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tumbleweed Ranch",
+   "type": "museum",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morrison Ranch Silos",
+   "type": "historic_site",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chandler Museum",
+   "type": "museum",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Shed Theatre Entertainment Station",
+   "type": "arts_culture",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southwest Youth Ballet Theatre",
+   "type": "arts_culture",
+   "city": "Chandler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "82nd Training Wing, Williams Air Force Base",
+   "type": "historic_site",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ASU Polytechnic",
+   "type": "historic_site",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ammo Bunker (S-1007)",
+   "type": "historic_site",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ammo Bunker (S-1008)",
+   "type": "historic_site",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Poly Marketplace",
+   "type": "farmers_market",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barrio Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lochiel Brewing",
+   "type": "brewery_distillery",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Fluff N Clean",
+   "type": "laundromat",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BrüCo Taproom",
+   "type": "brewery_distillery",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesa Express Library - Monterey Park",
+   "type": "library",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Academic Center",
+   "type": "library",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ASU Arboretum Date Sales",
+   "type": "farmers_market",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesa Public Library - Red Mountain Branch",
+   "type": "library",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Higley Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glendale USS Arizona Memorial",
+   "type": "historic_site",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Territorial Sheriff",
+   "type": "historic_site",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pat Tillman Memorial",
+   "type": "historic_site",
+   "city": "Peoria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glendale Police Museum",
+   "type": "museum",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sun Bowl Amphitheatre",
+   "type": "arts_culture",
+   "city": "Youngtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roadside memorial for murdered Glendale police officer Anthony Holly",
+   "type": "historic_site",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Laundry",
+   "type": "laundromat",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Mountain Brewery",
+   "type": "brewery_distillery",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tip Top Laundry",
+   "type": "laundromat",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Less Laundry",
+   "type": "laundromat",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "David C. Uribe",
+   "type": "historic_site",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coinless Laundry",
+   "type": "laundromat",
+   "city": "Peoria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art On Fire",
+   "type": "arts_culture",
+   "city": "Sun City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Winery 101 Peoria",
+   "type": "brewery_distillery",
+   "city": "Peoria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Throne Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Peoria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "State 48 Funk House Brewery",
+   "type": "brewery_distillery",
+   "city": "Peoria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SunCity SunDial",
+   "type": "historic_site",
+   "city": "Sun City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bead Museum",
+   "type": "museum",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U-Save Laundry",
+   "type": "laundromat",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Youngtown Public Library",
+   "type": "library",
+   "city": "Youngtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tolleson Public Library",
+   "type": "library",
+   "city": "Tolleson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Acacia Library",
+   "type": "library",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cholla Branch (Phoenix Public Library)",
+   "type": "library",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Broadway Theatre",
+   "type": "arts_culture",
+   "city": "Sun City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Talking Stick Resort Amphitheater",
+   "type": "arts_culture",
+   "city": "Tolleson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Velma Teague Library",
+   "type": "library",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin Auto Museum",
+   "type": "museum",
+   "city": "Peoria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fletcher Library",
+   "type": "library",
+   "city": "Peoria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "E. Lowell Rogers Amphitheater",
+   "type": "arts_culture",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "F-100D Super Sabre \"The Hun\" Jet",
+   "type": "historic_site",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peoria Main Library",
+   "type": "library",
+   "city": "Peoria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glendale Public Library",
+   "type": "library",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Doll & Toy Museum",
+   "type": "museum",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Country Clean Laundry & Dry",
+   "type": "laundromat",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sun Cities Area Historical Society/Del Webb Sun Cities Museum",
+   "type": "museum",
+   "city": "Youngtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peoria Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Peoria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Desert Sage Library",
+   "type": "library",
+   "city": "Tolleson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heroes Regional Park Library",
+   "type": "library",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunnyslope Historical Society",
+   "type": "museum",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cloud 9",
+   "type": "historic_site",
+   "city": "Glendale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OHSO Brewery",
+   "type": "brewery_distillery",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barry Goldwater Memorial",
+   "type": "historic_site",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Big Derailment",
+   "type": "arts_culture",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Illusions",
+   "type": "museum",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Don Bluth Front Row Theatre",
+   "type": "arts_culture",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Industrial Pipe Wave",
+   "type": "arts_culture",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Star Memorial",
+   "type": "historic_site",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wonderspaces Arizona",
+   "type": "arts_culture",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scottsdale Railroad Museum",
+   "type": "museum",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Model Railroad Building",
+   "type": "museum",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mustang Public Library",
+   "type": "library",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Midnight Studios FX",
+   "type": "arts_culture",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Arizona Memorial Gardens at Salt River",
+   "type": "historic_site",
+   "city": "Paradise Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Cleaners",
+   "type": "laundromat",
+   "city": "Litchfield Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West-MEC Logo",
+   "type": "arts_culture",
+   "city": "Surprise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Our Lady of Lourdes and St. Bernadette",
+   "type": "arts_culture",
+   "city": "Sun City West",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Our Lady",
+   "type": "arts_culture",
+   "city": "Sun City West",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sacred Heart of Jesus",
+   "type": "arts_culture",
+   "city": "Sun City West",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "firefighters memorial",
+   "type": "historic_site",
+   "city": "El Mirage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SPAD XIII Model",
+   "type": "arts_culture",
+   "city": "Litchfield Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Medal of Honor Memorial",
+   "type": "historic_site",
+   "city": "Litchfield Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunrise Mountain Library",
+   "type": "library",
+   "city": "Sun City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "El Mirage Library",
+   "type": "library",
+   "city": "El Mirage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hollyhock Library",
+   "type": "library",
+   "city": "El Mirage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WHAM Art Center",
+   "type": "arts_culture",
+   "city": "Surprise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Foothills Library",
+   "type": "library",
+   "city": "Sun City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Star Memorial",
+   "type": "historic_site",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tiny Bubbles Laundry",
+   "type": "laundromat",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "El Tianguis Mercado",
+   "type": "farmers_market",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guadalupe Branch Library",
+   "type": "library",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry / Fitness / Mail Building",
+   "type": "laundromat",
+   "city": "Guadalupe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aviator Memorial",
+   "type": "historic_site",
+   "city": "Sun City West",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Revitalized Roots",
+   "type": "arts_culture",
+   "city": "Surprise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nature Unwinding",
+   "type": "arts_culture",
+   "city": "Surprise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Del E. Webb",
+   "type": "arts_culture",
+   "city": "Sun City West",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Footprints",
+   "type": "arts_culture",
+   "city": "Sun City West",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Mother Teresa",
+   "type": "arts_culture",
+   "city": "Sun City West",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bl. Fr. Michael McGivney",
+   "type": "arts_culture",
+   "city": "Sun City West",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "O.L. of Lourdes",
+   "type": "arts_culture",
+   "city": "Sun City West",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Risen Jesus Christ the Redeemer",
+   "type": "arts_culture",
+   "city": "Surprise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Our Lady of Guadalupe",
+   "type": "arts_culture",
+   "city": "Surprise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial to Unborn Children",
+   "type": "historic_site",
+   "city": "Surprise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Vista Center for the Arts",
+   "type": "arts_culture",
+   "city": "Surprise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Firefighters Memorial",
+   "type": "historic_site",
+   "city": "Sun City West",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Dedication Stone",
+   "type": "historic_site",
+   "city": "Surprise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Our Lady of Grace",
+   "type": "arts_culture",
+   "city": "Sun City West",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sun City West Library",
+   "type": "library",
+   "city": "Sun City West",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Surprise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vaya Con Dios Air Fighter Memorial",
+   "type": "historic_site",
+   "city": "Surprise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Learning Tree",
+   "type": "arts_culture",
+   "city": "Surprise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reflections of Surprise Tile Mural",
+   "type": "arts_culture",
+   "city": "Surprise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Surprise Regional Library",
+   "type": "library",
+   "city": "Surprise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Down East",
+   "type": "farmers_market",
+   "city": "Sun City West",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Asante Library",
+   "type": "library",
+   "city": "Sun City West",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "O.H.S.O. Brewery & Distillery",
+   "type": "brewery_distillery",
+   "city": "Surprise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alpine Public Library",
+   "type": "library",
+   "city": "Alpine",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Op Laundry",
+   "type": "laundromat",
+   "city": "Alpine",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SaddleBrooke Two Arts and Crafts Center",
+   "type": "arts_culture",
+   "city": "Saddlebrooke",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oak Creek Brewery & Grill",
+   "type": "brewery_distillery",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sedona Heritage Museum",
+   "type": "museum",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Visions",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Deserio Gallery",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eclectic Image",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Environmental Realists",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountain Trails",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Honshin Fine Art",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stan Rose Images",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Ratliff Gallery",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallery Of Modern Masters",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Rocks and the Cowboy Artist",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Navarro Gallery",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Andrea Smith",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burro",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carré d’artistes",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oak Creek Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Basket",
+   "type": "laundromat",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rowe Fine Art",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sedona Produce",
+   "type": "farmers_market",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Posse Grounds Pavillion",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The HUB",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sedona Public Library",
+   "type": "library",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sedona Arts Center",
+   "type": "arts_culture",
+   "city": "Sedona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jerome State Historical Mine Park Museum",
+   "type": "museum",
+   "city": "Jerome",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jerome Mine Museum",
+   "type": "museum",
+   "city": "Jerome",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jerome Historic Society",
+   "type": "museum",
+   "city": "Jerome",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prison Hill Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Yuma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bureau of Reclamation",
+   "type": "museum",
+   "city": "Yuma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "United States Marine Corps",
+   "type": "historic_site",
+   "city": "Yuma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yuma Territory Live Steamers",
+   "type": "museum",
+   "city": "Yuma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Army of the West Mormon Batallion Statue",
+   "type": "arts_culture",
+   "city": "Winterhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plaza Fundadores",
+   "type": "historic_downtown",
+   "city": "Los Algodones",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cibola Raider",
+   "type": "historic_site",
+   "city": "Donovan Estates",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Highlander Laundromat",
+   "type": "laundromat",
+   "city": "Yuma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Super Suds Coin Laundry",
+   "type": "laundromat",
+   "city": "Avenue B & C",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yuma Armed Forces Memorial",
+   "type": "historic_site",
+   "city": "Yuma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heritage Branch Library",
+   "type": "library",
+   "city": "Yuma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Araz Stage Station",
+   "type": "historic_site",
+   "city": "Avenue B & C",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yuma Quartermaster Depot State Historic Park",
+   "type": "museum",
+   "city": "Yuma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Market Place",
+   "type": "farmers_market",
+   "city": "Yuma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sanguinetti House Museum",
+   "type": "museum",
+   "city": "Yuma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yuma Art Center",
+   "type": "arts_culture",
+   "city": "Yuma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yuma History Museum",
+   "type": "museum",
+   "city": "Yuma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "8th Street Coin Laundry",
+   "type": "laundromat",
+   "city": "Yuma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jo-Ann's",
+   "type": "laundromat",
+   "city": "Yuma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yuma County Main Library",
+   "type": "library",
+   "city": "Donovan Estates",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pour Behavior",
+   "type": "brewery_distillery",
+   "city": "Yuma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cloud Museum",
+   "type": "museum",
+   "city": "Winterhaven",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elden Pueblo",
+   "type": "historic_site",
+   "city": "Doney Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Flag Coin-Op",
+   "type": "laundromat",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lumberyard Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Canyon Brewery + Distillery",
+   "type": "brewery_distillery",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flagstaff Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mother Road",
+   "type": "brewery_distillery",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maytag Equipped Laundry",
+   "type": "laundromat",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sherwood Laundromat",
+   "type": "laundromat",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Loggermat (Closed)",
+   "type": "laundromat",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "7 Wonders Gallery",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waterbird petroglyph site",
+   "type": "historic_site",
+   "city": "Doney Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Petroglyph Overlook",
+   "type": "historic_site",
+   "city": "Doney Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sprouts Farmers Market",
+   "type": "farmers_market",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gandy Dancer",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riordan Mansion",
+   "type": "museum",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Asset #7",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flagstaff Historical Monument",
+   "type": "historic_site",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "4th Street Laundromat II",
+   "type": "laundromat",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "4th Street Laundromat I",
+   "type": "laundromat",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flagstaff War Memorial",
+   "type": "historic_site",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic Route 66 Logo",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dark Sky Brewing",
+   "type": "brewery_distillery",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "PAWS #1 Family Support",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flagstaff Buffalo",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Timeless Apparitions",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frontier Adventure",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Asset #15",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Motion",
+   "type": "arts_culture",
+   "city": "Kachina Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trust Your Struggle Collective",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ava Kava - Arizona Flag Mural",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Sunflowers\" Electric Box",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Day And Night\"",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Cow\"",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martian",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Origins Gallery",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lowell Universe Theater",
+   "type": "planetarium",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Slipher Rotunda Museum",
+   "type": "museum",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"The Veridic Gardens of Effie La Roux\"",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Explore Flagstaff\"",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Rainbow Flow\"",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Butterfly Electric Boxes",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Welcome To Flagstaff\"",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Arizona Landmarks Pole\"",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Smiling Sunflower\"",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Flagstaff Climbing Mural\"",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Mike and Rhonda's The Place\"",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Route 66 Wall Logo\"",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Touch Home, Reach Sky\"",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Northern Arizona Research Center",
+   "type": "museum",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Northern Arizona research facility",
+   "type": "museum",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cline Library",
+   "type": "library",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orpheum Theater",
+   "type": "arts_culture",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flagstaff City-Coconino County Public Library",
+   "type": "library",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Putnam Collection Center",
+   "type": "library",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Model Railroad Building",
+   "type": "museum",
+   "city": "Kachina Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gems & Minerals Building",
+   "type": "museum",
+   "city": "Kachina Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mess Hall",
+   "type": "museum",
+   "city": "Kachina Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Military Museum",
+   "type": "museum",
+   "city": "Kachina Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Tuthill Military History Museum",
+   "type": "museum",
+   "city": "Kachina Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Astronomy Discovery Center",
+   "type": "science_center",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richard F. Caris Dark Sky Planetarium",
+   "type": "planetarium",
+   "city": "Flagstaff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Family History Library",
+   "type": "library",
+   "city": "Casa Grande",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vista Grande Library",
+   "type": "library",
+   "city": "Casa Grande",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Casa Grande Capsule",
+   "type": "arts_culture",
+   "city": "Casa Grande",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Casa Grande Farmers Market",
+   "type": "farmers_market",
+   "city": "Casa Grande",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Casa Grande Public Library",
+   "type": "library",
+   "city": "Casa Grande",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Casa Grande Art Museum",
+   "type": "museum",
+   "city": "Casa Grande",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North High Library",
+   "type": "library",
+   "city": "Phoenix",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Unscrewed Theater",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Linen Fresh Laundry",
+   "type": "laundromat",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tucson Art Studio",
+   "type": "arts_culture",
+   "city": "Tucson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pony Express @ Granite Reef",
+   "type": "library",
+   "city": "Scottsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesa Express Library at Brady Park",
+   "type": "library",
+   "city": "Gilbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairway Library",
+   "type": "library",
+   "city": "Youngtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hollyhock Library",
+   "type": "library",
+   "city": "El Mirage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Litchfield Park Library",
+   "type": "library",
+   "city": "Waddell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coyote Branch",
+   "type": "library",
+   "city": "Goodyear",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scale & Feather Meadery",
+   "type": "brewery_distillery",
+   "city": "Avondale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint John Paul II",
+   "type": "historic_site",
+   "city": "Litchfield Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint Thomas Aquinas",
+   "type": "arts_culture",
+   "city": "Litchfield Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgia T. Lord Library",
+   "type": "library",
+   "city": "Goodyear",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OHSO Brewery & Distillery",
+   "type": "brewery_distillery",
+   "city": "Goodyear",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Avondale Public Library",
+   "type": "library",
+   "city": "Tolleson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Litchfield Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battlefield Cross",
+   "type": "arts_culture",
+   "city": "Buckeye",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hobo Joe Statue",
+   "type": "arts_culture",
+   "city": "Buckeye",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buck's Laundromat",
+   "type": "laundromat",
+   "city": "Buckeye",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kay Blanton Library",
+   "type": "library",
+   "city": "Buckeye",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buckeye Valley Museum",
+   "type": "museum",
+   "city": "Buckeye",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Estrella Lakeside Amphitheater",
+   "type": "arts_culture",
+   "city": "Avondale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert McCulloch Sr. & C.V. Wood Jr. Monument",
+   "type": "historic_site",
+   "city": "Lake Havasu City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Murray Springs Clovis Site",
+   "type": "historic_site",
+   "city": "Sierra Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clanton Ranch",
+   "type": "historic_site",
+   "city": "Sierra Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sierra Vista Public Library",
+   "type": "library",
+   "city": "Sierra Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial Park",
+   "type": "historic_site",
+   "city": "Sierra Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sierra Vista Farmers Market",
+   "type": "farmers_market",
+   "city": "Sierra Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eyes Of The Army",
+   "type": "arts_culture",
+   "city": "Sierra Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Buffalo Soldier",
+   "type": "arts_culture",
+   "city": "Sierra Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sergeant William Alchesay, Indian Scout",
+   "type": "historic_site",
+   "city": "Sierra Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Huachuca Art Association",
+   "type": "arts_culture",
+   "city": "Sierra Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Huachuca City Public Library",
+   "type": "library",
+   "city": "Huachuca City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Andrea Cracciolo Library",
+   "type": "library",
+   "city": "Sierra Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tombstone Brewing West End",
+   "type": "brewery_distillery",
+   "city": "Sierra Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cochise County Law Enforcement Memorial",
+   "type": "historic_site",
+   "city": "Sierra Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AAFES",
+   "type": "farmers_market",
+   "city": "Sierra Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Huachuca Museum",
+   "type": "museum",
+   "city": "Sierra Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hardyville Pioneer Cemetary",
+   "type": "historic_site",
+   "city": "Bullhead City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greg Williams Fields at Rotary Park",
+   "type": "historic_site",
+   "city": "Bullhead City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trail of Memories",
+   "type": "historic_site",
+   "city": "Bullhead City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Veterans Memorial (Eternal Flame)",
+   "type": "historic_site",
+   "city": "Bullhead City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "In Memory of all Vietnam Vets",
+   "type": "historic_site",
+   "city": "Bullhead City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Granite Mountain Hotshots Memorial (Yarnell)",
+   "type": "historic_site",
+   "city": "Bullhead City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Arizona Memorial",
+   "type": "historic_site",
+   "city": "Bullhead City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Arizona Heroes Memorial",
+   "type": "historic_site",
+   "city": "Bullhead City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Poki, World's Largest Desert Tortoise",
+   "type": "arts_culture",
+   "city": "Bullhead City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tiny Bubbles",
+   "type": "laundromat",
+   "city": "Bullhead City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Mohave",
+   "type": "historic_site",
+   "city": "Bullhead City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orchid Laundromat",
+   "type": "laundromat",
+   "city": "Bullhead City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colorado River Museum",
+   "type": "museum",
+   "city": "Bullhead City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kingman Veteran's Memorial",
+   "type": "historic_site",
+   "city": "Kingman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "United States Army - Camp Beale Springs",
+   "type": "historic_site",
+   "city": "Kingman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sante Fe Locomotive Number 3759",
+   "type": "historic_site",
+   "city": "Kingman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camp Beale Springs",
+   "type": "historic_site",
+   "city": "Kingman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ha' Qa' Muwe: (Ancestral Home of the Hualapai)",
+   "type": "historic_site",
+   "city": "Kingman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lt. Edward Fitzgerald Beale",
+   "type": "historic_site",
+   "city": "Kingman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beale Wagon Route",
+   "type": "historic_site",
+   "city": "Kingman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kingman Firefighter Memorial",
+   "type": "historic_site",
+   "city": "Kingman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soapy's Coin Laundry",
+   "type": "laundromat",
+   "city": "Kingman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Az. Feldspar Processing Plant",
+   "type": "historic_site",
+   "city": "Kingman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beale Street Theater",
+   "type": "arts_culture",
+   "city": "Kingman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mohave Museum of History and Arts",
+   "type": "museum",
+   "city": "Kingman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Route 66 Museum",
+   "type": "museum",
+   "city": "Kingman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kingman Railroad Museum",
+   "type": "museum",
+   "city": "Kingman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mohave County Library",
+   "type": "library",
+   "city": "Kingman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Electric Vehicle Museum",
+   "type": "museum",
+   "city": "Kingman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hotel Brunswick",
+   "type": "historic_site",
+   "city": "Kingman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "C-A-L Ranch Stores",
+   "type": "farmers_market",
+   "city": "New Kingman-Butler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sun Cleaners",
+   "type": "laundromat",
+   "city": "Oro Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oro Valley Farmers Market",
+   "type": "farmers_market",
+   "city": "Oro Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Friends of Catalina State Park",
+   "type": "arts_culture",
+   "city": "Oro Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bighorn",
+   "type": "arts_culture",
+   "city": "Oro Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joshua Tree",
+   "type": "arts_culture",
+   "city": "Oro Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oro Valley Library",
+   "type": "library",
+   "city": "Oro Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Learning Tree",
+   "type": "arts_culture",
+   "city": "Oro Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dream It, Then Do It",
+   "type": "arts_culture",
+   "city": "Oro Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Honey Bee Village Archaeological Preserve",
+   "type": "historic_site",
+   "city": "Oro Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arizona Heroes Memorial",
+   "type": "historic_site",
+   "city": "Oro Valley",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

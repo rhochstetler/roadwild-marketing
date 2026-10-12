@@ -1,0 +1,3806 @@
+{
+ "state": "WV",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Bee Run Campground",
+   "type": "paid_camp",
+   "town": "Sutton, WV",
+   "town_mi": 1.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lost River Campground",
+   "type": "paid_camp",
+   "town": "Basye, VA",
+   "town_mi": 10.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ROBERT W CRAIG",
+   "type": "paid_camp",
+   "town": "Elk Garden, WV",
+   "town_mi": 3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BATTLE RUN",
+   "type": "paid_camp",
+   "town": "Summersville, WV",
+   "town_mi": 5.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "STUART RECREATION AREA",
+   "type": "paid_camp",
+   "town": "Bowden, WV",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upshur County - Brooks Hill",
+   "type": "rv_park",
+   "town": "Helvetia, WV",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cooper's Campground",
+   "type": "rv_park",
+   "town": "Harman, WV",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riffle Run Campground",
+   "type": "paid_camp",
+   "town": "Burnsville, WV",
+   "town_mi": 2.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brandywine campground",
+   "type": "paid_camp",
+   "town": "Brandywine, WV",
+   "town_mi": 2.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Rock Campground",
+   "type": "paid_camp",
+   "town": "Richwood, WV",
+   "town_mi": 5.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cranberry River Sites",
+   "type": "paid_camp",
+   "town": "Richwood, WV",
+   "town_mi": 5.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tea Creek Campground",
+   "type": "paid_camp",
+   "town": "Bergoo, WV",
+   "town_mi": 10.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Island Campground",
+   "type": "paid_camp",
+   "town": "Bartow, WV",
+   "town_mi": 5.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BLUE BEND REC AREA",
+   "type": "paid_camp",
+   "town": "Falling Spring, WV",
+   "town_mi": 6.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Judy Springs",
+   "type": "unknown",
+   "town": "Whitmer, WV",
+   "town_mi": 4.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "River Bend RV Park",
+   "type": "rv_park",
+   "town": "Big Spring, MD",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Scenic Campground",
+   "type": "unknown",
+   "town": "Whitmer, WV",
+   "town_mi": 4.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Back Ridge Shadows campground",
+   "type": "paid_camp",
+   "town": "Whitmer, WV",
+   "town_mi": 9.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Seneca Rocks RV Resort",
+   "type": "rv_park",
+   "town": "Whitmer, WV",
+   "town_mi": 8.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Audra State Park Campground",
+   "type": "paid_camp",
+   "town": "Belington, WV",
+   "town_mi": 6.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Marvin's Mountaintop",
+   "type": "paid_camp",
+   "town": "Masontown, WV",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LAKE SHERWOOD",
+   "type": "paid_camp",
+   "town": "Hot Springs, VA",
+   "town_mi": 10.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hilltop Sunrise",
+   "type": "rv_park",
+   "town": "Oak Hill, WV",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shady Rest RV Park",
+   "type": "rv_park",
+   "town": "Shady Spring, WV",
+   "town_mi": 6.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HORSESHOE RECREATION AREA",
+   "type": "paid_camp",
+   "town": "St. George, WV",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Summersville Lake Retreat",
+   "type": "rv_park",
+   "town": "Summersville, WV",
+   "town_mi": 6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Stephens RV Campground",
+   "type": "rv_park",
+   "town": "Eccles, WV",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Greenbrier River Campground",
+   "type": "paid_camp",
+   "town": "Alderson, WV",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bear Heaven Campground",
+   "type": "paid_camp",
+   "town": "Bowden, WV",
+   "town_mi": 2.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "East Fork Campground & Horse Hotel",
+   "type": "paid_camp",
+   "town": "Durbin, WV",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Old Orchard",
+   "type": "rv_park",
+   "town": "Lavalette, WV",
+   "town_mi": 5.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Canaan Valley Resort Campground",
+   "type": "paid_camp",
+   "town": "Harman, WV",
+   "town_mi": 7.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bakers Run Campground",
+   "type": "paid_camp",
+   "town": "Flatwoods, WV",
+   "town_mi": 7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Harpers Ferry Civil War Battlefields KOA",
+   "type": "rv_park",
+   "town": "Bolivar, WV",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Harpers Ferry Campground",
+   "type": "paid_camp",
+   "town": "Bolivar, WV",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Seven Mile Campground",
+   "type": "paid_camp",
+   "town": "Cass, WV",
+   "town_mi": 6.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spruce Knob Lake Campground",
+   "type": "paid_camp",
+   "town": "Whitmer, WV",
+   "town_mi": 7.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Laurel Fork Campground",
+   "type": "paid_camp",
+   "town": "Whitmer, WV",
+   "town_mi": 9.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elk River Camp and RV",
+   "type": "rv_park",
+   "town": "Gassaway, WV",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SENECA SHADOWS",
+   "type": "paid_camp",
+   "town": "Whitmer, WV",
+   "town_mi": 8.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Skidmores RV Park",
+   "type": "rv_park",
+   "town": "Flatwoods, WV",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BIG BEND (WV)",
+   "type": "paid_camp",
+   "town": "Petersburg, WV",
+   "town_mi": 9.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "American Alpine Club New River Gorge Campground",
+   "type": "paid_camp",
+   "town": "Fayetteville, WV",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Laurel Run Primitive Campground",
+   "type": "paid_camp",
+   "town": "Hillsboro, WV",
+   "town_mi": 5.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Paden City Park Campground",
+   "type": "paid_camp",
+   "town": "Paden City, WV",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "K & K Mobile Home Parks",
+   "type": "rv_park",
+   "town": "Point Pleasant, WV",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cranberry Campground",
+   "type": "paid_camp",
+   "town": "Cowen, WV",
+   "town_mi": 8.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "GERALD FREEMAN CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Flatwoods, WV",
+   "town_mi": 6.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trout Pond Recreation Area",
+   "type": "paid_camp",
+   "town": "Columbia Furnace, VA",
+   "town_mi": 8.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pocahontas Campground",
+   "type": "paid_camp",
+   "town": "Huntersville, WV",
+   "town_mi": 6.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cales Knoll Camping Area",
+   "type": "paid_camp",
+   "town": "Hot Springs, VA",
+   "town_mi": 10.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kumbrabow State Forest Campground",
+   "type": "paid_camp",
+   "town": "Huttonsville, WV",
+   "town_mi": 6.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Marlinton Creek & Trail Campground",
+   "type": "rv_park",
+   "town": "Marlinton, WV",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chief Logan State Park Campground",
+   "type": "rv_park",
+   "town": "Justice Addition, WV",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mountain Top RV Park & Cabins",
+   "type": "rv_park",
+   "town": "Summersville, WV",
+   "town_mi": 6.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Red Creek Campground",
+   "type": "paid_camp",
+   "town": "Davis, WV",
+   "town_mi": 10.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Journey",
+   "type": "rv_park",
+   "town": "Flatwoods, WV",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gary's Family Campground",
+   "type": "paid_camp",
+   "town": "Little Orleans, MD",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Twin Hollow Campground",
+   "type": "rv_park",
+   "town": "Gilbert, WV",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Holiday",
+   "type": "rv_park",
+   "town": "Granville, WV",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wrangler Meadow Campground",
+   "type": "paid_camp",
+   "town": "Whitmer, WV",
+   "town_mi": 6.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tucker Creek Campground",
+   "type": "rv_park",
+   "town": "Eleanor, WV",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kairos RV Campsites",
+   "type": "rv_park",
+   "town": "Glen Lyn, VA",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kairos Primitive Campsites",
+   "type": "rv_park",
+   "town": "Glen Lyn, VA",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kairos Field Camping",
+   "type": "paid_camp",
+   "town": "Glen Lyn, VA",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Robin Hayhurst RV Park",
+   "type": "rv_park",
+   "town": "Jane Lew, WV",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BLUE MEADOW",
+   "type": "paid_camp",
+   "town": "Falling Spring, WV",
+   "town_mi": 7.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MIDDLE MOUNTAIN CABINS",
+   "type": "paid_camp",
+   "town": "East Dailey, WV",
+   "town_mi": 9.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BULLTOWN CAMP",
+   "type": "paid_camp",
+   "town": "Burnsville, WV",
+   "town_mi": 6.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "EAST FORK (WV)",
+   "type": "paid_camp",
+   "town": "Harts, WV",
+   "town_mi": 10.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "JESS JUDY",
+   "type": "paid_camp",
+   "town": "Petersburg, WV",
+   "town_mi": 9.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SUMMERSVILLE LAKE SHELTERS",
+   "type": "paid_camp",
+   "town": "Summersville, WV",
+   "town_mi": 5.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "GATEWOOD GROUP",
+   "type": "paid_camp",
+   "town": "Whitmer, WV",
+   "town_mi": 7.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SPRUCE KNOB LAKE",
+   "type": "paid_camp",
+   "town": "Whitmer, WV",
+   "town_mi": 5.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "R.D. BAILEY LAKE GROUP SHELTERS",
+   "type": "paid_camp",
+   "town": "Justice, WV",
+   "town_mi": 3.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BURNSVILLE LAKE SHELTERS",
+   "type": "paid_camp",
+   "town": "Burnsville, WV",
+   "town_mi": 6.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "EAST LYNN LAKE SHELTERS",
+   "type": "paid_camp",
+   "town": "Wayne, WV",
+   "town_mi": 6.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Day Run Campground",
+   "type": "paid_camp",
+   "town": "Marlinton, WV",
+   "town_mi": 0.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Guyandotte Campground",
+   "type": "paid_camp",
+   "town": "Brenton, WV",
+   "town_mi": 4.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Long Point Campground",
+   "type": "paid_camp",
+   "town": "Summersville, WV",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grandview Playground Shelter",
+   "type": "paid_camp",
+   "town": "Prince, WV",
+   "town_mi": 2.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grandview Shelter 4",
+   "type": "paid_camp",
+   "town": "Prince, WV",
+   "town_mi": 2.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Monongahela National Forest",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Canaan Valley National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ohio River Islands National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Jennings Randolph Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kanawha River - Winfield Pool",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kanawha River - Marmet Pool",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kanawha River - London Pool",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Beech Fork Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bluestone Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Burnsville Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "East Lynn Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ohio River - Robert. C. Byrd Pool",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "R.D. Bailey Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ohio River - Racine Pool",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Summersville Lake",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sutton Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Monongahela River - Opekiska Pool",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ohio River - Pike Island Pool",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Stonewall Jackson Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tygart Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Along the Towpath Through the Paw Paw Tunnel",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Trail Run Grandview Rim Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Trail run at Endless Wall",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Trail Run or hike the Little Laurel Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Castle Rock Hike",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bicycling at New River Gorge",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Stroll on the Sandstone Boardwalk",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sandstone Falls Overlook",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Brooks Overlook",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Grandview Main Overlook",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "View the Overlooks at the Canyon Rim Visitor Center",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Climbing at New River Gorge",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fishing at New River Gorge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Whitewater Boating",
+   "type": "boating",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Scenic Drive on Fayette Station Road",
+   "type": "scenic_drive",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "East End Historic District",
+   "type": "historic_downtown",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grasscup Road Historic District",
+   "type": "historic_downtown",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spring Hill Cemetery Historic District",
+   "type": "historic_downtown",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frankenberger Art Gallery",
+   "type": "museum",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walker Theatre",
+   "type": "arts_culture",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fife Street Brewing",
+   "type": "brewery_distillery",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capitol Flea Market",
+   "type": "farmers_market",
+   "city": "Big Chimney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Memorial",
+   "type": "historic_site",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shoney's Big Boy Museum",
+   "type": "historic_site",
+   "city": "South Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln Walks at Midnight",
+   "type": "historic_site",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WV market gallery",
+   "type": "arts_culture",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Roll of Honor",
+   "type": "historic_site",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War 2",
+   "type": "historic_site",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bear Wood Company",
+   "type": "arts_culture",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Annex Gallery",
+   "type": "arts_culture",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "State Capitol",
+   "type": "historic_site",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confederate Lt. Gen. Thomas J. ”Stonewall” Jackson",
+   "type": "arts_culture",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elk City Playhouse",
+   "type": "arts_culture",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Virginia Fallen Police Officer's Memorial",
+   "type": "arts_culture",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Virginia Fallen Firefighter's Memorial",
+   "type": "arts_culture",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Virginia Liberty Bell",
+   "type": "historic_site",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coal Miner Memorial",
+   "type": "historic_site",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Women's Soldier",
+   "type": "arts_culture",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burial Atendants",
+   "type": "arts_culture",
+   "city": "South Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Block",
+   "type": "historic_site",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Virginia State Museum",
+   "type": "museum",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Donnally Monuments",
+   "type": "historic_site",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Virginia Cultural Center",
+   "type": "museum",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shoenbaum Library",
+   "type": "library",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Schoenbaum Stage",
+   "type": "arts_culture",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Virginia State University Capitol Center",
+   "type": "arts_culture",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kanawha County Public Library",
+   "type": "library",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capitol Market (Seasonal Stalls)",
+   "type": "farmers_market",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mound Laundry",
+   "type": "laundromat",
+   "city": "South Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Charleston Branch Kanawha County Public Library",
+   "type": "library",
+   "city": "South Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Criel Mound",
+   "type": "historic_site",
+   "city": "South Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Charleston Farmers Market",
+   "type": "farmers_market",
+   "city": "Dunbar",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dunbar Branch Library",
+   "type": "library",
+   "city": "Dunbar",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Drain-Jordan Library",
+   "type": "library",
+   "city": "Dunbar",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dunbar Middle School Theater",
+   "type": "arts_culture",
+   "city": "Dunbar",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East End Bazaar",
+   "type": "farmers_market",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gold Star Memorial",
+   "type": "historic_site",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Building 7",
+   "type": "library",
+   "city": "Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stinger Produce Market",
+   "type": "farmers_market",
+   "city": "Dunbar",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Fountain",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1970 Plane Crash Memorial",
+   "type": "historic_site",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keith Albee",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Arch",
+   "type": "historic_site",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Giant Elephant",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Marshall",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Building Blocks",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Earth Portal",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "B'nai B'rith Holocaust Memorial",
+   "type": "historic_site",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Marshall Beech Tree",
+   "type": "historic_site",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Marshall",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windsor House Gallery",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Art Spirit",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sacred Heart of Jesus",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Time Capsule",
+   "type": "historic_site",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A Walk in the Park",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Huntington Dance Theatre",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Virginia State Road",
+   "type": "historic_site",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rockabilly Express",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles W. & Norma C. Carroll Gallery",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nexus",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WV Proud",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Touma Museum of Medicine",
+   "type": "museum",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barnes Agency Design & Digital Media Studio",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "CoWorks",
+   "type": "coworking",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Huntington",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "100 Years of Progress",
+   "type": "historic_site",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pullman Square Farmers Market",
+   "type": "farmers_market",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tub Boat",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dancing with Max",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whimsy",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jeslyn Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "3rd Avenue Art Gallery",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Birke Art Gallery",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laura's Laundromat",
+   "type": "laundromat",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Superior Coin Laundry",
+   "type": "laundromat",
+   "city": "Kenova",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sudz Laundry",
+   "type": "laundromat",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camden Park Mound",
+   "type": "historic_site",
+   "city": "Ceredo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Cookie Carnival",
+   "type": "laundromat",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ceredo Farmers Market",
+   "type": "farmers_market",
+   "city": "Ceredo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vision of Corinth",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ruins XVI",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iron Rooster",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pithom Revised",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garden Party",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A Walk in the Park",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A Walk in the Park",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pedogna II",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Owl No. 4",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Four Lines Oblique - Gyratory Square I",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Circle of Life",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ring No. 1",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reggio",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Passages",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portal",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Machinate",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Candy and Teddy Bear Train",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paisley Power",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Hoops Belle",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stormy Waters",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Water Ways",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Wildlife",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pop Art Tug",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brothers",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Kiss",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leaf Change",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWI Memorial Trail",
+   "type": "historic_site",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWI Memorial Trail",
+   "type": "historic_site",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWI Memorial Trail",
+   "type": "historic_site",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWI Memorial Trail",
+   "type": "historic_site",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWI Memorial Trail",
+   "type": "historic_site",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWI Memorial Trail",
+   "type": "historic_site",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWI Memorial Trail",
+   "type": "historic_site",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWI Memorial Trail",
+   "type": "historic_site",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Finding Hope",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Here We Come, Here We Go",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Story of Life",
+   "type": "arts_culture",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marshall Plane Crash Site",
+   "type": "historic_site",
+   "city": "Kenova",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cabell County Public Library",
+   "type": "library",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George's Dry Cleaning and Laundry Center",
+   "type": "laundromat",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Briggs Public Library",
+   "type": "library",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Deaver Drinko Library",
+   "type": "library",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cabell County Public Library – Gallaher Village Branch",
+   "type": "library",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Way Laundry, Dry Cleaning, and Commercial Spaces",
+   "type": "laundromat",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Victor's Cleaners",
+   "type": "laundromat",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Huntington Public Library",
+   "type": "library",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central City Farmers Market",
+   "type": "farmers_market",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ceredo-Kenova Memorial Public Library",
+   "type": "library",
+   "city": "Kenova",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "C-K Coin Laundry",
+   "type": "laundromat",
+   "city": "Kenova",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scotch Clean",
+   "type": "laundromat",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guyandotte Branch Cabell County Public Library",
+   "type": "library",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Taylor Auto Collections",
+   "type": "museum",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barboursville Farmer's Market",
+   "type": "farmers_market",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Radio & Technology",
+   "type": "museum",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Collis P. Huntington Railroad Historical Society, Inc. Museum",
+   "type": "museum",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Honorary Reggie Oliver Square",
+   "type": "historic_downtown",
+   "city": "Huntington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ceredo Historical Society Museum",
+   "type": "museum",
+   "city": "Ceredo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ramsdell House",
+   "type": "museum",
+   "city": "Ceredo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Avery Street Historic District",
+   "type": "historic_downtown",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blennerhassett Island Historic District",
+   "type": "historic_downtown",
+   "city": "Blennerhassett",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Julia-Ann Square Historic District",
+   "type": "historic_downtown",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mineral Wells Laundromat",
+   "type": "laundromat",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Speedee Wash",
+   "type": "laundromat",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Museum",
+   "type": "museum",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Actors Guild",
+   "type": "arts_culture",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mini Farm Figurines",
+   "type": "arts_culture",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWII Airplane",
+   "type": "historic_site",
+   "city": "Vienna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Monument",
+   "type": "historic_site",
+   "city": "Vienna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Star Memorial",
+   "type": "historic_site",
+   "city": "Vienna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southwood Stage",
+   "type": "arts_culture",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wards Farm Market",
+   "type": "farmers_market",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lest We Forget Memorial",
+   "type": "historic_site",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Lowther Memorial Flag",
+   "type": "historic_site",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Boreman Magazine",
+   "type": "historic_site",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parkersburg Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Witts Farm Stand",
+   "type": "farmers_market",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Devol’s Floating Mill",
+   "type": "historic_site",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Belpre and The Ohio River",
+   "type": "historic_site",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Three Square Self Pay Market",
+   "type": "farmers_market",
+   "city": "Vienna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Era One Room School",
+   "type": "museum",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smoot Theatre",
+   "type": "arts_culture",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blennerhassett Museum of Regional History",
+   "type": "museum",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oil & Gas Museum",
+   "type": "museum",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Mat",
+   "type": "laundromat",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parkersburg & Wood County Public Library",
+   "type": "library",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steam Engine No. 898",
+   "type": "historic_site",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Time Emporium",
+   "type": "farmers_market",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Your Linen Service",
+   "type": "laundromat",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vienna Public Library",
+   "type": "library",
+   "city": "Vienna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blennerhassett Mansion",
+   "type": "museum",
+   "city": "Blennerhassett",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Parkersburg Branch Library",
+   "type": "library",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "304 Junction",
+   "type": "farmers_market",
+   "city": "Parkersburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Park Historic District",
+   "type": "historic_downtown",
+   "city": "Morgantown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henry Clay Furnace",
+   "type": "historic_site",
+   "city": "Cheat Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "From The Mountain",
+   "type": "arts_culture",
+   "city": "Westover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chestnut Brew Works",
+   "type": "brewery_distillery",
+   "city": "Morgantown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watts Museum",
+   "type": "museum",
+   "city": "Granville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mon Valley Railroad Historical Society",
+   "type": "museum",
+   "city": "Morgantown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farm House Ruins",
+   "type": "historic_site",
+   "city": "Dellslow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cheat Lake Farmers Market",
+   "type": "farmers_market",
+   "city": "Cheat Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monongalia County War Memorial",
+   "type": "historic_site",
+   "city": "Morgantown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mode Roman",
+   "type": "laundromat",
+   "city": "Morgantown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Don Knotts",
+   "type": "arts_culture",
+   "city": "Morgantown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Metal Shack",
+   "type": "historic_site",
+   "city": "Dellslow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Short Story Brewing",
+   "type": "brewery_distillery",
+   "city": "Morgantown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Fitzgerald Kennedy Memorial Park",
+   "type": "historic_site",
+   "city": "Star City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wise Library",
+   "type": "library",
+   "city": "Morgantown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morgantown Public Library",
+   "type": "library",
+   "city": "Morgantown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waterfront Events Center",
+   "type": "arts_culture",
+   "city": "Morgantown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Canady Creative Arts Center",
+   "type": "arts_culture",
+   "city": "Granville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Metropolitan Theatre",
+   "type": "arts_culture",
+   "city": "Morgantown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ruby Ampitheater at Hazel Ruby McQuain Park",
+   "type": "arts_culture",
+   "city": "Morgantown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Laundromat",
+   "type": "laundromat",
+   "city": "Morgantown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Appalachian Gallery",
+   "type": "arts_culture",
+   "city": "Morgantown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arnettsville Public Library",
+   "type": "library",
+   "city": "Booth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cheat Lake Public Library",
+   "type": "library",
+   "city": "Cheat Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clinton District Public Library",
+   "type": "library",
+   "city": "Dellslow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aull Center",
+   "type": "library",
+   "city": "Morgantown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miller's Laundromat",
+   "type": "laundromat",
+   "city": "Westover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Wheeling Historic District",
+   "type": "historic_downtown",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centre Market Historic District",
+   "type": "historic_downtown",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centre Market Square Historic District",
+   "type": "historic_downtown",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chapline Street Row Historic District",
+   "type": "historic_downtown",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Wheeling Historic District",
+   "type": "historic_downtown",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wheeling Historic District",
+   "type": "historic_downtown",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oglebay Mansion Museum",
+   "type": "museum",
+   "city": "Clearview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWII Monument",
+   "type": "historic_site",
+   "city": "Bethlehem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Madonna of the Trail",
+   "type": "historic_site",
+   "city": "Bethlehem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Michael Statue",
+   "type": "historic_site",
+   "city": "Bethlehem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carriage House",
+   "type": "historic_site",
+   "city": "Bethlehem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spirit of the American Doughboy",
+   "type": "historic_site",
+   "city": "Bethlehem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Wheeling Historic District",
+   "type": "historic_downtown",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Wheeling Historic District",
+   "type": "historic_downtown",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chapline Street Row Historic District",
+   "type": "historic_downtown",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Highland Park Historic District",
+   "type": "historic_downtown",
+   "city": "Bethlehem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monroe Street East Historic District",
+   "type": "historic_downtown",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wheeling Island Historic District",
+   "type": "historic_downtown",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wheeling Warehouse Historic District",
+   "type": "historic_downtown",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodsdale-Edgwood Historic District",
+   "type": "historic_downtown",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Wheeling Laundromat",
+   "type": "laundromat",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Francis Pierpont",
+   "type": "arts_culture",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Virginia Independence Hall",
+   "type": "museum",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bobo the Elephant",
+   "type": "arts_culture",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tortoise",
+   "type": "arts_culture",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heron",
+   "type": "arts_culture",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Henry State Historic Site",
+   "type": "historic_site",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heritage Port Amphitheater",
+   "type": "arts_culture",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Augustus Pollack Monument",
+   "type": "historic_site",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walter Reuther Memorial",
+   "type": "historic_site",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fallen Fire Fighter Memorial",
+   "type": "historic_site",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Celtic Cross",
+   "type": "historic_site",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio 66",
+   "type": "arts_culture",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "B&O Railroad",
+   "type": "historic_site",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mingo Statue",
+   "type": "arts_culture",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McColloch’s Leap Monument",
+   "type": "arts_culture",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Upper Centre Market House",
+   "type": "farmers_market",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lower Centre Market House",
+   "type": "farmers_market",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centre Market",
+   "type": "farmers_market",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capitol Theatre",
+   "type": "arts_culture",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Works Around Town",
+   "type": "arts_culture",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brew Keepers",
+   "type": "brewery_distillery",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wheeling Brewing",
+   "type": "brewery_distillery",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J.B. Chambers Performing Art Center",
+   "type": "arts_culture",
+   "city": "Triadelphia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anne Kuchinka Amphitheater",
+   "type": "arts_culture",
+   "city": "Clearview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kruger Street Toy and Train Museum",
+   "type": "museum",
+   "city": "Bethlehem",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ohio County Public Library",
+   "type": "library",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cats Paw Art Studio",
+   "type": "arts_culture",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Towngate Theatre and Cinema",
+   "type": "arts_culture",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Victoria Theater",
+   "type": "arts_culture",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wheeling Artisan Center",
+   "type": "arts_culture",
+   "city": "Wheeling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benwood-Mcmechen Public Library",
+   "type": "library",
+   "city": "McMechen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steel Cross",
+   "type": "arts_culture",
+   "city": "Weirton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Toronto World War I Monument",
+   "type": "historic_site",
+   "city": "New Cumberland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North End Historic District",
+   "type": "historic_downtown",
+   "city": "Weirton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Toronto Veterans Mural",
+   "type": "arts_culture",
+   "city": "New Cumberland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weirton (WV) Steel Company Employees Honor Roll",
+   "type": "historic_site",
+   "city": "Weirton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berkman Amphitheatre",
+   "type": "arts_culture",
+   "city": "Follansbee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Swaney Memorial Library",
+   "type": "library",
+   "city": "New Cumberland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mary H Weir Public Library",
+   "type": "library",
+   "city": "Weirton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jefferson County Historical Association Museum",
+   "type": "museum",
+   "city": "Weirton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hancock County Historical Museum",
+   "type": "museum",
+   "city": "New Cumberland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Follansbee Public Library",
+   "type": "library",
+   "city": "Follansbee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harlan Spring Historic District",
+   "type": "historic_downtown",
+   "city": "Hedgesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ridge Road Historic District",
+   "type": "historic_downtown",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stumpy's Hollow Historical Monument",
+   "type": "historic_site",
+   "city": "Hedgesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whale of a Wash",
+   "type": "laundromat",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "For the Kids by George Children's Museum",
+   "type": "museum",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Depot",
+   "type": "laundromat",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Captain John Kearney",
+   "type": "historic_site",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berkeley Art Works",
+   "type": "arts_culture",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Queen Street Gallery",
+   "type": "arts_culture",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Adam Stephen Monument",
+   "type": "historic_site",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whale of a Wash",
+   "type": "laundromat",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stewart Chapel A.M.E.",
+   "type": "historic_site",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Apple Blossom Gallery",
+   "type": "arts_culture",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Drum Orpheum Rehearsal Hall",
+   "type": "arts_culture",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wonderment Puppet Theater",
+   "type": "arts_culture",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Brick Gallery",
+   "type": "arts_culture",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martinsburg-Berkeley County Public Library",
+   "type": "library",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Belle Boyd House",
+   "type": "museum",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WSG Gallery",
+   "type": "arts_culture",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shepherdstown Public Library",
+   "type": "library",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spring Mills Flea Market",
+   "type": "farmers_market",
+   "city": "Hedgesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orr's Farm Market",
+   "type": "farmers_market",
+   "city": "Martinsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hedgesville Public Library",
+   "type": "library",
+   "city": "Hedgesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Berkeley Public Library",
+   "type": "library",
+   "city": "Hedgesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean War Memorial",
+   "type": "historic_site",
+   "city": "Pleasant Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam War Memorial",
+   "type": "historic_site",
+   "city": "Fairmont",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WV Counties Monument",
+   "type": "historic_site",
+   "city": "Monongah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Room",
+   "type": "laundromat",
+   "city": "Fairmont",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountain Dragon Mazery Fine Honey Wne",
+   "type": "brewery_distillery",
+   "city": "Fairmont",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marion County Historical Society",
+   "type": "museum",
+   "city": "Fairmont",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marion County Public Library",
+   "type": "library",
+   "city": "Fairmont",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frank and Jane Gabor West Virginia Folklife Center",
+   "type": "museum",
+   "city": "Fairmont",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Short Story Brewing",
+   "type": "brewery_distillery",
+   "city": "Rivesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palentine Park Amphitheatre",
+   "type": "arts_culture",
+   "city": "Fairmont",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Telephone Museum",
+   "type": "museum",
+   "city": "Fairmont",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Youth Museum of Southwestern West Virginia",
+   "type": "museum",
+   "city": "Beckley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beckley Exhibition Coal Mine",
+   "type": "museum",
+   "city": "Beckley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beckley Mill Site",
+   "type": "historic_site",
+   "city": "Beaver",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theatre West Virginia",
+   "type": "arts_culture",
+   "city": "Piney View",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Daniel Vineyards",
+   "type": "brewery_distillery",
+   "city": "Crab Orchard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Raleigh Playhouse and Theatre",
+   "type": "arts_culture",
+   "city": "Beckley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Raleigh County Public Library",
+   "type": "library",
+   "city": "Beckley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shoemaker Square",
+   "type": "historic_downtown",
+   "city": "Beckley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shady Spring Public Library",
+   "type": "library",
+   "city": "Shady Spring",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Country Pickin's",
+   "type": "farmers_market",
+   "city": "Lester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Raleigh County Veteran's Inc",
+   "type": "museum",
+   "city": "Beckley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sophia Branch Public Library",
+   "type": "library",
+   "city": "Sophia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clarksburg Downtown Historic District",
+   "type": "historic_downtown",
+   "city": "Clarksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quality Hill Historic District",
+   "type": "historic_downtown",
+   "city": "Nutter Fort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clarksburg-Harrison Public Library",
+   "type": "library",
+   "city": "Clarksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Clarksburg Amphitheater",
+   "type": "arts_culture",
+   "city": "Clarksburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nutter Fort Public Library",
+   "type": "library",
+   "city": "Nutter Fort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Cellar",
+   "type": "brewery_distillery",
+   "city": "Stonewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bridgeport Public Library",
+   "type": "library",
+   "city": "Bridgeport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lively Amphitheater",
+   "type": "arts_culture",
+   "city": "Oak Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norman R. Augustine Twelve Points Ceremonial Plaza",
+   "type": "historic_downtown",
+   "city": "Alpha Base Camp",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walter Scott's statue",
+   "type": "historic_site",
+   "city": "Alpha Base Camp",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Overnight Laundry",
+   "type": "laundromat",
+   "city": "Oak Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AT&T Summit Stadium",
+   "type": "arts_culture",
+   "city": "Alpha Base Camp",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "C Retail HQ",
+   "type": "farmers_market",
+   "city": "Bravo Base Camp",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "C Food-retail",
+   "type": "farmers_market",
+   "city": "Bravo Base Camp",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oak Hill Public Library",
+   "type": "library",
+   "city": "Oak Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert E. Murray Amphitheater",
+   "type": "arts_culture",
+   "city": "Alpha Base Camp",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ray & Deborah Dillon Amphitheater",
+   "type": "arts_culture",
+   "city": "Alpha Base Camp",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Summersville Public Library",
+   "type": "library",
+   "city": "Summersville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whale of a Wash Laundromat",
+   "type": "laundromat",
+   "city": "Falling Waters",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hillsboro",
+   "type": "historic_site",
+   "city": "Hillsboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pearl S Buck Birthplace",
+   "type": "museum",
+   "city": "Hillsboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hillsboro Public Library",
+   "type": "library",
+   "city": "Hillsboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seneca Rocks Discovery Center",
+   "type": "science_center",
+   "city": "Seneca Rocks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sites Homestead",
+   "type": "museum",
+   "city": "Seneca Rocks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sutton Downtown Historic District",
+   "type": "historic_downtown",
+   "city": "Sutton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountain Lakes Amphitheatre",
+   "type": "arts_culture",
+   "city": "Sutton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sutton Public Library",
+   "type": "library",
+   "city": "Sutton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gassaway Public Library",
+   "type": "library",
+   "city": "Gassaway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Gassaway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Landmark",
+   "type": "arts_culture",
+   "city": "Sutton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Produce Shack",
+   "type": "farmers_market",
+   "city": "Sutton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paw Paw Public Library",
+   "type": "library",
+   "city": "Paw Paw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Putnam County Library - Main Branch",
+   "type": "library",
+   "city": "Teays Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fayette Theater",
+   "type": "arts_culture",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Love Hope Arts",
+   "type": "arts_culture",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "fayetteville arts coalition",
+   "type": "arts_culture",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Piller",
+   "type": "historic_site",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fayetteville Public Library",
+   "type": "library",
+   "city": "Fayetteville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hinton Historic District",
+   "type": "historic_downtown",
+   "city": "Hinton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II Memorial",
+   "type": "historic_site",
+   "city": "Hinton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hinton Railroad Museum",
+   "type": "museum",
+   "city": "Hinton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Campbell - Flannagan - Murrell House Museum",
+   "type": "museum",
+   "city": "Hinton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veteran's Museum",
+   "type": "museum",
+   "city": "Hinton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Summers County Public Library",
+   "type": "library",
+   "city": "Hinton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richwood Heritage Center",
+   "type": "arts_culture",
+   "city": "Richwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lumberjack Muffler Man Statue",
+   "type": "arts_culture",
+   "city": "Richwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bloomfield",
+   "type": "arts_culture",
+   "city": "Richwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richwood Public Library",
+   "type": "library",
+   "city": "Richwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Mat",
+   "type": "laundromat",
+   "city": "Richwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Sulphur Springs Public Library",
+   "type": "library",
+   "city": "White Sulphur Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morgan Arts Council",
+   "type": "arts_culture",
+   "city": "Berkeley Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whale of a Wash",
+   "type": "laundromat",
+   "city": "Berkeley Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Washington's Bathtub",
+   "type": "historic_site",
+   "city": "Berkeley Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heath Studio Gallery",
+   "type": "arts_culture",
+   "city": "Berkeley Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Berkeley Springs",
+   "type": "museum",
+   "city": "Berkeley Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The New Earth Granary",
+   "type": "arts_culture",
+   "city": "Berkeley Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prospect Rock",
+   "type": "historic_site",
+   "city": "Berkeley Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berkeley Springs Baths",
+   "type": "historic_site",
+   "city": "Berkeley Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morgan County Public Library",
+   "type": "library",
+   "city": "Berkeley Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cacapon Mountain Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Berkeley Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Round Top Cement Mill",
+   "type": "historic_site",
+   "city": "Berkeley Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rumsey Monument",
+   "type": "historic_site",
+   "city": "Shepherdstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shepherdstown Historic District",
+   "type": "historic_downtown",
+   "city": "Shepherdstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rooster Dirt Farm",
+   "type": "farmers_market",
+   "city": "Shepherdstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scarborough Library",
+   "type": "library",
+   "city": "Shepherdstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Webster Addison Public Library",
+   "type": "library",
+   "city": "Webster Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic Coke Ovens",
+   "type": "historic_site",
+   "city": "Thomas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cottrill's Opera House",
+   "type": "arts_culture",
+   "city": "Thomas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Winter Pop-up Market",
+   "type": "farmers_market",
+   "city": "Thomas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Timber Logging Camp",
+   "type": "brewery_distillery",
+   "city": "Davis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Heritage Distilling",
+   "type": "brewery_distillery",
+   "city": "Davis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stumpton Ales",
+   "type": "brewery_distillery",
+   "city": "Davis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountaintop Public Library",
+   "type": "library",
+   "city": "Thomas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buxton & Landstreet Gallery and Studios",
+   "type": "arts_culture",
+   "city": "Thomas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The White Room Art Gallery",
+   "type": "arts_culture",
+   "city": "Thomas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas Brewery and Pub",
+   "type": "brewery_distillery",
+   "city": "Thomas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Hill Cemetary",
+   "type": "historic_site",
+   "city": "Weston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weston Downtown Historic District",
+   "type": "historic_downtown",
+   "city": "Weston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stonewall Jackson Memorial",
+   "type": "historic_site",
+   "city": "Weston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trans-Allegheny Lunatic Asylum (West Virginia Hospital for the Insane/Weston State Hospital)",
+   "type": "museum",
+   "city": "Weston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Virginia & Pittsburgh Railroad Depot",
+   "type": "historic_site",
+   "city": "Weston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The East and West Second Street Bridge",
+   "type": "historic_site",
+   "city": "Weston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The National Exchange Bank Of Weston",
+   "type": "historic_site",
+   "city": "Weston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairyland Nickelodeon Movies",
+   "type": "historic_site",
+   "city": "Weston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Virginia Museum of American Glass",
+   "type": "museum",
+   "city": "Weston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trans-Allegheny Lunatic Asylum",
+   "type": "museum",
+   "city": "Weston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountaineer Military Museum",
+   "type": "museum",
+   "city": "Weston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louis Bennett Public Library",
+   "type": "library",
+   "city": "Weston",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

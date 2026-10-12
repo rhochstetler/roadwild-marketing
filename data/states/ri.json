@@ -1,0 +1,2740 @@
+{
+ "state": "RI",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Frosty Hollow Shelter Camping Area",
+   "type": "paid_camp",
+   "town": "Hope Valley, RI",
+   "town_mi": 5.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ginny-B Campground",
+   "type": "rv_park",
+   "town": "Foster Center, RI",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wawaloam Campground",
+   "type": "rv_park",
+   "town": "Wyoming, RI",
+   "town_mi": 4.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whispering Pines Campground",
+   "type": "rv_park",
+   "town": "Hope Valley, RI",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Pond Cave Parking Boulder",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "The Heart",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "The Egg",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Peace Dove Boulder",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rock Spot Climbing",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Last Call",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rock Spot Climbing",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Block Island National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ninigret National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sachuest Point National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Trustom Pond National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Narragansett Bay National Estuarine Research Reserve",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "John H. Chafee National Wildlife Refuge",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Davisville Historic District",
+   "type": "historic_downtown",
+   "city": "Davisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forge Road Historic District",
+   "type": "historic_downtown",
+   "city": "Potowomut",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buttonwoods Beach Historic District",
+   "type": "historic_downtown",
+   "city": "Cowesett",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rhodes Street Historic District",
+   "type": "historic_downtown",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Culinary Archive and Museum;Johnson & Wales University Culinary Arts Museum",
+   "type": "museum",
+   "city": "Pawtuxet",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tillinghast Mill Ruins",
+   "type": "historic_site",
+   "city": "Davisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tarbox Cemetery",
+   "type": "historic_site",
+   "city": "Tiogue",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Park Theater",
+   "type": "arts_culture",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Starbright Laundarymat",
+   "type": "laundromat",
+   "city": "Tiogue",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roger Williams Statue",
+   "type": "historic_site",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ocean State Laundromat",
+   "type": "laundromat",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Simmonsville Flood Memorial",
+   "type": "historic_site",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clayground Studio",
+   "type": "arts_culture",
+   "city": "Potowomut",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "For Arts' Sake",
+   "type": "arts_culture",
+   "city": "Potowomut",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Long Live Beer Works",
+   "type": "brewery_distillery",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waterford Laundromat",
+   "type": "laundromat",
+   "city": "East Greenwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Graffiti Mural",
+   "type": "arts_culture",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Proclamation Ale Company",
+   "type": "brewery_distillery",
+   "city": "Apponaug",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Hub",
+   "type": "coworking",
+   "city": "East Greenwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thorpe's Laundromat & Dry Cleaning",
+   "type": "laundromat",
+   "city": "West Warwick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Falconer",
+   "type": "historic_site",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Union Soldier",
+   "type": "historic_site",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Eagle",
+   "type": "arts_culture",
+   "city": "Pawtuxet",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Fighting Gladiator",
+   "type": "historic_site",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haitian Independence Memorial",
+   "type": "historic_site",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Juan Pablo Duarte",
+   "type": "arts_culture",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abraham Lincoln",
+   "type": "arts_culture",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Natural History and Planetarium",
+   "type": "science_center",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marconi Memorial",
+   "type": "historic_site",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sri Chinmoy",
+   "type": "arts_culture",
+   "city": "Pawtuxet",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ferdinand II",
+   "type": "arts_culture",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lions Memorial",
+   "type": "historic_site",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Pancratiast",
+   "type": "arts_culture",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "General Pulaski",
+   "type": "arts_culture",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brown R. Church",
+   "type": "arts_culture",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sea Lion sculpture",
+   "type": "arts_culture",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pineapple",
+   "type": "arts_culture",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Village Cleaners",
+   "type": "laundromat",
+   "city": "Pawtuxet",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jo's",
+   "type": "arts_culture",
+   "city": "West Warwick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tumbletown 2",
+   "type": "laundromat",
+   "city": "Crompton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Giant Troll Mrs Skipper",
+   "type": "arts_culture",
+   "city": "Pawtuxet",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seabee Museum",
+   "type": "museum",
+   "city": "Davisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Auburn Branch Cranston Public Library",
+   "type": "library",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norwood Branch Warwick Public Library",
+   "type": "library",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warwick Public Library",
+   "type": "library",
+   "city": "Warwick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cranston Public Library",
+   "type": "library",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carriage House",
+   "type": "library",
+   "city": "East Greenwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Arctic Playhouse",
+   "type": "arts_culture",
+   "city": "West Warwick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Betsey Williams Cottage",
+   "type": "museum",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pontiac Free Library Association",
+   "type": "library",
+   "city": "Apponaug",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lalin Coin Laundry Mat",
+   "type": "laundromat",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gamm Theater",
+   "type": "arts_culture",
+   "city": "Apponaug",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William H. Hall Free Library",
+   "type": "library",
+   "city": "Pawtuxet",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warwick Center for the Arts",
+   "type": "museum",
+   "city": "Warwick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Apponaug Branch Warwick Public Library",
+   "type": "library",
+   "city": "Warwick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oak Lawn Branch Cranston Public Library",
+   "type": "library",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pawtuxet Rangers Armory",
+   "type": "museum",
+   "city": "Pawtuxet",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Warwick Public Library",
+   "type": "library",
+   "city": "West Warwick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pippin Orchard",
+   "type": "farmers_market",
+   "city": "Fiskeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confreda Farms",
+   "type": "farmers_market",
+   "city": "Fiskeville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Greenwich Free Library",
+   "type": "library",
+   "city": "East Greenwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Armory of the Kentish Guards",
+   "type": "museum",
+   "city": "East Greenwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greenwich Odeum",
+   "type": "arts_culture",
+   "city": "East Greenwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Bay Laundry & Dry Cleaning",
+   "type": "laundromat",
+   "city": "Potowomut",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Varnum Memorial Armory",
+   "type": "museum",
+   "city": "East Greenwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heritage Art Gallery and Glass Studio",
+   "type": "arts_culture",
+   "city": "Potowomut",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Varnum House Museum",
+   "type": "museum",
+   "city": "East Greenwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ray's Polyclean Center",
+   "type": "laundromat",
+   "city": "West Warwick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New England Wireless and Steam Museum",
+   "type": "museum",
+   "city": "Davisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Governor William Sprague Mansion",
+   "type": "museum",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coventry Public Library",
+   "type": "library",
+   "city": "Tiogue",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Providence Community Library: Knight Memorial Library",
+   "type": "library",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wesleyan Avenue Historic District",
+   "type": "historic_downtown",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Providence Community Library South Providence Branch",
+   "type": "library",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Providence Community Library: Washington Park Library",
+   "type": "library",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Temple to Music",
+   "type": "museum",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bullocks Point Laundromat",
+   "type": "laundromat",
+   "city": "Pawtuxet",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverside Branch Public Library",
+   "type": "library",
+   "city": "Pawtuxet",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paine House Museum",
+   "type": "museum",
+   "city": "Tiogue",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atwood Superwash & Linen service",
+   "type": "laundromat",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hope Library",
+   "type": "library",
+   "city": "Hope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arlington Branch",
+   "type": "library",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Conimicut Branch",
+   "type": "library",
+   "city": "Pawtuxet",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Knightsville Branch Cranston Public Library",
+   "type": "library",
+   "city": "Cranston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Davisville Free Library",
+   "type": "library",
+   "city": "Davisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crompton Free Library",
+   "type": "library",
+   "city": "Crompton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Station Fire Memorial",
+   "type": "historic_site",
+   "city": "Crompton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barrington Civic Center Historic District",
+   "type": "historic_downtown",
+   "city": "Barrington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Doyle Avenue Historic District",
+   "type": "historic_downtown",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Ashton Historic District",
+   "type": "historic_downtown",
+   "city": "Ashton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Providence Community Library: Olneyville Library",
+   "type": "library",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barrington Preservation Society Museum",
+   "type": "museum",
+   "city": "Barrington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers and Sailors Monument",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Hay Library",
+   "type": "library",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haffenreffer Museum of Anthropology",
+   "type": "museum",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Annmary Brown Library",
+   "type": "library",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roger Williams Statue",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Circle Dance",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George M. Cohen Monument",
+   "type": "historic_site",
+   "city": "East Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Simply Seasonal",
+   "type": "farmers_market",
+   "city": "North Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Turk's Head",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Governor Stephen Hopkins House",
+   "type": "museum",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cumberland Veteran's Memorial",
+   "type": "historic_site",
+   "city": "Ashton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wayland Square",
+   "type": "historic_downtown",
+   "city": "East Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam War Memorial",
+   "type": "historic_site",
+   "city": "North Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barrington Honor Roll",
+   "type": "historic_site",
+   "city": "Barrington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veritas Eternaliter Juvenis (truth is eternally young)",
+   "type": "arts_culture",
+   "city": "North Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rev. John Cunningham Square",
+   "type": "historic_site",
+   "city": "North Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty Arming the Patriot",
+   "type": "historic_site",
+   "city": "Pawtucket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Collyer Monument",
+   "type": "historic_site",
+   "city": "Pawtucket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War I Memorial",
+   "type": "historic_site",
+   "city": "East Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indomitable",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "P-131317",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Slavery Memorial",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Casey Shearer Memorial",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Memorial",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marcus Aurelius",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Bear Fountain",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Caesar Augustus",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idee di pietra",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Steel Yard",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Armenian Memorial",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fleet Library",
+   "type": "library",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Providence College Veritas Flame",
+   "type": "historic_site",
+   "city": "North Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Independent Man",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monk's Quarry",
+   "type": "historic_site",
+   "city": "Ashton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dirt Palace",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jain's Laundry",
+   "type": "laundromat",
+   "city": "North Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rhode Island Jewish Museum",
+   "type": "museum",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Nature Lab at Rhode Island School of Design",
+   "type": "museum",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stuart Theatre",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"The Hiker\"",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Providence Public Safety Memorial",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rhode Island Holocaust Memorial",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II Memorial",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean War Memorial",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rhode Island Irish Famine Memorial",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union Station Brewery",
+   "type": "brewery_distillery",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Strand Ballroom & Theatre",
+   "type": "live_music",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pell Chafee Performance Center",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trinity Repertory Company Lederer Theater Center",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elizabeth and Malcolm Chace Theater",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sarah and Joseph Dowling, Jr. Theater",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bishop McVinney Memorial Auditorium",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garden of Heroes",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Major General Nathanael Greene",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Commodore Oliver Hazard Perry",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rhode Island State Library",
+   "type": "library",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McGlynn Sculpture Court",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Raymond Dettore, Jr.",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Davol Square",
+   "type": "historic_downtown",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Virginia Baldwin Orwig Music Library",
+   "type": "library",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "RISD Auditorium",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woods Gerry Gallery",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leeds Theatre",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elevation II",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rhode Island IX State Memorial and Remembrance Park",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fox Point Veterans Memorial",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pembroke College Tribute",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farm Fresh Providence Farmers Market",
+   "type": "farmers_market",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Discipline Brewing",
+   "type": "brewery_distillery",
+   "city": "Pawtucket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Hummingbird Palace",
+   "type": "arts_culture",
+   "city": "Pawtucket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bubble Wash Laundromat",
+   "type": "laundromat",
+   "city": "Pawtucket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Small Format",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Club",
+   "type": "laundromat",
+   "city": "East Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Guild",
+   "type": "brewery_distillery",
+   "city": "Pawtucket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Urban Arts",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Industrious Spirit Company",
+   "type": "brewery_distillery",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Byttonwoods Brewery",
+   "type": "brewery_distillery",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AS220",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Home plate of the demolished McCoy Stadium",
+   "type": "historic_site",
+   "city": "Pawtucket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbus",
+   "type": "historic_site",
+   "city": "Johnston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "True-shine Laundromat",
+   "type": "laundromat",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Giovanni da Verrazzano",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Giuseppe Garibaldi",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monsignor Cavallaro",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lithuanian Monument",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City Bubbles",
+   "type": "laundromat",
+   "city": "East Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Providence Veterans Memorial",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stephen Sondheim Amphitheater",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Captain Wilbur Kelly House Transportation Museum",
+   "type": "museum",
+   "city": "Ashton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dodge House Gallery",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Ink Community Library",
+   "type": "library",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "PVD Things",
+   "type": "library",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Narragansett Brewery",
+   "type": "brewery_distillery",
+   "city": "East Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial Auditorium",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trinity Repertory Theater",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WaterFire Arts Center",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Providence Public Library",
+   "type": "library",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rhode Island Department of State Library",
+   "type": "library",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sciences Library",
+   "type": "library",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John D. Rockefeller Jr. Library",
+   "type": "library",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marian J. Mohr Memorial Library",
+   "type": "library",
+   "city": "Johnston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James P. Adams Library",
+   "type": "library",
+   "city": "North Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Carter Brown Library",
+   "type": "library",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Annmary Brown Memorial",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carrie Tower",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barrington Public Library",
+   "type": "library",
+   "city": "Barrington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Providence Pool & Fitness Center",
+   "type": "library",
+   "city": "North Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Deborah Cook Sayles Public Library",
+   "type": "library",
+   "city": "Pawtucket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pawtucket Public Library",
+   "type": "library",
+   "city": "Pawtucket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phillips Memorial Library",
+   "type": "library",
+   "city": "North Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smith Center for the Arts",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prescott Library",
+   "type": "library",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waterplace Park stage",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Providence Community Library: Fox Point Library",
+   "type": "library",
+   "city": "East Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Brown House Museum",
+   "type": "museum",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Comedy Connection",
+   "type": "arts_culture",
+   "city": "East Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Providence Athenaeum",
+   "type": "library",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barker Playhouse",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Uptown Theater",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers Memorial Gate",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Providence Children's Museum",
+   "type": "museum",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rhode Island Museum of Science and Art (RIMOSA)",
+   "type": "science_center",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lippitt House Museum",
+   "type": "museum",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hunt House Museum",
+   "type": "museum",
+   "city": "Rumford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Providence Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rochambeau Branch Providence Public Library",
+   "type": "library",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War I Monument",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weaver Public Library",
+   "type": "library",
+   "city": "East Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stimson Avenue Historic District",
+   "type": "historic_downtown",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bridgham-Arch-Wilson Street Historic District",
+   "type": "historic_downtown",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ship Street Square",
+   "type": "historic_downtown",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Providence Jewelry Manufacturing Historic District",
+   "type": "historic_downtown",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Providence Community Library: Mount Pleasant Library",
+   "type": "library",
+   "city": "North Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smith Hill Branch Public Library",
+   "type": "library",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Providence Community Library: Wanskuck Library",
+   "type": "library",
+   "city": "North Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moniker Brewery",
+   "type": "brewery_distillery",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waterman Laundromat",
+   "type": "laundromat",
+   "city": "North Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnston Historical Society",
+   "type": "museum",
+   "city": "North Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lindemann Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hearthside House Museum",
+   "type": "museum",
+   "city": "Saylesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cape Verdean Museum Exhibit",
+   "type": "museum",
+   "city": "Rumford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freeway Laundry",
+   "type": "laundromat",
+   "city": "East Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgiaville Historic District",
+   "type": "historic_downtown",
+   "city": "Greenville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Providence City Hall Square",
+   "type": "historic_downtown",
+   "city": "East Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wedding Cake House",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greenville Public Library",
+   "type": "library",
+   "city": "Greenville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Smithfield Public Library",
+   "type": "library",
+   "city": "Greenville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fuller Branch East Providence Public Library",
+   "type": "library",
+   "city": "East Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Adams Memorial Library",
+   "type": "library",
+   "city": "Central Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cumberland Public Library",
+   "type": "library",
+   "city": "Ashton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Still Here",
+   "type": "arts_culture",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hughes Court",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Patriots Court",
+   "type": "historic_site",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arcane Mead & Winery",
+   "type": "brewery_distillery",
+   "city": "Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mayor Salvatore Mancini Union Free Library",
+   "type": "library",
+   "city": "North Providence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nine Men's Misery Monument",
+   "type": "historic_site",
+   "city": "Ashton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln Public Library",
+   "type": "library",
+   "city": "Albion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warrens Waterfront Historic District",
+   "type": "historic_downtown",
+   "city": "Warren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles W. Greene Museum",
+   "type": "museum",
+   "city": "Warren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Maxwell House Museum",
+   "type": "museum",
+   "city": "Warren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Massasoit Sacred Circle Monument",
+   "type": "historic_site",
+   "city": "Warren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warren Vietnam Memorial",
+   "type": "historic_site",
+   "city": "Warren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Imago Gallery",
+   "type": "arts_culture",
+   "city": "Warren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Made in Warren Arts Collective",
+   "type": "arts_culture",
+   "city": "Warren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warren Armory",
+   "type": "museum",
+   "city": "Warren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Federal Blues Rhode Island Militia Armory",
+   "type": "museum",
+   "city": "Warren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Narragansett Steam Fire Engine Company",
+   "type": "museum",
+   "city": "Warren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Haile Free Library",
+   "type": "library",
+   "city": "Warren",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Work and Culture",
+   "type": "museum",
+   "city": "Woonsocket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woonsocket Civil War Monument",
+   "type": "historic_site",
+   "city": "Woonsocket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bryant Archway",
+   "type": "historic_site",
+   "city": "Smithfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Hachikō",
+   "type": "arts_culture",
+   "city": "Woonsocket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goodwin Brothers",
+   "type": "farmers_market",
+   "city": "North Smithfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North End Historic District",
+   "type": "historic_downtown",
+   "city": "Woonsocket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woonsocket Harris Public Library",
+   "type": "library",
+   "city": "Woonsocket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stadium Theatre",
+   "type": "arts_culture",
+   "city": "Woonsocket",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Smithfield Public Library",
+   "type": "library",
+   "city": "Slatersville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kay Street-Catherine Street-Old Beach Road Historic District",
+   "type": "historic_downtown",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Compton Historic District",
+   "type": "historic_downtown",
+   "city": "Little Compton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ocean Drive Historic District",
+   "type": "historic_downtown",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ochre Point-Cliffs Historic District",
+   "type": "historic_downtown",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rochambeau Statue and Monument",
+   "type": "arts_culture",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Queen Anne Square",
+   "type": "historic_downtown",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henry E. Eccles Library",
+   "type": "library",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jamestown Museum",
+   "type": "museum",
+   "city": "Jamestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Doll Museum",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sydney L Wright Memorial Museum of Indian Artifacts",
+   "type": "museum",
+   "city": "Jamestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newport Historical Society and Museum",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newport Art Museum",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battery 213",
+   "type": "historic_site",
+   "city": "Jamestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Channing Truro Statue",
+   "type": "arts_culture",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Sailing Museum",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newport Vineyards and Winery",
+   "type": "brewery_distillery",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Health Of Mind Enhanced (HOME)",
+   "type": "coworking",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battery",
+   "type": "historic_site",
+   "city": "Jamestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oliver Perry Monument",
+   "type": "arts_culture",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jamestown Arts Center",
+   "type": "arts_culture",
+   "city": "Jamestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Newport History",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Matthew Perry Monument",
+   "type": "arts_culture",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Firehouse Theatre",
+   "type": "arts_culture",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Archibald Gracie Lawence memorial stone",
+   "type": "historic_site",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coddington Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cusp Gallery and Lifestyle",
+   "type": "arts_culture",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Colony House",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newport Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Bennington Memorial",
+   "type": "historic_site",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anchor Park",
+   "type": "historic_site",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pell Marine Science Library",
+   "type": "library",
+   "city": "Saunderstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "EgyptAir Flight 990 Memorial",
+   "type": "historic_site",
+   "city": "Jamestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leo's Market",
+   "type": "farmers_market",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Driftwood Surf Market",
+   "type": "farmers_market",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Micki's Mat",
+   "type": "laundromat",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newport Car Museum",
+   "type": "museum",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Breakers",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Founders Hall",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hill Library",
+   "type": "library",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jamestown Philomenian Library",
+   "type": "library",
+   "city": "Jamestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Observation Post",
+   "type": "historic_site",
+   "city": "Jamestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chateau-sur-Mer Mansion",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Isaac Bell House",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kingscote Mansion",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marble House",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rosecliff Mansion",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Elms Mansion",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mall Laundromat",
+   "type": "laundromat",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Museum of American Illustration",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miantonomi Memorial Park Tower",
+   "type": "historic_site",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newport Public Library",
+   "type": "library",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chepstow",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brownell Library",
+   "type": "library",
+   "city": "Little Compton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whale Rock Lighthouse",
+   "type": "historic_site",
+   "city": "Saunderstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jamestown Fire Department Memorial Museum",
+   "type": "museum",
+   "city": "Jamestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portuguese Discovery Monument",
+   "type": "historic_site",
+   "city": "Jamestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Middletown Public Library",
+   "type": "library",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whitehall Museum House",
+   "type": "museum",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newport Tower Museum",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artillery Company of Newport Military Museum",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Audrain Auto Museum",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Belcourt of Newport",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rough Point Museum",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Street Cleaners",
+   "type": "laundromat",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Onsite Techs",
+   "type": "coworking",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hunter House",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Willett Free Library",
+   "type": "library",
+   "city": "Saunderstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Redwood Library and Athenaeum",
+   "type": "library",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Jamestown Bridge west pylon",
+   "type": "historic_site",
+   "city": "Saunderstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yawgoog Heritage Center",
+   "type": "museum",
+   "city": "Rockville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bucklin Memorial, Yawgoog Scout Reservation",
+   "type": "historic_site",
+   "city": "Rockville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Langworthy Public Library",
+   "type": "library",
+   "city": "Hope Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J. Harold Williams Amphitheatre",
+   "type": "arts_culture",
+   "city": "Rockville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Swamp Fight Site",
+   "type": "historic_site",
+   "city": "West Kingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rhode Island Railroad Museum",
+   "type": "museum",
+   "city": "West Kingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camp Fuller Bell",
+   "type": "historic_site",
+   "city": "Wakefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Glass Station Studio and Gallery",
+   "type": "arts_culture",
+   "city": "Wakefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shaidzon Beer Co.",
+   "type": "brewery_distillery",
+   "city": "West Kingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sons of Liberty Spirits Co",
+   "type": "brewery_distillery",
+   "city": "Peacedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carter Jackson Monument",
+   "type": "historic_site",
+   "city": "Peacedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grafitti Tunnel",
+   "type": "arts_culture",
+   "city": "Wakefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "International Museum of World War II",
+   "type": "museum",
+   "city": "Wakefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pier Cleaners",
+   "type": "laundromat",
+   "city": "Wakefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rhody the Ram",
+   "type": "arts_culture",
+   "city": "Kingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Florence Nightingale Statue",
+   "type": "arts_culture",
+   "city": "Kingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carothers Library",
+   "type": "library",
+   "city": "Kingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kingston Free Library",
+   "type": "library",
+   "city": "Kingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peace Dale Public Library",
+   "type": "library",
+   "city": "Peacedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whalers Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Peacedale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sari's Sanctuary",
+   "type": "historic_site",
+   "city": "Wakefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Kingstown Veterans Memorial",
+   "type": "historic_site",
+   "city": "Wakefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert Beverly Hale Library",
+   "type": "library",
+   "city": "Wakefield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rice City",
+   "type": "historic_downtown",
+   "city": "Greene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whale Rock and Lighthouse",
+   "type": "historic_site",
+   "city": "Coventry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cairns",
+   "type": "historic_site",
+   "city": "Coventry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vaughn Farm",
+   "type": "historic_site",
+   "city": "Coventry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charcoal Pile Site",
+   "type": "historic_site",
+   "city": "Coventry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farm Site",
+   "type": "historic_site",
+   "city": "Coventry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stone Quarry",
+   "type": "historic_site",
+   "city": "Coventry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stone Quarry",
+   "type": "historic_site",
+   "city": "Coventry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Table Rock",
+   "type": "historic_site",
+   "city": "Coventry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greene Public Library",
+   "type": "library",
+   "city": "Greene",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

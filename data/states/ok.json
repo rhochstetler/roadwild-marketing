@@ -1,0 +1,5315 @@
+{
+ "state": "OK",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Washunga Bay Campground",
+   "type": "paid_camp",
+   "town": "Kaw City, OK",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ladybird Landing Campground",
+   "type": "paid_camp",
+   "town": "Hoyt, OK",
+   "town_mi": 4.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bear Creek Cove Campground",
+   "type": "paid_camp",
+   "town": "Kaw City, OK",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cold Springs Campground (Chickasaw)",
+   "type": "paid_camp",
+   "town": "Sulphur, OK",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Porum Landing Campground",
+   "type": "paid_camp",
+   "town": "Duchess Landing, OK",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Burns Run East Campground",
+   "type": "paid_camp",
+   "town": "Cartwright, OK",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Caney Creek Campground",
+   "type": "paid_camp",
+   "town": "New Woodville, OK",
+   "town_mi": 4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Potato Hills Central Campground",
+   "type": "paid_camp",
+   "town": "Tuskahoma, OK",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Kettle Campground",
+   "type": "paid_camp",
+   "town": "Strong City, OK",
+   "town_mi": 8.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spring Creek Campground (Black Kettle NG)",
+   "type": "paid_camp",
+   "town": "Durham, OK",
+   "town_mi": 6.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagle Nest Campground - Fort Cobb SP",
+   "type": "paid_camp",
+   "town": "Fort Cobb, OK",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Mesa Youth Group Camp",
+   "type": "paid_camp",
+   "town": "Kenton, OK",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Mesa State Park Campground",
+   "type": "paid_camp",
+   "town": "Kenton, OK",
+   "town_mi": 6.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hog Creek Campground",
+   "type": "paid_camp",
+   "town": "Norman, OK",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Skipout Campground",
+   "type": "paid_camp",
+   "town": "Reydon, OK",
+   "town_mi": 2.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Martins Landing Campground",
+   "type": "paid_camp",
+   "town": "Greenville, OK",
+   "town_mi": 7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Catfish Cove Campground",
+   "type": "paid_camp",
+   "town": "Fort Cobb, OK",
+   "town_mi": 4.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Caddo Hill Campground",
+   "type": "paid_camp",
+   "town": "Fort Cobb, OK",
+   "town_mi": 4.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Flag Pole Campground",
+   "type": "paid_camp",
+   "town": "Fort Cobb, OK",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blackjack Campground",
+   "type": "paid_camp",
+   "town": "Fort Cobb, OK",
+   "town_mi": 4.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deer Run Campground",
+   "type": "paid_camp",
+   "town": "Fort Cobb, OK",
+   "town_mi": 4.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tent Hill Campground",
+   "type": "paid_camp",
+   "town": "Fort Cobb, OK",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Sandy Campground",
+   "type": "paid_camp",
+   "town": "Norman, OK",
+   "town_mi": 6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Creekside RV Park (OK)",
+   "type": "rv_park",
+   "town": "Broken Bow, OK",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chisholm Trail Ridge Campground",
+   "type": "paid_camp",
+   "town": "Addington, OK",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bluestem Public Campground",
+   "type": "paid_camp",
+   "town": "Pawhuska, OK",
+   "town_mi": 5.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mountain View RV Park (OK)",
+   "type": "rv_park",
+   "town": "Smithville, OK",
+   "town_mi": 6.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Winding Stair Hikers Camp",
+   "type": "paid_camp",
+   "town": "Hodgen, OK",
+   "town_mi": 9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sarge Creek Campground",
+   "type": "paid_camp",
+   "town": "Kaw City, OK",
+   "town_mi": 3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Redbud Campground",
+   "type": "paid_camp",
+   "town": "Granite, OK",
+   "town_mi": 5.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "River Run Campground South",
+   "type": "paid_camp",
+   "town": "Granite, OK",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hunters Campground (GMA & PHA)",
+   "type": "paid_camp",
+   "town": "Old Eucha, OK",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Runestone RV Park",
+   "type": "rv_park",
+   "town": "Heavener, OK",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Side Group Camp",
+   "type": "paid_camp",
+   "town": "Stillwater, OK",
+   "town_mi": 6.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Creek RV Park",
+   "type": "rv_park",
+   "town": "Bokchito, OK",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buckhorn Campground Loop A",
+   "type": "paid_camp",
+   "town": "Dougherty, OK",
+   "town_mi": 4.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buckhorn Campground Loop B",
+   "type": "paid_camp",
+   "town": "Dougherty, OK",
+   "town_mi": 3.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "The Point Campground (Chickasaw)",
+   "type": "paid_camp",
+   "town": "Sulphur, OK",
+   "town_mi": 3.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Juniper Point Campground",
+   "type": "paid_camp",
+   "town": "Sherwood Shores, TX",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Platter Flats Campground",
+   "type": "paid_camp",
+   "town": "Platter, OK",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Kettle Campground",
+   "type": "unknown",
+   "town": "Strong City, OK",
+   "town_mi": 7.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Doris Camp",
+   "type": "unknown",
+   "town": "Cache, OK",
+   "town_mi": 6.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cleveland County Fair RV Site",
+   "type": "rv_park",
+   "town": "Norman, OK",
+   "town_mi": 5.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elk City / Clinton KOA",
+   "type": "rv_park",
+   "town": "Foss, OK",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Osage RV",
+   "type": "paid_camp",
+   "town": "Nelagoney, OK",
+   "town_mi": 8.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tent Hill",
+   "type": "paid_camp",
+   "town": "Nelagoney, OK",
+   "town_mi": 8.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hickory Hill Campground",
+   "type": "paid_camp",
+   "town": "Norman, OK",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "El Reno West KOA",
+   "type": "rv_park",
+   "town": "Hinton, OK",
+   "town_mi": 7.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CCC Tent Sites",
+   "type": "paid_camp",
+   "town": "Nelagoney, OK",
+   "town_mi": 8.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Regatta on Grand",
+   "type": "rv_park",
+   "town": "Copeland, OK",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Altus RV Resort",
+   "type": "rv_park",
+   "town": "Altus, OK",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Park Lane Estates",
+   "type": "rv_park",
+   "town": "Altus, OK",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mingo RV Park",
+   "type": "rv_park",
+   "town": "Tulsa, OK",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Durant Choctaw Casino KOA RV Park",
+   "type": "rv_park",
+   "town": "Calera, OK",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bull Creek Peninsula",
+   "type": "unknown",
+   "town": "Hominy, OK",
+   "town_mi": 9.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kampgrounds of America",
+   "type": "rv_park",
+   "town": "Hitchita, OK",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Route 66 RV Park",
+   "type": "rv_park",
+   "town": "Sapulpa, OK",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pioneer RV Park",
+   "type": "rv_park",
+   "town": "Seward, OK",
+   "town_mi": 4.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cherry Hill Park",
+   "type": "rv_park",
+   "town": "Oakhurst, OK",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverside RV Resort & Campground",
+   "type": "rv_park",
+   "town": "Bartlesville, OK",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Cedar RV Park & Cabins",
+   "type": "rv_park",
+   "town": "Smithville, OK",
+   "town_mi": 11.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Old Circle Campground",
+   "type": "rv_park",
+   "town": "Wilburton, OK",
+   "town_mi": 5.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whispering Pines Campground",
+   "type": "rv_park",
+   "town": "Wilburton, OK",
+   "town_mi": 5.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rockwell RV Park & Campground",
+   "type": "rv_park",
+   "town": "Bethany, OK",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Indigo Sky Resort",
+   "type": "rv_park",
+   "town": "Seneca, MO",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Central Group Camp (Chickasaw)",
+   "type": "paid_camp",
+   "town": "Sulphur, OK",
+   "town_mi": 1.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Claremore Expo Center RV Park",
+   "type": "rv_park",
+   "town": "Claremore, OK",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Roadrunner RV Park",
+   "type": "rv_park",
+   "town": "Valley Brook, OK",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "A-AAA RV Park",
+   "type": "rv_park",
+   "town": "Newcastle, OK",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Onapa RV Park",
+   "type": "rv_park",
+   "town": "Texanna, OK",
+   "town_mi": 4.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Scissortail Campground",
+   "type": "paid_camp",
+   "town": "Edmond, OK",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tanglewood RV Park",
+   "type": "rv_park",
+   "town": "Lotsee, OK",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Park Hills RV Park",
+   "type": "rv_park",
+   "town": "White Oak, OK",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Arbuckle RV Resort",
+   "type": "paid_camp",
+   "town": "Sulphur, OK",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Holiday",
+   "type": "rv_park",
+   "town": "Sallisaw, OK",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cedar Lake Shady Lane",
+   "type": "rv_park",
+   "town": "Hodgen, OK",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cedar Lake Equestrian Camp",
+   "type": "rv_park",
+   "town": "Hodgen, OK",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Choctaw RV Campground",
+   "type": "rv_park",
+   "town": "Mallard Bay, OK",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Plaza Mobile Home Park",
+   "type": "rv_park",
+   "town": "Ardmore, OK",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Murray Trailer Park",
+   "type": "rv_park",
+   "town": "Ardmore, OK",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Green Park RV Resort",
+   "type": "rv_park",
+   "town": "McCord, OK",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Meadowbrook Village",
+   "type": "rv_park",
+   "town": "Ponca City, OK",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "R&T Diesel Repair",
+   "type": "rv_park",
+   "town": "Alva, OK",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nitram Capital",
+   "type": "rv_park",
+   "town": "Alva, OK",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fritz and Sons Trucking",
+   "type": "rv_park",
+   "town": "Alva, OK",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverview RV & Recreation Park",
+   "type": "rv_park",
+   "town": "Colbert, OK",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RV Station Resort",
+   "type": "rv_park",
+   "town": "Colbert, OK",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Colbert RV Park",
+   "type": "rv_park",
+   "town": "Colbert, OK",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Keltner Mobile Home Park",
+   "type": "rv_park",
+   "town": "Alva, OK",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shirley Shine Carwash",
+   "type": "rv_park",
+   "town": "Alva, OK",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Miracle Production",
+   "type": "rv_park",
+   "town": "Alva, OK",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RV Park",
+   "type": "rv_park",
+   "town": "West Siloam Springs, OK",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fun Town RV Park at WinStar",
+   "type": "rv_park",
+   "town": "Thackerville, OK",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Creek Hideaway",
+   "type": "rv_park",
+   "town": "Swink, OK",
+   "town_mi": 11.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dogwood Campground",
+   "type": "paid_camp",
+   "town": "Hochatown, OK",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elm Campground",
+   "type": "paid_camp",
+   "town": "Hochatown, OK",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grapevine Campground",
+   "type": "paid_camp",
+   "town": "Hochatown, OK",
+   "town_mi": 4.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Broken Bow RV Park",
+   "type": "rv_park",
+   "town": "Broken Bow, OK",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tiny Town RV Park",
+   "type": "rv_park",
+   "town": "Hochatown, OK",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverside RV Park",
+   "type": "rv_park",
+   "town": "Canton, OK",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blue Granite RV Park",
+   "type": "rv_park",
+   "town": "Longdale, OK",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wild Bill’s RV Park",
+   "type": "rv_park",
+   "town": "Boise City, OK",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cool Breeze Cinema and RV Park",
+   "type": "rv_park",
+   "town": "Springer, OK",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Oklahoma Trailer Sales",
+   "type": "rv_park",
+   "town": "Calera, OK",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Twin Fountains RV Park",
+   "type": "rv_park",
+   "town": "Lake Aluma, OK",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lincoln Park North",
+   "type": "rv_park",
+   "town": "Nichols Hills, OK",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sizemore Landing Public Use Area",
+   "type": "unknown",
+   "town": "Cookson, OK",
+   "town_mi": 3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Turtle RV Park",
+   "type": "rv_park",
+   "town": "Texanna, OK",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Oak Glen RV Park",
+   "type": "rv_park",
+   "town": "Chandler, OK",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buckeye Campground",
+   "type": "paid_camp",
+   "town": "Hochatown, OK",
+   "town_mi": 5.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Mountain Fork",
+   "type": "paid_camp",
+   "town": "Eagletown, OK",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mountain Fork Park",
+   "type": "paid_camp",
+   "town": "Eagletown, OK",
+   "town_mi": 4.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Ridge Campground",
+   "type": "paid_camp",
+   "town": "Hochatown, OK",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cypress Campground",
+   "type": "paid_camp",
+   "town": "Hochatown, OK",
+   "town_mi": 6.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "American RV Park",
+   "type": "rv_park",
+   "town": "Wayne, OK",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Trails Campground",
+   "type": "rv_park",
+   "town": "Wilburton, OK",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shady Grove Campground & RV Park",
+   "type": "rv_park",
+   "town": "Mule Barn, OK",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Arrowhead RV Park",
+   "type": "rv_park",
+   "town": "Pauls Valley, OK",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Quapaw Casino RV Park",
+   "type": "rv_park",
+   "town": "Commerce, OK",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Live Oak Campground",
+   "type": "rv_park",
+   "town": "Granite, OK",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Scissortail Campground (1-10)",
+   "type": "rv_park",
+   "town": "Granite, OK",
+   "town_mi": 5.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mountain View Campground",
+   "type": "rv_park",
+   "town": "Granite, OK",
+   "town_mi": 5.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Burnt Cabin Christian Camp",
+   "type": "paid_camp",
+   "town": "Blackgum, OK",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Creekside RV Ranch",
+   "type": "rv_park",
+   "town": "Wagoner, OK",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spaniard Creek Recreation Area",
+   "type": "paid_camp",
+   "town": "Keefton, OK",
+   "town_mi": 2.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brewers Bend Recreation Area",
+   "type": "unknown",
+   "town": "Sour John, OK",
+   "town_mi": 3.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Meadowbrook RV Park",
+   "type": "rv_park",
+   "town": "Muskogee, OK",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crowder RV Park",
+   "type": "rv_park",
+   "town": "Crowder, OK",
+   "town_mi": 0.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Murray RV Park",
+   "type": "rv_park",
+   "town": "Dickson, OK",
+   "town_mi": 5.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "The Oaks",
+   "type": "rv_park",
+   "town": "Cleveland, OK",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Horizon Sands RV Park",
+   "type": "rv_park",
+   "town": "Altus, OK",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sourjohn RV Park",
+   "type": "rv_park",
+   "town": "Okay, OK",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "270 RV & Storage",
+   "type": "rv_park",
+   "town": "Bache, OK",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hidden Valley RV Park",
+   "type": "rv_park",
+   "town": "Tullahassee, OK",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crossroads RV Park",
+   "type": "rv_park",
+   "town": "Tullahassee, OK",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Warrior RV Park",
+   "type": "rv_park",
+   "town": "Oakhurst, OK",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Love's RV Hookup",
+   "type": "rv_park",
+   "town": "Webbers Falls, OK",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Love's RV Hookup",
+   "type": "rv_park",
+   "town": "Big Cabin, OK",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Silver Canyon RV Park",
+   "type": "rv_park",
+   "town": "Summit, OK",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "JOHNSON CREEK",
+   "type": "paid_camp",
+   "town": "Sand Point, OK",
+   "town_mi": 2.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SNAKE CREEK",
+   "type": "paid_camp",
+   "town": "Blackgum, OK",
+   "town_mi": 2.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TWIN COVE POINT",
+   "type": "paid_camp",
+   "town": "Barnsdall, OK",
+   "town_mi": 1.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LITTLE RIVER PARK",
+   "type": "paid_camp",
+   "town": "Wright City, OK",
+   "town_mi": 9.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WASHINGTON IRVING SOUTH",
+   "type": "paid_camp",
+   "town": "Mule Barn, OK",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buckhorn Campground (Chickasaw)",
+   "type": "paid_camp",
+   "town": "Dougherty, OK",
+   "town_mi": 4.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rock Creek Group Camp (Chickasaw)",
+   "type": "paid_camp",
+   "town": "Sulphur, OK",
+   "town_mi": 1.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Kettle Campground",
+   "type": "paid_camp",
+   "town": "Strong City, OK",
+   "town_mi": 8.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "The Narrows (Wichita Mountains)",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Crab Eyes",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Echo Dome",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Jackarete",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lower Mount Scott",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dream Boat Annie",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Quartz Mountain",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Shotgun",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Zen Pen",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "3 Fingers Bay",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Little Germany",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Prattville",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Vice Grips",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Upper Chandler Park",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Crag Climb (Beavers Bend)",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Alkaline Tide Boulder",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Art Boulder",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Copan Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Altus Lake",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arbuckle Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Foss Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fort Cobb Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Thunderbird",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "McGee Creek Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tom Steed Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Deep Fork National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Little River National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Optima National Wildlife Refuge",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Salt Plains National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sequoyah National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tishomingo National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Washita National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wichita Mountains Wildlife Refuge",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ozark Plateau National Wildlife Refuge",
+   "type": "hunting",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arkansas River - Chouteau Lock and Dam",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arkansas River - Newt Graham Pool",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birch Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Broken Bow Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Canton Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Eufaula Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fort Gibson Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fort Supply Lake",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Great Salt Plains Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Heyburn Lake",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hugo Lake",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hulah Lake",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kaw Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Keystone Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Oologah Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Optima Lake",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pine Creek Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arkansas River - Robert S. Kerr Pool",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tenkiller Ferry Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Waurika Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arkansas River - Webbers Falls Pool",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wister Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arkansas River - W.D. Mayo Pool",
+   "type": "boating",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sardis Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arcadia Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Skiatook Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore the Visitor Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Oklahoma Contemporary Arts Center",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry La Esquina",
+   "type": "laundromat",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wells Beer",
+   "type": "brewery_distillery",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1515 Lincoln Gallery",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OKC Ring",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centennial Land Run Monument",
+   "type": "historic_site",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Midwest City Library",
+   "type": "library",
+   "city": "Midwest City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Devon Mosaic",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quick Kleen Laundry",
+   "type": "laundromat",
+   "city": "Nichols Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Poteet Theatre",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "And Jesus Wept",
+   "type": "historic_site",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo Bill",
+   "type": "historic_site",
+   "city": "Nichols Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OSU-OKC Famers Market",
+   "type": "farmers_market",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walcourt",
+   "type": "museum",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles B. Hall",
+   "type": "historic_site",
+   "city": "Midwest City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Banjo Museum",
+   "type": "museum",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Earth",
+   "type": "museum",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Will Rogers Bust",
+   "type": "arts_culture",
+   "city": "Warr Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mother and Daughter",
+   "type": "arts_culture",
+   "city": "Warr Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Silent Messenger",
+   "type": "arts_culture",
+   "city": "Warr Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Swiss Cleaners & Laundry",
+   "type": "laundromat",
+   "city": "Nichols Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seed",
+   "type": "arts_culture",
+   "city": "Warr Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Compass Rose Statue",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mickey Mantle",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Church Bell",
+   "type": "arts_culture",
+   "city": "Nichols Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ODOT Memeorial",
+   "type": "historic_site",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Factory Obscura OKC",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Đức Mẹ La Vang",
+   "type": "arts_culture",
+   "city": "Valley Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Russell M. Perry",
+   "type": "historic_site",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peace Pole at Joy Mennonite Church",
+   "type": "historic_site",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meeting Place Monument",
+   "type": "historic_site",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Big Friendly",
+   "type": "brewery_distillery",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yukla28",
+   "type": "historic_site",
+   "city": "Midwest City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnny Bench",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warren Spahn",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Teamwork",
+   "type": "coworking",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oklahoma City Repertory Theater",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Broke Brewery",
+   "type": "brewery_distillery",
+   "city": "Warr Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paseo Farmers Market",
+   "type": "farmers_market",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Facebook Marketplace Exchange Location",
+   "type": "farmers_market",
+   "city": "Warr Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rosie the Riveter",
+   "type": "historic_site",
+   "city": "Midwest City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tinker Air Force Base POW/MIA Memorial",
+   "type": "historic_site",
+   "city": "Midwest City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Air Force Medal of Honor Memorial",
+   "type": "historic_site",
+   "city": "Midwest City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First Tornado Forecast",
+   "type": "historic_site",
+   "city": "Midwest City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Communion",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oklahoma Railway Museum",
+   "type": "museum",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Love's Planetarium",
+   "type": "planetarium",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OK Cider Co.",
+   "type": "brewery_distillery",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oklahoma Museum of Telephone History",
+   "type": "museum",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paseo Arts and Creativity Center",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Unexpected Us",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clara Luper National Sit-In Plaza",
+   "type": "historic_site",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodworks Distilling Co",
+   "type": "brewery_distillery",
+   "city": "The Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Core4 Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert M. Bird Library",
+   "type": "library",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civic Center Music Hall",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City Arts Center",
+   "type": "museum",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The World Organization of China Painters",
+   "type": "museum",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bi-Rite Market",
+   "type": "farmers_market",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lyric Theatre of Oklahoma",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Turrentine Master Cleaners",
+   "type": "laundromat",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "D J Super Coin Laundry",
+   "type": "laundromat",
+   "city": "Warr Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oklahoma City Museum of Art",
+   "type": "museum",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Science Museum Oklahoma",
+   "type": "science_center",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oklahoma History Center",
+   "type": "museum",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "45th Infantry Division Museum",
+   "type": "museum",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Exhibit C Gallery",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oklahoma Heritage Center",
+   "type": "museum",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lifehouse Books and Coffee Museum",
+   "type": "museum",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Fremont Harn Gardens Homestead",
+   "type": "museum",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lively Beerworks",
+   "type": "brewery_distillery",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Will Rogers Theatre",
+   "type": "arts_culture",
+   "city": "Nichols Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oklahoma City National Memorial & Museum",
+   "type": "historic_site",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Belle Isle Library",
+   "type": "library",
+   "city": "Nichols Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keith Leftwich Memorial Library",
+   "type": "library",
+   "city": "Valley Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OCCC Visual and Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Valley Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alfred P. Murrah Federal Building Plaza",
+   "type": "historic_site",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heartland Chapel",
+   "type": "historic_site",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Zoo Amphitheatre",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ARTSPACE at Untitled",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fashion Cleaners and Laundry",
+   "type": "laundromat",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anthem Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quick Kleen Laundromat",
+   "type": "laundromat",
+   "city": "Nichols Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ronald J. Norick DowntownLibrary",
+   "type": "library",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Twisted Spike Brewery and Tap Room",
+   "type": "brewery_distillery",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Devon Energy Oil and Gas Park",
+   "type": "museum",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bricktown Brewery",
+   "type": "brewery_distillery",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warr Acres",
+   "type": "library",
+   "city": "Warr Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Doug's Coin Op Laundry",
+   "type": "laundromat",
+   "city": "Warr Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Water Stage",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Village Library",
+   "type": "library",
+   "city": "The Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bankers Bank",
+   "type": "coworking",
+   "city": "The Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Will Rogers Park Amphitheater",
+   "type": "arts_culture",
+   "city": "Warr Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Reno Laundromat",
+   "type": "laundromat",
+   "city": "Midwest City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oklahoma State Firefighters Museum",
+   "type": "museum",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Almonte Metropolitan Library",
+   "type": "library",
+   "city": "Valley Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oklahoma Department of LIbraries",
+   "type": "library",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Oklahoma Anchor Memorial",
+   "type": "historic_site",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Paris Flea Market",
+   "type": "farmers_market",
+   "city": "Del City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oklahoma Genealogical Society",
+   "type": "library",
+   "city": "Nichols Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Del City Library",
+   "type": "library",
+   "city": "Del City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stonecloud Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Criterion",
+   "type": "arts_culture",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The American Pigeon Museum & Library",
+   "type": "museum",
+   "city": "Nichols Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oklahoma Medal of Honor Memorial",
+   "type": "historic_site",
+   "city": "Oklahoma City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Golden Driller",
+   "type": "historic_site",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fresh Start Laundry",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brookside Laundromat",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kendall Bell",
+   "type": "historic_site",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Swick's Auction, Swick's Flea Market",
+   "type": "farmers_market",
+   "city": "Sand Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Globe",
+   "type": "arts_culture",
+   "city": "Turley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tulsa Firefighter's Memorial",
+   "type": "historic_site",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oklahoma Jazz Hall of Fame",
+   "type": "museum",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Airway Laundry",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Meets West",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Games Along the Way",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "36°N",
+   "type": "coworking",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oil Capital Historic District",
+   "type": "historic_downtown",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Turkey Mountain",
+   "type": "shower",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crossing the Prairie",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Michael William Houghton",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oklahoma Game Warden Charles W. Estes",
+   "type": "historic_site",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forever Free",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James W. Pielsticker",
+   "type": "historic_site",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wichita Wapiti",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Osage Cougar",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pheasant Eludes Bobcat",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John S. \"Jack\" Zink",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chester Cadieux",
+   "type": "historic_site",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tulsa Dates and Events",
+   "type": "historic_site",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Charles Page",
+   "type": "arts_culture",
+   "city": "Sand Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crybaby Hill",
+   "type": "historic_site",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glide",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sandy Springs",
+   "type": "historic_site",
+   "city": "Sand Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Route 66 Rising",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OU Penguin",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OU Buffalo",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morning Mission",
+   "type": "arts_culture",
+   "city": "Turley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Polar Bear",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Local Cider",
+   "type": "brewery_distillery",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Station II",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tulsa Farmer's Market",
+   "type": "farmers_market",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oklahoma Walk of Fame",
+   "type": "historic_site",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fridge",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Love Note",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cabin Boys Brewery",
+   "type": "brewery_distillery",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gather Round Stage",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cabinet of Wonder by Mark Dion",
+   "type": "museum",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coworking Midtown",
+   "type": "coworking",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Klean Washateria",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jackalope Theater",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OK Laundry",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "PT Laundromat",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Regus",
+   "type": "coworking",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westside Laundry",
+   "type": "laundromat",
+   "city": "Lefko Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Highlander Laundromat",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Fork Laundry",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bricktown Brewery",
+   "type": "brewery_distillery",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Purple Glaze",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "M. A. Doran Gallery",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tulsa Theater",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tulsa Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greenwood Cultural Center",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Philbrook Museum of Art",
+   "type": "museum",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Auditorium",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rudisill Regional Library",
+   "type": "library",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tulsa Historical Society",
+   "type": "museum",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Station",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kendall Hall",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Schusterman Library",
+   "type": "library",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central Library",
+   "type": "library",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woody Guthrie Center",
+   "type": "museum",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "108 Contemporary",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bob Dylan Center",
+   "type": "museum",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Living Arts of Tulsa",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McFarlin Library",
+   "type": "library",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lorton Performance Center",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liggett Studio",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coop Ale Works",
+   "type": "brewery_distillery",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Meteor Monument",
+   "type": "historic_site",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civic Center Plaza",
+   "type": "historic_downtown",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guthrie Amphitheater",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Catalyst Coworking",
+   "type": "coworking",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheatre",
+   "type": "arts_culture",
+   "city": "Sand Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bartlett Square",
+   "type": "historic_downtown",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great American Flea Market",
+   "type": "farmers_market",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Metro Flea Market",
+   "type": "farmers_market",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heller Theater",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Speed Queen Laundry & Dry Cleaning",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cyrus Avery Plaza",
+   "type": "historic_downtown",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lucky Coin Laundrymat",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gilcrease Museum",
+   "type": "museum",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clayton Keyes;Amy Sanders De Melo",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tulsa Spotlight Theatre",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kendall-Whittier Library",
+   "type": "library",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wash House on Lewis",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tulsa Girls Art Gallery",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heirloom Rustic Ales",
+   "type": "brewery_distillery",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Admiral Flea Market",
+   "type": "farmers_market",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James E. Bertelsmeyer Planetarium",
+   "type": "planetarium",
+   "city": "Turley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sand Springs Cultural & Historical Museum",
+   "type": "museum",
+   "city": "Sand Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OKPOP",
+   "type": "museum",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Helmerich Center for American Research",
+   "type": "museum",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Depot",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Herman & Kate Kaiser Library",
+   "type": "library",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sherwin Miller Museum of Jewish Art",
+   "type": "museum",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Praying Hands",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brookside Library",
+   "type": "library",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Solera Brewery",
+   "type": "brewery_distillery",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cabin Boys Brewery",
+   "type": "brewery_distillery",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artisan Hall",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tulsa Wood Arts Woodworking Studio",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Samson Plaza",
+   "type": "historic_downtown",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint John Plaza Ampitheater",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nothing's Left Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Price Gallery",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nathan Hale Library",
+   "type": "library",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maxwell Park Library",
+   "type": "library",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Schusterman-Benson Library",
+   "type": "library",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Renaissance Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sky Gallery",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flea Market Depot",
+   "type": "farmers_market",
+   "city": "Sand Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University of Wash",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Discovery Lab",
+   "type": "science_center",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marshall Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Pearl District Design Center",
+   "type": "coworking",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cowboy Laundromat",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dead Armadillo Craft Brewing",
+   "type": "brewery_distillery",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greenwood Rising History Center",
+   "type": "museum",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vintage Sewing Machine Museum",
+   "type": "museum",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fire Station Number 13",
+   "type": "museum",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Outsider's House",
+   "type": "museum",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Addis Ceramics",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pinot's Palette",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LoFi",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pierson Gallery",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joseph Gierek Fine Art",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atelier MFR",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rub a Dub Dub Coinless Laundry",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theatre Tulsa",
+   "type": "arts_culture",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Affordable Laundromat",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center Laundry",
+   "type": "laundromat",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bayless Plaza",
+   "type": "historic_downtown",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hurricane Plaza",
+   "type": "historic_downtown",
+   "city": "Tulsa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tulsa Air & Space Museum & Planetarium",
+   "type": "museum",
+   "city": "Turley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dry Cleaners",
+   "type": "laundromat",
+   "city": "The Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Survivor Tree and 9/11 tree offspring",
+   "type": "historic_site",
+   "city": "Edmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fetch Statue",
+   "type": "arts_culture",
+   "city": "Edmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Campus Commerative Garden",
+   "type": "historic_site",
+   "city": "Edmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arcadia Farmer's Market General Store",
+   "type": "farmers_market",
+   "city": "Arcadia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "On Deck",
+   "type": "arts_culture",
+   "city": "Arcadia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Judd Theater",
+   "type": "arts_culture",
+   "city": "Edmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arcadia Round Barn",
+   "type": "museum",
+   "city": "Arcadia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hartman Place",
+   "type": "historic_site",
+   "city": "Edmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bobby G Roberson Memorial Garden",
+   "type": "historic_site",
+   "city": "Edmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmer's Market",
+   "type": "farmers_market",
+   "city": "Edmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edmond Library",
+   "type": "library",
+   "city": "Edmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Solera",
+   "type": "brewery_distillery",
+   "city": "Edmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edmond History Museum",
+   "type": "museum",
+   "city": "Edmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Starlight Amphitheatre",
+   "type": "arts_culture",
+   "city": "Edmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thunderbird Plaza",
+   "type": "arts_culture",
+   "city": "Edmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crack-Axle Canyon",
+   "type": "arts_culture",
+   "city": "Edmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Opera House",
+   "type": "arts_culture",
+   "city": "Edmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Neon Bottle",
+   "type": "arts_culture",
+   "city": "Arcadia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lone Grove Super Wash Laundromat",
+   "type": "laundromat",
+   "city": "Lone Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southern Oklahoma Library System",
+   "type": "library",
+   "city": "Ardmore",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Mesa Taproom II",
+   "type": "brewery_distillery",
+   "city": "Ardmore",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greater Southwest Historical Museum",
+   "type": "museum",
+   "city": "Ardmore",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stillwater Pipe Band Practice Hall",
+   "type": "arts_culture",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spirit Rider",
+   "type": "historic_site",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bumblebee",
+   "type": "historic_site",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clock",
+   "type": "historic_site",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Optimus Prime",
+   "type": "historic_site",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nancy Randolph Davis",
+   "type": "arts_culture",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jerry Davis Blackbox Theatre",
+   "type": "arts_culture",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edmon Low Library",
+   "type": "library",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wrestling Hall of Fame",
+   "type": "museum",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WorkIT Coworking Center",
+   "type": "coworking",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OSU Museum of Art",
+   "type": "museum",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stilly Arts LLC",
+   "type": "arts_culture",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stillwater Public Library",
+   "type": "library",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oklahoma State University Library Annex",
+   "type": "library",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prairie Arts Center",
+   "type": "arts_culture",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sheerar Museum",
+   "type": "museum",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McKnight Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stillwater History Museum at the Sheerar",
+   "type": "museum",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spin City Laundry",
+   "type": "laundromat",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Town & Gown Community Theatre",
+   "type": "arts_culture",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Territory Distilling",
+   "type": "brewery_distillery",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garinder Art Gallery",
+   "type": "arts_culture",
+   "city": "Stillwater",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Donald E. Pray Law Library",
+   "type": "library",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cleveland County Veteran's Memorial",
+   "type": "historic_site",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Billy Sims statue",
+   "type": "historic_site",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Billy Vessels statue",
+   "type": "historic_site",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steve Owens statue",
+   "type": "historic_site",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jason White statue",
+   "type": "historic_site",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sam Bradford statue",
+   "type": "historic_site",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Garner Statue",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NPL East 24-Hour Machine",
+   "type": "library",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brandt Park Commemoration Stone",
+   "type": "historic_site",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Spirit of Learning is a Lasting Frontier",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Sower",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edward L. Gaylord Statue",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Class of 1990 Archway",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MAY WE HAVE PEACE",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean War Memorial",
+   "type": "historic_site",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pe-et Elm",
+   "type": "historic_site",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo Statue",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LOVE",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carl Albert",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Noble Auditorium",
+   "type": "arts_culture",
+   "city": "Noble",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amy Elizabeth Boe Garden",
+   "type": "historic_site",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Legally Brewed",
+   "type": "brewery_distillery",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norman Public Library East",
+   "type": "library",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Unbound",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pastoral Dreamer",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sphinx",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Selmon Brothers",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Covered Wagon",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sooner Wash",
+   "type": "laundromat",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Revolutions",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henderson-Tolson Cultural Center",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jeffrey",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Depot",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Laundry",
+   "type": "laundromat",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elise C. Brackett Theatre",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fred Jones Jr Museum of Art",
+   "type": "museum",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fred Jones Jr. Art Center",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reynolds Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bizzell Memorial Library",
+   "type": "library",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sam Noble Oklahoma Museum of Natural History",
+   "type": "science_center",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sooner Theatre",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norman Public Library West",
+   "type": "library",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moore-Lindsay Historical House",
+   "type": "museum",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheatre",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nancy O’Brian Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Walk",
+   "type": "historic_site",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hollywood Coin Laundry",
+   "type": "laundromat",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Noble Public Library",
+   "type": "library",
+   "city": "Noble",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southern Cleveland County Historical Society",
+   "type": "museum",
+   "city": "Noble",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Rock Canyon Stage",
+   "type": "arts_culture",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norman Public Library Central",
+   "type": "library",
+   "city": "Norman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U.S. Army Artillery Museum",
+   "type": "museum",
+   "city": "Lawton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "United States Army Air Defense Artillery Museum",
+   "type": "museum",
+   "city": "Lawton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cameron University Theater",
+   "type": "arts_culture",
+   "city": "Lawton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Sill",
+   "type": "museum",
+   "city": "Lawton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Forgotten War",
+   "type": "historic_site",
+   "city": "Lawton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lawton Public Library",
+   "type": "library",
+   "city": "Lawton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic Mattie Beal Home",
+   "type": "museum",
+   "city": "Lawton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of the Great Plains",
+   "type": "museum",
+   "city": "Lawton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Comanche National Museum and Cultural Center",
+   "type": "museum",
+   "city": "Lawton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McMahon Memorial Auditorium",
+   "type": "arts_culture",
+   "city": "Lawton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quarry Hill AFEES",
+   "type": "farmers_market",
+   "city": "Lawton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lawton Community Theatre",
+   "type": "arts_culture",
+   "city": "Lawton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherokee Strip Regional Heritage Center",
+   "type": "museum",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Owen K. Garriett Monument",
+   "type": "historic_site",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ballroom Theatre",
+   "type": "arts_culture",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jane Champlin Art Gallery",
+   "type": "arts_culture",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Skeleton Trail Ranch Marker",
+   "type": "historic_site",
+   "city": "North Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Settlers Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jesse Chisholm",
+   "type": "historic_site",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tri-State Statue",
+   "type": "historic_site",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Sisters of Liberty",
+   "type": "historic_site",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keeper of the Plains",
+   "type": "historic_site",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Enid Public Library",
+   "type": "library",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Enid Symphony Center",
+   "type": "arts_culture",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gaslight Theater",
+   "type": "arts_culture",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bartunek Winery",
+   "type": "brewery_distillery",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leonardo's Children's Museum",
+   "type": "museum",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zollars Memorial Library",
+   "type": "library",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vance Library",
+   "type": "library",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Railroad Museum of Oklahoma",
+   "type": "museum",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Midgley Museum",
+   "type": "museum",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Simpson's Old Time Museum",
+   "type": "museum",
+   "city": "Enid",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bartlesville Art Assocations",
+   "type": "arts_culture",
+   "city": "Bartlesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "66 Sculpture",
+   "type": "historic_site",
+   "city": "Bartlesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flying Eagle",
+   "type": "arts_culture",
+   "city": "Bartlesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blind Man at the Pool of Siloam",
+   "type": "arts_culture",
+   "city": "Bartlesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo",
+   "type": "arts_culture",
+   "city": "Bartlesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bricktown Brewery",
+   "type": "brewery_distillery",
+   "city": "Bartlesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Price Tower",
+   "type": "historic_site",
+   "city": "Bartlesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bartlesville Library",
+   "type": "library",
+   "city": "Bartlesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bartlesville Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Bartlesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bartlesville Area History Museum",
+   "type": "museum",
+   "city": "Bartlesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phillips 66 Museum",
+   "type": "museum",
+   "city": "Bartlesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frank Phillips Home",
+   "type": "museum",
+   "city": "Bartlesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tom Mix Museum",
+   "type": "museum",
+   "city": "Dewey",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dewey Hotel Museum",
+   "type": "museum",
+   "city": "Dewey",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Drake Library",
+   "type": "library",
+   "city": "Bartlesville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Muskogee Art Guild",
+   "type": "arts_culture",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Davis Historical Marker",
+   "type": "historic_site",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oklahoma Murder Mystery",
+   "type": "arts_culture",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Memorial Museum",
+   "type": "museum",
+   "city": "Fort Gibson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Gibson State Historic Site",
+   "type": "museum",
+   "city": "Fort Gibson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Gibson Public Library",
+   "type": "library",
+   "city": "Fort Gibson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Muskogee Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roxy Theater",
+   "type": "arts_culture",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eastern Oklahoma Library System Muskogee",
+   "type": "library",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leisure Way Laundry",
+   "type": "laundromat",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fine Arts Auditorum",
+   "type": "arts_culture",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Five Civilized Tribes Museum",
+   "type": "museum",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Muskogee Public Library",
+   "type": "library",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arnold Fruit Company",
+   "type": "farmers_market",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ataloa Lodge Museum",
+   "type": "museum",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Honor Heights Amphitheater",
+   "type": "arts_culture",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Three Rivers Museum",
+   "type": "museum",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Muskogee Little Theatre",
+   "type": "arts_culture",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Flea Market",
+   "type": "farmers_market",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mr. Suds Laundromat",
+   "type": "laundromat",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oklahoma Music Hall of Fame",
+   "type": "museum",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Backroad Vineyard",
+   "type": "brewery_distillery",
+   "city": "Okay",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Peach Barn Orchard & Bakery",
+   "type": "farmers_market",
+   "city": "Okay",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River City Laundry",
+   "type": "laundromat",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tiger Art Gallery",
+   "type": "arts_culture",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "laundry.",
+   "type": "laundromat",
+   "city": "Muskogee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tecumseh Public Library",
+   "type": "library",
+   "city": "Tecumseh",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pottawatomie County Museum",
+   "type": "museum",
+   "city": "Shawnee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "CPN Cultural Heritage Center",
+   "type": "museum",
+   "city": "Shawnee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nanna Jo's Laundry",
+   "type": "laundromat",
+   "city": "Tecumseh",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tecumseh Veterans Memorial",
+   "type": "historic_site",
+   "city": "Tecumseh",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mabee-Gerrer Museum of Art",
+   "type": "museum",
+   "city": "Shawnee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shawnee Little Theatre Inc",
+   "type": "arts_culture",
+   "city": "Shawnee",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Chickasaw Nation Division of Arts & Humanities",
+   "type": "arts_culture",
+   "city": "Ada",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McSwain Theatre",
+   "type": "arts_culture",
+   "city": "Ada",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ada Public Library",
+   "type": "library",
+   "city": "Ada",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spider Gallery",
+   "type": "arts_culture",
+   "city": "Tahlequah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jacob Gallery",
+   "type": "arts_culture",
+   "city": "Tahlequah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherokee National History Museum",
+   "type": "museum",
+   "city": "Tahlequah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherokee National Supreme Court Museum",
+   "type": "museum",
+   "city": "Tahlequah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dena's Art Den",
+   "type": "arts_culture",
+   "city": "Tahlequah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodall Fleamarket",
+   "type": "farmers_market",
+   "city": "Tahlequah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherokee Capitol Square",
+   "type": "historic_downtown",
+   "city": "Tahlequah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tahlequah Public Library",
+   "type": "library",
+   "city": "Tahlequah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hunter's Home",
+   "type": "museum",
+   "city": "Tahlequah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherokee National Prison Museum",
+   "type": "museum",
+   "city": "Tahlequah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Ross Museum",
+   "type": "museum",
+   "city": "Tahlequah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vintage Market",
+   "type": "farmers_market",
+   "city": "Tahlequah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NSU Playhouse",
+   "type": "arts_culture",
+   "city": "Tahlequah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherokee Arts Center",
+   "type": "arts_culture",
+   "city": "Tahlequah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greg Burns Turn of Century Artwork",
+   "type": "arts_culture",
+   "city": "Midwest City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Streets of Venice",
+   "type": "arts_culture",
+   "city": "Midwest City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mother's Love",
+   "type": "arts_culture",
+   "city": "Midwest City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Geese On Water",
+   "type": "arts_culture",
+   "city": "Midwest City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Autumn Landscape",
+   "type": "arts_culture",
+   "city": "Midwest City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Potted Floral",
+   "type": "arts_culture",
+   "city": "Midwest City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flower Power",
+   "type": "arts_culture",
+   "city": "Midwest City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mary Glass Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Owasso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Owasso Library",
+   "type": "library",
+   "city": "Owasso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Needful Things Market",
+   "type": "farmers_market",
+   "city": "Owasso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Owasso Veteran's Memorial",
+   "type": "historic_site",
+   "city": "Owasso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eric Wiles Memorial Tree Placque",
+   "type": "historic_site",
+   "city": "Owasso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Owasso Museum",
+   "type": "museum",
+   "city": "Owasso",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Broken Bow Public Library",
+   "type": "library",
+   "city": "Broken Bow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sud's n' Such Laundry",
+   "type": "laundromat",
+   "city": "Broken Bow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnston County Howitzer Memorial",
+   "type": "historic_site",
+   "city": "Tishomingo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "US Navy Blue Angel Memorial",
+   "type": "historic_site",
+   "city": "Tishomingo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tishomingo Those Who Served Memorial",
+   "type": "historic_site",
+   "city": "Tishomingo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chickasaw Council House Museum",
+   "type": "museum",
+   "city": "Tishomingo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chickasaw Capitol Building",
+   "type": "museum",
+   "city": "Tishomingo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Skiatook Library",
+   "type": "library",
+   "city": "Skiatook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Skiatook Museum",
+   "type": "museum",
+   "city": "Skiatook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southwest Oklahoma City Public Library",
+   "type": "library",
+   "city": "Moore",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Osteology",
+   "type": "museum",
+   "city": "Moore",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yellow Rose Theater",
+   "type": "arts_culture",
+   "city": "Moore",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moore Public Library",
+   "type": "library",
+   "city": "Moore",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunshine Laundry",
+   "type": "laundromat",
+   "city": "Warr Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spin City Laundry",
+   "type": "laundromat",
+   "city": "Warr Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colbert's Ferry",
+   "type": "historic_site",
+   "city": "Colbert",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Suds Your Duds",
+   "type": "laundromat",
+   "city": "Wilburton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Library/Administration",
+   "type": "library",
+   "city": "Wilburton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mary Parker Memorial Library",
+   "type": "library",
+   "city": "Sulphur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chickasaw Cultural Center",
+   "type": "museum",
+   "city": "Sulphur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Travertine Nature Center",
+   "type": "museum",
+   "city": "Sulphur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arbuckle Historical Society Museum",
+   "type": "museum",
+   "city": "Sulphur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grace In Motion",
+   "type": "arts_culture",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St Francis",
+   "type": "arts_culture",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Horse Statue at Southern Trails",
+   "type": "arts_culture",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rabbit Statue at Rabbit Run",
+   "type": "arts_culture",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ownby-Rutledge House",
+   "type": "historic_site",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maple Leaf Laundromat",
+   "type": "laundromat",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fraker-Wells House",
+   "type": "historic_site",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civilian Conservation Corps",
+   "type": "historic_site",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Offices",
+   "type": "coworking",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky Colonel Hotel",
+   "type": "historic_site",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Broken Arrow Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Broken Arrow Library",
+   "type": "library",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Broken Arrow Historical Museum",
+   "type": "museum",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Military History Museum",
+   "type": "museum",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Broken Arrow Library",
+   "type": "library",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty Laundry",
+   "type": "laundromat",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nook Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vintage Phoenix Vendor Mall",
+   "type": "farmers_market",
+   "city": "Broken Arrow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Door Gallery",
+   "type": "arts_culture",
+   "city": "Medicine Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Branded bear",
+   "type": "arts_culture",
+   "city": "Medicine Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Apache Monument",
+   "type": "historic_site",
+   "city": "Altus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boom Operators Memorial",
+   "type": "historic_site",
+   "city": "Altus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Altus Public Library",
+   "type": "library",
+   "city": "Altus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washed Laundromat",
+   "type": "laundromat",
+   "city": "Altus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Suds-Ur-Duds",
+   "type": "laundromat",
+   "city": "Altus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio One",
+   "type": "arts_culture",
+   "city": "Altus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of the Western Prairie",
+   "type": "museum",
+   "city": "Altus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alva Public Library",
+   "type": "library",
+   "city": "Alva",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alva Market",
+   "type": "farmers_market",
+   "city": "Alva",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherokee Strip Museum of Alva",
+   "type": "museum",
+   "city": "Alva",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Library Annex",
+   "type": "library",
+   "city": "Alva",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aspen Apartments",
+   "type": "laundromat",
+   "city": "Alva",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Legion Monument",
+   "type": "historic_site",
+   "city": "Granite",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

@@ -1,0 +1,1321 @@
+{
+ "state": "DE",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Lums Pond Youth Camping",
+   "type": "paid_camp",
+   "town": "St. Georges, DE",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lighthouse Beach RV Resort",
+   "type": "rv_park",
+   "town": "Long Neck, DE",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gulls Way Campground",
+   "type": "paid_camp",
+   "town": "Dagsboro, DE",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lost Lands RV Park",
+   "type": "rv_park",
+   "town": "Selbyville, DE",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trap Pond State Park Campground",
+   "type": "paid_camp",
+   "town": "Delmar, DE",
+   "town_mi": 5.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Bombay Hook National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Prime Hook National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Delaware National Estuarine Research Reserve",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Elsmere Library",
+   "type": "library",
+   "city": "Elsmere",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Castle Public Library Brandywine Hundred Branch",
+   "type": "library",
+   "city": "Talleyville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cauffiel House, Bellevue State Park",
+   "type": "historic_site",
+   "city": "Bellefonte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Figure 8 Barn",
+   "type": "historic_site",
+   "city": "Bellefonte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bellevue Hall",
+   "type": "historic_site",
+   "city": "Bellefonte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Farm House",
+   "type": "historic_site",
+   "city": "Talleyville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Candlelight Theater",
+   "type": "arts_culture",
+   "city": "Ardentown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Admiral Francis Dupont Statue",
+   "type": "arts_culture",
+   "city": "Greenville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Delaware Contemporary",
+   "type": "arts_culture",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World Cafe Live",
+   "type": "arts_culture",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Wilmington Branch Library",
+   "type": "library",
+   "city": "Bellefonte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iron Hill Brewery and Restaurant",
+   "type": "brewery_distillery",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hirons Library",
+   "type": "library",
+   "city": "Marshallton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Star Coin Laundromat",
+   "type": "laundromat",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Christina Memorial",
+   "type": "historic_site",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ebright Azimuth",
+   "type": "historic_site",
+   "city": "Brandywine",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Express Laundromat",
+   "type": "laundromat",
+   "city": "Wilmington Manor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vic Willis",
+   "type": "historic_site",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bill McGowan",
+   "type": "historic_site",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Julius “Judy” Johnson",
+   "type": "arts_culture",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Toni and Stuart B. Young Gallery",
+   "type": "arts_culture",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Angelus House Art Gallery",
+   "type": "arts_culture",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Casimir",
+   "type": "historic_site",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Castle - Frenchtown Railroad",
+   "type": "historic_site",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Delaware River - Colonial Highway of the Swedes and Finns",
+   "type": "historic_site",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John M Cleveland Civil War Museum",
+   "type": "museum",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James A. Garfield Memorial",
+   "type": "arts_culture",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Votes For Women",
+   "type": "historic_site",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Booker T Washington School No. 109C",
+   "type": "historic_site",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The River Road",
+   "type": "historic_site",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Landing Place of William Penn",
+   "type": "historic_site",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas Garrett Stationmaster on the Underground Railroad",
+   "type": "historic_site",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Delaware Art Museum",
+   "type": "museum",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Read II House",
+   "type": "museum",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amstel House Museum",
+   "type": "museum",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arden Gild Hall",
+   "type": "arts_culture",
+   "city": "Arden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Castle Court House Museum",
+   "type": "museum",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Sheriff's House",
+   "type": "museum",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dutch House Museum",
+   "type": "museum",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Castle Farmers Market",
+   "type": "farmers_market",
+   "city": "Wilmington Manor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henry Clay Factory",
+   "type": "museum",
+   "city": "Greenville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old First Presbyterian Church",
+   "type": "museum",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Opera House",
+   "type": "arts_culture",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wilmington Public Library",
+   "type": "library",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rodney Square Historic District",
+   "type": "historic_downtown",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Swedes Church",
+   "type": "museum",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ardens Historic District",
+   "type": "historic_downtown",
+   "city": "Ardentown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Delaware Children's Museum",
+   "type": "museum",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lafate Gallery",
+   "type": "arts_culture",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Queen Theater",
+   "type": "arts_culture",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Delaware History Museum and Mitchell Center for African American Heritage",
+   "type": "museum",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Castle Public Library",
+   "type": "library",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nemours Estate",
+   "type": "museum",
+   "city": "Greenville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Winterthur Museum",
+   "type": "museum",
+   "city": "Centreville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hagley Library",
+   "type": "library",
+   "city": "Greenville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bacalao Fresh Supermarket",
+   "type": "farmers_market",
+   "city": "Elsmere",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Castle Farmers Market",
+   "type": "farmers_market",
+   "city": "Wilmington Manor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kirkwood Public Library",
+   "type": "library",
+   "city": "Marshallton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Claymont Public Library",
+   "type": "library",
+   "city": "Claymont",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Penn Farm Stand",
+   "type": "farmers_market",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Castle Old Library Museum",
+   "type": "museum",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Station Gallery",
+   "type": "arts_culture",
+   "city": "Greenville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wilmington Drama League",
+   "type": "arts_culture",
+   "city": "Bellefonte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wilmington Brew Works",
+   "type": "brewery_distillery",
+   "city": "Bellefonte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pennsville Historical Society & Museum",
+   "type": "museum",
+   "city": "Holloway Terrace",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mo'zArt Gallery",
+   "type": "arts_culture",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ticket Office New Castle - Frenchtown Railroad",
+   "type": "museum",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Caesar Rodney Plinth",
+   "type": "historic_site",
+   "city": "Wilmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historical Society-Penns Grove",
+   "type": "museum",
+   "city": "Penns Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bellanca Airfield Museum",
+   "type": "museum",
+   "city": "New Castle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Castle County Route 9 Public Library",
+   "type": "library",
+   "city": "Holloway Terrace",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnson Victrola Museum",
+   "type": "museum",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Biggs Museum of American Art",
+   "type": "museum",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty Bell Replica",
+   "type": "historic_site",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fireman's Memorial",
+   "type": "historic_site",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bayonets of the Revolution",
+   "type": "historic_site",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Laundry",
+   "type": "laundromat",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Air Mobility Command Museum",
+   "type": "museum",
+   "city": "Dover Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tractor Supply Co",
+   "type": "farmers_market",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spence's Bazaar",
+   "type": "farmers_market",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lancaster County Farmers Market",
+   "type": "farmers_market",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Delaware State Police Museum",
+   "type": "museum",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Delaware Agricultural Museum",
+   "type": "museum",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William C. Jason Library",
+   "type": "library",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert Parker Library",
+   "type": "library",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Old State House",
+   "type": "museum",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hangar 1301",
+   "type": "museum",
+   "city": "Dover Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dover Public Library",
+   "type": "library",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Air Mobility Command Museum",
+   "type": "museum",
+   "city": "Dover Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodburn: Governor's House",
+   "type": "museum",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kent County Veterans Monument",
+   "type": "historic_site",
+   "city": "Dover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tri-State Marker",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mason Dixon Line Marker Arc Stone 5",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mason Dixon Line Marker Arc Stone 3",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mason Dixon Line Marker Arc Stone 4",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mason Dixon Line Marker - Prismatic Stone",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Student",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newark Arts Alliance",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chapel Street Players",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harry Fletcher Brown",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Abram Harter",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hugh Rodney Sharp",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wilbur Owen Sypherd",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arc Corner Monument",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sussex Hall",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Squire Hall",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laurel Hall",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Annie Jump Cannon",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Castle Hall",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kent Hall",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Emalea Pusey Warner",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Winifred J. Robinson",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bob Cohen",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eloy Sandoval-Mateoz",
+   "type": "historic_site",
+   "city": "Brookside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University of Delaware Old College Gallery",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "JaneKav Gallery",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mechanical Hall Gallery",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mason-Dixon Post Mark'd West",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wings of Thought",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chloe & Lucinda (Nubian Goats)",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Board & Brush",
+   "type": "arts_culture",
+   "city": "Brookside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Twisted Irons Craft Brewing",
+   "type": "brewery_distillery",
+   "city": "Brookside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vic Willis",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newark Academy",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Autumn Arch Beer Project",
+   "type": "brewery_distillery",
+   "city": "Brookside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hockessin Public Library",
+   "type": "library",
+   "city": "Hockessin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bear Library",
+   "type": "library",
+   "city": "Bear",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newark Free Library",
+   "type": "library",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iron Hill Museum",
+   "type": "museum",
+   "city": "Brookside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mentors' Circle",
+   "type": "historic_downtown",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morris Library",
+   "type": "library",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunday Farm market",
+   "type": "farmers_market",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corbit-Calloway Memorial Library",
+   "type": "library",
+   "city": "Odessa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Taylor's Bridge School (District No. 66)",
+   "type": "historic_site",
+   "city": "Odessa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Everett Theatre",
+   "type": "arts_culture",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Everett Annex",
+   "type": "arts_culture",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First State Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Appoquinimink Community Library",
+   "type": "library",
+   "city": "Middletown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mispillion Art League",
+   "type": "arts_culture",
+   "city": "Milford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Milford Public Library",
+   "type": "library",
+   "city": "Milford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mispillion River Brewing",
+   "type": "brewery_distillery",
+   "city": "Milford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dew Point Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Hockessin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Israel Marshall House",
+   "type": "museum",
+   "city": "Hockessin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smyrna Public Library",
+   "type": "library",
+   "city": "Smyrna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Painted Stave Distilling",
+   "type": "brewery_distillery",
+   "city": "Smyrna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smyrna Museum",
+   "type": "museum",
+   "city": "Smyrna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Monument",
+   "type": "historic_site",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgetown Public Library",
+   "type": "library",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgetown Train Station Museum",
+   "type": "museum",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgetown Fire Co. Historical Museum",
+   "type": "museum",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nutter Marvel Carriage Museum",
+   "type": "museum",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Telephone Museum",
+   "type": "museum",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "School House",
+   "type": "museum",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgetown Historical Society",
+   "type": "museum",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Possum Point Players",
+   "type": "arts_culture",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Revelation Craft Brewing",
+   "type": "brewery_distillery",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guatemex Mini Mart",
+   "type": "farmers_market",
+   "city": "Millsboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Millsboro Public Library",
+   "type": "library",
+   "city": "Millsboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Millsboro Art League",
+   "type": "arts_culture",
+   "city": "Millsboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Country Living Produce",
+   "type": "farmers_market",
+   "city": "Millsboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Delaware Veterans Memorial Cemetery",
+   "type": "historic_site",
+   "city": "Millsboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anna Hazzard Museum",
+   "type": "museum",
+   "city": "Rehoboth Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forgotten Mile Ale House",
+   "type": "brewery_distillery",
+   "city": "Dewey Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ocean Suds II Laundromat",
+   "type": "laundromat",
+   "city": "Henlopen Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clear Space Theatre Company",
+   "type": "arts_culture",
+   "city": "Rehoboth Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "CoWork Reho",
+   "type": "coworking",
+   "city": "Rehoboth Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rehoboth Beach Farmers Market",
+   "type": "farmers_market",
+   "city": "Henlopen Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rooster",
+   "type": "arts_culture",
+   "city": "Dewey Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rehoboth Beach Public Library",
+   "type": "library",
+   "city": "Rehoboth Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rehoboth Beach Museum",
+   "type": "museum",
+   "city": "Henlopen Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dewey Beer Company",
+   "type": "brewery_distillery",
+   "city": "Dewey Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fifer's Farm Market Cafe",
+   "type": "farmers_market",
+   "city": "Dewey Beach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Revelation Craft Brewing",
+   "type": "brewery_distillery",
+   "city": "Henlopen Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tomato Sunshine Garden Center & Farm Market",
+   "type": "farmers_market",
+   "city": "Henlopen Acres",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Milton Statue",
+   "type": "historic_site",
+   "city": "Milton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Laundry",
+   "type": "laundromat",
+   "city": "Milton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dogfish Head Brewery",
+   "type": "brewery_distillery",
+   "city": "Milton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Milton Theatre",
+   "type": "arts_culture",
+   "city": "Milton",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

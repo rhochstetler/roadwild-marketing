@@ -1,0 +1,3462 @@
+{
+ "state": "NE",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Ta-Ha-Zouka Park Campground",
+   "type": "paid_camp",
+   "town": "Norfolk, NE",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Potter's Pasture New Campground",
+   "type": "paid_camp",
+   "town": "Brady, NE",
+   "town_mi": 10.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Potter's Pasture Old Campground",
+   "type": "paid_camp",
+   "town": "Brady, NE",
+   "town_mi": 10.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Southshore Campground Area 1",
+   "type": "paid_camp",
+   "town": "Malcolm, NE",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Holiday RV Park (NE)",
+   "type": "rv_park",
+   "town": "North Platte, NE",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gothenburg KOA Campground",
+   "type": "paid_camp",
+   "town": "Gothenburg, NE",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Victorian Acres Campground",
+   "type": "paid_camp",
+   "town": "Nebraska City, NE",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ogallala Beach Campground",
+   "type": "paid_camp",
+   "town": "Martin, NE",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake 18 Tent Camping",
+   "type": "paid_camp",
+   "town": "Inglewood, NE",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Steer Creek Campground",
+   "type": "paid_camp",
+   "town": "Nenzel, NE",
+   "town_mi": 16.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kiwanis Point Campground",
+   "type": "paid_camp",
+   "town": "McCook, NE",
+   "town_mi": 11.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Willow View Campground",
+   "type": "paid_camp",
+   "town": "McCook, NE",
+   "town_mi": 11.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buffalo Roam Campground",
+   "type": "paid_camp",
+   "town": "McCook, NE",
+   "town_mi": 11.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "K-1 Cabin Area",
+   "type": "paid_camp",
+   "town": "Martin, NE",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Saunders County Fairgrounds Campground",
+   "type": "paid_camp",
+   "town": "Wahoo, NE",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Roberts Tract Campground",
+   "type": "paid_camp",
+   "town": "Whitney, NE",
+   "town_mi": 9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Soldier Creek Campground",
+   "type": "paid_camp",
+   "town": "Crawford, NE",
+   "town_mi": 7.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake View Campground West",
+   "type": "paid_camp",
+   "town": "Minatare, NE",
+   "town_mi": 8.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake View Campground East",
+   "type": "paid_camp",
+   "town": "Minatare, NE",
+   "town_mi": 8.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Patterson Harbor Marina Campground",
+   "type": "paid_camp",
+   "town": "Republican City, NE",
+   "town_mi": 3.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ewing RV Camping",
+   "type": "paid_camp",
+   "town": "Ewing, NE",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Shore Campground (NE)",
+   "type": "paid_camp",
+   "town": "Republican City, NE",
+   "town_mi": 1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hunter Cove Campground",
+   "type": "paid_camp",
+   "town": "Republican City, NE",
+   "town_mi": 1.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gremil Cove Campground",
+   "type": "paid_camp",
+   "town": "Republican City, NE",
+   "town_mi": 1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Methodist Cove Campground",
+   "type": "paid_camp",
+   "town": "Alma, NE",
+   "town_mi": 2.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Youth Group Campsite A",
+   "type": "paid_camp",
+   "town": "Papillion, NE",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cabela's Campground",
+   "type": "paid_camp",
+   "town": "Sidney, NE",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pawnee State Recreation Area, Area 3",
+   "type": "paid_camp",
+   "town": "Malcolm, NE",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Creek Campground",
+   "type": "paid_camp",
+   "town": "Linoma Beach, NE",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "South Bluff Backcountry Hiking",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fort Falls Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Nebraska National Forests and Grasslands",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Crescent Lake National Wildlife Refuge",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fort Niobrara National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "North Platte National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rainwater Basin Wetland Management District",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Valentine National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arcadia Diversion Dam",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Winters Creek",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Harlan County Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wehrspann Lake",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Standing Bear Lake",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Olive Creek Lake",
+   "type": "boating",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bluestem Lake",
+   "type": "boating",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wagontrain Lake",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Stagecoach Lake",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Yankee Hill Lake",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Conestoga Lake",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Twin Lakes",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pawnee Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Holmes Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Branched Oak Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Glenn Cunningham Lake",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Zorinsky Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "John W. and Louise Seier National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Boyer Chute National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Box Butte Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Calamus Reservoir (Virginia Smith Dam)",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Davis Creek Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Enders Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Harry Strunk Lake (Medicine Creek State Park Recreation Area)",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hugh Butler Lake (Red Willow Reservoir State Recreation Area)",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Minatare State Recreation Area",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Alice",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Merritt Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sherman Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Swanson Reservoir (Trenton Dam)",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Winters Creek Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Drive the Scotts Bluff Summit Road",
+   "type": "scenic_drive",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Scotts Bluff Ranger Programs",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Scotts Bluff Junior Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Scotts Bluff Cell Phone Audio Tour",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Enjoy a Picnic at Scotts Bluff",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bicycling at Scotts Bluff National Monument",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Saddle Rock Trail Geology Hiking Tour",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Stargaze at Spirit Mound",
+   "type": "stargazing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a MNRR Junior Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bike the Cowboy Trail",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Float the Niobrara River",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Get Started at the Homestead Heritage Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walk the Historic Meridian Bridge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Mulberry Bend Overlook",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Edith Abbott Memorial Library",
+   "type": "library",
+   "city": "Grand Island",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hornady Marshall Auditorium",
+   "type": "arts_culture",
+   "city": "Grand Island",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nebraska Law Enforcement Memorial",
+   "type": "historic_site",
+   "city": "Grand Island",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stuhr Museum of the Prairie Pioneer",
+   "type": "museum",
+   "city": "Grand Island",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Supreme Laundry",
+   "type": "laundromat",
+   "city": "Grand Island",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A-C Laundry",
+   "type": "laundromat",
+   "city": "Grand Island",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colorful Rain Kids Art Academy",
+   "type": "arts_culture",
+   "city": "Grand Island",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio 10",
+   "type": "arts_culture",
+   "city": "Grand Island",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Branch Library",
+   "type": "library",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Love Memorial Library (South)",
+   "type": "library",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bison Statue",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smoke Signal",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dan A Williams Branch Library",
+   "type": "library",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boy Scouts Amphitheatre",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bountiful Prairie",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Love North & Adele Learning Commons",
+   "type": "library",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Music Library",
+   "type": "library",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Geology Library",
+   "type": "library",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mathematics Library",
+   "type": "library",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Haymarket Theatre",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mbera",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pioneer Woman",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reflection",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War and Victory",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Land",
+   "type": "laundromat",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hangers Cleaners",
+   "type": "laundromat",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Street Laundromat",
+   "type": "laundromat",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nelson Cleaners",
+   "type": "laundromat",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial Garden",
+   "type": "historic_site",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Jennings Bryan",
+   "type": "historic_site",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Church Amphitheatre",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University of Nebraska State Museum",
+   "type": "museum",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woods Auditorium",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union College Rockpile",
+   "type": "historic_site",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ascent",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Willy",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Floating Figure",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Balanced/Unbalanced Wheels #2",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Champions",
+   "type": "historic_site",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iron Horse",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bike-a-Saurus",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trail Rider",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elk Statue",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chief Standing Bear",
+   "type": "historic_site",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Breach",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greenpoint",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Glory",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Torn Notebook",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shift",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Birth of Venus",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fragment X-O",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nanticoke",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Daimaru XV",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SANDY: in Defined Space",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fallen Dreamer",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Archie",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ouranos",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prismatic Flake Geometric",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Abraham Lincoln",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bather",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Granite Hi-Chair",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arietta II",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Without Echo",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ulysses",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wind Sculpture III",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Variable Wedge",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Serenity",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled Relief",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monet's Table",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln Fire & Rescue Museum",
+   "type": "museum",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Metro Gallery",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nebraska Club - Metro Gallery Display",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columns",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Plains Art Museum",
+   "type": "museum",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goodhue Boulevard",
+   "type": "historic_site",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pitch, Roll & Yaw",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmers Market",
+   "type": "farmers_market",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Land",
+   "type": "laundromat",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corn Cob",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corn Cob",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meadowlark",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Biplane",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corn Cob",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corn Cob",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corn Cob",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corn Cob",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corn Cob",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corn Cob",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corn Cob",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corn Cob",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corn Cob",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corn Cob",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corn Cob",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Superior",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "14th Street Belmont",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Superior",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "14th Street",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ptah",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tem",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corn Coast Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr. Susan La Flesche Picotte",
+   "type": "historic_site",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Don Love Memorial Library",
+   "type": "library",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sheldon Museum of Art",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lied Center for Performing Arts",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pinewood Bowl Amphitheater",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union Plaza Amphitheater",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Loren C Eiseley Branch Public Library",
+   "type": "library",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Nebraska History",
+   "type": "museum",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln Children's Museum",
+   "type": "museum",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairview/Bryan Museum",
+   "type": "museum",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bethany Branch Library",
+   "type": "library",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prairie Building",
+   "type": "museum",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of American Speed",
+   "type": "museum",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Historical Society of Germans From Russia Museum",
+   "type": "museum",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zipline Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Museum of Roller Skating",
+   "type": "museum",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln Community Playhouse",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles H. Gere Branch Library",
+   "type": "library",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Land",
+   "type": "laundromat",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nebraska Athletics Hall of Fame",
+   "type": "historic_site",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cochrane-Woods Library",
+   "type": "library",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elder Memorial Speech and Theatre Center",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saro Cider",
+   "type": "brewery_distillery",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Local",
+   "type": "brewery_distillery",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Land",
+   "type": "laundromat",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Olin Lecture Halls and Planetarium",
+   "type": "museum",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Havelock Laundromat",
+   "type": "laundromat",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LUX Center for the Arts",
+   "type": "arts_culture",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bess Dodson Walt Branch Library",
+   "type": "library",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LaunDRY Land",
+   "type": "laundromat",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "International Quilt Study Center and Museum",
+   "type": "museum",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City LaunDRY",
+   "type": "laundromat",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anderson Branch Library",
+   "type": "library",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soap Laundromat",
+   "type": "laundromat",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Platte Public Library",
+   "type": "library",
+   "city": "North Platte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pal's Brewing Company",
+   "type": "brewery_distillery",
+   "city": "North Platte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Zone",
+   "type": "laundromat",
+   "city": "North Platte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln County Historical Museum",
+   "type": "museum",
+   "city": "North Platte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Platte Area Children's Museum",
+   "type": "museum",
+   "city": "North Platte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Omaha Historical Marker",
+   "type": "historic_site",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bio-Information Center",
+   "type": "library",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freeman-Lozier Library",
+   "type": "library",
+   "city": "La Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A V Sorenson Branch Library",
+   "type": "library",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Klutznick Law Library",
+   "type": "library",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hollis and Helen Baright Public Library",
+   "type": "library",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic Florence Depot Museum",
+   "type": "museum",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "General Crook House Museum",
+   "type": "museum",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic Florence Bank Museum",
+   "type": "museum",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Plains Black History Museum",
+   "type": "museum",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "El Museo Latino",
+   "type": "museum",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Omaha Childrens Museum",
+   "type": "museum",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veteranʻs Memorial",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Patrick Memorial",
+   "type": "historic_site",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Patrick Memorial Sculpture",
+   "type": "arts_culture",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trading Post Site",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lewis Art Gallery",
+   "type": "arts_culture",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "inCommon",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Mother's Memorial",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harold's Square Coin Laundry",
+   "type": "laundromat",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash World",
+   "type": "laundromat",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Outdoor Classroom",
+   "type": "arts_culture",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bosco",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Labor Monument",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fashion Cleaners",
+   "type": "laundromat",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "IDEAL",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Omaha Public Library",
+   "type": "library",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Giant Chicken",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waterworks",
+   "type": "arts_culture",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benson Brewery",
+   "type": "brewery_distillery",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Building America Mural",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Market Artists Gallery",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ascension",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stile di Famiglia (Family Style)",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rev. Dr. Martin Luther King Jr. : \"I've Been to the Mountain Top\"",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry World",
+   "type": "laundromat",
+   "city": "La Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "40th Theater",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "'Welcome To Historic Florence' Mural",
+   "type": "arts_culture",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Omaha Lace Laundry & Cleaners",
+   "type": "laundromat",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr Martin Luther King Jr",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Omaha Lollipop",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mural",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Preston Love Sr",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Support Our Troops",
+   "type": "historic_site",
+   "city": "La Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Florence Mill Museum",
+   "type": "museum",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Float Plane",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mammoth",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lion's Pride",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stingray Fountain",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North 24th Street Historic District",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Strehlow Terrace",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Populus",
+   "type": "coworking",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Healing",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Land Rover",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watts",
+   "type": "coworking",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Krug Park",
+   "type": "brewery_distillery",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Backline",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dance of the Cranes",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Land Rover",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Broken Playground",
+   "type": "historic_site",
+   "city": "La Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Omar the Troll",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hammerjack",
+   "type": "arts_culture",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cape II (Cape Two)",
+   "type": "arts_culture",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zorbus",
+   "type": "arts_culture",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash World Laundry",
+   "type": "laundromat",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmers Market",
+   "type": "farmers_market",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Max I. Walker",
+   "type": "laundromat",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pirate Stage",
+   "type": "arts_culture",
+   "city": "La Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wenninghoff's",
+   "type": "farmers_market",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mormon Bridge historical marker",
+   "type": "historic_site",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Road to Omaha",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heritage",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wind Sculpture",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Lynching of Will Brown",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marlin Briscoe",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Twist",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Planar and Tubular",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Love Exits",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Helios",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Lynching of George Smith",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Omaha Centennial",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Among the Valiant",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aeolis 7",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walking Flower Times the Power of Five",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Link",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dream",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Metal",
+   "type": "arts_culture",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Astro",
+   "type": "live_music",
+   "city": "La Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash World",
+   "type": "laundromat",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flamma",
+   "type": "arts_culture",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heart & Soul",
+   "type": "arts_culture",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sioux Warrior sculpture",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chief Big Elk Statue",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Branch",
+   "type": "library",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo Bill at the Trans-Mississippi & Internat’l Exposition & Indian Congress of 1898",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trans-Mississippi and International Exposition",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George and Sarah Joslyn Home historical marker",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rock, Paper, Scissors",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "O! Dude",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ceres",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Folded Square Alphabet Q",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UNMC Campus Gateway Garden",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tower of Light",
+   "type": "arts_culture",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yellow Ascending",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "22 1/2 Degrees with Crayon Tips",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Folded Square Alphabet O",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Embrace (Reflection)",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Large Covered Wagon",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pencil Bench",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bellevue Public Library",
+   "type": "library",
+   "city": "La Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "402 Art Collective",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Exist Green",
+   "type": "farmers_market",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Landlock Gallery",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Florence Branch",
+   "type": "library",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Commerce Village",
+   "type": "coworking",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LOW END",
+   "type": "live_music",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brickway Brewery and Distillery",
+   "type": "brewery_distillery",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Omaha Community Playhouse",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Durham Museum",
+   "type": "museum",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Hazard",
+   "type": "museum",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr. C.C. and Mabel L. Criss Library",
+   "type": "library",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Willa Cather Branch Omaha Public Library",
+   "type": "library",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles B Washington Branch Library",
+   "type": "library",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artists' Cooperative Gallery",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joslyn Art Museum",
+   "type": "museum",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jun Kaneko Studio",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orpheum Theater",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benson Branch Library",
+   "type": "library",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "KANEKO",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reinert Alumni Memorial Library",
+   "type": "library",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bemis Center for Contemporary Arts",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Concert Amphitheatre",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rose Blumkin Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Admiral",
+   "type": "live_music",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Milton R Abrahams Branch Library",
+   "type": "library",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hot Shops Art Center",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meadowlark Theater",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grover Street Wash House",
+   "type": "laundromat",
+   "city": "Ralston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Milacek Monument Co Inc",
+   "type": "historic_site",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McGoogan Library of Medicine",
+   "type": "library",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Douglas County Historical Society Library",
+   "type": "library",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scriptown Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Max I. Walker",
+   "type": "laundromat",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mormon Trail Center at Winter Quarters",
+   "type": "museum",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Barn Theater",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cali Commons",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kiewit Luminarium",
+   "type": "science_center",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Malcolm X Memorial Foundation",
+   "type": "museum",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benson Theatre",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Infusion Brewing Company Tap Room",
+   "type": "brewery_distillery",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Midtown Laundry",
+   "type": "laundromat",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Velocity",
+   "type": "arts_culture",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ampitheater",
+   "type": "arts_culture",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maytag Laundry",
+   "type": "laundromat",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ciaran's Farmers Market & Christmas Trees",
+   "type": "farmers_market",
+   "city": "Omaha",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dobytown Historical Marker",
+   "type": "historic_site",
+   "city": "Kearney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kearney Area Childrens Museum",
+   "type": "museum",
+   "city": "Kearney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sandhill Cranes",
+   "type": "arts_culture",
+   "city": "Kearney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Kearney Visitor's Center",
+   "type": "museum",
+   "city": "Kearney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Nebraska Art",
+   "type": "museum",
+   "city": "Kearney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Kearney Museum",
+   "type": "museum",
+   "city": "Kearney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nebraska Firefighters Museum & Education Center",
+   "type": "museum",
+   "city": "Kearney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keene Memorial Library",
+   "type": "library",
+   "city": "Fremont",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nebraska Railroad Museum",
+   "type": "museum",
+   "city": "Fremont",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louis E May Museum",
+   "type": "museum",
+   "city": "Fremont",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Welcome to Fremont Historic Downtown",
+   "type": "historic_site",
+   "city": "Fremont",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "All Gave Some | Some Gave All",
+   "type": "historic_site",
+   "city": "Fremont",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cedar Bluffs",
+   "type": "historic_site",
+   "city": "Cedar Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pine Ridge Estates",
+   "type": "historic_site",
+   "city": "Inglewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pahuk",
+   "type": "historic_site",
+   "city": "Cedar Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Shower Facility",
+   "type": "shower",
+   "city": "Cedar Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Shower Facility",
+   "type": "shower",
+   "city": "Cedar Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bates Amphitheater",
+   "type": "arts_culture",
+   "city": "Cedar Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Staff Showerhouse",
+   "type": "shower",
+   "city": "Cedar Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Auditorium",
+   "type": "arts_culture",
+   "city": "Cedar Bluffs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Verges Park Historical Marker",
+   "type": "historic_site",
+   "city": "Norfolk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norfolk Public Library",
+   "type": "library",
+   "city": "Norfolk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elkhorn Valley Museum and Research Center",
+   "type": "museum",
+   "city": "Norfolk",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rebecca Winters Gravesite",
+   "type": "historic_site",
+   "city": "Terrytown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union Pacific Steam Powered Locomotive",
+   "type": "historic_site",
+   "city": "Gering",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Mitchell",
+   "type": "historic_site",
+   "city": "Scottsbluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dino",
+   "type": "arts_culture",
+   "city": "Terrytown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dino",
+   "type": "arts_culture",
+   "city": "Scottsbluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dino",
+   "type": "arts_culture",
+   "city": "Scottsbluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dino",
+   "type": "arts_culture",
+   "city": "Scottsbluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scott's Memorial",
+   "type": "historic_site",
+   "city": "Terrytown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheatre",
+   "type": "arts_culture",
+   "city": "Gering",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Five Rocks Amphitheater",
+   "type": "arts_culture",
+   "city": "Gering",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Legacy of the Plains Museum",
+   "type": "museum",
+   "city": "Gering",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Overland Laundromat",
+   "type": "laundromat",
+   "city": "Scottsbluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scottsbluff Laundromat",
+   "type": "laundromat",
+   "city": "Scottsbluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Papa Moon",
+   "type": "brewery_distillery",
+   "city": "Scottsbluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gering Laundromat",
+   "type": "laundromat",
+   "city": "Gering",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oto Mission Historical Marker",
+   "type": "historic_site",
+   "city": "Bellevue",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fontenelle Bank - County Courthouse Historical Marker",
+   "type": "historic_site",
+   "city": "Bellevue",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bellevue Historical Marker",
+   "type": "historic_site",
+   "city": "Bellevue",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sump Memorial Library",
+   "type": "library",
+   "city": "Papillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bellevue Little Theatre",
+   "type": "arts_culture",
+   "city": "Bellevue",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Star Memorial",
+   "type": "historic_site",
+   "city": "Papillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "All Gave Some, Some Gave All",
+   "type": "historic_site",
+   "city": "Bellevue",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bellevue Maytag Laundry",
+   "type": "laundromat",
+   "city": "Bellevue",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kramer Power Plant",
+   "type": "historic_site",
+   "city": "Bellevue",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Papillion Boy Scouts' Cabin",
+   "type": "historic_site",
+   "city": "Papillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry World Papillion",
+   "type": "laundromat",
+   "city": "Papillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AlegentHealth Amphitheatre",
+   "type": "arts_culture",
+   "city": "Papillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bellevue History Museum",
+   "type": "museum",
+   "city": "Bellevue",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fontenelle Bank",
+   "type": "museum",
+   "city": "Bellevue",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Falconwood Park",
+   "type": "arts_culture",
+   "city": "Bellevue",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nebraska Military Historical Society Museum",
+   "type": "museum",
+   "city": "Blaine",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hastings Museum & Super Screen Theater",
+   "type": "museum",
+   "city": "Hastings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbus Public Library",
+   "type": "library",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Platte County Historical Museum",
+   "type": "museum",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wunderlichts",
+   "type": "historic_site",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbus Powerhouse historical marker",
+   "type": "historic_site",
+   "city": "Columbus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Homestead National Monument Heritage Center",
+   "type": "museum",
+   "city": "Beatrice",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freeman Graves",
+   "type": "historic_site",
+   "city": "Beatrice",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maytag Self Service Laundry",
+   "type": "laundromat",
+   "city": "Beatrice",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First Homestead Monument",
+   "type": "historic_site",
+   "city": "Beatrice",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Carnegie Building",
+   "type": "arts_culture",
+   "city": "Beatrice",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Underbridge Mario",
+   "type": "arts_culture",
+   "city": "Beatrice",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nichols Park Rock",
+   "type": "historic_site",
+   "city": "Beatrice",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pickrell Veterans Memorial",
+   "type": "historic_site",
+   "city": "Pickrell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Municipal Auditorium",
+   "type": "arts_culture",
+   "city": "Beatrice",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gage County Historical Museum",
+   "type": "museum",
+   "city": "Beatrice",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beatrice Downtown Historic District",
+   "type": "historic_downtown",
+   "city": "Beatrice",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Girl Scout Cabin",
+   "type": "historic_site",
+   "city": "Beatrice",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial Wall",
+   "type": "historic_site",
+   "city": "Beatrice",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beatrice Public Library",
+   "type": "arts_culture",
+   "city": "Beatrice",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dawson County Historical Museum",
+   "type": "museum",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Canyon Lakes Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heartland Museum of Military Vehicles",
+   "type": "museum",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "La Vista Public Library",
+   "type": "library",
+   "city": "La Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pint Nine Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Papillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SumTur Amphitheater",
+   "type": "arts_culture",
+   "city": "Papillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Sioux City Library",
+   "type": "library",
+   "city": "South Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Siouxland Freedom Park",
+   "type": "historic_site",
+   "city": "South Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dakota City",
+   "type": "historic_site",
+   "city": "South Sioux City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Knight Museum and Sandhills Center",
+   "type": "museum",
+   "city": "Alliance",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paradeis Cleaners",
+   "type": "laundromat",
+   "city": "Alliance",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial",
+   "type": "historic_site",
+   "city": "Alliance",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Fourd Seasons",
+   "type": "arts_culture",
+   "city": "Alliance",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sallows Military Museum",
+   "type": "museum",
+   "city": "Alliance",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tower of the Four Winds",
+   "type": "historic_site",
+   "city": "Blair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blair Public Library",
+   "type": "library",
+   "city": "Blair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nebraska Vietnam Veterans Memorial",
+   "type": "historic_site",
+   "city": "Papillion",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cheyenne County Museum",
+   "type": "museum",
+   "city": "Sidney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BOSS City",
+   "type": "brewery_distillery",
+   "city": "Sidney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goodall City Library",
+   "type": "library",
+   "city": "Ogallala",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ogallala Coin-O-Matic Laundry",
+   "type": "laundromat",
+   "city": "Ogallala",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Petrified Wood Art Gallery",
+   "type": "arts_culture",
+   "city": "Ogallala",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kathleen Lute Public Library",
+   "type": "library",
+   "city": "Ogallala",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kilgore Memorial Library",
+   "type": "library",
+   "city": "York",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anna Bemis Palmer Museum",
+   "type": "museum",
+   "city": "York",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clayton Museum of Ancient History",
+   "type": "museum",
+   "city": "York",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of the High Plains",
+   "type": "museum",
+   "city": "McCook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prehistorical Burial Site Historical Marker",
+   "type": "historic_site",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ashland Public Library",
+   "type": "library",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ashland Public Library",
+   "type": "library",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Willow Point Gallery",
+   "type": "arts_culture",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blush's Boutique",
+   "type": "arts_culture",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Strategic Air Command & Aerospace Museum",
+   "type": "museum",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cellar 426",
+   "type": "brewery_distillery",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prehistorical Burial Site",
+   "type": "historic_site",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

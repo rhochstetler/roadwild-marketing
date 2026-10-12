@@ -1,0 +1,8378 @@
+{
+ "state": "NJ",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Goshen Pond Campground",
+   "type": "paid_camp",
+   "town": "Atco, NJ",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Batona Camp",
+   "type": "paid_camp",
+   "town": "Leisuretowne, NJ",
+   "town_mi": 8.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bodine Field Campground",
+   "type": "paid_camp",
+   "town": "New Gretna, NJ",
+   "town_mi": 5.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Forge Campground",
+   "type": "paid_camp",
+   "town": "Nesco, NJ",
+   "town_mi": 5.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hawkin Bridge Campground",
+   "type": "paid_camp",
+   "town": "Nesco, NJ",
+   "town_mi": 8.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mullica River Campground",
+   "type": "paid_camp",
+   "town": "Nesco, NJ",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brendan T. Byrne State Forest Campground",
+   "type": "paid_camp",
+   "town": "Presidential Lakes Estates, NJ",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wawayanda Group Campground",
+   "type": "paid_camp",
+   "town": "Upper Greenwood Lake, NJ",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fords Park",
+   "type": "rv_park",
+   "town": "Fords, NJ",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tip Tam Camping Resort",
+   "type": "rv_park",
+   "town": "Lakewood, NJ",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Roamers Beach RV Resort",
+   "type": "rv_park",
+   "town": "Newtonville, NJ",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fla-Net Park Campground",
+   "type": "rv_park",
+   "town": "Netcong, NJ",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wading Pines Camping Resort",
+   "type": "paid_camp",
+   "town": "Sweetwater, NJ",
+   "town_mi": 7.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Belhaven Lake RV Resort",
+   "type": "rv_park",
+   "town": "Sweetwater, NJ",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Atsion Family Campground",
+   "type": "paid_camp",
+   "town": "Hammonton, NJ",
+   "town_mi": 6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Group Campground",
+   "type": "paid_camp",
+   "town": "New Gretna, NJ",
+   "town_mi": 3.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Egg Harbor Lake Campground",
+   "type": "rv_park",
+   "town": "Egg Harbor City, NJ",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pomona RV Park",
+   "type": "rv_park",
+   "town": "Pomona, NJ",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Echo Farms RV Resort",
+   "type": "rv_park",
+   "town": "Seaville, NJ",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shady Pines",
+   "type": "rv_park",
+   "town": "Pomona, NJ",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bear Creek Campgrounds",
+   "type": "paid_camp",
+   "town": "Crandon Lakes, NJ",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lazy River Campground",
+   "type": "rv_park",
+   "town": "Dorothy, NJ",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Kandle",
+   "type": "rv_park",
+   "town": "Pitman, NJ",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Glen Gray",
+   "type": "paid_camp",
+   "town": "Oakland, NJ",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Liberty Harbor RV",
+   "type": "rv_park",
+   "town": "Jersey City, NJ",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Shore Campground",
+   "type": "paid_camp",
+   "town": "New Gretna, NJ",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Range 14",
+   "type": "rv_park",
+   "town": "Browns Mills, NJ",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RV Parking",
+   "type": "rv_park",
+   "town": "Bridgeport, NJ",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ponderosa Campground",
+   "type": "paid_camp",
+   "town": "South Dennis, NJ",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sun Outdoors Cape May",
+   "type": "rv_park",
+   "town": "Erma, NJ",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "The Depot Travel Park",
+   "type": "paid_camp",
+   "town": "West Cape May, NJ",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Main Office",
+   "type": "rv_park",
+   "town": "West Cape May, NJ",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bridgeport Speedway Campground",
+   "type": "rv_park",
+   "town": "Bridgeport, NJ",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chestnut Lake RV Resort",
+   "type": "rv_park",
+   "town": "Port Republic, NJ",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ocean Isle Camping Resort",
+   "type": "rv_park",
+   "town": "Seaville, NJ",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CAMP GATEWAY - SANDY HOOK",
+   "type": "paid_camp",
+   "town": "Atlantic Highlands, NJ",
+   "town_mi": 2.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Wyanokie",
+   "type": "paid_camp",
+   "town": "Bloomingdale, NJ",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Cape May National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Edwin B. Forsythe National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Great Swamp National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Supawna Meadows National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wallkill River National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Jacques Cousteau National Estuarine Research Reserve",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lincoln Park Coast Cultural District",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Easy Hike Along Hornbecks Creek",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Biking on the McDade Recreational Trail",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Snowshoe and Cross-country Ski on the McDade Trail",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Cliff Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "The Baggage Room",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Washingtons Headquarters Museum in Morristown NJ",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Go on a Guided Tour of the Ford Mansion",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tour the Hospital Complex",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Spend a Day on the Island",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Research Family Immigration History",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Self-guided Audio Tour",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Drop By Fort Nonsense in Morristown",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore the Cross Estate Gardens and Hike to the NJ Brigade Encampment Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Platinum Playground",
+   "type": "arts_culture",
+   "city": "Folsom",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chimney Rustic Ales",
+   "type": "brewery_distillery",
+   "city": "Hammonton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Snouts and Stouts Brewing",
+   "type": "brewery_distillery",
+   "city": "Hammonton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "African American Heritage Museum of Southern New Jersey",
+   "type": "museum",
+   "city": "Folsom",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Christopher Columbus Memorial",
+   "type": "historic_site",
+   "city": "Hammonton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlantic County Library - Hammonton Branch",
+   "type": "library",
+   "city": "Hammonton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Three 3s Brewing Company.",
+   "type": "brewery_distillery",
+   "city": "Hammonton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kathedral Event Center",
+   "type": "live_music",
+   "city": "Hammonton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eagle Theatre",
+   "type": "arts_culture",
+   "city": "Hammonton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hammonton Historical Society Museum",
+   "type": "museum",
+   "city": "Hammonton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hammonton Arts Center",
+   "type": "arts_culture",
+   "city": "Hammonton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Rascal Distillery",
+   "type": "brewery_distillery",
+   "city": "Hammonton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plagido's Winery",
+   "type": "brewery_distillery",
+   "city": "Hammonton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monroe Center for the Arts",
+   "type": "arts_culture",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hoboken Fire Department Museum",
+   "type": "museum",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hoboken Historical Museum",
+   "type": "museum",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William D. McDowell Observatory",
+   "type": "museum",
+   "city": "North Arlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AMVETS Carillon",
+   "type": "historic_site",
+   "city": "North Arlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbus Monument",
+   "type": "historic_site",
+   "city": "Communipaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Empty Sky",
+   "type": "historic_site",
+   "city": "Jersey City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prudential Concert Grove",
+   "type": "arts_culture",
+   "city": "East Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sculptures",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weehawken 9/11 Memorial",
+   "type": "historic_site",
+   "city": "Weehawken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WTC Memorial Cove",
+   "type": "historic_site",
+   "city": "North Arlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Katyn Memorial",
+   "type": "historic_site",
+   "city": "Jersey City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Firemen's Monument",
+   "type": "historic_site",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alexander Hamilton",
+   "type": "historic_site",
+   "city": "Weehawken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Neumann Smokestack",
+   "type": "historic_site",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mission 50 Workspaces",
+   "type": "coworking",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "EZ Wash Laundromat",
+   "type": "laundromat",
+   "city": "East Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Laundromat",
+   "type": "laundromat",
+   "city": "Communipaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Senor Bubbles Laundromat",
+   "type": "laundromat",
+   "city": "Journal Square",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Friendly Laundromat",
+   "type": "laundromat",
+   "city": "Communipaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wars of America",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seated Lincoln",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War I Monument",
+   "type": "historic_site",
+   "city": "Rutherford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indian and the Puritan",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peace Sign",
+   "type": "arts_culture",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Relationships",
+   "type": "arts_culture",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aljira A Center for Contemporary Art",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paul Robeson Galleries",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundromat Cleaners",
+   "type": "laundromat",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Bergen Free Public Library Kennedy Branch",
+   "type": "library",
+   "city": "Weehawken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbus Statue",
+   "type": "historic_site",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wave",
+   "type": "arts_culture",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ria Mar Laundromat",
+   "type": "laundromat",
+   "city": "East Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Essex County Law Library",
+   "type": "library",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chang Sheng Laundromat",
+   "type": "laundromat",
+   "city": "Journal Square",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jose Protacio Rizal (1861-1896)",
+   "type": "historic_site",
+   "city": "Jersey City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bob Hope Memorial Library",
+   "type": "library",
+   "city": "Communipaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Gibson",
+   "type": "historic_site",
+   "city": "Communipaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean War Veterans Memorial",
+   "type": "historic_site",
+   "city": "Jersey City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldier's Monument",
+   "type": "arts_culture",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Pinoy Food Mart",
+   "type": "farmers_market",
+   "city": "Bayonne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "House of Bubbles Laundromat",
+   "type": "laundromat",
+   "city": "Bayonne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Francis Albert Sinatra",
+   "type": "arts_culture",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hoboken Second World War memorial",
+   "type": "historic_site",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Structural Steel Teaching Aid",
+   "type": "arts_culture",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garden Laundry",
+   "type": "laundromat",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Captain Clinton E. Fisk Memorial Park",
+   "type": "historic_site",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hoboken Vietnam War memorial",
+   "type": "historic_site",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverside Launromat & Dry Cleaning",
+   "type": "laundromat",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hoboken First World War memorial",
+   "type": "historic_site",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Morris Canal",
+   "type": "historic_site",
+   "city": "Jersey City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "K&K",
+   "type": "laundromat",
+   "city": "Journal Square",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Birthplace of Baseball Monument",
+   "type": "historic_site",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tom’s Tub",
+   "type": "laundromat",
+   "city": "Journal Square",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Warehouse",
+   "type": "laundromat",
+   "city": "Belleville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Bergen Public Library",
+   "type": "library",
+   "city": "North Bergen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "In memory of 56 Hoboken citizens killed on September 11, 2001",
+   "type": "historic_site",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jackie Robinson",
+   "type": "historic_site",
+   "city": "Journal Square",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Welcome To Secaucus",
+   "type": "arts_culture",
+   "city": "Secaucus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Tylee Ranney",
+   "type": "historic_site",
+   "city": "Weehawken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UC Laundromat",
+   "type": "laundromat",
+   "city": "Weehawken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln the Mystic",
+   "type": "historic_site",
+   "city": "Journal Square",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Afro-American Historical Society Museum",
+   "type": "museum",
+   "city": "Communipaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rutgers Law Library",
+   "type": "library",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rutgers Arch",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mister Bubbles Laundromat",
+   "type": "laundromat",
+   "city": "The Ironbound",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weehawken Memorial World War",
+   "type": "historic_site",
+   "city": "Weehawken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newark Local Beer",
+   "type": "brewery_distillery",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ecualaundry",
+   "type": "laundromat",
+   "city": "The Ironbound",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Water's Soul",
+   "type": "arts_culture",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paulus Hook Farmers Market",
+   "type": "farmers_market",
+   "city": "Jersey City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jersey City 9/11 Memorial",
+   "type": "historic_site",
+   "city": "Jersey City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial to All Vietnam Veterans",
+   "type": "historic_site",
+   "city": "Bayonne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beacon",
+   "type": "arts_culture",
+   "city": "Jersey City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "JCPD",
+   "type": "historic_site",
+   "city": "Jersey City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "O'Neill Point",
+   "type": "historic_site",
+   "city": "Bayonne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hamilton Laundromat",
+   "type": "laundromat",
+   "city": "Jersey City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "JC Eco Laundry",
+   "type": "laundromat",
+   "city": "Jersey City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guttenberg Resource Center",
+   "type": "library",
+   "city": "Guttenberg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Speed Wash Laundromat",
+   "type": "laundromat",
+   "city": "Guttenberg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lyndhurst Public Library",
+   "type": "library",
+   "city": "Lyndhurst",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Triple Clean Laundromat",
+   "type": "laundromat",
+   "city": "Bayonne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orange Wash & Fold Laundromat",
+   "type": "laundromat",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Drawing Rooms (Topps Building)",
+   "type": "arts_culture",
+   "city": "Journal Square",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jersey City Free Public Library",
+   "type": "library",
+   "city": "Jersey City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "902 Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Communipaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Five Founders of the Statue of Liberty",
+   "type": "arts_culture",
+   "city": "Communipaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rosa Parks",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr. Martin Luther King Jr.",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin Luther King Jr.",
+   "type": "historic_site",
+   "city": "Communipaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Major General Philip Kearny",
+   "type": "arts_culture",
+   "city": "Kearny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sarah Vaughan Concert Hall",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "All points West",
+   "type": "brewery_distillery",
+   "city": "The Ironbound",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash and dry",
+   "type": "laundromat",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Painting On Park",
+   "type": "arts_culture",
+   "city": "Rutherford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SMUSH Gallery",
+   "type": "arts_culture",
+   "city": "Journal Square",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bent",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Althea Gibson Statue",
+   "type": "historic_site",
+   "city": "Belleville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alice and Leonard Dreyfuss Planetarium",
+   "type": "planetarium",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newport",
+   "type": "arts_culture",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Belleville Public Library",
+   "type": "library",
+   "city": "Belleville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Room",
+   "type": "laundromat",
+   "city": "Belleville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bergen Square",
+   "type": "historic_downtown",
+   "city": "Journal Square",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newark Symphony Hall",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jack's Laundromat",
+   "type": "laundromat",
+   "city": "Belleville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peter Woodland Memorial",
+   "type": "historic_site",
+   "city": "Communipaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bubbles 3",
+   "type": "laundromat",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stewart's Scottish Market",
+   "type": "farmers_market",
+   "city": "Kearny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Super Laundromat Center",
+   "type": "laundromat",
+   "city": "Kearny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kearny Library",
+   "type": "library",
+   "city": "Kearny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Warehouse",
+   "type": "laundromat",
+   "city": "Kearny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry World",
+   "type": "laundromat",
+   "city": "East Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Davenport Laundromat",
+   "type": "laundromat",
+   "city": "Kearny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dirty Laundry",
+   "type": "laundromat",
+   "city": "Belleville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pueblo Laundry",
+   "type": "laundromat",
+   "city": "Belleville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "199 Smile Laundromat",
+   "type": "laundromat",
+   "city": "Belleville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Secaucus Public Library Annex",
+   "type": "library",
+   "city": "Secaucus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barsky Gallery",
+   "type": "arts_culture",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laurel Hill Park",
+   "type": "historic_site",
+   "city": "Journal Square",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Celia Cruz",
+   "type": "arts_culture",
+   "city": "Weehawken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pavonia Arcs",
+   "type": "arts_culture",
+   "city": "Jersey City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SS Stevens Memorial Anchor",
+   "type": "historic_site",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prudential Hall",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Victoria Theater",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jacks Laundromat",
+   "type": "laundromat",
+   "city": "Belleville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fresh & Clean Laundromat",
+   "type": "laundromat",
+   "city": "Belleville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sonic Suds",
+   "type": "laundromat",
+   "city": "The Ironbound",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morris Canal Lock 16 East",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundromat At Ridge Park",
+   "type": "laundromat",
+   "city": "North Arlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Latino's Fresh Market",
+   "type": "farmers_market",
+   "city": "East Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Luna Smoke Shop",
+   "type": "farmers_market",
+   "city": "East Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NA Historical Marker - Eckhardt Farm",
+   "type": "historic_site",
+   "city": "North Arlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NA Historical Marker - First Steam Engine",
+   "type": "historic_site",
+   "city": "North Arlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Meadowlands Market",
+   "type": "farmers_market",
+   "city": "Rutherford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newark ArtSpace",
+   "type": "arts_culture",
+   "city": "East Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Summer Laundromat",
+   "type": "laundromat",
+   "city": "Kearny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundromat 4 Less",
+   "type": "laundromat",
+   "city": "Belleville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lavarama",
+   "type": "laundromat",
+   "city": "Kearny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Twin Laundromat",
+   "type": "laundromat",
+   "city": "Kearny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jack's Laundromat",
+   "type": "laundromat",
+   "city": "East Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jack's Laundromat",
+   "type": "laundromat",
+   "city": "East Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jack's Laundromat",
+   "type": "laundromat",
+   "city": "East Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Guys",
+   "type": "laundromat",
+   "city": "East Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Experience",
+   "type": "laundromat",
+   "city": "East Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "La Esperanza Laundromat",
+   "type": "laundromat",
+   "city": "East Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Samuel C. Williams Library",
+   "type": "library",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty Science Center",
+   "type": "science_center",
+   "city": "Communipaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Jersey Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Medieval Times Dinner & Tournament",
+   "type": "arts_culture",
+   "city": "Lyndhurst",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ellis Island Immigration Museum",
+   "type": "museum",
+   "city": "Communipaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mitsuwa Marketplace",
+   "type": "farmers_market",
+   "city": "Cliffside Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dana Library",
+   "type": "library",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty State Park Interpretive Center",
+   "type": "museum",
+   "city": "Communipaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meadowlands Environment Center",
+   "type": "museum",
+   "city": "North Arlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newark Public Library",
+   "type": "library",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newark Museum",
+   "type": "museum",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Free Public Library of Bayonne",
+   "type": "library",
+   "city": "Bayonne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weehawken Public Library",
+   "type": "library",
+   "city": "Weehawken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "To the Struggle Against World Terrorism",
+   "type": "historic_site",
+   "city": "Bayonne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Springfield Branch Newark Public Library",
+   "type": "library",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kim's Cleaners II",
+   "type": "laundromat",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bubbles Laundromat",
+   "type": "laundromat",
+   "city": "Journal Square",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Russian Art",
+   "type": "museum",
+   "city": "Jersey City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jersey City Free Public Library",
+   "type": "library",
+   "city": "Jersey City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jersey City Public Library, Five Corners Branch",
+   "type": "library",
+   "city": "Journal Square",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sudzy",
+   "type": "laundromat",
+   "city": "Journal Square",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gabert Library",
+   "type": "library",
+   "city": "Journal Square",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mana Contemporary",
+   "type": "arts_culture",
+   "city": "Journal Square",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Van Wagenen House",
+   "type": "museum",
+   "city": "Journal Square",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Jersey Historical Society",
+   "type": "museum",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newark Foundry Workspaces",
+   "type": "coworking",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jersey City Public Library",
+   "type": "library",
+   "city": "Communipaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jersey City Public Library: Earl A. Morgan Branch",
+   "type": "library",
+   "city": "Communipaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Van Buren Branch",
+   "type": "library",
+   "city": "The Ironbound",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Branch Brook Branch Library",
+   "type": "library",
+   "city": "East Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Easy Way Laundromat",
+   "type": "laundromat",
+   "city": "Kearny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North End Branch Newark Public Library",
+   "type": "library",
+   "city": "Kearny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spin Central Laundromat",
+   "type": "laundromat",
+   "city": "Belleville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "7th St Laundromat",
+   "type": "laundromat",
+   "city": "Kearny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jack's Laundromat",
+   "type": "laundromat",
+   "city": "East Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harrison Public Library",
+   "type": "library",
+   "city": "Harrison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hoboken Public Library",
+   "type": "library",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Secaucus Public Library",
+   "type": "library",
+   "city": "Secaucus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Secaucus Town Museum",
+   "type": "museum",
+   "city": "Secaucus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West New York Public Library",
+   "type": "library",
+   "city": "West New York",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guttenberg Arts",
+   "type": "arts_culture",
+   "city": "North Bergen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union City Public Library 18th Street Branch",
+   "type": "library",
+   "city": "Weehawken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberation Monument",
+   "type": "historic_site",
+   "city": "Communipaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union City Public Library",
+   "type": "library",
+   "city": "Union City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American War Memorial Plaza",
+   "type": "historic_site",
+   "city": "Weehawken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "PATH Plaza",
+   "type": "historic_downtown",
+   "city": "Journal Square",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jose Protacio Rizal",
+   "type": "historic_site",
+   "city": "Jersey City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James J. Braddock Statue",
+   "type": "historic_site",
+   "city": "Guttenberg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "General Pershing Memorial",
+   "type": "historic_site",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Arlington Public Library",
+   "type": "library",
+   "city": "North Arlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Liberty Museum",
+   "type": "museum",
+   "city": "Communipaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chief John T. Brennan Fire Museum",
+   "type": "museum",
+   "city": "Bayonne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smith Library of Health Sciences",
+   "type": "library",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Spread Wing Eagle",
+   "type": "arts_culture",
+   "city": "Hoboken",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meadowlands Museum",
+   "type": "museum",
+   "city": "Rutherford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ridgefield Public Library",
+   "type": "library",
+   "city": "Cliffside Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shadow of a Face",
+   "type": "historic_site",
+   "city": "Newark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kearny Branch Library",
+   "type": "library",
+   "city": "Kearny",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairview Library",
+   "type": "library",
+   "city": "Fairview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bolero Snort",
+   "type": "brewery_distillery",
+   "city": "Rutherford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Millville Public Library",
+   "type": "library",
+   "city": "Millville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cedar Rose Vineyards",
+   "type": "brewery_distillery",
+   "city": "Vineland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Terra Nonno Winery",
+   "type": "brewery_distillery",
+   "city": "Millville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Malench Farm Market",
+   "type": "farmers_market",
+   "city": "Vineland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cumberland Players",
+   "type": "arts_culture",
+   "city": "Vineland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vineland Public Library",
+   "type": "library",
+   "city": "Vineland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Distance Learning Center/ Library",
+   "type": "library",
+   "city": "Millville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frank Guaracini Jr. Arts Center",
+   "type": "arts_culture",
+   "city": "Millville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ripicon",
+   "type": "laundromat",
+   "city": "Millville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Landis Theater",
+   "type": "arts_culture",
+   "city": "Vineland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverfront Renaissance Center for the Arts",
+   "type": "arts_culture",
+   "city": "Millville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coda Rossa Winery",
+   "type": "brewery_distillery",
+   "city": "Newfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vineland Historical Society",
+   "type": "museum",
+   "city": "Vineland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Levoy Theatre",
+   "type": "arts_culture",
+   "city": "Millville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WheatonArts",
+   "type": "museum",
+   "city": "Millville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Matchbox Road Museum",
+   "type": "museum",
+   "city": "Newfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Padre Pio",
+   "type": "arts_culture",
+   "city": "Buena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Rutherford Memorial Library",
+   "type": "library",
+   "city": "East Rutherford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Orange Public Library",
+   "type": "library",
+   "city": "South Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hillside Free Public Library",
+   "type": "library",
+   "city": "Hillside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty Theatre",
+   "type": "arts_culture",
+   "city": "Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Super Suds Laundry Mat",
+   "type": "laundromat",
+   "city": "Irvington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plaza Laundromat",
+   "type": "laundromat",
+   "city": "Belleville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nutley Museum",
+   "type": "museum",
+   "city": "Nutley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tenth Muse Gallery",
+   "type": "arts_culture",
+   "city": "Maplewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Curate",
+   "type": "arts_culture",
+   "city": "Millburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eunice Laundromat",
+   "type": "laundromat",
+   "city": "Irvington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Work and Play",
+   "type": "coworking",
+   "city": "South Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Work and Play",
+   "type": "coworking",
+   "city": "South Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "C3 Workplace",
+   "type": "coworking",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Warehouse",
+   "type": "laundromat",
+   "city": "Rutherford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lamonaco Perry Memorial",
+   "type": "historic_site",
+   "city": "Roselle Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Melovino Meadery",
+   "type": "brewery_distillery",
+   "city": "Millburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "La Botega Dei Sapori",
+   "type": "farmers_market",
+   "city": "Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Four City Brewery",
+   "type": "brewery_distillery",
+   "city": "Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allwood Laundromat",
+   "type": "laundromat",
+   "city": "Nutley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montclair Public Library",
+   "type": "library",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Search And Rescue Dogs",
+   "type": "historic_site",
+   "city": "West Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Michael Leo Delahunty",
+   "type": "historic_site",
+   "city": "West Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oh! Canary",
+   "type": "arts_culture",
+   "city": "Verona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lackawanna Offices",
+   "type": "coworking",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Room",
+   "type": "laundromat",
+   "city": "Bloomfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The George Washington Tree",
+   "type": "historic_site",
+   "city": "Rutherford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's Library",
+   "type": "library",
+   "city": "Bloomfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fearless Girl Statue",
+   "type": "arts_culture",
+   "city": "Hillside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "One Man's Search",
+   "type": "arts_culture",
+   "city": "Hillside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Enough",
+   "type": "arts_culture",
+   "city": "Hillside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sonic Suds Laundromat of Elizabeth",
+   "type": "laundromat",
+   "city": "Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Splish Splash Laundromat",
+   "type": "laundromat",
+   "city": "Glen Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tony Memorial Bench",
+   "type": "historic_site",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bayway Laundromat",
+   "type": "laundromat",
+   "city": "Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Makola African Market Imports",
+   "type": "farmers_market",
+   "city": "Hillside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ArtXo Studios",
+   "type": "arts_culture",
+   "city": "Roselle Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sonic Suds",
+   "type": "laundromat",
+   "city": "Rutherford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LAUNDRY ZONE",
+   "type": "laundromat",
+   "city": "Irvington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Essex Laundromat",
+   "type": "laundromat",
+   "city": "Irvington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Laundromat",
+   "type": "laundromat",
+   "city": "Irvington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orange Public Library",
+   "type": "library",
+   "city": "Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "VanFossan Theater",
+   "type": "arts_culture",
+   "city": "Bloomfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fish",
+   "type": "arts_culture",
+   "city": "Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fish",
+   "type": "arts_culture",
+   "city": "Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Broadway Performing Arts",
+   "type": "arts_culture",
+   "city": "Glen Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Neighborhood Laundry",
+   "type": "laundromat",
+   "city": "Bloomfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roselle Public Library",
+   "type": "library",
+   "city": "Roselle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "More Montclair Mud Clay Studio",
+   "type": "arts_culture",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fresh Wash Laundromat",
+   "type": "laundromat",
+   "city": "Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ironbound Farm Market",
+   "type": "farmers_market",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keep Creating Art Wellness Center",
+   "type": "arts_culture",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montclair Flea",
+   "type": "farmers_market",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "RecRoom",
+   "type": "coworking",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center Stage Gallery",
+   "type": "arts_culture",
+   "city": "Glen Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wine & Design",
+   "type": "arts_culture",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eagle Rock Co",
+   "type": "coworking",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Small Officer",
+   "type": "coworking",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Classic Cleaners",
+   "type": "laundromat",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plaza Cleaners",
+   "type": "laundromat",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fine Art Academy of Montclair",
+   "type": "arts_culture",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reliable Cleaners",
+   "type": "laundromat",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watchung Plaza Cleaners",
+   "type": "laundromat",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio Montclair Leach Gallery",
+   "type": "arts_culture",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Regus",
+   "type": "coworking",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alvin Place Laundry",
+   "type": "laundromat",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pinot's Palette",
+   "type": "arts_culture",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DiRasa House of Diversified Arts",
+   "type": "arts_culture",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Orange Performing Arts Center",
+   "type": "arts_culture",
+   "city": "South Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Millburn Free Public Library",
+   "type": "library",
+   "city": "Millburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paper Mill Playhouse;Papermill Playhouse",
+   "type": "arts_culture",
+   "city": "Millburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burgdorf Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Maplewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kenilworth Public Library",
+   "type": "library",
+   "city": "Kenilworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roselle Park Veterans Memorial Library",
+   "type": "library",
+   "city": "Roselle Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wilkins Theatre",
+   "type": "arts_culture",
+   "city": "Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nancy Thompson Library",
+   "type": "library",
+   "city": "Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allwood Branch Library",
+   "type": "library",
+   "city": "Nutley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Verona Public Library",
+   "type": "library",
+   "city": "Verona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elizabeth Public Library - Main Library",
+   "type": "library",
+   "city": "Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elizabeth Public Library - E-Port Branch",
+   "type": "library",
+   "city": "Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elizabeth Public Library - Elmora Branch",
+   "type": "library",
+   "city": "Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montclair Art Museum",
+   "type": "museum",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arts Center - Carriage House",
+   "type": "arts_culture",
+   "city": "South Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theatre-in-the-Round",
+   "type": "arts_culture",
+   "city": "South Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vailsburg Branch Newark Public Library",
+   "type": "library",
+   "city": "Irvington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clinton Branch",
+   "type": "library",
+   "city": "Irvington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weequahic Branch Newark Public Library",
+   "type": "library",
+   "city": "Hillside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montclair Public Library - Bellevue Avenue Branch",
+   "type": "library",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio Playhouse",
+   "type": "arts_culture",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wellmont Theatre",
+   "type": "arts_culture",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Springfield Free Public Library",
+   "type": "library",
+   "city": "Springfield Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aquarium Laundromat",
+   "type": "laundromat",
+   "city": "East Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Orange Public Library",
+   "type": "library",
+   "city": "East Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Climax Brewing",
+   "type": "brewery_distillery",
+   "city": "Roselle Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Two Ton Brewing",
+   "type": "brewery_distillery",
+   "city": "Kenilworth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Theater",
+   "type": "arts_culture",
+   "city": "Rutherford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stone Mercedes 240D",
+   "type": "historic_site",
+   "city": "Roselle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montclair Brewery",
+   "type": "brewery_distillery",
+   "city": "Montclair",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ritz Theatre and Performing Arts Center, NJ",
+   "type": "arts_culture",
+   "city": "Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty Hall Museum",
+   "type": "museum",
+   "city": "Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jersey Explorer Children's Museum",
+   "type": "museum",
+   "city": "Bloomfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1978 Maplewood Arts Center",
+   "type": "museum",
+   "city": "Maplewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oskar Schindler Performing Arts Center",
+   "type": "arts_culture",
+   "city": "West Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bloomfield Public Library",
+   "type": "library",
+   "city": "Bloomfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Belcher Ogden Mansion",
+   "type": "museum",
+   "city": "Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ghost Hawk Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Rutherford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union Public Library",
+   "type": "library",
+   "city": "Union",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Durand Hedden House & Garden Association",
+   "type": "museum",
+   "city": "Maplewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nutley Public Library",
+   "type": "library",
+   "city": "Nutley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DIRTY LAUNDRY EXPRESS",
+   "type": "laundromat",
+   "city": "Irvington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Irvington Public Library",
+   "type": "library",
+   "city": "Irvington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Launderama Super Store",
+   "type": "laundromat",
+   "city": "Irvington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Depot",
+   "type": "laundromat",
+   "city": "Hillside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Laundromat of South Orange",
+   "type": "laundromat",
+   "city": "South Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vauxhall Branch Library of the Union Public Library",
+   "type": "library",
+   "city": "Maplewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dirty Laundry Express",
+   "type": "laundromat",
+   "city": "Bloomfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Orange Public Library",
+   "type": "library",
+   "city": "West Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pallet Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Maplewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Regent Theatre",
+   "type": "arts_culture",
+   "city": "Elizabeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Leaf Laundry",
+   "type": "laundromat",
+   "city": "Bloomfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dwight D Eisenhower Public Library",
+   "type": "library",
+   "city": "Totowa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oradell Free Public Library",
+   "type": "library",
+   "city": "Oradell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paramus Public Library",
+   "type": "library",
+   "city": "River Edge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Milford Public Library",
+   "type": "library",
+   "city": "River Edge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garfield Free Public Library",
+   "type": "library",
+   "city": "Garfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rochelle Park Public Library",
+   "type": "library",
+   "city": "Rochelle Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wood-Ridge Memorial Library",
+   "type": "library",
+   "city": "Wood-Ridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bergen Museum of Art and Science",
+   "type": "science_center",
+   "city": "Hackensack",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carlstadt Historic Firehouse Museum",
+   "type": "museum",
+   "city": "Carlstadt",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "School House Museum",
+   "type": "museum",
+   "city": "Ho-Ho-Kus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War I Centennial Memorial",
+   "type": "historic_site",
+   "city": "Ridgewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alexander Hamilton",
+   "type": "arts_culture",
+   "city": "Paterson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Free Public Library of Hasbrouck Heights",
+   "type": "library",
+   "city": "Hasbrouck Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Preakness Public Library",
+   "type": "library",
+   "city": "Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Milford Plant of the Hackensack Water Company",
+   "type": "historic_site",
+   "city": "Oradell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "L. Howard Fox Theater",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Caldwell Public Library",
+   "type": "library",
+   "city": "Caldwell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clifton 9-11 Memorial",
+   "type": "historic_site",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunrise Art Studio",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paterson 9-11 Memorial",
+   "type": "historic_site",
+   "city": "Paterson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Dublin Spring Water Boy",
+   "type": "arts_culture",
+   "city": "Paterson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garret Hobart",
+   "type": "arts_culture",
+   "city": "Paterson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nathan Barnert",
+   "type": "arts_culture",
+   "city": "Paterson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Andrew McBride",
+   "type": "arts_culture",
+   "city": "Paterson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Captain Eric M. Graupe",
+   "type": "historic_site",
+   "city": "Paterson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lou Costello Memorial",
+   "type": "historic_site",
+   "city": "Paterson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buccaneer",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Involved Student",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Triple Arc",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Primal Surge",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peace Offering",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Power Stick #5",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tug of War",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Venus and Adonis",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Resettlement",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Seeker",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Deep in Thought",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Something's Afoot",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sprite Habitat",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tribute to Dr. Jerome Raphael",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spring Flight",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Death of Venus",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Firemen's Monument",
+   "type": "historic_site",
+   "city": "Hasbrouck Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Honor the Brave",
+   "type": "arts_culture",
+   "city": "Paterson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elk Statue",
+   "type": "arts_culture",
+   "city": "Totowa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Hughes",
+   "type": "arts_culture",
+   "city": "Paterson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dean William McNulty",
+   "type": "arts_culture",
+   "city": "Paterson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dillon's Laundromat",
+   "type": "laundromat",
+   "city": "Pequannock Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Memorial Tank",
+   "type": "historic_site",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Victory Memorial",
+   "type": "historic_site",
+   "city": "Garfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Old Spooky House",
+   "type": "historic_site",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lafayette Memorial",
+   "type": "historic_site",
+   "city": "Hawthorne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "US Veteran Howard Reenstra Home Memorial",
+   "type": "historic_site",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Neil McCarthy Memorial Tennis Courts",
+   "type": "historic_site",
+   "city": "Hasbrouck Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Minit Mart Bus Stop",
+   "type": "historic_site",
+   "city": "Hasbrouck Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hasbrouck Heights Town Hall Clock",
+   "type": "historic_site",
+   "city": "Hasbrouck Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boro of Hasbrouck Heights Sign",
+   "type": "historic_site",
+   "city": "Hasbrouck Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Welcome to Hasbrouck Heights",
+   "type": "historic_site",
+   "city": "Hasbrouck Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wayne Laundry",
+   "type": "laundromat",
+   "city": "Lincoln Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Preakness Laundromat",
+   "type": "laundromat",
+   "city": "Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sluckup",
+   "type": "historic_site",
+   "city": "River Edge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waldwick 9/11 Memorial",
+   "type": "historic_site",
+   "city": "Waldwick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thy Bridge",
+   "type": "historic_site",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Morris Canal/Time Capsule",
+   "type": "historic_site",
+   "city": "Little Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colin McNeil",
+   "type": "historic_site",
+   "city": "Little Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Arthur Nigra/Arthur Henry Nigra",
+   "type": "historic_site",
+   "city": "Little Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James J. Nash",
+   "type": "historic_site",
+   "city": "Little Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Special Delivery",
+   "type": "arts_culture",
+   "city": "Ridgewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Serendipity Labs",
+   "type": "coworking",
+   "city": "Ridgewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas Kinkade",
+   "type": "arts_culture",
+   "city": "Paramus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Opus One",
+   "type": "arts_culture",
+   "city": "Ridgewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Olive R Twist Olive Oil Company",
+   "type": "farmers_market",
+   "city": "Ridgewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Caspian Market",
+   "type": "farmers_market",
+   "city": "Ridgewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Waldwick School Bell",
+   "type": "historic_site",
+   "city": "Waldwick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hasbrouck Heights Protector",
+   "type": "historic_site",
+   "city": "Hasbrouck Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Doctor's Island",
+   "type": "historic_site",
+   "city": "Pequannock Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bride and Bull sculpture",
+   "type": "arts_culture",
+   "city": "Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Suds Station Laundromat",
+   "type": "laundromat",
+   "city": "Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "silentsiren",
+   "type": "arts_culture",
+   "city": "Pequannock Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jet Office",
+   "type": "coworking",
+   "city": "Pequannock Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Infinite Scenic",
+   "type": "arts_culture",
+   "city": "Lincoln Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Launder-Quick",
+   "type": "laundromat",
+   "city": "Hawthorne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hawthorne Center Laundromat",
+   "type": "laundromat",
+   "city": "Hawthorne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Paterson University Galleries",
+   "type": "arts_culture",
+   "city": "Haledon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin Luther King Jr.",
+   "type": "historic_site",
+   "city": "Paterson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wayne Farmers Market",
+   "type": "farmers_market",
+   "city": "Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Smart",
+   "type": "laundromat",
+   "city": "Saddle Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vraj Fresh Farmers Market",
+   "type": "farmers_market",
+   "city": "Saddle Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Asturia Brewing",
+   "type": "brewery_distillery",
+   "city": "South Hackensack",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John F. Kennedy Memorial Library",
+   "type": "library",
+   "city": "Wallington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ridgewood Public Library",
+   "type": "library",
+   "city": "Ridgewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Cedar Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seven Tribesmen Brewery",
+   "type": "brewery_distillery",
+   "city": "Lincoln Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farms View Roadstand",
+   "type": "farmers_market",
+   "city": "Pequannock Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Ridgewood Art Institute",
+   "type": "arts_culture",
+   "city": "Ho-Ho-Kus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paterson Museum",
+   "type": "museum",
+   "city": "Paterson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wayne Public Library",
+   "type": "library",
+   "city": "Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Schuyler-Colfax House Historic House Museum",
+   "type": "museum",
+   "city": "Pequannock Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln School Library",
+   "type": "library",
+   "city": "Pequannock Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Power Art Center",
+   "type": "arts_culture",
+   "city": "Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shea Center for Performing Arts",
+   "type": "arts_culture",
+   "city": "Haledon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "David and Lorraine Cheng Library",
+   "type": "library",
+   "city": "Haledon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yogi Berra Museum & Learning Center",
+   "type": "museum",
+   "city": "Woodland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pequannock Township Public Library",
+   "type": "library",
+   "city": "Pequannock Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pequannock Township Museum",
+   "type": "museum",
+   "city": "Pequannock Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wayne Van Riper Hopper Musuem",
+   "type": "museum",
+   "city": "Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ben Shahn Center for the Visual Arts",
+   "type": "arts_culture",
+   "city": "North Haledon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Falls Public Library",
+   "type": "library",
+   "city": "Little Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodland Park Public Library",
+   "type": "library",
+   "city": "Woodland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weiner Library",
+   "type": "library",
+   "city": "Hackensack",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alexander Kasser Theater",
+   "type": "arts_culture",
+   "city": "Cedar Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sprague Library",
+   "type": "library",
+   "city": "Cedar Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Auditorium",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln Park Library",
+   "type": "library",
+   "city": "Lincoln Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Midland Park Memorial Library",
+   "type": "library",
+   "city": "Midland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Hamilton Club",
+   "type": "arts_culture",
+   "city": "Paterson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paterson Public Library - Totowa Branch",
+   "type": "library",
+   "city": "Paterson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paterson Public Library - First Ward Branch",
+   "type": "library",
+   "city": "Paterson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Danforth Memorial Public Library",
+   "type": "library",
+   "city": "Paterson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waldwick Public Library",
+   "type": "library",
+   "city": "Waldwick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Franklin Lakes Public Library",
+   "type": "library",
+   "city": "Franklin Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Passaic Public Library",
+   "type": "library",
+   "city": "Passaic",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walwick Museum of Local History",
+   "type": "museum",
+   "city": "Waldwick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clifton Arts Center",
+   "type": "arts_culture",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clifton Library - Main Branch",
+   "type": "library",
+   "city": "Garfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Worth-Pinkham Memorial Library",
+   "type": "library",
+   "city": "Ho-Ho-Kus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairfield Free Library",
+   "type": "library",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Alementary brewing Company",
+   "type": "brewery_distillery",
+   "city": "Maywood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paulison Promenade",
+   "type": "historic_site",
+   "city": "Clifton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Township of Washington Public Library",
+   "type": "library",
+   "city": "Township of Washington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Think Clean Laundromat",
+   "type": "laundromat",
+   "city": "Hasbrouck Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zanfino Plaza Amphitheatre",
+   "type": "arts_culture",
+   "city": "North Haledon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leader Residential Art Consulting",
+   "type": "arts_culture",
+   "city": "Wayne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maywood Station Museum",
+   "type": "museum",
+   "city": "Maywood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paramus Historic Museum",
+   "type": "museum",
+   "city": "Paramus",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Johnson Public Library",
+   "type": "library",
+   "city": "Hackensack",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic New Bridge Landing",
+   "type": "museum",
+   "city": "River Edge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hackensack Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Maywood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "M5 Light Tank",
+   "type": "historic_site",
+   "city": "Little Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maurice M Pine Free Public Library",
+   "type": "library",
+   "city": "Fair Lawn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWII Memorial",
+   "type": "historic_site",
+   "city": "Little Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Little Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Hermitage",
+   "type": "museum",
+   "city": "Waldwick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Erie Railroad Signal Tower, Waldwick Yard",
+   "type": "museum",
+   "city": "Waldwick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Oval",
+   "type": "arts_culture",
+   "city": "Waldwick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saddle Brook Free Public Library",
+   "type": "library",
+   "city": "Saddle Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Falls Fire Department",
+   "type": "historic_site",
+   "city": "Little Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cedar Grove Public Library",
+   "type": "library",
+   "city": "Cedar Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pietro and Maria Botto House;American Labor Museum",
+   "type": "museum",
+   "city": "Haledon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wyckoff Public Library",
+   "type": "library",
+   "city": "Wyckoff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glen Rock Public Library",
+   "type": "library",
+   "city": "Glen Rock",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cadmus House Historical Museum",
+   "type": "museum",
+   "city": "Fair Lawn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pompton Furnace",
+   "type": "historic_site",
+   "city": "Pequannock Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Passaic County Arts Center at the John W. Rea House",
+   "type": "arts_culture",
+   "city": "Hawthorne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louis Bay 2nd Public Library & Community Center",
+   "type": "library",
+   "city": "Hawthorne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint Mother Teresa",
+   "type": "arts_culture",
+   "city": "Lodi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hamilton House Museum",
+   "type": "museum",
+   "city": "Woodland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lady Lane",
+   "type": "historic_site",
+   "city": "Caldwell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aviation Hall of Fame and Museum of New Jersey",
+   "type": "museum",
+   "city": "South Hackensack",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Express Wash N Fold",
+   "type": "laundromat",
+   "city": "Bogota",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lodi Memorial Library",
+   "type": "library",
+   "city": "Lodi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garfield Police Monument",
+   "type": "historic_site",
+   "city": "Garfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Linden Free Public Library",
+   "type": "library",
+   "city": "Linden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "September 11th Memorial",
+   "type": "historic_site",
+   "city": "Mountainside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Town & Country Cleaners",
+   "type": "laundromat",
+   "city": "Cranford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westfield World War I Memorial",
+   "type": "historic_site",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westfield 9/11 Memorial",
+   "type": "historic_site",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Designers Gallery Fine Art & Custom Framing",
+   "type": "arts_culture",
+   "city": "Clark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Holocaust Memorial",
+   "type": "historic_site",
+   "city": "Cranford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yale Terrace Brewery",
+   "type": "brewery_distillery",
+   "city": "Cranford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "September 11 Memorial Monument",
+   "type": "historic_site",
+   "city": "Cranford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Avenue Arts",
+   "type": "arts_culture",
+   "city": "Garwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jumbo Wash",
+   "type": "laundromat",
+   "city": "Garwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art e Vino Studio",
+   "type": "arts_culture",
+   "city": "Cranford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pastosa Ravioli",
+   "type": "farmers_market",
+   "city": "Cranford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benvenuti",
+   "type": "farmers_market",
+   "city": "Garwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westfield Vietnam War Memorial",
+   "type": "historic_site",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "911 Memorial",
+   "type": "historic_site",
+   "city": "Carteret",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Plus",
+   "type": "laundromat",
+   "city": "Carteret",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library",
+   "type": "library",
+   "city": "Cranford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library",
+   "type": "library",
+   "city": "Garwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library",
+   "type": "library",
+   "city": "Garwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library",
+   "type": "library",
+   "city": "Garwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library",
+   "type": "library",
+   "city": "Garwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library",
+   "type": "library",
+   "city": "Clark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garwood War Memorial",
+   "type": "historic_site",
+   "city": "Garwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library",
+   "type": "library",
+   "city": "Cranford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library",
+   "type": "library",
+   "city": "Cranford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library",
+   "type": "library",
+   "city": "Cranford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library",
+   "type": "library",
+   "city": "Clark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Terry DiFalco Tiny Library",
+   "type": "library",
+   "city": "Garwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library",
+   "type": "library",
+   "city": "Cranford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library",
+   "type": "library",
+   "city": "Garwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Linden Care Box",
+   "type": "library",
+   "city": "Winfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library",
+   "type": "library",
+   "city": "Garwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sharing Library",
+   "type": "library",
+   "city": "Garwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library",
+   "type": "library",
+   "city": "Garwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garwood Borough Public Library",
+   "type": "library",
+   "city": "Garwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War I Memorial Monument",
+   "type": "historic_site",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cranford Public Library",
+   "type": "library",
+   "city": "Cranford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cranford Dramatic Club Theater",
+   "type": "arts_culture",
+   "city": "Cranford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodbridge Public Library",
+   "type": "library",
+   "city": "Port Reading",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountainside Public Library",
+   "type": "library",
+   "city": "Mountainside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carteret Public Library",
+   "type": "library",
+   "city": "Carteret",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodbridge Public Library - Henry Inman Branch",
+   "type": "library",
+   "city": "Clark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rahway Public Library",
+   "type": "library",
+   "city": "Rahway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miller-Cory House Museum",
+   "type": "museum",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westfield Memorial Library",
+   "type": "library",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ashwood Laundromat",
+   "type": "laundromat",
+   "city": "Springfield Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clark Public Library",
+   "type": "library",
+   "city": "Clark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westfield Farm",
+   "type": "farmers_market",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lions Roar Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dryer's",
+   "type": "farmers_market",
+   "city": "Cranford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barron Arts Center",
+   "type": "arts_culture",
+   "city": "Port Reading",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union County Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Rahway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carteret Lighthouse",
+   "type": "arts_culture",
+   "city": "Carteret",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wine and Design",
+   "type": "brewery_distillery",
+   "city": "Rahway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Deacon Andrew Hetfield House",
+   "type": "museum",
+   "city": "Mountainside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crane-Phillips House",
+   "type": "museum",
+   "city": "Cranford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barnegat Bay Maritime Museum",
+   "type": "museum",
+   "city": "Toms River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bayville Library",
+   "type": "library",
+   "city": "Berkeley Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scrubs Laundromat",
+   "type": "laundromat",
+   "city": "Toms River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wizard Of Wash Laundromat",
+   "type": "laundromat",
+   "city": "Toms River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Welcome to Ocean County",
+   "type": "arts_culture",
+   "city": "Toms River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beachwood Branch Library",
+   "type": "library",
+   "city": "Beachwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garden State Distillery",
+   "type": "brewery_distillery",
+   "city": "Toms River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Time",
+   "type": "laundromat",
+   "city": "Ocean Gate",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SUDS Your DUDS",
+   "type": "laundromat",
+   "city": "Island Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ocean County Library",
+   "type": "library",
+   "city": "Toms River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grunin Art Center (GRUN)",
+   "type": "arts_culture",
+   "city": "Toms River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Library (LIBR)",
+   "type": "library",
+   "city": "Toms River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert J. Novins Planetarium (PLAN)",
+   "type": "planetarium",
+   "city": "Toms River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jerry's Farm Market",
+   "type": "farmers_market",
+   "city": "Seaside Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ace Laundromat",
+   "type": "laundromat",
+   "city": "Seaside Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Best Laundramat",
+   "type": "laundromat",
+   "city": "Lavallette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ocean County Library - Upper Shores / Lavallette Branch",
+   "type": "library",
+   "city": "Lavallette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Insectropolis",
+   "type": "museum",
+   "city": "Toms River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Toms River Brewery",
+   "type": "brewery_distillery",
+   "city": "Lakehurst",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battle River Brewing",
+   "type": "brewery_distillery",
+   "city": "Toms River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lakehurst Historical Society",
+   "type": "museum",
+   "city": "Lakehurst",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Del's Farm Market",
+   "type": "farmers_market",
+   "city": "Island Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ocean County Library Lacey Branch",
+   "type": "library",
+   "city": "Forked River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forked River Schoolhouse Museum",
+   "type": "museum",
+   "city": "Forked River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lacey Historical Society",
+   "type": "museum",
+   "city": "Forked River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ocean County Library - Manchester Branch",
+   "type": "library",
+   "city": "Lakehurst",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John F. Peto Studio Museum",
+   "type": "museum",
+   "city": "Island Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Toms River Seaport Society",
+   "type": "museum",
+   "city": "Toms River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ocean County Artists’ Guild",
+   "type": "arts_culture",
+   "city": "Island Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ocean County Historical Society",
+   "type": "museum",
+   "city": "Toms River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maria Ressa Auditorium",
+   "type": "arts_culture",
+   "city": "Toms River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mariner Media Center",
+   "type": "library",
+   "city": "Toms River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "R Berel Leifer's Shul",
+   "type": "historic_site",
+   "city": "Lakewood Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Icarus Brewing",
+   "type": "brewery_distillery",
+   "city": "Brick Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bubble Factory",
+   "type": "laundromat",
+   "city": "Lakewood Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Vineyard",
+   "type": "brewery_distillery",
+   "city": "Lakewood Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Doodle Farm",
+   "type": "farmers_market",
+   "city": "Howell Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hindenburg Disaster Memorial",
+   "type": "historic_site",
+   "city": "Lakehurst",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Angel in Anguish-9/11 Monument",
+   "type": "historic_site",
+   "city": "Brick Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brick Branch: Ocean County Library",
+   "type": "library",
+   "city": "Brick Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Point Pleasant Borough Public Library",
+   "type": "library",
+   "city": "Point Pleasant",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sister Mary Joseph Cunningham Library",
+   "type": "library",
+   "city": "Lakewood Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Strand Theater",
+   "type": "arts_culture",
+   "city": "Lakewood Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allaire Village",
+   "type": "historic_downtown",
+   "city": "Farmingdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brick Township Historical Society",
+   "type": "museum",
+   "city": "Point Pleasant",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The New Jersey Museum of Transportation",
+   "type": "museum",
+   "city": "Farmingdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mackenzie Museum & Library",
+   "type": "museum",
+   "city": "Farmingdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lakewood Historical Museum",
+   "type": "museum",
+   "city": "Lakewood Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arthur Brisbane Child Treatment Center",
+   "type": "historic_site",
+   "city": "Farmingdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monmouth County Library - Howell Branch",
+   "type": "library",
+   "city": "Farmingdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ocean County Library Jackson Branch",
+   "type": "library",
+   "city": "Lakehurst",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ellarslie",
+   "type": "museum",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Don Evan's Black Box Theater",
+   "type": "arts_culture",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washington Crossing the Delaware",
+   "type": "historic_site",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trenton Battle Monument",
+   "type": "historic_site",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pennington Public Library",
+   "type": "library",
+   "city": "Pennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial",
+   "type": "historic_site",
+   "city": "Lawrence Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washington Crossing Open Air Theater",
+   "type": "arts_culture",
+   "city": "Pennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Building Up",
+   "type": "arts_culture",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SOLARIAN",
+   "type": "arts_culture",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NJDOT",
+   "type": "historic_site",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherry Grove Farm Store Cheese Wedge Sign",
+   "type": "arts_culture",
+   "city": "Lawrence Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Space, Conquer or Die - Swiatowid",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confrontational Vulnerability",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Awakening",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Daydream",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ba'al with Cat",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Asa with Dog",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Flower",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arch II",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garden State",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memory",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Z-DNA",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Space of Stone",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Albedo",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled (Steelroots)",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Three Indeterminate Lines",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "95.5 ̊ Arc x 11 (Horizontal Arcs)",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centaur",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crossing Paths",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arcs in Disorder: 4 Arcs x 5",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bull #5",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bull #4",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "God Bless America",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sumerian Figures #14 & #23",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Depression Breadline",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Nine Muses",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dorion",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Damascus Gate",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lydia-Mary",
+   "type": "arts_culture",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Golden Spiral",
+   "type": "arts_culture",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Sarnoff Collection",
+   "type": "museum",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TCNJ Topiary",
+   "type": "arts_culture",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "422 Max Laundry",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J.J. Laundromat",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roebling Market Laundromat",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trenton Punk Rock Flea Market",
+   "type": "farmers_market",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty II Laundromat",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sammy Soap Suds",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Zone",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berkeley Square Historic District",
+   "type": "historic_downtown",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Our Neighborhood Laundry",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Swamp Angel",
+   "type": "historic_site",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ewing Laundromat",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Suds Brothers",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Billy's Clean-Up",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kings Laundromat",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "615 Max Laundry",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Stop",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McKithen Produce",
+   "type": "farmers_market",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meredith Havens Fire Museum",
+   "type": "museum",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "State Laundromat",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cleveland Laundromat",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White & Blue Laundromat",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty Laundromat",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "R&R Laundromat",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fiallo's Produce Store",
+   "type": "farmers_market",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mercer County Soldiers’ and Sailors’ Monument",
+   "type": "historic_site",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John A. Roebling",
+   "type": "historic_site",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wishie Washie Coin Op",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Foxmoor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hollowbrook Branch",
+   "type": "library",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Rogers House",
+   "type": "historic_site",
+   "city": "Foxmoor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spin Doctor Laundromat",
+   "type": "laundromat",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Talbott Music Library",
+   "type": "library",
+   "city": "Lawrence Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washington and His Army Crossed the Delaware",
+   "type": "historic_site",
+   "city": "Pennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam Veterans Memorial",
+   "type": "historic_site",
+   "city": "Foxmoor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bordentown Laundromat",
+   "type": "laundromat",
+   "city": "Bordentown Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tindall Road Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Bordentown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trenton Ferry",
+   "type": "historic_site",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Druery Brewery",
+   "type": "brewery_distillery",
+   "city": "Lawrence Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abyssal Brewing",
+   "type": "brewery_distillery",
+   "city": "Bordentown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Subzi Mandi Farmer's Market",
+   "type": "farmers_market",
+   "city": "Lawrence Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TCNJ Library",
+   "type": "library",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum Building",
+   "type": "museum",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kelsey Theatre (TH)",
+   "type": "arts_culture",
+   "city": "Foxmoor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Library (LB)",
+   "type": "library",
+   "city": "Foxmoor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ewing Branch",
+   "type": "library",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hopewell Branch",
+   "type": "library",
+   "city": "Pennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meckler Library",
+   "type": "library",
+   "city": "Pennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Franklin F. Moore Library",
+   "type": "library",
+   "city": "Lawrence Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trenton City Museum/ Ellarslie Museum",
+   "type": "museum",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Warf",
+   "type": "historic_site",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mill Hill Playhouse",
+   "type": "arts_culture",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Auditorium",
+   "type": "arts_culture",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Jersey State Museum",
+   "type": "museum",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Jersey State Planetarium",
+   "type": "planetarium",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Jersey State Library",
+   "type": "library",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Barracks Museum",
+   "type": "museum",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trenton World War II Memorial",
+   "type": "historic_site",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Patriots Theater at the War Memorial",
+   "type": "arts_culture",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Mary's of the Assumption Church Auditorium Gymnasium",
+   "type": "arts_culture",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trenton Free Public Library",
+   "type": "library",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty III Laundromat",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robbinsville Branch",
+   "type": "library",
+   "city": "Robbinsville Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1867 Sanctuary at Ewing",
+   "type": "arts_culture",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lawrence Headquarters Branch",
+   "type": "library",
+   "city": "Lawrence Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Abbot II House",
+   "type": "museum",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The New Jersey State Library Talking Book & Braille Center (TBBC)",
+   "type": "library",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jacobi Provisions Center",
+   "type": "farmers_market",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Trent House",
+   "type": "museum",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hamilton Township Public Library",
+   "type": "library",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pure Laundry Services",
+   "type": "laundromat",
+   "city": "Ewing Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry World",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War & Native American Museum",
+   "type": "museum",
+   "city": "Hamilton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crosswicks Library",
+   "type": "library",
+   "city": "Bordentown Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chesterfield Historical Society",
+   "type": "museum",
+   "city": "Bordentown Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Artful Deposit",
+   "type": "arts_culture",
+   "city": "Bordentown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Hill Mansion",
+   "type": "museum",
+   "city": "Fieldsboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chambersburg Laundromat",
+   "type": "laundromat",
+   "city": "Trenton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bordentown Branch Library",
+   "type": "library",
+   "city": "Bordentown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Florence Township Public Library",
+   "type": "library",
+   "city": "Roebling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spot Free",
+   "type": "laundromat",
+   "city": "Little Ferry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Snow",
+   "type": "laundromat",
+   "city": "Ridgefield Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Neighborhood Laundry",
+   "type": "laundromat",
+   "city": "West Caldwell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roseland Free Public Library",
+   "type": "library",
+   "city": "Roseland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Ferry Free Public Library",
+   "type": "library",
+   "city": "Little Ferry",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ridgefield Park Public Library",
+   "type": "library",
+   "city": "Ridgefield Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin's Cleaners",
+   "type": "laundromat",
+   "city": "Collingswood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haddon Heights Public Library",
+   "type": "library",
+   "city": "Haddon Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paul's Trophy",
+   "type": "farmers_market",
+   "city": "Barrington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greenfield Hall",
+   "type": "museum",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haddonfield Plays and Players",
+   "type": "arts_culture",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Animo Juice Bar and Burrito Bar",
+   "type": "farmers_market",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Everarts Gallery",
+   "type": "farmers_market",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haddonfield Vision",
+   "type": "farmers_market",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dhyana Yoga",
+   "type": "farmers_market",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hadrosaurus (Haddy Dinosaur Statue)",
+   "type": "historic_site",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haddonfield Running Company",
+   "type": "farmers_market",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seredipity",
+   "type": "farmers_market",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Accent Studio Art & Framing",
+   "type": "farmers_market",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Law Offices John A. Bruno Jr. CPA",
+   "type": "farmers_market",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Run Club",
+   "type": "farmers_market",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rising Sun",
+   "type": "farmers_market",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cara Velli's Barber Shop",
+   "type": "farmers_market",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kings Guard Cleaners & Tailors",
+   "type": "farmers_market",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Welcome to Historic Haddonfield",
+   "type": "historic_site",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pennsauken Memorial Park",
+   "type": "historic_site",
+   "city": "Pennsauken Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cleaning Village Laundromat",
+   "type": "laundromat",
+   "city": "Pennsauken Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty Laundry",
+   "type": "laundromat",
+   "city": "Merchantville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fresh for All: Camden",
+   "type": "farmers_market",
+   "city": "Merchantville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "3D Theater",
+   "type": "arts_culture",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS New Jersey Propeller",
+   "type": "historic_site",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War Two Memorial",
+   "type": "historic_site",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haddon Farmer's Market",
+   "type": "farmers_market",
+   "city": "Haddon Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J&K Hi-tech Laundromat",
+   "type": "laundromat",
+   "city": "Haddon Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stedman Gallery",
+   "type": "museum",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walter K Gordon Theater",
+   "type": "arts_culture",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yorkship Laundromatt",
+   "type": "laundromat",
+   "city": "Haddon Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peace",
+   "type": "arts_culture",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Caribe Laundromat",
+   "type": "laundromat",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "People's Drycleaners",
+   "type": "laundromat",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westfield Laundromat",
+   "type": "laundromat",
+   "city": "Merchantville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hing's Laundromat",
+   "type": "laundromat",
+   "city": "Merchantville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Soldier's Monument",
+   "type": "historic_site",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Medal of Honor Memorial",
+   "type": "historic_site",
+   "city": "Audubon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hippie Cow",
+   "type": "arts_culture",
+   "city": "Merchantville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lady of the Park",
+   "type": "arts_culture",
+   "city": "Gloucester City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cooper Plaza Laundromat",
+   "type": "laundromat",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marrero Self-Service Laundromat",
+   "type": "laundromat",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II Memorial",
+   "type": "historic_site",
+   "city": "Haddon Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunday Morning",
+   "type": "arts_culture",
+   "city": "Cherry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Totem",
+   "type": "arts_culture",
+   "city": "Cherry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Inspired by Valerie Porter",
+   "type": "arts_culture",
+   "city": "Cherry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Mercer",
+   "type": "historic_site",
+   "city": "National Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "September 11th Memorial",
+   "type": "historic_site",
+   "city": "Pennsauken Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camden County Library System Merchantville Branch",
+   "type": "library",
+   "city": "Pennsauken Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burlington County Library System Maple Shade Branch",
+   "type": "library",
+   "city": "Maple Shade",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Landing site of first manned flight in Western Hemisphere",
+   "type": "historic_site",
+   "city": "Runnemede",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Audubon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Raccoon Taproom",
+   "type": "brewery_distillery",
+   "city": "Collingswood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peter Pan",
+   "type": "arts_culture",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Apatosaurus",
+   "type": "arts_culture",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hadrosaur",
+   "type": "arts_culture",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Merchant Marine Memorial",
+   "type": "historic_site",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial Park",
+   "type": "historic_site",
+   "city": "Merchantville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II Memorial",
+   "type": "historic_site",
+   "city": "Merchantville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McFarlan's Market",
+   "type": "farmers_market",
+   "city": "Collingswood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint Mary",
+   "type": "arts_culture",
+   "city": "Bellmawr",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint Joseph",
+   "type": "arts_culture",
+   "city": "Bellmawr",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "King’s Road Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jose Rizal: 1861–1896",
+   "type": "historic_site",
+   "city": "Collingswood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flowers Library & Media Center",
+   "type": "library",
+   "city": "Brooklawn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Collingswood Farmers' Market",
+   "type": "farmers_market",
+   "city": "Collingswood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bonesaw Brewing Deptford Pilot House",
+   "type": "brewery_distillery",
+   "city": "Runnemede",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ernest A Ford Art Studios",
+   "type": "arts_culture",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Activate",
+   "type": "arts_culture",
+   "city": "Cherry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walt Whitman Cultural Arts Centre",
+   "type": "arts_culture",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paul Robeson Library",
+   "type": "library",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rutgers Law School Complex",
+   "type": "library",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freedom Mortgage Pavilion",
+   "type": "arts_culture",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherry Hill Public Library",
+   "type": "library",
+   "city": "Cherry Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carnegie Library",
+   "type": "historic_site",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Federal Laundromat",
+   "type": "laundromat",
+   "city": "Merchantville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash&Dry Laundromat",
+   "type": "laundromat",
+   "city": "Merchantville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The James & Ann Whitall House",
+   "type": "museum",
+   "city": "National Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Bank Battle Monument",
+   "type": "historic_site",
+   "city": "National Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Deptford Library",
+   "type": "library",
+   "city": "National Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Village Laundromat",
+   "type": "laundromat",
+   "city": "Merchantville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camden Free Public Library",
+   "type": "library",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battleship New Jersey Museum",
+   "type": "museum",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Deptford Little Theater",
+   "type": "arts_culture",
+   "city": "National Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camden Shipyard & Maritime Museum",
+   "type": "museum",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walt Whitman House",
+   "type": "museum",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camden County Historical Society",
+   "type": "museum",
+   "city": "Collingswood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nardi Theater",
+   "type": "arts_culture",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Camden Laundromat",
+   "type": "laundromat",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "S & T Laundromat",
+   "type": "laundromat",
+   "city": "Merchantville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Camden Theater Company",
+   "type": "arts_culture",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ferry Avenue Branch Library",
+   "type": "library",
+   "city": "Haddon Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haddonfield Public Library",
+   "type": "library",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William G. Rohrer Public Library",
+   "type": "library",
+   "city": "Audubon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barclay Farm Homestead Museum",
+   "type": "museum",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indian King Tavern Museum",
+   "type": "museum",
+   "city": "Haddonfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maple Shade Laundromat",
+   "type": "laundromat",
+   "city": "Maple Shade",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Audubon Public Library",
+   "type": "library",
+   "city": "Audubon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Magnolia Train Station",
+   "type": "museum",
+   "city": "Magnolia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pennsauken Public Library",
+   "type": "library",
+   "city": "Pennsauken Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Double Nickel Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Palmyra",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairview Historic Society",
+   "type": "museum",
+   "city": "Gloucester City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "G.A.G. Laundromat",
+   "type": "laundromat",
+   "city": "Collingswood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scottish Rite Auditorium",
+   "type": "arts_culture",
+   "city": "Collingswood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tonewood Brewing",
+   "type": "brewery_distillery",
+   "city": "Oaklyn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Collingswood Public Library",
+   "type": "library",
+   "city": "Collingswood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meadowbrook Farmers Market",
+   "type": "farmers_market",
+   "city": "Pennsauken Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meadowbrook Market",
+   "type": "farmers_market",
+   "city": "Pennsauken Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wiggins Riverfront Stage",
+   "type": "arts_culture",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Severino",
+   "type": "farmers_market",
+   "city": "Collingswood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheatre",
+   "type": "arts_culture",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eclipse Brewing",
+   "type": "brewery_distillery",
+   "city": "Pennsauken Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eight & Sand Beer Co.",
+   "type": "brewery_distillery",
+   "city": "Woodbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gloucester County Historical Society Museum",
+   "type": "museum",
+   "city": "Woodbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum Of American History at Deptford",
+   "type": "museum",
+   "city": "Westville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Striped Lion Distilling",
+   "type": "brewery_distillery",
+   "city": "Woodbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lucas Laundry",
+   "type": "laundromat",
+   "city": "Runnemede",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anthony P. Infanti Bellmawr Branch",
+   "type": "library",
+   "city": "Bellmawr",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grab 'N' Go Food Mart",
+   "type": "farmers_market",
+   "city": "Bellmawr",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cinnaminson Public Library",
+   "type": "library",
+   "city": "Cinnaminson Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Galerie Marie",
+   "type": "arts_culture",
+   "city": "Collingswood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jose P. Rizal Monument",
+   "type": "historic_site",
+   "city": "Collingswood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bataan Death March Memorial",
+   "type": "historic_site",
+   "city": "Collingswood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Victims of Terrorism Memorial",
+   "type": "historic_site",
+   "city": "Collingswood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palmyra War Memorial",
+   "type": "historic_site",
+   "city": "Palmyra",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wash Line",
+   "type": "laundromat",
+   "city": "Palmyra",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverton Free Library",
+   "type": "library",
+   "city": "Riverton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William and Joseph Cooper's House",
+   "type": "historic_site",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Christopher Greene Monument",
+   "type": "historic_site",
+   "city": "National Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camden FireWorks",
+   "type": "arts_culture",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nick Virgilio Writers House",
+   "type": "arts_culture",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nick Virgilio Haiku Association",
+   "type": "arts_culture",
+   "city": "Camden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moorestown Library",
+   "type": "library",
+   "city": "Moorestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Marlton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library",
+   "type": "library",
+   "city": "Marlton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AR Workshop",
+   "type": "arts_culture",
+   "city": "Moorestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "RCBC Student Library",
+   "type": "library",
+   "city": "Mount Laurel",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Diligence",
+   "type": "arts_culture",
+   "city": "Moorestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mount Laurel Library",
+   "type": "library",
+   "city": "Moorestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camden County Library, M Allan Vogelson Branch",
+   "type": "library",
+   "city": "Somerdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flying Fish Brewery",
+   "type": "brewery_distillery",
+   "city": "Somerdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nutrishop",
+   "type": "farmers_market",
+   "city": "Moorestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Moorestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Springdale Farms",
+   "type": "farmers_market",
+   "city": "Marlton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Produce Junction",
+   "type": "farmers_market",
+   "city": "Marlton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flying Feather Farm",
+   "type": "farmers_market",
+   "city": "Moorestown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stratford Library",
+   "type": "library",
+   "city": "Stratford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "September 11 Memorial",
+   "type": "historic_site",
+   "city": "Palisades Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pal Park Art Center",
+   "type": "arts_culture",
+   "city": "Palisades Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MGM Cleaners",
+   "type": "laundromat",
+   "city": "Palisades Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "mosque Cami",
+   "type": "library",
+   "city": "Cliffside Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Teaneck Library",
+   "type": "library",
+   "city": "Teaneck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Warehouse",
+   "type": "laundromat",
+   "city": "Cliffside Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anka Painting Co., Inc",
+   "type": "arts_culture",
+   "city": "Palisades Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leonia Laundromat",
+   "type": "laundromat",
+   "city": "Leonia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palisades Park Library",
+   "type": "library",
+   "city": "Palisades Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leonia Public Library",
+   "type": "library",
+   "city": "Leonia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bergen County 911 Monument",
+   "type": "historic_site",
+   "city": "Leonia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Drill Hall",
+   "type": "arts_culture",
+   "city": "Palisades Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forest Firefighter Memorial",
+   "type": "historic_site",
+   "city": "Bass River Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Interpretive Center",
+   "type": "museum",
+   "city": "Bass River Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shower House",
+   "type": "shower",
+   "city": "Hardwick Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Shower House",
+   "type": "shower",
+   "city": "Hardwick Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historical Preservation Society",
+   "type": "museum",
+   "city": "Corbin City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Edison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio Theater",
+   "type": "arts_culture",
+   "city": "Edison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rising",
+   "type": "arts_culture",
+   "city": "Edison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cypress Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Edison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Professional Dry Cleaners & Coin Laundry",
+   "type": "laundromat",
+   "city": "South River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Diffin Park",
+   "type": "historic_site",
+   "city": "Sayreville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Those who fought for Freedom and Independence of Byelorussia",
+   "type": "historic_site",
+   "city": "South River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brick Water Tower",
+   "type": "historic_site",
+   "city": "Sayreville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reading Room",
+   "type": "historic_site",
+   "city": "Sayreville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sayreville United Methodist Chruch",
+   "type": "historic_site",
+   "city": "Sayreville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First School Bell",
+   "type": "historic_site",
+   "city": "Sayreville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Middlesex County College Library",
+   "type": "library",
+   "city": "Edison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sayreville Public Library",
+   "type": "library",
+   "city": "Sayreville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South River Public Library",
+   "type": "library",
+   "city": "South River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sayreville Main Street Theater Company",
+   "type": "arts_culture",
+   "city": "Sayreville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Firefighter Memorial",
+   "type": "historic_site",
+   "city": "Sayreville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sayreville Historical Society",
+   "type": "museum",
+   "city": "Sayreville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monsignor Dalton Hall",
+   "type": "arts_culture",
+   "city": "Sayreville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Brunswick Museum",
+   "type": "museum",
+   "city": "South River",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mt Olive 9/11 Memorial",
+   "type": "historic_site",
+   "city": "Budd Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warrior Obelisk",
+   "type": "historic_site",
+   "city": "Budd Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pentagon Platform",
+   "type": "historic_site",
+   "city": "Budd Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spiritual Cenotaph",
+   "type": "historic_site",
+   "city": "Budd Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Star Seating",
+   "type": "historic_site",
+   "city": "Budd Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "All Veterans Memorial",
+   "type": "historic_site",
+   "city": "Budd Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Dog Memorial",
+   "type": "historic_site",
+   "city": "Budd Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Horse Memorial",
+   "type": "historic_site",
+   "city": "Budd Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palace Theatre",
+   "type": "arts_culture",
+   "city": "Netcong",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sussex County Library - Louise Childs Branch",
+   "type": "library",
+   "city": "Port Morris",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial Monument",
+   "type": "historic_site",
+   "city": "Port Morris",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plaster Mill",
+   "type": "historic_site",
+   "city": "Stanhope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Market Place",
+   "type": "farmers_market",
+   "city": "Netcong",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Budd Lake Laundromat",
+   "type": "laundromat",
+   "city": "Budd Lake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Layton, New Jersey",
+   "type": "historic_site",
+   "city": "Layton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlantic County Library - Mays Landing Branch",
+   "type": "library",
+   "city": "Mays Landing",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Spangler Library",
+   "type": "library",
+   "city": "Mays Landing",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hamilton Historical Library & Museum",
+   "type": "museum",
+   "city": "Mays Landing",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DeFeo's Farm & Garden",
+   "type": "farmers_market",
+   "city": "Mays Landing",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bound Brook Memorial Library",
+   "type": "library",
+   "city": "South Bound Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harvest Moon Brewery and Cafe",
+   "type": "brewery_distillery",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abraham Lincoln",
+   "type": "historic_site",
+   "city": "Middlesex",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Highland Park Laundry and Dry Cleaning",
+   "type": "laundromat",
+   "city": "Highland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Split and Twisted",
+   "type": "arts_culture",
+   "city": "Piscataway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stress Factory Comedy Club",
+   "type": "arts_culture",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rutgers Geology Museum",
+   "type": "museum",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walking Man",
+   "type": "arts_culture",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "In Side Out",
+   "type": "arts_culture",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II Memorial",
+   "type": "historic_site",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam War Memorial",
+   "type": "historic_site",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William the Silent",
+   "type": "arts_culture",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mason Gross Memorial",
+   "type": "historic_site",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Tuning Fork Oracle",
+   "type": "arts_culture",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Calligraph KC III",
+   "type": "arts_culture",
+   "city": "Highland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Education Is an Open Book",
+   "type": "arts_culture",
+   "city": "Highland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Don Quixote with a Flower",
+   "type": "arts_culture",
+   "city": "Highland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zhu's Helper",
+   "type": "arts_culture",
+   "city": "Highland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Finding a Way in This World",
+   "type": "arts_culture",
+   "city": "Highland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chichen Itza Blue",
+   "type": "arts_culture",
+   "city": "Piscataway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reflections",
+   "type": "arts_culture",
+   "city": "Piscataway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Signal",
+   "type": "arts_culture",
+   "city": "Piscataway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Life Forms",
+   "type": "arts_culture",
+   "city": "Piscataway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quaternion I",
+   "type": "arts_culture",
+   "city": "Piscataway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint Peter the Apostle R.C. Church",
+   "type": "historic_site",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "JuiceTank",
+   "type": "coworking",
+   "city": "South Bound Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veteran's War Memorial",
+   "type": "historic_site",
+   "city": "South Bound Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battle of Bound Brook Monument",
+   "type": "historic_site",
+   "city": "South Bound Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans War Memorial",
+   "type": "historic_site",
+   "city": "Middlesex",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Stone Arch Bridge",
+   "type": "historic_site",
+   "city": "South Bound Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Memorial",
+   "type": "historic_site",
+   "city": "South Bound Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Cannon 02",
+   "type": "historic_site",
+   "city": "South Bound Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Cannon",
+   "type": "historic_site",
+   "city": "South Bound Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colonel John Neilson",
+   "type": "historic_site",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Klean Bubbles Launomat",
+   "type": "laundromat",
+   "city": "South Bound Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hamilton Street Gallery",
+   "type": "arts_culture",
+   "city": "South Bound Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bound Brook Laundromat",
+   "type": "laundromat",
+   "city": "South Bound Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundromat Center",
+   "type": "laundromat",
+   "city": "South Bound Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University Laundromat",
+   "type": "laundromat",
+   "city": "Highland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Highland Park Doughboy",
+   "type": "historic_site",
+   "city": "Highland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jersey Cyclone Brewing Company",
+   "type": "brewery_distillery",
+   "city": "South Bound Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spin & Grin Laundromat",
+   "type": "laundromat",
+   "city": "Highland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gray Terrace",
+   "type": "historic_site",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gardner A Sage Library",
+   "type": "library",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Archibald S. Alexander Library",
+   "type": "library",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Dickson Carr Library",
+   "type": "library",
+   "city": "Highland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zimmerli Art Museum",
+   "type": "museum",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westergard Branch",
+   "type": "library",
+   "city": "Piscataway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Piscataway John F. Kennedy Memorial Library",
+   "type": "library",
+   "city": "Piscataway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dunellen Public Library",
+   "type": "library",
+   "city": "Dunellen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edison Public Library - Main Library",
+   "type": "library",
+   "city": "Highland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "State Theatre New Jersey",
+   "type": "arts_culture",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Middlesex Public Library",
+   "type": "library",
+   "city": "Middlesex",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Demented Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Middlesex",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Brunswick Free Public Library",
+   "type": "library",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Brunswick Performing Arts Center",
+   "type": "arts_culture",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joyce Kilmer House",
+   "type": "museum",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Highland Park Public Library",
+   "type": "library",
+   "city": "Highland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Plainfield Public Library",
+   "type": "library",
+   "city": "South Plainfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial",
+   "type": "historic_site",
+   "city": "Dunellen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ray's Lava-Matic",
+   "type": "laundromat",
+   "city": "Dunellen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brook Arts Center",
+   "type": "arts_culture",
+   "city": "South Bound Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abraham Staats House",
+   "type": "museum",
+   "city": "South Bound Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Metlar-Bodine House Museum",
+   "type": "museum",
+   "city": "New Brunswick",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flea Market",
+   "type": "farmers_market",
+   "city": "Dunellen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Highland Park Farmer's Market",
+   "type": "farmers_market",
+   "city": "Highland Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Denville Laundry",
+   "type": "laundromat",
+   "city": "Denville Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Slag Pile",
+   "type": "historic_site",
+   "city": "Hibernia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Splitrock Furnace",
+   "type": "historic_site",
+   "city": "Lake Telemark",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Susan Skovronek",
+   "type": "historic_site",
+   "city": "Mountain Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elephant Rock",
+   "type": "historic_site",
+   "city": "Mountain Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Denville's Beacon",
+   "type": "historic_site",
+   "city": "Denville Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmers Market Denville",
+   "type": "farmers_market",
+   "city": "Denville Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Diamond Spring Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Denville Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Denville Public Library",
+   "type": "library",
+   "city": "Denville Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Denville's History Musuem",
+   "type": "museum",
+   "city": "Denville Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mount Tabor Library",
+   "type": "library",
+   "city": "Denville Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "At The Tabernacle",
+   "type": "arts_culture",
+   "city": "Denville Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "September 11th, 2001 Memorial",
+   "type": "historic_site",
+   "city": "Boonton Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rockaway Borough Public Library",
+   "type": "library",
+   "city": "Rockaway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rockaway Borough Historical",
+   "type": "museum",
+   "city": "Rockaway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hibernia Branch Library",
+   "type": "library",
+   "city": "Hibernia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cape May Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Rio Grande",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elaine's Famous Dinner Theater",
+   "type": "arts_culture",
+   "city": "Cape May",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cape May Art Gallery",
+   "type": "arts_culture",
+   "city": "Cape May",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas Kinkade Gallery",
+   "type": "arts_culture",
+   "city": "Cape May",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cape May County Library - Lower Cape Branch",
+   "type": "library",
+   "city": "Villas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bayshore Laundry & Linen",
+   "type": "laundromat",
+   "city": "Villas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blitz's Hole In the Wall Market",
+   "type": "farmers_market",
+   "city": "Villas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coast Guard 44' Motor Life Boat",
+   "type": "historic_site",
+   "city": "Cape May",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Douglas A. Munro",
+   "type": "arts_culture",
+   "city": "Cape May",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Patrolman David C. Douglass, Sr. Memorial Grave",
+   "type": "historic_site",
+   "city": "Lower Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ice Cream Statue",
+   "type": "arts_culture",
+   "city": "Lower Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rae's Farmer Market",
+   "type": "farmers_market",
+   "city": "West Cape May",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cape May Point Science Center",
+   "type": "science_center",
+   "city": "Cape May Point",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cape May Museum & Nature Center",
+   "type": "museum",
+   "city": "Cape May Point",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washington Street Gallery",
+   "type": "arts_culture",
+   "city": "Cape May",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Emlen Physick Estate",
+   "type": "museum",
+   "city": "Cape May",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "HCSV Welcome Center",
+   "type": "museum",
+   "city": "Lower Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Naval Air Station Wildwood Aviation Museum",
+   "type": "museum",
+   "city": "Rio Grande",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SOMA NewArt Gallery",
+   "type": "arts_culture",
+   "city": "Cape May",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cape May Stage",
+   "type": "arts_culture",
+   "city": "Cape May",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Willow Creek Winery & Farm",
+   "type": "brewery_distillery",
+   "city": "West Cape May",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cold Spring Brewery",
+   "type": "brewery_distillery",
+   "city": "Lower Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ida Lewis Auditorium",
+   "type": "arts_culture",
+   "city": "Cape May",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center For Community Arts",
+   "type": "arts_culture",
+   "city": "Cape May",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Duckie's Farmer's Market",
+   "type": "farmers_market",
+   "city": "West Cape May",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry & Showers",
+   "type": "laundromat",
+   "city": "West Cape May",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Behr Brewing",
+   "type": "brewery_distillery",
+   "city": "Rio Grande",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cape May City Library",
+   "type": "library",
+   "city": "Cape May",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverdale September 11th Memorial",
+   "type": "historic_site",
+   "city": "Riverdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverdale Veterans Memorial",
+   "type": "historic_site",
+   "city": "Riverdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pompton Lakes Police Memorial",
+   "type": "historic_site",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fireman's Memorial Square",
+   "type": "historic_site",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nazi Bund Camp",
+   "type": "historic_site",
+   "city": "Bloomingdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "US Navy Memorial",
+   "type": "historic_site",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "US Marines Memorial",
+   "type": "historic_site",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Carlough Memorial",
+   "type": "historic_site",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Snodgrass Memorial",
+   "type": "historic_site",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Donald Miller Memorial",
+   "type": "historic_site",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joe Louis Memorial",
+   "type": "historic_site",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Bloomingdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butler Public Library",
+   "type": "library",
+   "city": "Butler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bloomingdale Public Library",
+   "type": "library",
+   "city": "Butler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ringwood Public Library",
+   "type": "library",
+   "city": "Wanaque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lakeland Laundromat",
+   "type": "laundromat",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McDavitt's Point",
+   "type": "historic_site",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McDavitt's Point Ruins",
+   "type": "historic_site",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Cannon",
+   "type": "historic_site",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pompton Lakes Liberty Bell",
+   "type": "historic_site",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steel Water Tower Ruins",
+   "type": "historic_site",
+   "city": "Oakland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alliger's Cabin",
+   "type": "historic_site",
+   "city": "Oakland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camp Tamarack Ruins",
+   "type": "historic_site",
+   "city": "Oakland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Swimming Pool",
+   "type": "historic_site",
+   "city": "Wanaque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mission Honor Veterans Project",
+   "type": "historic_site",
+   "city": "Butler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pompton Lakes Public Library",
+   "type": "library",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Family Laundry",
+   "type": "laundromat",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "StageWorks at Studio 237",
+   "type": "arts_culture",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camp Tamarack Dining Hall Ruins",
+   "type": "historic_site",
+   "city": "Oakland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverdale Free Public Library",
+   "type": "library",
+   "city": "Riverdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oakland Public Library",
+   "type": "library",
+   "city": "Oakland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Water Tower for Van Slyke Castle",
+   "type": "historic_site",
+   "city": "Wanaque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "High Point Brewing",
+   "type": "brewery_distillery",
+   "city": "Butler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin-O-Matic",
+   "type": "laundromat",
+   "city": "Butler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butler Museum",
+   "type": "museum",
+   "city": "Butler",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Krom Park",
+   "type": "historic_site",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oakland Historical Society",
+   "type": "museum",
+   "city": "Oakland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whitehead Library",
+   "type": "library",
+   "city": "Oakland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bubba Sudds",
+   "type": "laundromat",
+   "city": "Pompton Lakes",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stockton Performing Arts Centre",
+   "type": "arts_culture",
+   "city": "Galloway Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Absecon Public Library",
+   "type": "library",
+   "city": "Absecon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richard E. Bjork Library",
+   "type": "library",
+   "city": "Galloway Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elizabeth B. Alton Auditorium",
+   "type": "arts_culture",
+   "city": "Galloway Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stockton University Art Gallery",
+   "type": "museum",
+   "city": "Galloway Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Turtle (Murtle) statue",
+   "type": "arts_culture",
+   "city": "Absecon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial",
+   "type": "historic_site",
+   "city": "Absecon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miss Absecon Memorial",
+   "type": "historic_site",
+   "city": "Absecon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stone Site Dedication",
+   "type": "historic_site",
+   "city": "Absecon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bellino's Market",
+   "type": "farmers_market",
+   "city": "Smithville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "September 11 Memorial",
+   "type": "historic_site",
+   "city": "Galloway Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Galloway Township Police K-9 Memorial",
+   "type": "historic_site",
+   "city": "Galloway Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atlantic County Library - Galloway Township Branch",
+   "type": "library",
+   "city": "Galloway Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 memorial",
+   "type": "historic_site",
+   "city": "Absecon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evesham Library",
+   "type": "library",
+   "city": "Marlton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center for the Arts in Southern New Jersey",
+   "type": "arts_culture",
+   "city": "Marlton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Knowlton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brook Hollow Winery",
+   "type": "brewery_distillery",
+   "city": "Knowlton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Sam Azeez Museum of Woodbine Heritage",
+   "type": "museum",
+   "city": "Woodbine",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wetlands Institute",
+   "type": "museum",
+   "city": "Cape May Court House",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jessie Creek Winery",
+   "type": "brewery_distillery",
+   "city": "Middle Township",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cape May County Library",
+   "type": "library",
+   "city": "Cape May Court House",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "13th Child Brewery",
+   "type": "brewery_distillery",
+   "city": "Williamstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Theatre: Home of the Road Company",
+   "type": "arts_culture",
+   "city": "Williamstown",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

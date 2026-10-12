@@ -1,0 +1,4795 @@
+{
+ "state": "LA",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Kisatchie Bayou Campground",
+   "type": "unknown",
+   "town": "Simpson, LA",
+   "town_mi": 13.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lotus Camp",
+   "type": "unknown",
+   "town": "Provencal, LA",
+   "town_mi": 12.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Crest RV Park",
+   "type": "rv_park",
+   "town": "Eden Isle, LA",
+   "town_mi": 3.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Airline Trailers of Kenner",
+   "type": "rv_park",
+   "town": "St. Rose, LA",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Caney Campground",
+   "type": "unknown",
+   "town": "Minden, LA",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Paradise RV Park",
+   "type": "rv_park",
+   "town": "Moss Bluff, LA",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lloyd's RV Park",
+   "type": "rv_park",
+   "town": "Westlake, LA",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "St. Bernard State Park Campground",
+   "type": "paid_camp",
+   "town": "Poydras, LA",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bogue Chitto SP - Bottomland",
+   "type": "paid_camp",
+   "town": "Franklinton, LA",
+   "town_mi": 5.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Midway RV Park & Marina",
+   "type": "rv_park",
+   "town": "St. Maurice, LA",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lost Anchor RV Park",
+   "type": "rv_park",
+   "town": "Milam, TX",
+   "town_mi": 8.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shady S RV Park",
+   "type": "rv_park",
+   "town": "Logansport, LA",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Maxey Care RV Park",
+   "type": "rv_park",
+   "town": "Morganza, LA",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Southern Living RV Park",
+   "type": "rv_park",
+   "town": "Greenwood, LA",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Park RV Park",
+   "type": "rv_park",
+   "town": "Carlyss, LA",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cajun On The Bayou",
+   "type": "rv_park",
+   "town": "Des Allemands, LA",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bayou Segnette State Park Campground",
+   "type": "paid_camp",
+   "town": "Westwego, LA",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lafayette KOA",
+   "type": "rv_park",
+   "town": "Scott, LA",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hallmark Village",
+   "type": "rv_park",
+   "town": "Dixie Inn, LA",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lakeside RV Park",
+   "type": "rv_park",
+   "town": "Dixie Inn, LA",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Louisiana Mudfest",
+   "type": "rv_park",
+   "town": "Colfax, LA",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shreveport/Bossier City KOA",
+   "type": "rv_park",
+   "town": "Greenwood, LA",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chase's RV Park",
+   "type": "rv_park",
+   "town": "New Iberia, LA",
+   "town_mi": 3.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Isle of Iberia",
+   "type": "rv_park",
+   "town": "New Iberia, LA",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gum Springs Horse Campground",
+   "type": "paid_camp",
+   "town": "Calvin, LA",
+   "town_mi": 4.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Lake Charles RV Resort",
+   "type": "rv_park",
+   "town": "Moss Bluff, LA",
+   "town_mi": 4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Diamond Jacks RV Park",
+   "type": "rv_park",
+   "town": "Bossier City, LA",
+   "town_mi": 4.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Kampground",
+   "type": "rv_park",
+   "town": "River Ridge, LA",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ouachita RV Park",
+   "type": "rv_park",
+   "town": "Lakeshore, LA",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Baton Rouge KOA Holiday",
+   "type": "rv_park",
+   "town": "Denham Springs, LA",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blue Heron RV Park",
+   "type": "rv_park",
+   "town": "Iowa, LA",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fam Camp",
+   "type": "paid_camp",
+   "town": "Bossier City, LA",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Peaceful Pines RV Park",
+   "type": "rv_park",
+   "town": "St. Francisville, LA",
+   "town_mi": 4.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Punkin Lakeside RV park",
+   "type": "rv_park",
+   "town": "Albany, LA",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Southern Marsh RV Park",
+   "type": "rv_park",
+   "town": "Galliano, LA",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nibletts Park",
+   "type": "rv_park",
+   "town": "Little Cypress, TX",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cinnamon Creek RV Park",
+   "type": "rv_park",
+   "town": "Dixie Inn, LA",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Country Haven RV Park",
+   "type": "rv_park",
+   "town": "Blanchard, LA",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Parkside RV Park",
+   "type": "rv_park",
+   "town": "Broussard, LA",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Maplewood Place Park",
+   "type": "rv_park",
+   "town": "Sulphur, LA",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wingate RV Park",
+   "type": "rv_park",
+   "town": "Sulphur, LA",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sulphur Palms RV and Mobile Home Park",
+   "type": "rv_park",
+   "town": "Sulphur, LA",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "2000 Mount Drive",
+   "type": "rv_park",
+   "town": "Sulphur, LA",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mount RV & Mobile Home Park",
+   "type": "rv_park",
+   "town": "Sulphur, LA",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dubach RV Park",
+   "type": "rv_park",
+   "town": "Dubach, LA",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Farmer's Branch RV Park",
+   "type": "rv_park",
+   "town": "Dixie Inn, LA",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whispering Meadow RV Park",
+   "type": "rv_park",
+   "town": "Westlake, LA",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Five Oaks RV Park",
+   "type": "rv_park",
+   "town": "Iowa, LA",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cooling Springs RV Resort",
+   "type": "rv_park",
+   "town": "Lake Charles, LA",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Piney Hills RV Park",
+   "type": "rv_park",
+   "town": "Ruston, LA",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tiger Oaks RV Park",
+   "type": "rv_park",
+   "town": "Bayou L'Ourse, LA",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tiger's Trail RV Resort",
+   "type": "rv_park",
+   "town": "Gardere, LA",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Village Oaks RV Park",
+   "type": "rv_park",
+   "town": "Simsboro, LA",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Love's RV Stop",
+   "type": "rv_park",
+   "town": "Mansfield, LA",
+   "town_mi": 7.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Love's RV Hookup",
+   "type": "rv_park",
+   "town": "New Iberia, LA",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Kisatchie National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Atchafalaya Basin",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bonnet Carre Spillway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Old River Lock",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Red River Waterway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Atchafalaya National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bayou Cocodrie National Wildlife Refuge",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bayou Sauvage Urban National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Big Branch Marsh National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Black Bayou Lake National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bogue Chitto National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Breton National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cameron Prairie National Wildlife Refuge",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Catahoula National Wildlife Refuge",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "D'Arbonne National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Delta National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Grand Cote National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bayou Bodcau Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ouachita-Black River - Columbia Pool",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ouachita-Black River - Jonesville Pool",
+   "type": "boating",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lacassine National Wildlife Refuge",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Ophelia National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Caddo Lake",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mandalay National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pearl River - 3 Pools",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wallace Lake",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ouachita-Black River - Felsenthal Pool",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sabine National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Shell Keys National Wildlife Refuge",
+   "type": "boating",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tensas River National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Upper Ouachita National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Red River National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cat Island National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bayou Teche National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Texas - Louisiana Border Area: El Camino Real de los Tejas NHT Places",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Vicksburg BARK Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Junior Ranger at Vicksburg National Military Park",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Discover Native Plants in Our Courtyard",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bird Watching at Oakland Plantation",
+   "type": "birding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnicking at Cane River Creole",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cane River Creole Junior Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Chalmette National Cemetery Audio Tour",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ask a Ranger: French Quarter",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Discover French Quarter Architecture",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore Natural History at Barataria",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walk the Trails at the Barataria Preserve",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Beauregard Town Historic District",
+   "type": "historic_downtown",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Baton Rouge Parish Museum",
+   "type": "museum",
+   "city": "Port Allen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Huey P. Long Memorial",
+   "type": "historic_site",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Create Studios",
+   "type": "arts_culture",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pentagon Barracks Museum",
+   "type": "museum",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LSU AgCenter Botanic Gardens and Museum",
+   "type": "museum",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greek Theatre",
+   "type": "arts_culture",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mid City Civic Theatre",
+   "type": "arts_culture",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Varsity Theatre",
+   "type": "arts_culture",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battle of Baton Rouge (1779)",
+   "type": "historic_site",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cypress Coast Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USCGC WHITE ALDER",
+   "type": "historic_site",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Red Stick Sculpture",
+   "type": "arts_culture",
+   "city": "Port Allen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dedicated to you, a free citizen in a free land",
+   "type": "historic_site",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tomb of the Unknown Soldier",
+   "type": "historic_site",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisiana Black History Hall of Fame",
+   "type": "museum",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Crest",
+   "type": "arts_culture",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washateria",
+   "type": "laundromat",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Doc's Wash n Dry",
+   "type": "laundromat",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LSU Museum of Art",
+   "type": "museum",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Center Branch Library",
+   "type": "library",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin Luther King Jr. Memorial",
+   "type": "historic_site",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William A. Brookshire Military Museum",
+   "type": "museum",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washateria",
+   "type": "laundromat",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallery 14",
+   "type": "arts_culture",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peace Stones",
+   "type": "historic_site",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roseland Terrace",
+   "type": "historic_downtown",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sing The River",
+   "type": "arts_culture",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Arsenal Powder Magazine",
+   "type": "museum",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LSU Campus Mounds",
+   "type": "historic_site",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jack and Priscilla Andonie Museum",
+   "type": "museum",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capitol Park Museum",
+   "type": "museum",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisiana State Library",
+   "type": "library",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Governor's Mansion",
+   "type": "museum",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baton Rouge Gallery",
+   "type": "arts_culture",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisiana Art and Science Museum",
+   "type": "science_center",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LSU Rural Life Museum",
+   "type": "museum",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Library",
+   "type": "library",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carver Branch Library",
+   "type": "library",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Center Performing Arts Theater",
+   "type": "arts_culture",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old State Capitol",
+   "type": "museum",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Kidd Veterans Museum",
+   "type": "museum",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cane Land Distillery",
+   "type": "brewery_distillery",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Launderette",
+   "type": "laundromat",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baton Rouge African American Museum",
+   "type": "museum",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Knock Knock Childrens Museum",
+   "type": "museum",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Speed Queen",
+   "type": "laundromat",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Magnolia Theatre & Performing Arts Pavilion",
+   "type": "arts_culture",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union Theater",
+   "type": "arts_culture",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University Library",
+   "type": "library",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A-7 Corsair",
+   "type": "historic_site",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin L. Harvey Hall",
+   "type": "museum",
+   "city": "Port Allen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John B. Cade Library",
+   "type": "library",
+   "city": "Port Allen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Education Building",
+   "type": "museum",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Exhibit Building",
+   "type": "museum",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spanish Town",
+   "type": "historic_downtown",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beauregard Town",
+   "type": "historic_downtown",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Baton Rouge",
+   "type": "historic_downtown",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Street",
+   "type": "historic_downtown",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Drehr Place",
+   "type": "historic_downtown",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southern University Historic District",
+   "type": "historic_downtown",
+   "city": "Port Allen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beacon Plaza",
+   "type": "historic_downtown",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Po Folks Fruits and Vegetables",
+   "type": "farmers_market",
+   "city": "Port Allen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Court Street Coin Laundry",
+   "type": "laundromat",
+   "city": "Port Allen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Baton Rouge Parish Library",
+   "type": "library",
+   "city": "Port Allen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "EBRPL - Bluebonnet Regional Branch Library",
+   "type": "library",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City Town's Laundromat",
+   "type": "laundromat",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dominique's Livestock Market",
+   "type": "farmers_market",
+   "city": "Baton Rouge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South’s Defenders Memorial Monument",
+   "type": "historic_site",
+   "city": "Lake Charles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Fair Vintage Market",
+   "type": "farmers_market",
+   "city": "Lake Charles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arcade Amphitheatre",
+   "type": "arts_culture",
+   "city": "Lake Charles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moss Bluff Public Library",
+   "type": "library",
+   "city": "Moss Bluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frazar Library",
+   "type": "library",
+   "city": "Lake Charles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic City Hall Arts & Cultural Center",
+   "type": "museum",
+   "city": "Lake Charles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sudduth Coliseum",
+   "type": "live_music",
+   "city": "Lake Charles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crying Eagle Brewing",
+   "type": "brewery_distillery",
+   "city": "Lake Charles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rikenjaks Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Lake Charles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Imperial Calcasieu Museum",
+   "type": "museum",
+   "city": "Lake Charles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Children's Museum",
+   "type": "museum",
+   "city": "Lake Charles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Imperial Calcasieu Museum - The Annex Gallery",
+   "type": "arts_culture",
+   "city": "Lake Charles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central School Arts and Humanities Center",
+   "type": "arts_culture",
+   "city": "Lake Charles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westlake Branch",
+   "type": "library",
+   "city": "Westlake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry World",
+   "type": "laundromat",
+   "city": "Lake Charles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central Library",
+   "type": "library",
+   "city": "Lake Charles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carnegie Memorial Branch Library",
+   "type": "library",
+   "city": "Lake Charles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Infinite Sundries",
+   "type": "farmers_market",
+   "city": "Westlake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maplewood Outreach Center",
+   "type": "library",
+   "city": "Westlake",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cooling Springs Laundromat",
+   "type": "laundromat",
+   "city": "Lake Charles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Epps Memorial Branch Library",
+   "type": "library",
+   "city": "Lake Charles",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ouachita Parish Public Library",
+   "type": "library",
+   "city": "Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mascur Museum",
+   "type": "museum",
+   "city": "Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue",
+   "type": "arts_culture",
+   "city": "Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butterfly Sculpture",
+   "type": "arts_culture",
+   "city": "Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flowering Shell Statue",
+   "type": "arts_culture",
+   "city": "Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Solar Wash Coin Laundry",
+   "type": "laundromat",
+   "city": "West Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Monroe Public Library",
+   "type": "library",
+   "city": "Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sandel Hall",
+   "type": "library",
+   "city": "Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ULM University Library",
+   "type": "library",
+   "city": "Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brown Auditorium",
+   "type": "arts_culture",
+   "city": "Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flying Tiger Brewery",
+   "type": "brewery_distillery",
+   "city": "Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chennault Aviation & Military Museum",
+   "type": "museum",
+   "city": "Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Coca-Cola",
+   "type": "museum",
+   "city": "West Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ouachita Valley Branch Library",
+   "type": "library",
+   "city": "West Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Ouachita Public Library",
+   "type": "library",
+   "city": "Claiborne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northeast Louisiana Delta African American Heritage Museum",
+   "type": "museum",
+   "city": "Richwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash World",
+   "type": "laundromat",
+   "city": "West Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic Biedenharn Home",
+   "type": "museum",
+   "city": "West Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Biedenharn Museum and Gardens of Monroe",
+   "type": "museum",
+   "city": "West Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ouachita Parish Public Library - Main Branch",
+   "type": "library",
+   "city": "Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Monroe Farmer's Market",
+   "type": "farmers_market",
+   "city": "West Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carver-McDonald Branch Library",
+   "type": "library",
+   "city": "Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WL Jack Howard Theatre",
+   "type": "arts_culture",
+   "city": "Monroe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Precision Laundry",
+   "type": "laundromat",
+   "city": "Claiborne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westside Regional Library",
+   "type": "library",
+   "city": "Alexandria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisiana History Museum",
+   "type": "museum",
+   "city": "Alexandria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "So Fresh N' So Clean Express Laundry Services",
+   "type": "laundromat",
+   "city": "Alexandria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alexandria Museum of Art",
+   "type": "museum",
+   "city": "Alexandria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Oaks Square Arts Center",
+   "type": "arts_culture",
+   "city": "Alexandria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arna Bontemps African-American Museum",
+   "type": "museum",
+   "city": "Alexandria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "T.R.E.E. House Children's Museum",
+   "type": "museum",
+   "city": "Alexandria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kansas City Southern Depot",
+   "type": "historic_site",
+   "city": "Alexandria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bailey's Dam Overlook",
+   "type": "historic_site",
+   "city": "Alexandria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverfront Amphitheatre",
+   "type": "arts_culture",
+   "city": "Alexandria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kent Plantation House",
+   "type": "museum",
+   "city": "Alexandria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisiana Maneuvers & Military Museum",
+   "type": "museum",
+   "city": "Ball",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rapides Parish Library, Martin Luther King, Jr. Branch",
+   "type": "library",
+   "city": "Alexandria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sugar House",
+   "type": "museum",
+   "city": "Alexandria",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "French Quarter",
+   "type": "historic_downtown",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Andrew Jackson",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rosa Keller Branch, N.O. Public Library",
+   "type": "library",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "N. O. Public Library, Mid-City Branch",
+   "type": "library",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clay Monument",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dreux Monument",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Franklin Monument",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gayarre Place",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McDonogh Monument",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wedell Monument",
+   "type": "historic_site",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carrollton Historic District",
+   "type": "historic_downtown",
+   "city": "Metairie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Orleans Jazz National Historical Park",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Howard Memorial Library",
+   "type": "library",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's Resource Center - New Orleans Public Library",
+   "type": "library",
+   "city": "Marrero",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Algiers Regional Library",
+   "type": "library",
+   "city": "Terrytown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Odenheimer Aquarium",
+   "type": "museum",
+   "city": "Westwego",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisiana State Museum Library",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confederate Memorial Hall;Confederate Memorial Hall Museum",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "House of Dance & Feathers",
+   "type": "museum",
+   "city": "Lower Ninth Ward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dependable Garment Care",
+   "type": "laundromat",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gulf Coast Bank & Trust",
+   "type": "historic_site",
+   "city": "Harvey",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmer's",
+   "type": "farmers_market",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marigny Theater",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gordon Biersch",
+   "type": "brewery_distillery",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Contemporary Arts Center",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Molly Marine",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ancestral Legacy",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spanish Fort",
+   "type": "historic_site",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Angela King Gallery",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oak St Brewery",
+   "type": "brewery_distillery",
+   "city": "Westwego",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chez Clay",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ad Art",
+   "type": "arts_culture",
+   "city": "Gretna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ariodante",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of the Southern Jewish Experience",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edward B. Boettner 1937-2000",
+   "type": "historic_site",
+   "city": "Gretna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Death",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lower Ninth Ward Living Museum",
+   "type": "museum",
+   "city": "Lower Ninth Ward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Orleans Community Print Shop & Darkroom",
+   "type": "arts_culture",
+   "city": "Lower Ninth Ward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Le Petit Theatre",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Katrina Memorial",
+   "type": "historic_site",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The New Movement Theater",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mudlark",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Historic New Orleans Collection - Williams Research Center",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ogden Museum of Southern Art",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forbes Theater",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisiana Children's Museum",
+   "type": "museum",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Second Line Brewing",
+   "type": "brewery_distillery",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "French Market",
+   "type": "farmers_market",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joan of Arc",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scrap House Katrina Memorial Sculpture",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John J Audubon Statue",
+   "type": "historic_site",
+   "city": "Westwego",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Bernard Parish Library",
+   "type": "library",
+   "city": "Chalmette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Orleans Holocaust Memorial",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hurricane Katrina Memorial",
+   "type": "historic_site",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bienville monument",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monument to the Immigrant",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Man River",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moonwalk",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ocean Song",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Second Line Sashay",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sacred Heart of Jesus",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marie Laveau's Tomb?",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "General Francisco Morazan Statue",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Stones",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Instrument Men Fountain",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jacques the Butcher",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Michelle",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martha - A Market Customer",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Window into the Past, French Market Yesteryear",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Place de Henriette Delille",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1850 House",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Orleans Jazz Museum",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Orleans Aids Memorial",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Al \"Jumbo\" Hirt",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pete Fountain",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Irma Thomas",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Antoine \"Fats\" Domino",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louis Prima",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chris Owens",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allen Toussaint",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ronnie Kole",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Churchill",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Galería de arte",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Four for Mardi Gras",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "40 Arpent Brewery",
+   "type": "brewery_distillery",
+   "city": "Arabi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Painting with a Twist",
+   "type": "arts_culture",
+   "city": "Gretna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wonder Washer",
+   "type": "laundromat",
+   "city": "Gretna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Warehouse",
+   "type": "coworking",
+   "city": "Algiers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nord Sculpture",
+   "type": "arts_culture",
+   "city": "Algiers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Resurrection Statue",
+   "type": "arts_culture",
+   "city": "Lower Ninth Ward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louis Armstrong Statue",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "equality Dignity freedom Civil Rights monument",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin Luther King Jr. Memorial",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jamie Hayes Gallery",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Art Garden & Floating Gallery",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ken Hollis Theater",
+   "type": "arts_culture",
+   "city": "Elmwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kako Gallery",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Katrina National Memorial Museum",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hurricane Katrina Memorial",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jefferson Parish Library - Harahan Branch",
+   "type": "library",
+   "city": "Harahan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Courtyard Brewery",
+   "type": "brewery_distillery",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jefferson Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Elmwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chalmette Monument",
+   "type": "historic_site",
+   "city": "Arabi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Army of the Republic Monument",
+   "type": "historic_site",
+   "city": "Arabi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zeitgeist Theatre and Lounge",
+   "type": "arts_culture",
+   "city": "Arabi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oakdale Laundromat",
+   "type": "laundromat",
+   "city": "Terrytown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Metairie Library",
+   "type": "library",
+   "city": "Metairie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Old Arabi Sugar Museum",
+   "type": "museum",
+   "city": "Arabi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Sazerac House",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joy Theater",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lakeshore Library",
+   "type": "library",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisiana Fire Museum",
+   "type": "museum",
+   "city": "Metairie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jefferson Memorial",
+   "type": "historic_site",
+   "city": "Gretna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westwego Farmers and Fisheries Market",
+   "type": "farmers_market",
+   "city": "Westwego",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Longue Vue House and Gardens",
+   "type": "museum",
+   "city": "Metairie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Lost Sock Laundry",
+   "type": "laundromat",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haunted Museum & Voodoo Pharmacy",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mahalia Jackson",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chief Tootie",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Congo Square",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "French Opera",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles \"Buddy\" Bolden",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brass Band",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sidney Bechet",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jendiva 2001",
+   "type": "arts_culture",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benito Juarez Statue",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Women Armed Forces",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam War Monument",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stone Head",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louis Armstrong",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BB's Stage Door Canteen",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J&S Gallery",
+   "type": "arts_culture",
+   "city": "Elmwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edward Douglass White",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USCGC WHITE ALDER Memorial",
+   "type": "historic_site",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Birth of a Muse",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Guardians Institute",
+   "type": "arts_culture",
+   "city": "Lower Ninth Ward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UpStairs Lounge Arson Memorial Plaque",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ruby Bridges",
+   "type": "arts_culture",
+   "city": "Lower Ninth Ward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marion's Cleaners",
+   "type": "laundromat",
+   "city": "Metairie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Comedy House New Orleans",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Deurty Boys Gallery",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Super Laundromat",
+   "type": "laundromat",
+   "city": "Westwego",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quick Wash & Dry",
+   "type": "laundromat",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Antenna",
+   "type": "arts_culture",
+   "city": "Lower Ninth Ward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Aquarium",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Front",
+   "type": "arts_culture",
+   "city": "Lower Ninth Ward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Second Story Gallery",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Staple Goods",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ArtSpace3116",
+   "type": "arts_culture",
+   "city": "Lower Ninth Ward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paper Machine",
+   "type": "arts_culture",
+   "city": "Arabi",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Simón Bolívar",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louis Armstrong's Birthplace",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisiana Law Enforcement Officers Memorial",
+   "type": "historic_site",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John McDonogh",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Washington",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Striding Man",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morrison Memorial",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "José Martí",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roulaison Distilling Co",
+   "type": "brewery_distillery",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vue Orleans",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sasik Gallery",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Backstreet Cultural Museum",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Disco on Decatur",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Skeeta Hawk Brewing",
+   "type": "brewery_distillery",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warehouse District",
+   "type": "historic_downtown",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Transatlantic Slave Trade to Louisiana",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Execution of Jean Baptist Baudrau II",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BK Historic House and Gardens",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "JAMNOLA",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundromat Wash & Fold",
+   "type": "laundromat",
+   "city": "Metairie",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pitot House",
+   "type": "museum",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tigermen Den",
+   "type": "arts_culture",
+   "city": "Algiers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spanish Custom House",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bienville's Plantation",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LeMieux Galleries",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Turning (prayer wheels for the Mississippi River)",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Orleans Public Library - Alvar Branch",
+   "type": "library",
+   "city": "Lower Ninth Ward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Will Alexander Library",
+   "type": "library",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Piazza d'Italia",
+   "type": "historic_downtown",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Le Musée de f.p.c.",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Orleans Museum of Art",
+   "type": "museum",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Earl K. Long Library",
+   "type": "library",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Orleans Public Library - Nix Memorial Branch",
+   "type": "library",
+   "city": "Westwego",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Egg Studios",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Howard Tilton Memorial Library",
+   "type": "library",
+   "city": "Westwego",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Orleans Public Library - Milton H Latter Branch",
+   "type": "library",
+   "city": "Marrero",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ESOM ART",
+   "type": "arts_culture",
+   "city": "Marrero",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NOLA Distillery",
+   "type": "brewery_distillery",
+   "city": "Harvey",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NOLA Brewing Tap Room",
+   "type": "brewery_distillery",
+   "city": "Harvey",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orpheum Theater",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Civic Theatre",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southern Food & Beverage Museum",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Cabildo",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Preservation Hall",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mahalia Jackson Theater",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Orleans Historic Voodoo Museum",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Orleans Public Library - Cita Dennis Hubbell Branch",
+   "type": "library",
+   "city": "Algiers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Federal City Auditorium",
+   "type": "arts_culture",
+   "city": "Algiers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Orleans Mint",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmers Market Pavilion",
+   "type": "farmers_market",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Ursuline Convent Museum",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Backstreet Cultural Museum",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Orleans African American Museum",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leonard S. Washington Memorial Library",
+   "type": "library",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saenger Theatre",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hermann-Grima House",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Irish Cultural Museum",
+   "type": "museum",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Orleans Public Library - Norman Mayer Branch",
+   "type": "library",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parleaux Beer Lab",
+   "type": "brewery_distillery",
+   "city": "Lower Ninth Ward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marigny Opera House",
+   "type": "arts_culture",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bywater Art Garden",
+   "type": "arts_culture",
+   "city": "Algiers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oscar Dunn Park",
+   "type": "historic_site",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flea Market",
+   "type": "farmers_market",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Orleans Pharmacy Museum",
+   "type": "science_center",
+   "city": "New Orleans",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sydney & Walda Besthoff Sculpture Garden",
+   "type": "arts_culture",
+   "city": "Lakeview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sci-Port: Louisiana's Science Center",
+   "type": "science_center",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Caddo Parish Confederate monument",
+   "type": "historic_site",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Il Porcellino",
+   "type": "arts_culture",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Destiny of the Red Man",
+   "type": "arts_culture",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Canyon Watch",
+   "type": "arts_culture",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountain Silverback",
+   "type": "arts_culture",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ring of Bright Water",
+   "type": "arts_culture",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tori Gate",
+   "type": "arts_culture",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pagoda",
+   "type": "arts_culture",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waiting for Sockeye",
+   "type": "arts_culture",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Las Brisas",
+   "type": "arts_culture",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red River Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chained",
+   "type": "arts_culture",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Goddess",
+   "type": "arts_culture",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Snow Sculpture",
+   "type": "arts_culture",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Three Pelicans",
+   "type": "arts_culture",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mardi Gras Museum",
+   "type": "museum",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Krewe of Gemini",
+   "type": "arts_culture",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bossier City Farmers Market",
+   "type": "farmers_market",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1st CEVG Combat Skyspot Memorial",
+   "type": "historic_site",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Linebacker II",
+   "type": "historic_site",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "344th Bomb Group (M) AAF",
+   "type": "historic_site",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "486th Bombardment Group (H)",
+   "type": "historic_site",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "34th Bomb Group",
+   "type": "historic_site",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Hells Angels\"",
+   "type": "historic_site",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Major General Lewis-Elton Lyle",
+   "type": "historic_site",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1999 Omar N. Bradley Spirit of Independence Award to World War II Veterans",
+   "type": "historic_site",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "General Ira C. Eaker",
+   "type": "historic_site",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "General Joseph J. Nazzaro",
+   "type": "historic_site",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SR-71 Memorial Dedication",
+   "type": "historic_site",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "R.W. Norton Art Gallery",
+   "type": "museum",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Noel Memorial Library",
+   "type": "library",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Safe Harbor",
+   "type": "historic_site",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Broadmoor Branch",
+   "type": "library",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meadows Museum of Art",
+   "type": "museum",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marjorie Lyons Playhouse",
+   "type": "arts_culture",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Magdale Library",
+   "type": "library",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverview Hall",
+   "type": "arts_culture",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spring Street Historical Museum",
+   "type": "museum",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bossier Parish Libraries - Central Library",
+   "type": "library",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University Library",
+   "type": "library",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shreveport Water Works Museum",
+   "type": "museum",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stephens African American Museum",
+   "type": "museum",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barksdale Library",
+   "type": "library",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flying Heart Brewing & Pub",
+   "type": "brewery_distillery",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shreveport Little Theatre",
+   "type": "arts_culture",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shreve Memorial Library - West Shreveport Branch",
+   "type": "library",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shreve Memorial Library - North Shreveport Branch",
+   "type": "library",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Soap Opera",
+   "type": "laundromat",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Speed-Brite Supercenter",
+   "type": "laundromat",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Andress Artist & Entrepreneur Center",
+   "type": "coworking",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bossier Parish Libraries - Aulds Branch",
+   "type": "library",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red River Brewpub @ the Garage",
+   "type": "brewery_distillery",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Seventh Tap Brewing Project",
+   "type": "brewery_distillery",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theatre of Performing Arts",
+   "type": "arts_culture",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shreve Memorial Library",
+   "type": "library",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shreveport Railroad Museum",
+   "type": "museum",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McNeill Pumping Station",
+   "type": "museum",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marlene Yu Museum",
+   "type": "museum",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Life Sciences",
+   "type": "science_center",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Strand Theater",
+   "type": "arts_culture",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atkins Branch",
+   "type": "library",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barksdale Global Power Museum",
+   "type": "museum",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kickapoo Laundry",
+   "type": "laundromat",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash 'n' Dry",
+   "type": "laundromat",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bossier Parish Libraries - Central Complex",
+   "type": "library",
+   "city": "Bossier City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shreve Memorial Library - David Raines Branch",
+   "type": "library",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thompson's Cleaners",
+   "type": "laundromat",
+   "city": "Shreveport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cité des Arts",
+   "type": "arts_culture",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam and Korean War memorial",
+   "type": "historic_site",
+   "city": "Breaux Bridge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 Memorial",
+   "type": "historic_site",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alexandre Mouton House",
+   "type": "museum",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "L A F A _ E T T E sign",
+   "type": "historic_site",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Lafayette Arch",
+   "type": "historic_site",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mosaic Arch",
+   "type": "historic_site",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Schilling Eagle Statue",
+   "type": "historic_site",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Large Orange Urn",
+   "type": "historic_site",
+   "city": "Broussard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Regional Library",
+   "type": "library",
+   "city": "Carencro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First Horizon Amphitheatre",
+   "type": "arts_culture",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Regional Branch (Lafayette Public Library)",
+   "type": "library",
+   "city": "Scott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corporate Block",
+   "type": "arts_culture",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Acadian Cultural Center",
+   "type": "arts_culture",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heymann Performing Arts and Convention Center",
+   "type": "arts_culture",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lafayette Science Museum",
+   "type": "science_center",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lafayette Public Library",
+   "type": "library",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's Museum of Acadiana",
+   "type": "museum",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Regional Library",
+   "type": "library",
+   "city": "Scott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edith Garland Dupré Library",
+   "type": "library",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jim Deggys Brick Oven Pizza & Brewery",
+   "type": "brewery_distillery",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Degaulle Square",
+   "type": "historic_downtown",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quad",
+   "type": "historic_downtown",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Acadiana Center for the Arts",
+   "type": "arts_culture",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hilliard Art Museum",
+   "type": "museum",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Regional Library",
+   "type": "library",
+   "city": "Broussard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parish Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Broussard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veteran's Memorial",
+   "type": "historic_site",
+   "city": "Lafayette",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southdown Museum",
+   "type": "museum",
+   "city": "Houma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bayou Terrebonne Waterlife Museum",
+   "type": "museum",
+   "city": "Houma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southdown Plantation",
+   "type": "museum",
+   "city": "Houma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Finding Our Roots African American Museum",
+   "type": "museum",
+   "city": "Houma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Regional Military Museum",
+   "type": "museum",
+   "city": "Houma",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Compassionate Friends Memorial Garden",
+   "type": "historic_site",
+   "city": "Elmwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Speedwash Laundromat",
+   "type": "laundromat",
+   "city": "Kenner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Basket",
+   "type": "laundromat",
+   "city": "Kenner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kenner Coin Laundry",
+   "type": "laundromat",
+   "city": "Kenner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Laundry",
+   "type": "laundromat",
+   "city": "Kenner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NOLA Wax Hands",
+   "type": "arts_culture",
+   "city": "Kenner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LaSalle's Landing",
+   "type": "arts_culture",
+   "city": "Kenner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles A. Wagner Branch Library",
+   "type": "library",
+   "city": "Kenner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Kenner Library",
+   "type": "library",
+   "city": "Kenner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Super Cleaners",
+   "type": "laundromat",
+   "city": "Kenner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Ridge Library",
+   "type": "library",
+   "city": "Kenner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washateria",
+   "type": "laundromat",
+   "city": "Natchitoches",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "One Day Cleaners",
+   "type": "laundromat",
+   "city": "Natchitoches",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisiana Sports Hall of Fame",
+   "type": "museum",
+   "city": "Natchitoches",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Natchitoches Art Gallery Guild Heritage Gallery",
+   "type": "arts_culture",
+   "city": "Natchitoches",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cane River Gallery",
+   "type": "arts_culture",
+   "city": "Natchitoches",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic District",
+   "type": "historic_downtown",
+   "city": "Natchitoches",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Stores Memorial Feild",
+   "type": "historic_site",
+   "city": "Natchitoches",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Genealogy Library",
+   "type": "library",
+   "city": "Natchitoches",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eugene P Watson Memorial Library",
+   "type": "library",
+   "city": "Natchitoches",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Natchitoches Events Center",
+   "type": "arts_culture",
+   "city": "Natchitoches",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cane River Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Natchitoches",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisiana Sports Hall of Fame & Northwest Louisiana History Museum",
+   "type": "museum",
+   "city": "Natchitoches",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prudhomme Rouquier House",
+   "type": "museum",
+   "city": "Natchitoches",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Natchitoches Parish Library",
+   "type": "library",
+   "city": "Natchitoches",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Natchitoches Old Courthouse Museum",
+   "type": "museum",
+   "city": "Natchitoches",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundromat",
+   "type": "laundromat",
+   "city": "Sulphur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brimstone Museum",
+   "type": "museum",
+   "city": "Sulphur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henning Cultural Center",
+   "type": "arts_culture",
+   "city": "Sulphur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yellowfin Distillery",
+   "type": "brewery_distillery",
+   "city": "Sulphur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sulphur Regional Branch",
+   "type": "library",
+   "city": "Sulphur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Mines Sulphur Community Theater",
+   "type": "arts_culture",
+   "city": "Sulphur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Olde and Nu Treasures",
+   "type": "farmers_market",
+   "city": "Sulphur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Wash Laundromat",
+   "type": "laundromat",
+   "city": "Sulphur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Tammany Parish Library Slidell Branch",
+   "type": "library",
+   "city": "Slidell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "September 11th Memorial",
+   "type": "historic_site",
+   "city": "Slidell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Slidell Auditorium",
+   "type": "arts_culture",
+   "city": "Slidell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Griffith Monument",
+   "type": "historic_site",
+   "city": "Slidell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camp Salmen Lodge",
+   "type": "historic_site",
+   "city": "Slidell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial",
+   "type": "historic_site",
+   "city": "Slidell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Slidell Museum",
+   "type": "museum",
+   "city": "Slidell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walmart Neibourhood Market",
+   "type": "farmers_market",
+   "city": "Slidell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Slidell Little Theater",
+   "type": "arts_culture",
+   "city": "Slidell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lori's Art Depot",
+   "type": "arts_culture",
+   "city": "Slidell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Minden Public Library",
+   "type": "library",
+   "city": "Minden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Child Statue",
+   "type": "arts_culture",
+   "city": "Minden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans of Foreign War Plaque",
+   "type": "historic_site",
+   "city": "Minden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Webster Parish Bell Tower",
+   "type": "historic_site",
+   "city": "Minden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wilbur Funderburk - Gardening Tools",
+   "type": "arts_culture",
+   "city": "Minden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beth Drew Weaver - Flowers",
+   "type": "arts_culture",
+   "city": "Minden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baseball Kid",
+   "type": "arts_culture",
+   "city": "Minden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Webster Parish Library Sign",
+   "type": "library",
+   "city": "Minden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Webster Parish Library & Stewart Center Sign",
+   "type": "library",
+   "city": "Minden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Germantown Colony",
+   "type": "historic_site",
+   "city": "Minden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stewart Pillar",
+   "type": "arts_culture",
+   "city": "Minden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Angel Statue",
+   "type": "arts_culture",
+   "city": "Minden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mother Mary",
+   "type": "arts_culture",
+   "city": "Minden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brother",
+   "type": "arts_culture",
+   "city": "Minden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cross",
+   "type": "arts_culture",
+   "city": "Minden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Webster Parish Library",
+   "type": "library",
+   "city": "Minden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dorcheat Historical Museum",
+   "type": "museum",
+   "city": "Minden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisiana Mud Painting Gallery",
+   "type": "arts_culture",
+   "city": "Denham Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Osgood Corner",
+   "type": "historic_site",
+   "city": "Denham Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Denham Springs-Walker Branch Library",
+   "type": "library",
+   "city": "Denham Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Denham Springs Coin Laundry",
+   "type": "laundromat",
+   "city": "Denham Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southside Produce Co.",
+   "type": "farmers_market",
+   "city": "Denham Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Le Chien Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Denham Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbia Theatre for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hammond Regional Arts Center",
+   "type": "arts_culture",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tangipahoa Parish Library",
+   "type": "library",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Linus A. Sims Memorial Library",
+   "type": "library",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gnarly Barley Brewing",
+   "type": "brewery_distillery",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Low Road Brewing LLC",
+   "type": "brewery_distillery",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tangipahoa African American Heritage Museum & Veterans Archives",
+   "type": "museum",
+   "city": "Hammond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Six String Music Stage",
+   "type": "arts_culture",
+   "city": "Cecilia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmer's & Artist's Market",
+   "type": "farmers_market",
+   "city": "Saint George",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jones Creek Regional Library`",
+   "type": "library",
+   "city": "Saint George",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Galvez Library",
+   "type": "library",
+   "city": "Prairieville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "F9F-6 P/C Mark Porrier Memorial",
+   "type": "historic_site",
+   "city": "New Iberia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sundial",
+   "type": "arts_culture",
+   "city": "New Iberia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Dog Statue",
+   "type": "arts_culture",
+   "city": "New Iberia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sliman Theater",
+   "type": "arts_culture",
+   "city": "New Iberia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bayou Teche Museum",
+   "type": "museum",
+   "city": "New Iberia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iberia Parish Library",
+   "type": "library",
+   "city": "New Iberia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Essanee Theater",
+   "type": "arts_culture",
+   "city": "New Iberia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shadows on the Teche",
+   "type": "museum",
+   "city": "New Iberia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Peter's Street Public Library",
+   "type": "library",
+   "city": "New Iberia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iberia Parish Library: Parkview Branch",
+   "type": "library",
+   "city": "New Iberia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Da Berry Fresh Market",
+   "type": "farmers_market",
+   "city": "New Iberia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Opelousas Public Library",
+   "type": "library",
+   "city": "Opelousas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jim Bowie Museum",
+   "type": "museum",
+   "city": "Opelousas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fireman's Museum",
+   "type": "museum",
+   "city": "Opelousas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Opelousas Museum And Interpretive center",
+   "type": "museum",
+   "city": "Opelousas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rural African American Museum",
+   "type": "museum",
+   "city": "Opelousas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lady of the Mist",
+   "type": "arts_culture",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Howard Auditorium",
+   "type": "arts_culture",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aspire",
+   "type": "arts_culture",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln Parish Museum",
+   "type": "museum",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gilbert Center",
+   "type": "arts_culture",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steam Engine",
+   "type": "historic_site",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steel Girder Trainer",
+   "type": "historic_site",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sarah and A.L. Williams Champions Plaza",
+   "type": "arts_culture",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mirrored Image",
+   "type": "arts_culture",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisiana Natives",
+   "type": "arts_culture",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prescott Memorial Library",
+   "type": "library",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flower Power",
+   "type": "arts_culture",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln Parish Library",
+   "type": "library",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dixie Center for the Arts",
+   "type": "arts_culture",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Utility Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Campus Washateria",
+   "type": "laundromat",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Creatives at Work",
+   "type": "arts_culture",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shadow Studio and Gallery",
+   "type": "arts_culture",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Louisiana Military Museum",
+   "type": "museum",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hilltop Apartments & Laundromat",
+   "type": "laundromat",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ruston Washateria",
+   "type": "laundromat",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washateria",
+   "type": "laundromat",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ruston Farmer's Market",
+   "type": "farmers_market",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "24/7 Coin Laundry",
+   "type": "laundromat",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mitcham Farms",
+   "type": "farmers_market",
+   "city": "Ruston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. John the Baptist Parish Library",
+   "type": "library",
+   "city": "LaPlace",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1811 Kid Ory Historic House",
+   "type": "museum",
+   "city": "LaPlace",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash-N-Go Washateria",
+   "type": "laundromat",
+   "city": "New Roads",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Roads Branch Library",
+   "type": "library",
+   "city": "New Roads",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

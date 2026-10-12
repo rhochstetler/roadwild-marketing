@@ -1,0 +1,4930 @@
+{
+ "state": "MT",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Grave Creek Campground",
+   "type": "paid_camp",
+   "town": "Fortine, MT",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp 32 Campground",
+   "type": "paid_camp",
+   "town": "Rexford, MT",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Therriault Lake Campground",
+   "type": "paid_camp",
+   "town": "Yaak, MT",
+   "town_mi": 12.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Caribou Campground",
+   "type": "paid_camp",
+   "town": "Yaak, MT",
+   "town_mi": 11.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sylvan Lake Campground",
+   "type": "paid_camp",
+   "town": "Happys Inn, MT",
+   "town_mi": 12.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Peck Gulch Campground",
+   "type": "paid_camp",
+   "town": "Rexford, MT",
+   "town_mi": 13.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spar Lake Campground",
+   "type": "paid_camp",
+   "town": "Bull Lake, MT",
+   "town_mi": 5.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Howard Lake Campground",
+   "type": "paid_camp",
+   "town": "Noxon, MT",
+   "town_mi": 13.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pleasant Valley Campground (MT)",
+   "type": "paid_camp",
+   "town": "Happys Inn, MT",
+   "town_mi": 7.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dorr Skeels Campground",
+   "type": "paid_camp",
+   "town": "Bull Lake, MT",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Swisher Lake Campground",
+   "type": "paid_camp",
+   "town": "West Kootenai, MT",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Marten Creek Campground",
+   "type": "paid_camp",
+   "town": "Noxon, MT",
+   "town_mi": 7.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gateway Boat Camp",
+   "type": "paid_camp",
+   "town": "West Kootenai, MT",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yaak Falls Campground",
+   "type": "paid_camp",
+   "town": "Sylvanite, MT",
+   "town_mi": 4.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Willow Creek Campground (MT)",
+   "type": "paid_camp",
+   "town": "Trout Creek, MT",
+   "town_mi": 12.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kilbrennan Lake Campground",
+   "type": "paid_camp",
+   "town": "Sylvanite, MT",
+   "town_mi": 7.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tobacco River Campground",
+   "type": "paid_camp",
+   "town": "Rexford, MT",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jackpine Flats Campground",
+   "type": "paid_camp",
+   "town": "Trout Creek, MT",
+   "town_mi": 10.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whitetail Campground (MT)",
+   "type": "paid_camp",
+   "town": "Yaak, MT",
+   "town_mi": 5.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Therriault Lake Campground",
+   "type": "paid_camp",
+   "town": "Indian Springs, MT",
+   "town_mi": 7.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Loon Lake Campground (MT)",
+   "type": "paid_camp",
+   "town": "Sylvanite, MT",
+   "town_mi": 11.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pete Creek Campground",
+   "type": "paid_camp",
+   "town": "Yaak, MT",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rocky Gorge Campground",
+   "type": "paid_camp",
+   "town": "Trego, MT",
+   "town_mi": 17.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Turner Flat Campground",
+   "type": "paid_camp",
+   "town": "Saltese, MT",
+   "town_mi": 13.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spruce Tree Campground",
+   "type": "paid_camp",
+   "town": "St. Regis, MT",
+   "town_mi": 21.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Heller Creek Campground",
+   "type": "paid_camp",
+   "town": "Superior, MT",
+   "town_mi": 17.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fly Flat Campground",
+   "type": "paid_camp",
+   "town": "De Borgia, MT",
+   "town_mi": 18.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Fork Cabin (Gravelly Range)",
+   "type": "paid_camp",
+   "town": "Lakeview, MT",
+   "town_mi": 14.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spanish Creek Cabin",
+   "type": "paid_camp",
+   "town": "Gallatin Gateway, MT",
+   "town_mi": 12.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Dickey Lake Campground",
+   "type": "paid_camp",
+   "town": "Fortine, MT",
+   "town_mi": 4.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spring Creek Campground (MT)",
+   "type": "paid_camp",
+   "town": "Martinsdale, MT",
+   "town_mi": 11.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverside Campground (Canyon Ferry)",
+   "type": "paid_camp",
+   "town": "York, MT",
+   "town_mi": 4.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bear Creek Bunkhouse",
+   "type": "paid_camp",
+   "town": "Big Sky, MT",
+   "town_mi": 12.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Windy Pass Cabin",
+   "type": "paid_camp",
+   "town": "Big Sky, MT",
+   "town_mi": 11.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Home Gulch Campground",
+   "type": "paid_camp",
+   "town": "Augusta, MT",
+   "town_mi": 17.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McGillivray Campground",
+   "type": "paid_camp",
+   "town": "Libby, MT",
+   "town_mi": 13.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Zips Place Cabin",
+   "type": "paid_camp",
+   "town": "Snowslip, MT",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Owl Creek Cabin",
+   "type": "paid_camp",
+   "town": "Condon, MT",
+   "town_mi": 8.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Horse Prairie Cabin",
+   "type": "paid_camp",
+   "town": "Grant, MT",
+   "town_mi": 12.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Garver Mountain Lookout Rental",
+   "type": "paid_camp",
+   "town": "Yaak, MT",
+   "town_mi": 8.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hunters Spring Cabin",
+   "type": "paid_camp",
+   "town": "Martinsdale Colony, MT",
+   "town_mi": 17.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fourmile Cabin",
+   "type": "paid_camp",
+   "town": "Pine Creek, MT",
+   "town_mi": 20.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Greenough Lake Campground",
+   "type": "paid_camp",
+   "town": "Red Lodge, MT",
+   "town_mi": 12.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fox Creek Cabin (MT)",
+   "type": "paid_camp",
+   "town": "Gallatin Gateway, MT",
+   "town_mi": 10.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Grove Campground",
+   "type": "paid_camp",
+   "town": "Roscoe, MT",
+   "town_mi": 9.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moose Creek Campground (MT)",
+   "type": "paid_camp",
+   "town": "Rimini, MT",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Daisy Dean Camp Campground",
+   "type": "paid_camp",
+   "town": "Martinsdale Colony, MT",
+   "town_mi": 10.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rexford Bench Campground",
+   "type": "paid_camp",
+   "town": "Rexford, MT",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whitetail Cabin",
+   "type": "paid_camp",
+   "town": "Ashland, MT",
+   "town_mi": 15.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Larry Creek Group Camp",
+   "type": "paid_camp",
+   "town": "Florence, MT",
+   "town_mi": 4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Birch Creek Cabin (MT)",
+   "type": "paid_camp",
+   "town": "Glen, MT",
+   "town_mi": 9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Racetrack Cabin",
+   "type": "paid_camp",
+   "town": "Philipsburg, MT",
+   "town_mi": 13.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rattin Campground",
+   "type": "paid_camp",
+   "town": "Red Lodge, MT",
+   "town_mi": 8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Fork of Rock Creek Cabin (MT)",
+   "type": "paid_camp",
+   "town": "Philipsburg, MT",
+   "town_mi": 14.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jo Bonner Campground",
+   "type": "paid_camp",
+   "town": "York, MT",
+   "town_mi": 6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Thain Creek Campground",
+   "type": "paid_camp",
+   "town": "Highwood, MT",
+   "town_mi": 12.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Axolotl Cabin",
+   "type": "paid_camp",
+   "town": "Virginia City, MT",
+   "town_mi": 5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bar Gulch Cabin",
+   "type": "paid_camp",
+   "town": "York, MT",
+   "town_mi": 6.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Alta Campground",
+   "type": "paid_camp",
+   "town": "Conner, MT",
+   "town_mi": 22.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kings Hill Cabin",
+   "type": "paid_camp",
+   "town": "Neihart, MT",
+   "town_mi": 6.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascade Campground (MT)",
+   "type": "paid_camp",
+   "town": "Luther, MT",
+   "town_mi": 7.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Red Shale Campground",
+   "type": "paid_camp",
+   "town": "Ashland, MT",
+   "town_mi": 7.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crystal Lake Group Campsite",
+   "type": "paid_camp",
+   "town": "Judith Gap, MT",
+   "town_mi": 14.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hogan Cabin",
+   "type": "paid_camp",
+   "town": "Sula, MT",
+   "town_mi": 9.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crandall Creek Cabin",
+   "type": "paid_camp",
+   "town": "Wilsall, MT",
+   "town_mi": 18.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Vigilante Cabin",
+   "type": "paid_camp",
+   "town": "Virginia City, MT",
+   "town_mi": 19.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Maxey Cabin",
+   "type": "paid_camp",
+   "town": "Emigrant, MT",
+   "town_mi": 11.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Twogood Cabin",
+   "type": "paid_camp",
+   "town": "Sula, MT",
+   "town_mi": 7.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Apgar Group Sites (Glacier NP)",
+   "type": "paid_camp",
+   "town": "West Glacier, MT",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverside Campground (Hungry Horse)",
+   "type": "paid_camp",
+   "town": "Essex, MT",
+   "town_mi": 9.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Montana Gulch Campground",
+   "type": "paid_camp",
+   "town": "Landusky, MT",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jumping Creek Campground",
+   "type": "paid_camp",
+   "town": "Neihart, MT",
+   "town_mi": 12.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Ford Cabin Rental",
+   "type": "paid_camp",
+   "town": "Yaak, MT",
+   "town_mi": 5.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "May Creek Cabin",
+   "type": "paid_camp",
+   "town": "Sula, MT",
+   "town_mi": 15.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Miller Cabin",
+   "type": "paid_camp",
+   "town": "Winston, MT",
+   "town_mi": 16.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "White Sandy Campground",
+   "type": "paid_camp",
+   "town": "Helena Valley Northeast, MT",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lid Creek Campground",
+   "type": "paid_camp",
+   "town": "Martin City, MT",
+   "town_mi": 9.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Devil's Corkscrew Campground",
+   "type": "paid_camp",
+   "town": "Essex, MT",
+   "town_mi": 12.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ben Rover Cabin",
+   "type": "paid_camp",
+   "town": "Polebridge, MT",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blacks Pond Campground",
+   "type": "paid_camp",
+   "town": "Birney, MT",
+   "town_mi": 11,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jellison Place Campground",
+   "type": "paid_camp",
+   "town": "Judith Gap, MT",
+   "town_mi": 14.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moose Lake Cabin",
+   "type": "paid_camp",
+   "town": "Anaconda-Deer Lodge County, MT",
+   "town_mi": 18.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gordon Reese Cabin",
+   "type": "paid_camp",
+   "town": "Sula, MT",
+   "town_mi": 10.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Emery Bay Campground",
+   "type": "paid_camp",
+   "town": "Martin City, MT",
+   "town_mi": 5.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lantis Spring Campground",
+   "type": "paid_camp",
+   "town": "Camp Crook, SD",
+   "town_mi": 11.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Silvertip Cabin",
+   "type": "paid_camp",
+   "town": "Swan Lake, MT",
+   "town_mi": 23.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yellow Mule Cabin",
+   "type": "paid_camp",
+   "town": "Big Sky, MT",
+   "town_mi": 6.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hidden Lake Campground",
+   "type": "paid_camp",
+   "town": "Seeley Lake, MT",
+   "town_mi": 5.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Devil's Elbow Campground (MT)",
+   "type": "paid_camp",
+   "town": "York, MT",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yaak Mountain Lookout Rental",
+   "type": "paid_camp",
+   "town": "Troy, MT",
+   "town_mi": 7.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Twin Lakes Cabin (MT)",
+   "type": "paid_camp",
+   "town": "Jackson, MT",
+   "town_mi": 13.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Graves Creek Campground (Hungry Horse)",
+   "type": "paid_camp",
+   "town": "Bigfork, MT",
+   "town_mi": 11.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "East Rosebud Campground",
+   "type": "paid_camp",
+   "town": "Luther, MT",
+   "town_mi": 12.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Court Sheriff Campground",
+   "type": "paid_camp",
+   "town": "York, MT",
+   "town_mi": 4.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Charles Waters Campground",
+   "type": "paid_camp",
+   "town": "Florence, MT",
+   "town_mi": 5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Butte Cabin",
+   "type": "paid_camp",
+   "town": "Lakeview, MT",
+   "town_mi": 21.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wurtz Cabin",
+   "type": "paid_camp",
+   "town": "Polebridge, MT",
+   "town_mi": 9.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Fork Teton Campground",
+   "type": "paid_camp",
+   "town": "Rockport Colony, MT",
+   "town_mi": 16.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Notch Cabin",
+   "type": "paid_camp",
+   "town": "Lakeview, MT",
+   "town_mi": 25.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cummings Cabin",
+   "type": "paid_camp",
+   "town": "Lincoln, MT",
+   "town_mi": 8.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Holland Lake Campground",
+   "type": "paid_camp",
+   "town": "Condon, MT",
+   "town_mi": 6.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bloody Dick Cabin",
+   "type": "paid_camp",
+   "town": "Jackson, MT",
+   "town_mi": 17.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Double Falls Campground",
+   "type": "paid_camp",
+   "town": "Augusta, MT",
+   "town_mi": 16.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tom Miner Campground",
+   "type": "paid_camp",
+   "town": "Corwin Springs, MT",
+   "town_mi": 12.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Toll Mountain Campground",
+   "type": "paid_camp",
+   "town": "Rader Creek, MT",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Devil Creek Campground",
+   "type": "paid_camp",
+   "town": "Snowslip, MT",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tally Lake Campground",
+   "type": "paid_camp",
+   "town": "Olney, MT",
+   "town_mi": 9.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Creek Cabin (MT)",
+   "type": "paid_camp",
+   "town": "South Glastonbury, MT",
+   "town_mi": 5.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sheridan Campground",
+   "type": "paid_camp",
+   "town": "Red Lodge, MT",
+   "town_mi": 7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trail Creek Cabin",
+   "type": "paid_camp",
+   "town": "Wineglass, MT",
+   "town_mi": 11,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McGuire Mountain Lookout Rental",
+   "type": "paid_camp",
+   "town": "Trego, MT",
+   "town_mi": 12.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ekalaka Park Campground",
+   "type": "paid_camp",
+   "town": "Ekalaka, MT",
+   "town_mi": 6.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crazy Creek Campground (MT)",
+   "type": "paid_camp",
+   "town": "Sula, MT",
+   "town_mi": 5.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Calf Creek Cabin",
+   "type": "paid_camp",
+   "town": "Neihart, MT",
+   "town_mi": 13,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Parkside Campground",
+   "type": "paid_camp",
+   "town": "Red Lodge, MT",
+   "town_mi": 11.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spring Gulch Campground",
+   "type": "paid_camp",
+   "town": "Sula, MT",
+   "town_mi": 3.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Anna Creek Cabin",
+   "type": "paid_camp",
+   "town": "Essex, MT",
+   "town_mi": 11.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cow Creek Campground and Picnic Area",
+   "type": "paid_camp",
+   "town": "Birney, MT",
+   "town_mi": 14,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "St. Mary Campground",
+   "type": "paid_camp",
+   "town": "St. Mary, MT",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yaak River Campground",
+   "type": "paid_camp",
+   "town": "Troy, MT",
+   "town_mi": 7.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ashley Lake South Campground",
+   "type": "paid_camp",
+   "town": "Rhodes, MT",
+   "town_mi": 6.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Bear Campground (MT)",
+   "type": "paid_camp",
+   "town": "Hamilton, MT",
+   "town_mi": 12.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Schnaus Cabin",
+   "type": "paid_camp",
+   "town": "Polebridge, MT",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Battle Ridge Cabin",
+   "type": "paid_camp",
+   "town": "Bridger, MT",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fales Flat Campground",
+   "type": "paid_camp",
+   "town": "Conner, MT",
+   "town_mi": 19.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Flint Creek Campground",
+   "type": "paid_camp",
+   "town": "Philipsburg, MT",
+   "town_mi": 6.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Douglas Creek Cabin",
+   "type": "paid_camp",
+   "town": "Maxville, MT",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Como Campground",
+   "type": "paid_camp",
+   "town": "Darby, MT",
+   "town_mi": 4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kading Cabin",
+   "type": "paid_camp",
+   "town": "Elliston, MT",
+   "town_mi": 8.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Strawberry Cabin",
+   "type": "paid_camp",
+   "town": "Montana City, MT",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Boulder Cabin",
+   "type": "paid_camp",
+   "town": "Pine Creek, MT",
+   "town_mi": 13.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "High Rye Cabin",
+   "type": "paid_camp",
+   "town": "Butte-Silver Bow, MT",
+   "town_mi": 10.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Creek Baldy Lookout Rental",
+   "type": "paid_camp",
+   "town": "Yaak, MT",
+   "town_mi": 14.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Meyers Creek Cabin",
+   "type": "paid_camp",
+   "town": "Nye, MT",
+   "town_mi": 8.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "James Kipp Campground",
+   "type": "paid_camp",
+   "town": "Landusky, MT",
+   "town_mi": 19,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "East Fork Cabin",
+   "type": "paid_camp",
+   "town": "Sula, MT",
+   "town_mi": 12.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hellgate Campground",
+   "type": "paid_camp",
+   "town": "Spokane Creek, MT",
+   "town_mi": 7.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Woods Cabin",
+   "type": "paid_camp",
+   "town": "Darby, MT",
+   "town_mi": 4.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Warm Springs Campground (MT)",
+   "type": "paid_camp",
+   "town": "Sula, MT",
+   "town_mi": 4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Basin Campground (MT)",
+   "type": "paid_camp",
+   "town": "Red Lodge, MT",
+   "town_mi": 7.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rillway Cabin",
+   "type": "paid_camp",
+   "town": "Townsend, MT",
+   "town_mi": 13.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ford Cabin",
+   "type": "paid_camp",
+   "town": "Polebridge, MT",
+   "town_mi": 8.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "White Earth Campground",
+   "type": "paid_camp",
+   "town": "Winston, MT",
+   "town_mi": 5.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sex Peak Lookout Rental",
+   "type": "paid_camp",
+   "town": "Trout Creek, MT",
+   "town_mi": 8.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gold Creek Campground (MT)",
+   "type": "paid_camp",
+   "town": "Corvallis, MT",
+   "town_mi": 11.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cave Mountain Campground",
+   "type": "paid_camp",
+   "town": "Rockport Colony, MT",
+   "town_mi": 16.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mill Creek Cabin",
+   "type": "paid_camp",
+   "town": "Pray, MT",
+   "town_mi": 10.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kenck Cabin",
+   "type": "paid_camp",
+   "town": "Augusta, MT",
+   "town_mi": 23.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Halfmoon Campground (MT)",
+   "type": "paid_camp",
+   "town": "Big Timber, MT",
+   "town_mi": 19.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crystal Lake Cabin",
+   "type": "paid_camp",
+   "town": "Judith Gap, MT",
+   "town_mi": 13.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Window Rock Cabin",
+   "type": "paid_camp",
+   "town": "Emigrant, MT",
+   "town_mi": 11.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Limber Pine Campground",
+   "type": "paid_camp",
+   "town": "Red Lodge, MT",
+   "town_mi": 12.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wall Creek Cabin",
+   "type": "paid_camp",
+   "town": "Virginia City, MT",
+   "town_mi": 22.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Bear Cabin",
+   "type": "paid_camp",
+   "town": "Gallatin Gateway, MT",
+   "town_mi": 6.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Bridger Cabin",
+   "type": "paid_camp",
+   "town": "Greycliff, MT",
+   "town_mi": 9.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dry Wolf Cabin",
+   "type": "paid_camp",
+   "town": "Neihart, MT",
+   "town_mi": 12.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sylvia Lake Campground",
+   "type": "paid_camp",
+   "town": "Little Bitterroot Lake, MT",
+   "town_mi": 15.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fish Creek Campground (Glacier NP)",
+   "type": "paid_camp",
+   "town": "West Glacier, MT",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Van Deriet Campground",
+   "type": "paid_camp",
+   "town": "Augusta, MT",
+   "town_mi": 22.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Indian Flats Cabin",
+   "type": "paid_camp",
+   "town": "York, MT",
+   "town_mi": 8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McGregor Lake Campground",
+   "type": "paid_camp",
+   "town": "Happys Inn, MT",
+   "town_mi": 10.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Woodbine Campground",
+   "type": "paid_camp",
+   "town": "Nye, MT",
+   "town_mi": 7.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Porcupine Cabin",
+   "type": "paid_camp",
+   "town": "Wilsall, MT",
+   "town_mi": 12.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Fork Cabin (Rocky Mountain Front)",
+   "type": "paid_camp",
+   "town": "Rockport Colony, MT",
+   "town_mi": 16.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Webb Mountain Lookout Rental",
+   "type": "paid_camp",
+   "town": "Rexford, MT",
+   "town_mi": 9.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Emerald Lake Campground (MT)",
+   "type": "paid_camp",
+   "town": "Roscoe, MT",
+   "town_mi": 12.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Holter Lake Campground",
+   "type": "paid_camp",
+   "town": "Wolf Creek, MT",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deer Creek Cabin (MT)",
+   "type": "paid_camp",
+   "town": "Greycliff, MT",
+   "town_mi": 12.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rombo Campground",
+   "type": "paid_camp",
+   "town": "Conner, MT",
+   "town_mi": 13.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Departure Point Recreation Area",
+   "type": "paid_camp",
+   "town": "Wolf Creek, MT",
+   "town_mi": 7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ninko Cabin",
+   "type": "paid_camp",
+   "town": "Fortine, MT",
+   "town_mi": 14.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Soda Butte Campground",
+   "type": "paid_camp",
+   "town": "Cooke City, MT",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Indian Trees Campground",
+   "type": "paid_camp",
+   "town": "Sula, MT",
+   "town_mi": 6.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ibex Cabin",
+   "type": "paid_camp",
+   "town": "Wilsall, MT",
+   "town_mi": 10.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Timberlane Campground",
+   "type": "paid_camp",
+   "town": "Libby, MT",
+   "town_mi": 7.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mystic Lake Cabin",
+   "type": "paid_camp",
+   "town": "Bozeman, MT",
+   "town_mi": 11.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lost Johnny Point Campground",
+   "type": "paid_camp",
+   "town": "Martin City, MT",
+   "town_mi": 6.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wickham Gulch Campground",
+   "type": "paid_camp",
+   "town": "Camp Crook, SD",
+   "town_mi": 5.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Canyon Creek Cabin",
+   "type": "paid_camp",
+   "town": "Dewey, MT",
+   "town_mi": 7.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chinamen's Campground",
+   "type": "paid_camp",
+   "town": "York, MT",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Doris Creek Campground",
+   "type": "paid_camp",
+   "town": "Martin City, MT",
+   "town_mi": 6.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Murray Bay Campground",
+   "type": "paid_camp",
+   "town": "Essex, MT",
+   "town_mi": 9.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mt. Wam Lookout Cabin Rental",
+   "type": "paid_camp",
+   "town": "Indian Springs, MT",
+   "town_mi": 10.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gem Peak Lookout Rental",
+   "type": "paid_camp",
+   "town": "Noxon, MT",
+   "town_mi": 8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Indian Road Group Use Shelter",
+   "type": "paid_camp",
+   "town": "Townsend, MT",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hells Canyon Campground (MT)",
+   "type": "paid_camp",
+   "town": "Pine Creek, MT",
+   "town_mi": 20,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Medicine Creek Campground",
+   "type": "paid_camp",
+   "town": "Fort Smith, MT",
+   "town_mi": 19.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trail Creek Canyon Campground",
+   "type": "paid_camp",
+   "town": "Cowley, WY",
+   "town_mi": 19.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McDonald Lake Campground",
+   "type": "paid_camp",
+   "town": "West Glacier, MT",
+   "town_mi": 7.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Granite Park Campsite",
+   "type": "paid_camp",
+   "town": "St. Mary, MT",
+   "town_mi": 16.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bannack State Park Campground",
+   "type": "paid_camp",
+   "town": "Argenta, MT",
+   "town_mi": 10.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bad Medicine Campground (MT)",
+   "type": "paid_camp",
+   "town": "Bull Lake, MT",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hideaway RV Park",
+   "type": "rv_park",
+   "town": "West Yellowstone, MT",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crystal Creek Campground (MT)",
+   "type": "paid_camp",
+   "town": "Corvallis, MT",
+   "town_mi": 18.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grasshopper Campground",
+   "type": "paid_camp",
+   "town": "White Sulphur Springs, MT",
+   "town_mi": 7.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Benchmark Campground",
+   "type": "paid_camp",
+   "town": "Augusta, MT",
+   "town_mi": 22.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wood Lake Campground",
+   "type": "paid_camp",
+   "town": "Augusta, MT",
+   "town_mi": 19.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fire Island Campground",
+   "type": "paid_camp",
+   "town": "Martin City, MT",
+   "town_mi": 9.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elk Island Campground",
+   "type": "paid_camp",
+   "town": "Essex, MT",
+   "town_mi": 9.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Logan State Park Campground",
+   "type": "paid_camp",
+   "town": "Happys Inn, MT",
+   "town_mi": 3.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bull River Campground",
+   "type": "paid_camp",
+   "town": "Noxon, MT",
+   "town_mi": 4.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Copper Creek Campground (MT)",
+   "type": "paid_camp",
+   "town": "Anaconda-Deer Lodge County, MT",
+   "town_mi": 19.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Potosi Campground",
+   "type": "paid_camp",
+   "town": "Pony, MT",
+   "town_mi": 6.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Countryside RV Park",
+   "type": "rv_park",
+   "town": "Dillon, MT",
+   "town_mi": 4.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cascade Campground (Clark Fork)",
+   "type": "paid_camp",
+   "town": "Paradise, MT",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Orofino Campground",
+   "type": "paid_camp",
+   "town": "Racetrack, MT",
+   "town_mi": 6.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moose Creek Flat Campground",
+   "type": "paid_camp",
+   "town": "Big Sky, MT",
+   "town_mi": 10.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Copper King Campground",
+   "type": "paid_camp",
+   "town": "Thompson Falls, MT",
+   "town_mi": 7.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Clark Memorial Campground",
+   "type": "paid_camp",
+   "town": "Thompson Falls, MT",
+   "town_mi": 8.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moore Lake Campground",
+   "type": "paid_camp",
+   "town": "St. Regis, MT",
+   "town_mi": 10.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lolo Creek Campground and Picnic Area",
+   "type": "paid_camp",
+   "town": "Lolo, MT",
+   "town_mi": 13.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Small Town RV Campground",
+   "type": "rv_park",
+   "town": "Terry, MT",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverview RV Park",
+   "type": "rv_park",
+   "town": "Glendive, MT",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Drummond Campground",
+   "type": "paid_camp",
+   "town": "Drummond, MT",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Sky RV Park & Campground",
+   "type": "rv_park",
+   "town": "Anaconda-Deer Lodge County, MT",
+   "town_mi": 9.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hunters RV Park",
+   "type": "rv_park",
+   "town": "Anaconda-Deer Lodge County, MT",
+   "town_mi": 7.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lost Creek Campground (MT)",
+   "type": "paid_camp",
+   "town": "Anaconda-Deer Lodge County, MT",
+   "town_mi": 10.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Angler's Roost RV Park",
+   "type": "rv_park",
+   "town": "Hamilton, MT",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spring Creek Campground (Big Timber)",
+   "type": "paid_camp",
+   "town": "Big Timber, MT",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yellowstone's Edge RV Park",
+   "type": "rv_park",
+   "town": "Pray, MT",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rock Canyon RV Park",
+   "type": "rv_park",
+   "town": "Wineglass, MT",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cardwell RV Park",
+   "type": "rv_park",
+   "town": "Cardwell, MT",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Havre RV Park",
+   "type": "rv_park",
+   "town": "Havre North, MT",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverside Motel & RV Park (MT)",
+   "type": "rv_park",
+   "town": "Malta, MT",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shady Rest RV Park",
+   "type": "rv_park",
+   "town": "Glasgow, MT",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pondera RV Park",
+   "type": "rv_park",
+   "town": "Conrad, MT",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jennings Camp Campground",
+   "type": "paid_camp",
+   "town": "Sula, MT",
+   "town_mi": 7.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Richardson Campground",
+   "type": "paid_camp",
+   "town": "White Sulphur Springs, MT",
+   "town_mi": 8.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Logging Creek Campground",
+   "type": "paid_camp",
+   "town": "Monarch, MT",
+   "town_mi": 7.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moose Creek Campground (Little Belt)",
+   "type": "paid_camp",
+   "town": "Neihart, MT",
+   "town_mi": 9.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Many Pines Campground",
+   "type": "paid_camp",
+   "town": "Neihart, MT",
+   "town_mi": 3.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Beaverhead-Deerlodge National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bitterroot National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Custer National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Flathead National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Custer Gallatin National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Helena-Lewis and Clark National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Galena Gulch Campground",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dickie Bridge Campground",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Anita Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Benton Lake National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Benton Lake Wetland Management District",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Canyon Ferry Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Clark Canyon Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lee Metcalf Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bowdoin National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bowdoin Wetland Management District",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fresno Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gibson Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Helena Valley Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Charles M. Russell National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hungry Horse Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Grass Lake National Wildlife Refuge",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Mason National Wildlife Refuge",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lee Metcalf National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Northwest Montana Wetland Management District",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Red Rock Lakes National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "UL Bend National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Humbug Spires WSA",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ear Mountain",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Collar Peak",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Limekiln Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Four Dances SRMA",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Shepherd Ah Nei SRMA",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ruby Mountain SRMA",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lower Blackfoot River Corridor",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Garnet Winter Trails",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Big Sky Back Country Byway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "War Horse National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Centennial Mountains",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sweet Grass Hills",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Upper Missouri National Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Little Rockies Recreation Management Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "South Phillips Recreation Management Area",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Garnet Back Country Byway",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Libby Dam and Lake Koocanusa",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fort Peck Project",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pompeys Pillar National Monument and Visitor Center",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Freezeout Lake",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Elwell",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lost Trail National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hewitt Lake National Wildlife Refuge",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Big Sheep Creek Back Country Byway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Nelson Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pishkun Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Willow Creek Reservoir - Montana",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Chittenden Road - Mount Washburn Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Forces of the Northern Range Self-guided Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Red Foxes",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bighorn Sheep",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gray Wolves",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Elk",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wolverines",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Deer",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pikas",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mountain Goats",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Moose",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Marmots",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Coyotes",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Beavers",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bears",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bats",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tour Fort Union Trading Post",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Fort Union's Trade House",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Jr. Ranger and Jr. Trader at Fort Union",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Capt. John Mullan",
+   "type": "arts_culture",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Graffiti Wall",
+   "type": "arts_culture",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Myrtle Street Taproom",
+   "type": "brewery_distillery",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Museum of Forest Service History",
+   "type": "museum",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roosevelt",
+   "type": "historic_site",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phylis Washington Amphitheater",
+   "type": "arts_culture",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hellgate Meadows Village",
+   "type": "historic_site",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stockman's Cafe & Bar",
+   "type": "brewery_distillery",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Radius Gallery",
+   "type": "arts_culture",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Artists' Shop",
+   "type": "arts_culture",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "E3 Convergance Gallery",
+   "type": "museum",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dana Gallery",
+   "type": "arts_culture",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Draught Works",
+   "type": "brewery_distillery",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "GILD",
+   "type": "brewery_distillery",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Side Studios & Theater",
+   "type": "arts_culture",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Captain John Mullan",
+   "type": "arts_culture",
+   "city": "East Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garden City Monument Services",
+   "type": "historic_site",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio Greytak",
+   "type": "arts_culture",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rattlesnake Graveyard Memorial",
+   "type": "historic_site",
+   "city": "East Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Missoula Fire Department Memorial",
+   "type": "historic_site",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Missoula Law Enforcement Memorial",
+   "type": "historic_site",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean Veterans Memorial",
+   "type": "historic_site",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Fishing Kids",
+   "type": "arts_culture",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grizzly Gate",
+   "type": "arts_culture",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warden's Market",
+   "type": "farmers_market",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bike & Type",
+   "type": "coworking",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sparkle Laundry",
+   "type": "laundromat",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wilma Theatre",
+   "type": "arts_culture",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maureen and Mike Mansfield Library",
+   "type": "library",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Mountain Flying",
+   "type": "museum",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montana Museum of Art and Culture",
+   "type": "arts_culture",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Missoula Art Museum",
+   "type": "museum",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "KettleHouse Brewery Northside",
+   "type": "brewery_distillery",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The X’s",
+   "type": "arts_culture",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Missoula Children's Theatre",
+   "type": "arts_culture",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bayern Brewing",
+   "type": "brewery_distillery",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Patricks Hospital Laundry Facility",
+   "type": "laundromat",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Sky Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rocky Mountain Museum of Military History",
+   "type": "museum",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historical Museum at Fort Missoula",
+   "type": "museum",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Conflux Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Burn Brewing",
+   "type": "brewery_distillery",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LA Design Custom Framing",
+   "type": "arts_culture",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BN Plaza",
+   "type": "historic_downtown",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lemon Laundry",
+   "type": "laundromat",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Green Hanger",
+   "type": "laundromat",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Imagine Nation Brewing",
+   "type": "brewery_distillery",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Western Cider",
+   "type": "brewery_distillery",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Missoula Public Library",
+   "type": "library",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montana Natural History Center / Five Valleys Land Trust",
+   "type": "science_center",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ten Spoon Vineyard and Winery",
+   "type": "brewery_distillery",
+   "city": "East Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arts Missoula",
+   "type": "museum",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montana Museum of Art and Culture",
+   "type": "museum",
+   "city": "Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "KettleHouse Amphitheater",
+   "type": "arts_culture",
+   "city": "East Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "KettleHouse Bonner Taproom",
+   "type": "brewery_distillery",
+   "city": "East Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "KettleHouse Brewing Company",
+   "type": "brewery_distillery",
+   "city": "East Missoula",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cascade County Historical Society Museum",
+   "type": "museum",
+   "city": "Great Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paris Gibson Square Museum of Art",
+   "type": "museum",
+   "city": "Great Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kid Russel & Monte",
+   "type": "arts_culture",
+   "city": "Great Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "QGallery Sixteen",
+   "type": "arts_culture",
+   "city": "Great Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Music",
+   "type": "arts_culture",
+   "city": "Great Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The History Museum",
+   "type": "museum",
+   "city": "Great Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Falls Cleaners & Laundry Center",
+   "type": "laundromat",
+   "city": "Great Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "10th Avenue Laundry",
+   "type": "laundromat",
+   "city": "Great Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A. Hooker's Gallery",
+   "type": "arts_culture",
+   "city": "Great Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Eagle Brewery",
+   "type": "brewery_distillery",
+   "city": "Black Eagle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Malmstrom Museum",
+   "type": "museum",
+   "city": "Black Eagle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fine Arts Center",
+   "type": "arts_culture",
+   "city": "Great Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Malmstrom Air Force Base Library",
+   "type": "library",
+   "city": "Black Eagle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's Museum of Montana",
+   "type": "museum",
+   "city": "Great Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Falls Civic Center",
+   "type": "arts_culture",
+   "city": "Great Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lewis and Clark Interpretive Center",
+   "type": "museum",
+   "city": "Black Eagle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "C. M. Russell Museum",
+   "type": "museum",
+   "city": "Great Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Falls Public Library",
+   "type": "library",
+   "city": "Great Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vinegar Jones Cabin",
+   "type": "museum",
+   "city": "Great Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hoven Equipment",
+   "type": "farmers_market",
+   "city": "Black Eagle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Computer Museum",
+   "type": "museum",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bozeman Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Music Arts Center",
+   "type": "arts_culture",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash House",
+   "type": "laundromat",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bridger Brewing",
+   "type": "brewery_distillery",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "T-Rex Fossil",
+   "type": "arts_culture",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Michael P. Malone Centennial Mall",
+   "type": "historic_site",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Chair",
+   "type": "arts_culture",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Books Box",
+   "type": "arts_culture",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "El Mercadito",
+   "type": "farmers_market",
+   "city": "Four Corners",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sundial",
+   "type": "arts_culture",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Apres Brewery",
+   "type": "brewery_distillery",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maven's Market",
+   "type": "farmers_market",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Ventures Brewing",
+   "type": "brewery_distillery",
+   "city": "Four Corners",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bunkhouse Brewery",
+   "type": "brewery_distillery",
+   "city": "Four Corners",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dry Hills Distillery",
+   "type": "brewery_distillery",
+   "city": "Four Corners",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Huckleberry's Natural Market",
+   "type": "farmers_market",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valhalla Meadery",
+   "type": "brewery_distillery",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Last Best Place Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "La Brasserie Urban Winery",
+   "type": "brewery_distillery",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountain Trails Gallery Bozeman",
+   "type": "arts_culture",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shine Beer Sanctuary",
+   "type": "brewery_distillery",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rialto",
+   "type": "arts_culture",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Renne Library",
+   "type": "library",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bozeman Public Library",
+   "type": "library",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kaleidoscope Theater",
+   "type": "arts_culture",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lockhorn Cider House",
+   "type": "brewery_distillery",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's Museum of Bozeman",
+   "type": "museum",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Ellen Theatre",
+   "type": "arts_culture",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallatin History Museum",
+   "type": "museum",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Emerson Cultural Center",
+   "type": "arts_culture",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Clothesline",
+   "type": "laundromat",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountains Walking Brewery & Pub",
+   "type": "brewery_distillery",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "live_music",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Story Mansion",
+   "type": "museum",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Map Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Outlaw Brewing",
+   "type": "brewery_distillery",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Spirit\" MSU Bobcat",
+   "type": "arts_culture",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Duds N Suds",
+   "type": "laundromat",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Elm",
+   "type": "arts_culture",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of the Rockies",
+   "type": "museum",
+   "city": "Bozeman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Billings Studio Theater",
+   "type": "arts_culture",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial",
+   "type": "historic_site",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carter's Brewing",
+   "type": "brewery_distillery",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Asylum",
+   "type": "brewery_distillery",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harry Koyama Fine Art",
+   "type": "arts_culture",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prodigal Gallery",
+   "type": "arts_culture",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Del Alma Gallery & Studio",
+   "type": "arts_culture",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NOVA",
+   "type": "arts_culture",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Billings Livestock Commission",
+   "type": "farmers_market",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ghost Cave",
+   "type": "historic_site",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Middle Cave",
+   "type": "historic_site",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pictograph Cave",
+   "type": "historic_site",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farwest Gallery",
+   "type": "arts_culture",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montana Gallery",
+   "type": "arts_culture",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Billings Public Library",
+   "type": "library",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kirks' Grocery",
+   "type": "arts_culture",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spin Fresh Laundry",
+   "type": "laundromat",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spin Fresh Laundry",
+   "type": "laundromat",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Diamond X Beer Co.",
+   "type": "brewery_distillery",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trailhead Spirits",
+   "type": "brewery_distillery",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "By All Means Brewing",
+   "type": "brewery_distillery",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Isabela Asian Market",
+   "type": "farmers_market",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yellowstone Olive",
+   "type": "farmers_market",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Sky Bubbles",
+   "type": "laundromat",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BYO Laundry",
+   "type": "laundromat",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thristy Street at the Garage",
+   "type": "brewery_distillery",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Undammed Distilling Co.",
+   "type": "brewery_distillery",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hospital Laundry Services",
+   "type": "laundromat",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Time",
+   "type": "laundromat",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wise Wonders",
+   "type": "museum",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TOUCAN",
+   "type": "arts_culture",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yellowstone Cellars & Winery",
+   "type": "brewery_distillery",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Maker's Market",
+   "type": "farmers_market",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1Ō5 Brewing",
+   "type": "brewery_distillery",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Horn Design and Art Gallery",
+   "type": "arts_culture",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peter Yegen Jr. Yellowstone County Museum",
+   "type": "museum",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Canyon Creek Brewing",
+   "type": "brewery_distillery",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Last Chance Cider Mill",
+   "type": "brewery_distillery",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yellowstone Art Museum",
+   "type": "museum",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Überbrew",
+   "type": "brewery_distillery",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montana Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Western Heritage Center",
+   "type": "museum",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thirsty Street Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Angry Hank's Brewery",
+   "type": "brewery_distillery",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moss Mansion Museum",
+   "type": "museum",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alberta Bair Theater",
+   "type": "arts_culture",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University Library",
+   "type": "library",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nova Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paul M. Adams Memorial Library",
+   "type": "library",
+   "city": "Billings",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas Francis Meagher Statue",
+   "type": "arts_culture",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountain West Voices",
+   "type": "arts_culture",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reeder's Alley Interpretive And Convention Center",
+   "type": "museum",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Four Georgians Mine",
+   "type": "historic_site",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lime Kiln Ruins",
+   "type": "historic_site",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centennial Monument",
+   "type": "historic_site",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mary Statue",
+   "type": "historic_site",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Dipper Coin Laundry",
+   "type": "laundromat",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Depot Laundromat",
+   "type": "laundromat",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lime Kiln Ruins",
+   "type": "historic_site",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Helena",
+   "type": "historic_site",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Extra! Extra!\"",
+   "type": "arts_culture",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Womens Mural",
+   "type": "arts_culture",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert and Elizabeth Fisk House",
+   "type": "historic_site",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Headwaters Crafthouse",
+   "type": "brewery_distillery",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Trolley",
+   "type": "historic_site",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pearl Harbor Memorial",
+   "type": "historic_site",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "10 Commandments",
+   "type": "historic_site",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo",
+   "type": "arts_culture",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First Gold Strike in Helena",
+   "type": "historic_site",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montana City Library",
+   "type": "library",
+   "city": "Montana City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Helena Avenue Theater",
+   "type": "arts_culture",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grandstreet Theater Scene Shop",
+   "type": "arts_culture",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Shop",
+   "type": "coworking",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Helena College University of Montana Library",
+   "type": "library",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Hawthorn",
+   "type": "brewery_distillery",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountain Sage Gallery",
+   "type": "arts_culture",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montana Heritage Center",
+   "type": "museum",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Omerta Arts",
+   "type": "arts_culture",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Sidecar",
+   "type": "coworking",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mad Murray Brewery",
+   "type": "brewery_distillery",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montana's Museum",
+   "type": "museum",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lewis and Clark Library",
+   "type": "library",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Holter Museum of Art",
+   "type": "museum",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grandstreet Theatre",
+   "type": "arts_culture",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jack and Sallie Corette Library",
+   "type": "library",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Exploration Works",
+   "type": "museum",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lewis and Clark Brewery",
+   "type": "brewery_distillery",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Myrna Loy Center",
+   "type": "arts_culture",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lewis & Clark Library East Helena Branch",
+   "type": "library",
+   "city": "East Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blackfoot River Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Speakeasy 41 Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Econ-o-Wash",
+   "type": "laundromat",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Copper Furrow Brewing",
+   "type": "brewery_distillery",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rodney Street Laundry",
+   "type": "laundromat",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Heath",
+   "type": "arts_culture",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Caretaker's Cabin",
+   "type": "museum",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Missouri River Brewing Company",
+   "type": "brewery_distillery",
+   "city": "East Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Our Lady Of The Rockies",
+   "type": "historic_site",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butte-Silver Bow Public Library",
+   "type": "library",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World Museum of Mining",
+   "type": "museum",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Front Street Market and Catering",
+   "type": "farmers_market",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Science Mine",
+   "type": "science_center",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quarry Brewing",
+   "type": "brewery_distillery",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Covellite Theater",
+   "type": "arts_culture",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bute-Silver Bow Public Library",
+   "type": "library",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wine Bar at Park 217",
+   "type": "brewery_distillery",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orediggers",
+   "type": "arts_culture",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montana Tech",
+   "type": "arts_culture",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bob Green",
+   "type": "arts_culture",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clean-N-Dry (Self & Paid Service)",
+   "type": "laundromat",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Speculator Mine Disaster Memorial",
+   "type": "historic_site",
+   "city": "Walkerville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Church at World Museum of Mining",
+   "type": "museum",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bank Building",
+   "type": "museum",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Piccadilly Museum of Transportation",
+   "type": "museum",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic Clark Chateau Museum & Gallery",
+   "type": "museum",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Copper King Mansion",
+   "type": "museum",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mother Lode Theatre",
+   "type": "arts_culture",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camp Restroom & Showers",
+   "type": "shower",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Granite Mountain Memorial Area",
+   "type": "historic_site",
+   "city": "Walkerville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Resident Laundry",
+   "type": "laundromat",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guest Laundry",
+   "type": "laundromat",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "RV Dump",
+   "type": "dump_station",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guest Laundry",
+   "type": "laundromat",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guest Laundry",
+   "type": "laundromat",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butte Public Library - South",
+   "type": "library",
+   "city": "Butte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Forevergreen Tire & Alignment",
+   "type": "farmers_market",
+   "city": "Evergreen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Family Life Christian Church Large Wooden Cross",
+   "type": "historic_site",
+   "city": "Kalispell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Albino Buffalo",
+   "type": "arts_culture",
+   "city": "Kalispell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Bench",
+   "type": "historic_site",
+   "city": "Kalispell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Plaque",
+   "type": "historic_site",
+   "city": "Kalispell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bias Brewing",
+   "type": "brewery_distillery",
+   "city": "Kalispell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pine Grove Historic School Bell",
+   "type": "historic_site",
+   "city": "Helena Flats",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dirty Boy Laundry",
+   "type": "laundromat",
+   "city": "Kalispell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Imperial Dry Cleaners",
+   "type": "laundromat",
+   "city": "Kalispell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tailing Loop Winery",
+   "type": "brewery_distillery",
+   "city": "Evergreen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northwest Montana History Museum",
+   "type": "museum",
+   "city": "Kalispell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ImagineIf Kalispell",
+   "type": "library",
+   "city": "Kalispell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glacier Art Museum",
+   "type": "museum",
+   "city": "Kalispell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SunRift Beer Company",
+   "type": "brewery_distillery",
+   "city": "Kalispell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Imperial Dry Cleaners and Laundromat",
+   "type": "laundromat",
+   "city": "Evergreen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whitefish Handcrafted Spirits",
+   "type": "brewery_distillery",
+   "city": "Evergreen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sacred Waters Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Helena Flats",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McClaren Hall",
+   "type": "arts_culture",
+   "city": "Kalispell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wanda Hollensteiner Art Gallery",
+   "type": "arts_culture",
+   "city": "Kalispell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flathead County Veterans Memorial",
+   "type": "historic_site",
+   "city": "Kalispell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Mountain Ciderworks",
+   "type": "brewery_distillery",
+   "city": "Kalispell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "O'Shaughnessy Amphitheater",
+   "type": "arts_culture",
+   "city": "Kalispell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "H Earl Clack Memorial Museum",
+   "type": "museum",
+   "city": "Havre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James J. Hill \"The Empire Builder\"",
+   "type": "arts_culture",
+   "city": "Havre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Sky Images & Collectables",
+   "type": "arts_culture",
+   "city": "West Havre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crawford Distillery",
+   "type": "brewery_distillery",
+   "city": "Havre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Station Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Havre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Havre Laundry & Dry Cleaning",
+   "type": "laundromat",
+   "city": "Havre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Havre Beneath the Streets",
+   "type": "museum",
+   "city": "Havre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "H. Earl Clack Memorial Museum",
+   "type": "museum",
+   "city": "Havre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Library Gallery",
+   "type": "arts_culture",
+   "city": "Havre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wahkpa Chu'gn Buffalo Jump",
+   "type": "museum",
+   "city": "West Havre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Otium Brewing",
+   "type": "brewery_distillery",
+   "city": "Miles City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Horse on Carbon Hill",
+   "type": "arts_culture",
+   "city": "Miles City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Auditorium",
+   "type": "arts_culture",
+   "city": "Miles City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Native American and Horse",
+   "type": "arts_culture",
+   "city": "Miles City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Express Laundry Center",
+   "type": "laundromat",
+   "city": "Miles City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Range Riders Museum",
+   "type": "museum",
+   "city": "Miles City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WaterWorks Art Museum",
+   "type": "museum",
+   "city": "Miles City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tilt Würks Brewhouse & Casino",
+   "type": "brewery_distillery",
+   "city": "Miles City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fly Fishing the Misty Madison River",
+   "type": "arts_culture",
+   "city": "Belgrade",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BZN Market",
+   "type": "farmers_market",
+   "city": "Belgrade",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Belgrade Public Library",
+   "type": "library",
+   "city": "Belgrade",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stumptown Historical Society Museum",
+   "type": "museum",
+   "city": "Whitefish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blackstar Brewery & Restaurant",
+   "type": "brewery_distillery",
+   "city": "Whitefish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alpine Laundry",
+   "type": "laundromat",
+   "city": "Whitefish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frame Of Reference",
+   "type": "arts_culture",
+   "city": "Whitefish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mudman Gallery",
+   "type": "arts_culture",
+   "city": "Whitefish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dick Idol Signature Gallery",
+   "type": "arts_culture",
+   "city": "Whitefish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Going to the Sun",
+   "type": "arts_culture",
+   "city": "Whitefish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "O'Shaughnessy Center",
+   "type": "arts_culture",
+   "city": "Whitefish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whitefish Community Library",
+   "type": "library",
+   "city": "Whitefish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whitefish Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Whitefish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "GN 181",
+   "type": "historic_site",
+   "city": "Whitefish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bonsai Brewing Project",
+   "type": "brewery_distillery",
+   "city": "Whitefish",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Livingston Public Library",
+   "type": "library",
+   "city": "Livingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yellowstone Gateway Museum",
+   "type": "museum",
+   "city": "Livingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Off the Cuff Dry Cleaning & Laundry",
+   "type": "laundromat",
+   "city": "Livingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Livingston Depot",
+   "type": "museum",
+   "city": "Livingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mordam Art",
+   "type": "arts_culture",
+   "city": "Livingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "b.hive",
+   "type": "arts_culture",
+   "city": "Livingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fireflies Pottery & Art Gallery",
+   "type": "arts_culture",
+   "city": "Livingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parks Reece Gallery",
+   "type": "arts_culture",
+   "city": "Livingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Visions West",
+   "type": "arts_culture",
+   "city": "Livingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Flying Squirrel Gallery",
+   "type": "arts_culture",
+   "city": "Livingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bensley Art Gallery",
+   "type": "arts_culture",
+   "city": "Livingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scrub Tub Laundry",
+   "type": "laundromat",
+   "city": "Livingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Katabatic Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Livingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Neptune's Brewery",
+   "type": "brewery_distillery",
+   "city": "Livingston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carnegie Library",
+   "type": "library",
+   "city": "Red Lodge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carbon County Museum",
+   "type": "museum",
+   "city": "Red Lodge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beartooth Gallery Fine Art",
+   "type": "arts_culture",
+   "city": "Red Lodge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kinzley",
+   "type": "arts_culture",
+   "city": "Red Lodge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Lodge Clay Center",
+   "type": "arts_culture",
+   "city": "Red Lodge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Depot Gallery",
+   "type": "arts_culture",
+   "city": "Red Lodge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Lodge Ales",
+   "type": "brewery_distillery",
+   "city": "Red Lodge",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Troy Museum",
+   "type": "museum",
+   "city": "Troy",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glacier Fine Art",
+   "type": "arts_culture",
+   "city": "Hungry Horse",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hungry Horse Laundrymat",
+   "type": "laundromat",
+   "city": "Hungry Horse",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum Of Wildlife",
+   "type": "museum",
+   "city": "Hungry Horse",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Darby Public Library",
+   "type": "library",
+   "city": "Darby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bandit Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Darby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Darby Pioneer Memorial Museum",
+   "type": "museum",
+   "city": "Darby",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Mullan Statue",
+   "type": "arts_culture",
+   "city": "Saint Regis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hearst Free Library",
+   "type": "library",
+   "city": "Anaconda",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Suds Pub Laundromat",
+   "type": "laundromat",
+   "city": "Anaconda",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John F. Kennedy",
+   "type": "arts_culture",
+   "city": "Anaconda",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smelter City Brewing",
+   "type": "brewery_distillery",
+   "city": "Anaconda",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Apgar Amphitheatre",
+   "type": "arts_culture",
+   "city": "West Glacier",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

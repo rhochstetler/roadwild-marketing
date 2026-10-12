@@ -1,0 +1,6774 @@
+{
+ "state": "NM",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "La Bobita Campground",
+   "type": "paid_camp",
+   "town": "Red River, NM",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Canyon Campground - Lower",
+   "type": "paid_camp",
+   "town": "Gila Hot Springs, NM",
+   "town_mi": 9.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McGaffey Campground",
+   "type": "paid_camp",
+   "town": "McGaffey, NM",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mills Canyon Rim Campground",
+   "type": "paid_camp",
+   "town": "Roy, NM",
+   "town_mi": 12.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ojo Redondo Campground",
+   "type": "paid_camp",
+   "town": "Las Tusas, NM",
+   "town_mi": 8.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McCrystal Campground",
+   "type": "paid_camp",
+   "town": "Ute Park, NM",
+   "town_mi": 15.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Canyon Campground - Upper",
+   "type": "paid_camp",
+   "town": "Gila Hot Springs, NM",
+   "town_mi": 10.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pinon Campground",
+   "type": "paid_camp",
+   "town": "Quemado, NM",
+   "town_mi": 14.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riana Campground - Abiquiu Lake",
+   "type": "paid_camp",
+   "town": "Cañones, NM",
+   "town_mi": 4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chosa Campground",
+   "type": "paid_camp",
+   "town": "Whites City, NM",
+   "town_mi": 7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Clear Creek Campground (NM)",
+   "type": "paid_camp",
+   "town": "Cuba, NM",
+   "town_mi": 8.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fourth of July Campground",
+   "type": "paid_camp",
+   "town": "Tajique, NM",
+   "town_mi": 5.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kingston Campground",
+   "type": "paid_camp",
+   "town": "Kingston, NM",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ponderosa Group Campground (NM)",
+   "type": "paid_camp",
+   "town": "Los Alamos, NM",
+   "town_mi": 5.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Water Canyon Campground",
+   "type": "paid_camp",
+   "town": "Magdalena, NM",
+   "town_mi": 8.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Canyon Campground (Santa Fe NF)",
+   "type": "paid_camp",
+   "town": "Rio en Medio, NM",
+   "town_mi": 4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Coal Mine Campground",
+   "type": "paid_camp",
+   "town": "Lobo Canyon, NM",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gallo Campground",
+   "type": "paid_camp",
+   "town": "Lake Valley, NM",
+   "town_mi": 12.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jemez Falls Campground",
+   "type": "paid_camp",
+   "town": "La Cueva, NM",
+   "town_mi": 4.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Iron Creek Campground",
+   "type": "paid_camp",
+   "town": "Kingston, NM",
+   "town_mi": 5.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rio De Las Vacas Campground",
+   "type": "paid_camp",
+   "town": "Cuba, NM",
+   "town_mi": 9.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cochiti Campground",
+   "type": "paid_camp",
+   "town": "Cochiti Lake, NM",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Area Campground - Conchas Lake",
+   "type": "paid_camp",
+   "town": "Conchas Dam, NM",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rocky Point Campground",
+   "type": "paid_camp",
+   "town": "Santa Rosa, NM",
+   "town_mi": 7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "El Caso I-IV Campground",
+   "type": "paid_camp",
+   "town": "Quemado, NM",
+   "town_mi": 14.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Junebug Campground",
+   "type": "paid_camp",
+   "town": "Red River, NM",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "La Sombra Campground",
+   "type": "paid_camp",
+   "town": "Taos, NM",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "San Antonio Campground",
+   "type": "paid_camp",
+   "town": "La Cueva, NM",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bosque Campground",
+   "type": "paid_camp",
+   "town": "Tajique, NM",
+   "town_mi": 5.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "New Canyon Campground",
+   "type": "paid_camp",
+   "town": "Deer Canyon, NM",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Las Petacas Campground",
+   "type": "paid_camp",
+   "town": "Taos, NM",
+   "town_mi": 3.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Forks Campground",
+   "type": "paid_camp",
+   "town": "Gila Hot Springs, NM",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Juniper Campground (NM)",
+   "type": "paid_camp",
+   "town": "White Rock, NM",
+   "town_mi": 4.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Water Canyon Group Campground",
+   "type": "paid_camp",
+   "town": "Magdalena, NM",
+   "town_mi": 7.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McGaffey Campground",
+   "type": "paid_camp",
+   "town": "McGaffey, NM",
+   "town_mi": 0.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mills Canyon Rim Campground",
+   "type": "paid_camp",
+   "town": "Roy, NM",
+   "town_mi": 12.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fourth of July Campground",
+   "type": "paid_camp",
+   "town": "Tajique, NM",
+   "town_mi": 5.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "New Canyon Campground",
+   "type": "paid_camp",
+   "town": "Deer Canyon, NM",
+   "town_mi": 2.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bosque Campground",
+   "type": "paid_camp",
+   "town": "Tajique, NM",
+   "town_mi": 5.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Red Cloud Campground",
+   "type": "paid_camp",
+   "town": "Corona, NM",
+   "town_mi": 7.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Fish the East Fork in Hidden Valley",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the San Antonio Mountain Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Cerro Del Medio Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hiking Glorieta Pass Battlefield",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fish in Valle San Antonio",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fish San Antonio Creek",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fish the Headwaters of San Antonio Creek",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Garita Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Cerro Abrigo Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Sulphur & Alamo Canyon Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Cerro Seco Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Northwest Rim Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Indios Creek Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fish the East Fork Headwaters",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fish the East Fork Jemez River",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fish the Upper Jaramillo Creek",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fish the Middle Jaramillo Creek",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hiking the Ancestral Sites Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hiking in Valles Caldera",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hiking the Headland Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Alamo Boundary Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Traverse the Lava Falls Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Los Alamos: Kwage Mesa",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Narrows Rim Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Zuni-Acoma Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Chihuahuan Desert Nature Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walnut Canyon Overlook Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Juniper Ridge Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Slaughter Canyon Cave Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lower Rattlesnake Canyon Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Trails at the Base of Capulin Volcano",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Elephant Butte Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pecos River Corridor Recreation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dunes Off-Highway Vehicle Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "El Malpais National Conservation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "San Ysidro Trials Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gila Lower Box Canyon",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Valley Back Country Byway",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Valley Historic Townsite",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Robledo Mountains OHV Trail System",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Soledad Canyon Day Use Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Haystack Mountain Off-Highway Vehicle Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mescalero Sands North Dune Off-Highway Vehicle Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Quebradas Back Country Byway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Broad Canyon Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "East Potrillo Mountains Wilderness Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "El Vado Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Heron Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Sumner",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Leasburg Diversion Dam",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Carson National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cibola National Forest and Grasslands",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gila National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lincoln National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Santa Fe National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bitter Lake National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bosque del Apache National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sabinoso Wilderness Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Nambe Falls Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Navajo Reservoir - New Mexico",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Alamo Hueco Mountains Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Apache Box Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Big Hatchet Mountains Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Brokeoff Mountains Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Florida Mountains Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gray Peak Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hoverrocker Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Jornada del Muerto Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lonesome Ridge Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mathers Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "McKittrick Canyon Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mesita Blanca Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mudgetts Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Peloncillo Mountains Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Petaca Pinta Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Presilla Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sierra Ladrones Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "El Camino Real de Tierra Adentro National Historic Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Old Spanish National Historic Trail (NM)",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hackberry Lake Off-Highway Vehicle Use Area",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "La Cueva Non-Motorized Trail System",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Glade Run Recreation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Homesteads of Upper Largo Canyon",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Red Sands Off-Highway Vehicle Area",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Guadalupe Ruin",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Diablo Canyon Recreation Area",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Posi-Ouinge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Nambe Badlands Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Las Vegas National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Maxwell National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kilbourne Hole Volcanic Crater",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picacho Peak Recreation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Aden Lava Flow Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Organ Mountains Willderness Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mount Riley Wilderness Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Robledo Mountains Wilderness Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Potrillo Mountains Wilderness Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rinconada Loop Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wild Rivers Back Country Byway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rio Grande Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Taos Valley Overlook Trails",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "San Antonio Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "El Malpais Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Chain of Craters Back Country Byway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Empedrado Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "La Lena Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ojito Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rio Chama Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rio Grande del Norte National Monument",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Organ Mountains-Desert Peaks National Monument",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Three Rivers Petroglyph Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cabezon Wilderness Study Area",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "The Box Recreation Area",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "San Lorenzo Canyon",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Head Canyon OHV Recreation Area",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Santa Cruz Lake Recreation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Percha Diversion Dam",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rio Bonito Petroglyph National Recreation Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Abiquiu Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sevilleta National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "San Andres National Wildlife Refuge",
+   "type": "hunting",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cochiti Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Conchas Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Galisteo Dam",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Jemez Canyon Dam",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Santa Rosa Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Two Rivers Dam",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Avalon Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Brantley Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Caballo Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hiking Alkali Flat Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hiking the Ice Age Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bike the Valle Grande Loop",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Take a Scenic Drive through Valle Grande",
+   "type": "scenic_drive",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Valle Grande Exploration Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the South Valle Grande Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the South Mountain Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Rabbit Ridge Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Rabbit Mountain Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Cabin District Interpretive Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Jemez River Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Cerro La Jara Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hunting in Valles Caldera",
+   "type": "hunting",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Gran Quivira",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Abó",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Quarai",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Stargaze in Valles Caldera",
+   "type": "stargazing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Take the Self-Guided Hemish Connections Audio Tour",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Take a Self-Guided Tour of the Cabin District",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Take a Self-Guided Geology Tour of Sulphur Springs",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Take a Self-Guided Geology Hike Around Cerro La Jara",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Take a Self-Guided Auto Tour of Valles Caldera",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bike the Alamo Canyon to Valle Seco Lasso",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bike the Redondo Foothills Loop",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike to Sulphur Springs",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Horseback Riding from the Welcome Station",
+   "type": "horseback_riding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walking the South Pasture Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Quarai Ranger-Led Hikes",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Main Pueblo Loop Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Bandelier Junior Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Alcove House",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bandelier Wildlife Viewing",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "View the Night Sky at Capulin Volcano",
+   "type": "stargazing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Drive to the Top of Capulin Volcano",
+   "type": "scenic_drive",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore the Visitor Center at Capulin Volcano",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Junior Ranger at Capulin Volcano",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Abó Ranger-Led Hikes",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit Headquarters",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walnut Canyon Desert Drive",
+   "type": "scenic_drive",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wildlife Viewing in the Caldera",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Valles Caldera Junior Ranger Program",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Horseback Riding in Valles Caldera",
+   "type": "horseback_riding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cross-Country Skiing in Valles Caldera",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hiking Dune Life Nature Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sledding at the Roadrunner Picnic Area",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hiking Backcountry Camping Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "El Morro Campground",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hiking Interdune Boardwalk",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Inscription Rock Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "See a Bat Outflight at Bat Cave",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Guadalupe Ridge Trail (GRT)",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnicking at Petroglyph National Monument",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Boca Negra Canyon",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Alamogordo: Visit the Trinity Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hanford: Hike Candy Mountain",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Santa Fe: Visit the Poeh Cultural Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Los Alamos: Explore the Bradbury Science Museum",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Los Alamos: Become a Junior Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Albuquerque: Explore the National Museum of Nuclear Science & History",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Los Alamos: Join a Ranger Program",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Los Alamos: Visit the Los Alamos History Museum Campus",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Albuquerque: Explore the Indian Pueblo Cultural Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Los Alamos: Learn about Nature on the Pajarito Plateau",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore Sandstone Bluffs Overlook",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit La Ventana Natural Arch",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Piedras Marcadas Canyon",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Junior and Senior Ranger Programs",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rinconada Canyon",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rattlesnake Springs Picnic Area",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bat Flight Program",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Old Guano Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Eat Lunch at Aztec Ruin's Picnic Area",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Aztec West Great House Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Q Station",
+   "type": "coworking",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harwood Art Center and Montessori",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Albuquerque on the Camino Real Historical Marker",
+   "type": "historic_site",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fine Arts Center",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kirtland Air Force Base Library",
+   "type": "library",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UNM School of Law Library",
+   "type": "library",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kimo Theater Historic Site",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Telephone Pioneer Museum",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University Art Museum",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meteorite Museum",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Silver Family Geology Museum",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maxwell Museum of Anthropology",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American International Rattlesnake Museum",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Albuquerque Little Theatre",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ABQ Uptown",
+   "type": "farmers_market",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Taylor Ranch Library",
+   "type": "library",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cruising San Mateo I",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Highland HS Performing arts Center",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bell Keepers",
+   "type": "arts_culture",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Site of historic Alameda Pueblo",
+   "type": "historic_site",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Other Indoor Flea Market",
+   "type": "farmers_market",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Box Performance Space",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunshine Theatre",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roy E. Disney Center for Performing Arts",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hiland Theater",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Broadway Cultural Center",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kosmos Performance Space",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Facil!ty",
+   "type": "coworking",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico Steam Locomotive and Railroad Historical Society",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abuquerque Public Library Special Collections",
+   "type": "library",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flame of Hope",
+   "type": "historic_site",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tony Hillerman Library",
+   "type": "library",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Broadway Library",
+   "type": "library",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keshet Center for the Arts",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kiva Auditorium",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cervantes",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washington Speedwash Coin-op Laundry",
+   "type": "laundromat",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fine Arts & Design Library",
+   "type": "library",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ideas and Coffee CoWorking",
+   "type": "coworking",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McIlhaney Dairy",
+   "type": "historic_site",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Growers Market",
+   "type": "farmers_market",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "La Cumbre Brewing",
+   "type": "brewery_distillery",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nexus Brewery and Restaurant",
+   "type": "brewery_distillery",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Giant Stone Rattlesnake",
+   "type": "arts_culture",
+   "city": "South Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Giant Stone Rattlesnake",
+   "type": "arts_culture",
+   "city": "South Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ernie Pyle Library",
+   "type": "library",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Outpost Perfomance Space",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Musical Theatre Southwest Center for Theatre",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Sandbox",
+   "type": "coworking",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flock Of Moons",
+   "type": "brewery_distillery",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lobo Sculpture",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lobo Head Sculpture",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ponderosa Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cubicion",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cibolos del Río Grande",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lioness and Cubs",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Las Puertas Event Space",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central & Unser Library",
+   "type": "library",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Casa Rondeña Winery",
+   "type": "brewery_distillery",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keller Hall",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Popejoy Hall",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Southwestern Biology",
+   "type": "science_center",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Adobe Theater",
+   "type": "arts_culture",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Juno Brewing",
+   "type": "brewery_distillery",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lasso Coffee & Lager",
+   "type": "brewery_distillery",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico Madonna of the Trail",
+   "type": "historic_site",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Rescue",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clyde & Carrie Tingley",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rio Grande Cutthroat Trout",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Still Spirits",
+   "type": "brewery_distillery",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Microsoft Original Headquarters Plaque",
+   "type": "historic_site",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "El Rey Theater",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico Holocaust Museum and Gellert Center for Education",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wheels Museum",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Matrix Fine Art",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Remarque/New Grounds Print Workshop",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mariposa Gallery",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lobo Theater",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "VSA North Fourth Art Center",
+   "type": "arts_culture",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rail Yards Market",
+   "type": "farmers_market",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OT Hall",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fallout Shelter",
+   "type": "historic_site",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lobo Laundry",
+   "type": "laundromat",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Albuquerque Fire Department Rocket Ship",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Unity Studios",
+   "type": "coworking",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Museum of Nuclear Science and History",
+   "type": "science_center",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Levitated Toy Factory",
+   "type": "coworking",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eagle Man",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guardian",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newton's Cradle",
+   "type": "coworking",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University Laundromat",
+   "type": "laundromat",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "African Theater",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nature Theater",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "All Washed Up Laundromat",
+   "type": "laundromat",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio J",
+   "type": "arts_culture",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Welcome to Burque",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "FatPipe ABQ",
+   "type": "coworking",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Petroglyphs",
+   "type": "historic_site",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Petroglyphs",
+   "type": "historic_site",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Petroglyphs",
+   "type": "historic_site",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Petroglyphs",
+   "type": "historic_site",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Petroglyphs",
+   "type": "historic_site",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Petroglyphs",
+   "type": "historic_site",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Petroglyphs",
+   "type": "historic_site",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Petroglyphs",
+   "type": "historic_site",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Petroglyphs",
+   "type": "historic_site",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Blessed Virgin Mary",
+   "type": "arts_culture",
+   "city": "South Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jesus Christ",
+   "type": "arts_culture",
+   "city": "South Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue at Saint Therese of the Child Jesus Catholic Church",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mothership Alumni",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cavalcade of Wings",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tree of Life",
+   "type": "arts_culture",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio 519",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "516 ARTS",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Levy Gallery",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "International District Library",
+   "type": "library",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lizard Tail Brewing",
+   "type": "brewery_distillery",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "AT&SF 2926",
+   "type": "historic_site",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jericho",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Regus",
+   "type": "coworking",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mission Wine & Dine",
+   "type": "brewery_distillery",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thirsty Eye",
+   "type": "brewery_distillery",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jonson Gallery",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DTRA Museum",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dry Heat Comedy Club",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harvey Girls",
+   "type": "historic_site",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bear Paw Indian Arts and Gallery",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Penfield Gallery",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stage 1",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jim Morley Theater",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brew Lab 101",
+   "type": "brewery_distillery",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marble Brewery",
+   "type": "brewery_distillery",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunday Service Motor Company",
+   "type": "brewery_distillery",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Don Choche Tacos y Cerveza",
+   "type": "brewery_distillery",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hops Brewery",
+   "type": "brewery_distillery",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pajarito",
+   "type": "historic_site",
+   "city": "South Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nuevo Contemporary",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crucifix",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Franciscan Hotel",
+   "type": "historic_site",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS NM Bell",
+   "type": "historic_site",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rodey Theater",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theater X",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UNM Art Museum",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WW2 Lobo Memorial",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weems Art Gallery",
+   "type": "arts_culture",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farm To You",
+   "type": "farmers_market",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Calvary Amphitheater",
+   "type": "arts_culture",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallery Hózhó",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Room 62 Gallery",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Flag Roof",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash Tub Laundry",
+   "type": "laundromat",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Calavida Cantina",
+   "type": "brewery_distillery",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centennial Library",
+   "type": "library",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tribute to Mother Earth",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zimmerman Library",
+   "type": "library",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center for the Arts",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parish Library",
+   "type": "library",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fiesta Dancers",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Modern Art",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coal Avenue Theater",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Erna Fergusson Library",
+   "type": "library",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harwood Art Center",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Valley Library",
+   "type": "library",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Los Griegos Library",
+   "type": "library",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anderson Abruzzo Balloon Museum",
+   "type": "museum",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ATLAS-I Trestle",
+   "type": "historic_site",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Cell Theatre",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "San Pedro Library",
+   "type": "library",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Albuquerque Museum of Art & History",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Center",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smith Plaza",
+   "type": "historic_downtown",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bisque Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central Library;Albuquerque Main Library",
+   "type": "library",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First Financial Credit Union Amphitheatre",
+   "type": "arts_culture",
+   "city": "South Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Al Hurricane Pavilion",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "H. B. & Lucille Horn Preservation Station",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Explora",
+   "type": "science_center",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Grand Lodge Library & Museum",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Health Sciences Center Library and Information Center",
+   "type": "library",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sawmill Market",
+   "type": "farmers_market",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A&Z Laundry",
+   "type": "laundromat",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Redondo Village E",
+   "type": "laundromat",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spin Cycle",
+   "type": "laundromat",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indian Pueblo Cultural Center",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bow and Arrow Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boese Brothers Brewery",
+   "type": "brewery_distillery",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "GIZMO Arts",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richard Levy Gallery",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherry Hills Library",
+   "type": "library",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westgate Heights Public Library",
+   "type": "library",
+   "city": "South Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SIPI Library",
+   "type": "library",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "EZ Wash",
+   "type": "laundromat",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oasis Market",
+   "type": "farmers_market",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gruet Winery",
+   "type": "brewery_distillery",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Vortex Theatre",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Turquoise Museum",
+   "type": "museum",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Albuquerque Planetarium",
+   "type": "planetarium",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hollow Spirits Distillery",
+   "type": "brewery_distillery",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rio Bravo Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Sagrada",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Schiff Auditorium",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Base Library",
+   "type": "library",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Canteen Brewhouse",
+   "type": "brewery_distillery",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rudolfo Anaya North Valley Library",
+   "type": "library",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Valley Public Library",
+   "type": "library",
+   "city": "South Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Adobe Acres Laundromat & Dry Cleaners",
+   "type": "laundromat",
+   "city": "South Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Western Heights Mobile Village",
+   "type": "farmers_market",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Revel Entertainment Center",
+   "type": "arts_culture",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "African American Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thunderbird",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BEER HERE",
+   "type": "arts_culture",
+   "city": "Los Ranchos de Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ATLAS-I Wedge",
+   "type": "historic_site",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Gallery ABQ",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Giant Red Arrow",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Founders' Wall",
+   "type": "historic_site",
+   "city": "South Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mill 3",
+   "type": "arts_culture",
+   "city": "South Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Social Enterprise Center",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Hispanic Cultural Center",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Center of the Universe",
+   "type": "arts_culture",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico Museum of Natural History & Science",
+   "type": "science_center",
+   "city": "Albuquerque",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico State University Art Gallery",
+   "type": "arts_culture",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seismic Laboratory",
+   "type": "historic_site",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shack and tower",
+   "type": "historic_site",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shack",
+   "type": "historic_site",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pat Garret Murder Site",
+   "type": "historic_site",
+   "city": "Butterfield Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battan Memorial Statue",
+   "type": "historic_site",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "M. Phillip's Fine Art Gallery",
+   "type": "arts_culture",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maytag Laundry",
+   "type": "laundromat",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amaro Winery",
+   "type": "brewery_distillery",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Recycled Roadrunner Sculpture",
+   "type": "arts_culture",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "E Street Laundry",
+   "type": "laundromat",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Main",
+   "type": "historic_site",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SFC Antonio Rey \"Rod\" Rodriguez Memorial Interchange",
+   "type": "historic_site",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paleozoic Trackways Site",
+   "type": "historic_site",
+   "city": "Doña Ana",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Toad Creek Brewery & Distillery Las Cruces",
+   "type": "brewery_distillery",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NMSU University Museum",
+   "type": "museum",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NMSU University Art Museum",
+   "type": "museum",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clock Tower at NMSU",
+   "type": "arts_culture",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1912 Murray Corliss Steam Engine Restoration Project",
+   "type": "arts_culture",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bent of Tau Beta Pi",
+   "type": "arts_culture",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Class of 1931 Commemorative",
+   "type": "arts_culture",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weston Engine Co. Painted Post NY",
+   "type": "arts_culture",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frank Bromilow Mall Commemorative Plaque",
+   "type": "historic_site",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Traders",
+   "type": "arts_culture",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Bundles Laundromat",
+   "type": "laundromat",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "El Paseo Laundromat",
+   "type": "laundromat",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rio Grande Theatre",
+   "type": "arts_culture",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miguel's Tree",
+   "type": "historic_site",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico Farm & Ranch Heritage Museum",
+   "type": "museum",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Branson Hall Library",
+   "type": "library",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zuhl Library",
+   "type": "library",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Las Cruces Railroad Museum",
+   "type": "museum",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "El Paseo Laundromat",
+   "type": "laundromat",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corbett Center Outdoor Stage",
+   "type": "arts_culture",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NMSU Center for the Arts",
+   "type": "arts_culture",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Branigan Cultural Center",
+   "type": "museum",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas Branigan Memorial Library",
+   "type": "library",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Museum",
+   "type": "museum",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peddler's Pavillion",
+   "type": "farmers_market",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West End Art Depot",
+   "type": "arts_culture",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Nature & Science",
+   "type": "science_center",
+   "city": "Las Cruces",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NMSU",
+   "type": "arts_culture",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carver Laundry",
+   "type": "laundromat",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Luna Rossa Winery & Pizzeria",
+   "type": "brewery_distillery",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spotted Dog Brewery",
+   "type": "brewery_distillery",
+   "city": "Mesilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corrales Community Library",
+   "type": "library",
+   "city": "Corrales",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martha Liebert Library",
+   "type": "library",
+   "city": "Bernalillo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corrales Growers' Market",
+   "type": "farmers_market",
+   "city": "Corrales",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Site of historic Kuaua Pueblo",
+   "type": "historic_site",
+   "city": "Bernalillo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "V. Sue Cleveland High School Concert Hall",
+   "type": "arts_culture",
+   "city": "Rio Rancho",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bosque Brewing Cottonwood",
+   "type": "brewery_distillery",
+   "city": "Paradise Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "PUEBLO OF SANTA ANA Historic Marker",
+   "type": "historic_site",
+   "city": "Rio Rancho",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BERNALILLO On the Camino Real Historic Marker",
+   "type": "historic_site",
+   "city": "Bernalillo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corrales Laundromat",
+   "type": "laundromat",
+   "city": "Corrales",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marian Shrine",
+   "type": "arts_culture",
+   "city": "Bernalillo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fatpipe RR",
+   "type": "coworking",
+   "city": "Corrales",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corrales Bosque Gallery",
+   "type": "arts_culture",
+   "city": "Corrales",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "RR The Hub @ Enchanted Hills",
+   "type": "library",
+   "city": "Bernalillo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Esther Bone Library",
+   "type": "library",
+   "city": "Corrales",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moon & Dove Gallery",
+   "type": "arts_culture",
+   "city": "Corrales",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corrales Historical Society",
+   "type": "museum",
+   "city": "Corrales",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pachamama",
+   "type": "arts_culture",
+   "city": "Corrales",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rio Rancho Public Library",
+   "type": "library",
+   "city": "Rio Rancho",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ex Novo Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Corrales",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coronado Historic Site",
+   "type": "historic_site",
+   "city": "Bernalillo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rams",
+   "type": "arts_culture",
+   "city": "Rio Rancho",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cibola High Painted Parking Spaces",
+   "type": "arts_culture",
+   "city": "Paradise Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Painter",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edge Contemporary",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hare",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allan Houser Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shidoni",
+   "type": "arts_culture",
+   "city": "Tesuque Pueblo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "XVI",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Metal Tree",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Santa Fe Bell",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stamm Memorial Bench",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pie Projects",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zozobra mural",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Antieau",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Francis and the Prairie Dog",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burrito Phone",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "KEEP Contemporary",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BEMER Independent Distributor",
+   "type": "brewery_distillery",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "man",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint Francis of Assisi",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint Kateri Tekakwitha",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berlin Gathering Place Amphitheater",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam War Memorial",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Cross of the Martyrs",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Molly & Kent Leavitt Amphitheater",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "you can't take it with you...so give it all away",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Five Corners",
+   "type": "farmers_market",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prayer of Saint Francis",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roadrunner",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harper Samuel Cunningham",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "King Galleries",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eileen Fisher",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beer Creek Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windsor Betts Art Brokerage",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Two Mile Dam and Reservoir",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Francis",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moose",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Acequia Madre",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cactus Rescue Project",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "KSG Fine Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leslie Flyat",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Owen Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gaia",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tierra Mai Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Legacy Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McLarry Fine Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Luca Decor Contemporary Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meyer Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Underwood Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Impact",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Contemplation Station",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sara Miller Contemporary Art Gallery",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Raven",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jackson Ballard Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "RC Gorman's Navajo Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Impressions",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Light",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rusty",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aug 9 1837 Governor Perez",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "April 1863 Survey Marker",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Palace Press",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jeff Tabor Fine Art Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Copper Topp Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maya Sculpture Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Pink Giraffe",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dane Wells Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Haskell Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Touchstone Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sorrel Sky Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Patina Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maya's",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Billy the Kid",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Xanadu Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hecho Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "US Army Check-in for the Manhattan Project",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Victory Contemporary",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fray Angelico Chavez",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J Justice Fine Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sidewalk Plaques",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Galeria el Zocalo",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farahnheight Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sugarman-Peterson Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "PW Contemporary",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DT Healing Arts Studio",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Ruddy Textile & Ethnographic Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peaceful Wind Fine Asian Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barbara Bowles",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Christian Cheneau Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arte Libros Musica - Pase Ud",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ofuskie Open Studio / Independent Artists Studio",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Interfusion Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Strata Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William R. Talbot Fine Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Niman Fine Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "San Francisco Street Art Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Compton",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Good Folk",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whitelight Contemporary",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "POP Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ward Russell",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vital Spaces",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "In the Hands of Children",
+   "type": "historic_site",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Fe on the Camino Real",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Fe Opera",
+   "type": "arts_culture",
+   "city": "Tesuque Pueblo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Second Street Brewery",
+   "type": "brewery_distillery",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Fe Playhouse",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Galerie Zuger Santa Fe",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kit Carson Monument",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hometown Hero",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Homage to the Burro",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesa",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Founding of Santa Fe",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Journey's End",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled Tree Carving",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "3 Studios Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ronnie Layden Fine Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ed Larson Studio",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Dot Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Luca Decor Contemporary Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alexandra Stevens Gallery of Fine Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Misfits on Canyon Road",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sara Novenson Studio/Judaic Art Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Globe Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Turner Carroll Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vivo Contemporary",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McCall Fine Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Casweck Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallery 901",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gerald Peters Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morning Star Gallery;Morning Star",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Roybal Fine Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McCreery Jordan Fine Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elmore Gurd Contemporary",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steve Elmore Indian Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "200th Coast Artillery Marker and Eternal Flame",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo Dancer",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civilian Conservation Corps Worker Statue",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Convergence Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Car",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Passage",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gate Negate",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Earth Mother",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Water Bearers",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Raindrops",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thaw Art History Center",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Quad",
+   "type": "historic_downtown",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Visual Arts Gallery",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laboratory of Anthropology Library",
+   "type": "library",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico Museum of Art Library",
+   "type": "library",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bartlett Library and Archives",
+   "type": "library",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico Department of Education Library",
+   "type": "library",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Learning Resource Center Library",
+   "type": "library",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Supreme Court Law Library",
+   "type": "library",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chuck Jones Studio Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MAKE Santa Fe",
+   "type": "coworking",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Follows the Mountain",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico Hard Cider Taproom",
+   "type": "brewery_distillery",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Becoming Human",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TaranTula",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big TV",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pizzeria & Trattoria da Lino",
+   "type": "brewery_distillery",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chili Line Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Books",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Japanese Internment Memorial",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mayor Frank S. Ortiz Sports Park Memorial",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cognition Enhancer",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wolf",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Angel Chair",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Settler's Monument",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Desert Dogs Brewery & Cidery Taproom",
+   "type": "brewery_distillery",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico Military Museum",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lew Allen",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tai Modern",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Vault",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "form & concept",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dinosaurs",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barn Dog",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City of Santa Fe Firefighters Museum",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allen Stamm",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "La Princesa Washtub",
+   "type": "laundromat",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dragonstone Studio",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trinity",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rock",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "R. Hero",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "10 Commandments",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Don Diego de Vargas Zapata Luján Ponce de León, El Marques de la Nava de Barcinas",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Armory for the Arts",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haiku Station",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Books model",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Fe Laundry",
+   "type": "laundromat",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "When Friends Meet",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "High Chair",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Manta Mana",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vasulka",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Navajo Veterans Memorial",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Francis",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Co-Fe",
+   "type": "coworking",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alien Museum",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico Veterans Memorial",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Water History Museum",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Healing Garden Medical Art Complex",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Drum Poles",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Webster Collection Fine Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Donaciana",
+   "type": "historic_site",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tad Tribal Art Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico Public Welfare Building",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Catua and Omptua",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freeman Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "K Contemporary",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Acosta",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Susan Sarif Arts & Management",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo Tracks Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spotted Tail Goes To Washington",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Searcher",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mustang Freedom",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steel with blue donut on top",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colored Shapes",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Before The Break",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dog",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Jacks",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red and Orange Figures",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tall Silver Shape",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Subtracted Faces in Blue",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fluid Theory IV.b",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "If you could have any gift?",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steel man sitting",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steel man standing",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fan Wing Crane",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red cube on steel shapes",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Turkey",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Argos Studio/Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cynde Roof Fine Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "P`aula Roland Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pizza Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Video Library",
+   "type": "library",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico Innovation Hub",
+   "type": "coworking",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vital Spaces",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nüart Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dorothy Scarritt McKibbin",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zozobra",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vital Spaces on Cerrillos",
+   "type": "coworking",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Acequia Madre Ditch No. 37",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "FOMA Arts",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cara Romero Photography",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maya Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Manitou Galleries",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marin Feather Fine Art Studio & Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "David Cooney Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artman",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Living Threads",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gina Tolcocci Wicker Works",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tasha Ostrander Studio",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "PITH Plant Studio",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tilda",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ruddy & Masumoto, Textile Art, Katach - Old & New",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Mark Jennings Photographer",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio Eight",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marian Miller Studio & Repsher Ceramics",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SITE Santa Fe",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Loretto Chapel",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southside Library",
+   "type": "library",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garrey Carruthers State Library Building",
+   "type": "library",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palace of the Governors",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meem Library",
+   "type": "library",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Indian Arts and Culture",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of International Folk Art",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Fe Children's Museum",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fogelson Library (closed)",
+   "type": "library",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "House of Eternal Return - Meow Wolf",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Fe Prep Library",
+   "type": "library",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Fe Public Library",
+   "type": "library",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico History Museum",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Lensic",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Georgia O'Keeffe Museum",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peyton Wright Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "De Vargas Street House",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Fe Trails Fine Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vladem Contemporary",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Winterowd Fine Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thornwood Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nathalie",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chiaroscuro Contemporary Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prescott Gallery & Sculpture Garden",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Is Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ventana Fine Art",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hampton Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Catherine McElvain Library",
+   "type": "library",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cloud Cliff",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldiers' Monument",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Solana Center Laundromat",
+   "type": "laundromat",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NDI New Mexico",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James A. Little Theater",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Studios",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coe Warehouse",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pink Church",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Fe Fire Department Museum",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quimby Memorial Library",
+   "type": "library",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keeping Together Brewery",
+   "type": "brewery_distillery",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico School for the Deaf Library",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paolo Soleri Amphitheater",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artes de Cuba",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crossgrove Studio",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "As Above, So Below Brewing (Altar Brewing)",
+   "type": "brewery_distillery",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "El Museo Cultural",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Fe Farmers Market",
+   "type": "farmers_market",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Second Street Brewery at The Railyard",
+   "type": "brewery_distillery",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Fe Artists Market",
+   "type": "farmers_market",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Fe Institute Library",
+   "type": "library",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Cross of Martyrs",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Marcy (ruins)",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Fe Vietnam Veterans Memorial",
+   "type": "historic_site",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Performance Circle",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ethyl",
+   "type": "arts_culture",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Earls Laundromat",
+   "type": "laundromat",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SFCC Planetarium",
+   "type": "planetarium",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Spanish Colonial Art",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wheelwright Museum of the American Indian",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aaron Payne Fine Art",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Verve Abode",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carole LaRoche",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountain Fountain",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bull",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ralph T. Coe Center",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Our Lady of Guadalupe",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morning Zia",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Fe Reptile and Bug Museum",
+   "type": "museum",
+   "city": "Rancho Viejo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "photo-eye Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Generations Mosaic Mural",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico Museum of Art",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Worrell Gallery",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Fe Art Institute",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Santa Fe Current",
+   "type": "arts_culture",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oliver La Farge Branch Library",
+   "type": "library",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Contemporary Native Arts",
+   "type": "museum",
+   "city": "Santa Fe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roswell Historic Marker",
+   "type": "historic_site",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Point",
+   "type": "historic_site",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arch",
+   "type": "historic_site",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berlin Wall Fragment",
+   "type": "historic_site",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iron Cross",
+   "type": "historic_site",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "POW/MIA Memorial",
+   "type": "historic_site",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walker Aviation Museum",
+   "type": "museum",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Cock Brewery",
+   "type": "brewery_distillery",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anderson Museum of Contemporary Art",
+   "type": "museum",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roswell Museum and Art Center",
+   "type": "museum",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roswell Public Library",
+   "type": "library",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historical Center for Southeast New Mexico",
+   "type": "museum",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roswell Community Little Theatre",
+   "type": "arts_culture",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunshine Laundry",
+   "type": "laundromat",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McBride Museum",
+   "type": "museum",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "International UFO Museum & Research Center",
+   "type": "museum",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roswell Community Little Theater",
+   "type": "arts_culture",
+   "city": "Roswell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Energy Dance",
+   "type": "arts_culture",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lamp & Light",
+   "type": "arts_culture",
+   "city": "Flora Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam Veterans Memorial",
+   "type": "historic_site",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lions Wilderness Amphitheatre",
+   "type": "arts_culture",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of the Blessed Virgin Mary",
+   "type": "arts_culture",
+   "city": "Flora Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cross",
+   "type": "arts_culture",
+   "city": "Flora Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henderson Art Gallery",
+   "type": "arts_culture",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henderson Performance Hall",
+   "type": "arts_culture",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gatsch Theatre/Central Classrooms",
+   "type": "arts_culture",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Planetarium/West Classrooms",
+   "type": "planetarium",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmington Museum",
+   "type": "museum",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artifacts 302",
+   "type": "arts_culture",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "All Veterans Memorial Plaza",
+   "type": "historic_site",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundratopia",
+   "type": "laundromat",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmington Indian Center",
+   "type": "arts_culture",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmington Public Library",
+   "type": "library",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "E3 Children's Museum & Science Center",
+   "type": "science_center",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flora Vista Ruins",
+   "type": "historic_site",
+   "city": "Flora Vista",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bolack Museum of Fish and Wildlife",
+   "type": "museum",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum Of Navajo Art & Culture",
+   "type": "museum",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Totah Theater",
+   "type": "arts_culture",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Three Rivers Art Center (TRAC)",
+   "type": "arts_culture",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Three Rivers Eatery & Brewhouse",
+   "type": "brewery_distillery",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bolack Electromechanical Museum",
+   "type": "museum",
+   "city": "Farmington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico Junior College Parnell Library",
+   "type": "library",
+   "city": "Hobbs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hobbs Public Library",
+   "type": "library",
+   "city": "Hobbs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hobbs Sign",
+   "type": "historic_site",
+   "city": "State Line",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lea County Western Museum",
+   "type": "museum",
+   "city": "Hobbs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "North Hobbs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lea County Center For The Arts",
+   "type": "arts_culture",
+   "city": "Hobbs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "R.N.Tydings Auditorium",
+   "type": "arts_culture",
+   "city": "Hobbs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pannell Library",
+   "type": "library",
+   "city": "Hobbs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "EZ Laundry",
+   "type": "laundromat",
+   "city": "Hobbs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clovis Community College Library",
+   "type": "library",
+   "city": "Clovis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clovis-Carver Public Library",
+   "type": "library",
+   "city": "Clovis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OG Potter Memorial",
+   "type": "historic_site",
+   "city": "Clovis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Doc Stewart Memorial",
+   "type": "historic_site",
+   "city": "Clovis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norman Petty Studios",
+   "type": "historic_site",
+   "city": "Clovis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lyceum Theater",
+   "type": "arts_culture",
+   "city": "Clovis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cannon Library",
+   "type": "library",
+   "city": "Clovis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Door Brewing Company - Clovis",
+   "type": "brewery_distillery",
+   "city": "Clovis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norman Petty Recording Studio",
+   "type": "museum",
+   "city": "Clovis",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clean Corner Coin Laundry",
+   "type": "laundromat",
+   "city": "Carlsbad",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Time Capsule",
+   "type": "historic_site",
+   "city": "Carlsbad",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alejandro R Ruiz Memorial",
+   "type": "historic_site",
+   "city": "Carlsbad",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "M-42 Duster",
+   "type": "historic_site",
+   "city": "Carlsbad",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Reader",
+   "type": "arts_culture",
+   "city": "Carlsbad",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nurvis Purvis",
+   "type": "brewery_distillery",
+   "city": "Carlsbad",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "P.R. Leyva Auditorium",
+   "type": "arts_culture",
+   "city": "Carlsbad",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carlsbad Laundromat",
+   "type": "laundromat",
+   "city": "Carlsbad",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walter Gerrells Performing Arts and Exhibition Center",
+   "type": "arts_culture",
+   "city": "Carlsbad",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cavern Theatre",
+   "type": "arts_culture",
+   "city": "Carlsbad",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guadalupe Mountain Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Carlsbad",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carlsbad Community Theatre",
+   "type": "arts_culture",
+   "city": "Carlsbad",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Milton's Brewing",
+   "type": "brewery_distillery",
+   "city": "Carlsbad",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Artist Gallery Carlsbad NM",
+   "type": "arts_culture",
+   "city": "Carlsbad",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Giant Pistachio",
+   "type": "arts_culture",
+   "city": "La Luz",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alamogordo Founders Park",
+   "type": "historic_site",
+   "city": "Alamogordo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grave of Ham the Astrochimp",
+   "type": "historic_site",
+   "city": "Alamogordo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Mexico Museum of Space History",
+   "type": "science_center",
+   "city": "Alamogordo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lockheed Martin F-22 Raptor",
+   "type": "arts_culture",
+   "city": "Holloman",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Busy Bee Coin Laundry",
+   "type": "laundromat",
+   "city": "Alamogordo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Busy Bee Laundry",
+   "type": "laundromat",
+   "city": "Alamogordo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alamogordo Public Library",
+   "type": "library",
+   "city": "Alamogordo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tularosa Basin Museum of History",
+   "type": "museum",
+   "city": "Alamogordo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BVI Library",
+   "type": "library",
+   "city": "Alamogordo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flickinger Center for Performing Arts",
+   "type": "arts_culture",
+   "city": "Alamogordo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clyde Tombaugh Dome Theater & Planetarium",
+   "type": "planetarium",
+   "city": "Alamogordo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "575 Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Alamogordo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Townsend Library",
+   "type": "library",
+   "city": "Alamogordo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rohovec Fine Arts Center",
+   "type": "arts_culture",
+   "city": "Alamogordo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alamogordo Astronaut Memorial",
+   "type": "historic_site",
+   "city": "Alamogordo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Toy Train Depot",
+   "type": "museum",
+   "city": "Alamogordo",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Alamogordo \"A\"",
+   "type": "arts_culture",
+   "city": "Alamogordo",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

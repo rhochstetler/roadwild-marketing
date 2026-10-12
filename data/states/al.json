@@ -1,0 +1,5420 @@
+{
+ "state": "AL",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Hilltop RV Park",
+   "type": "rv_park",
+   "town": "Robertsdale, AL",
+   "town_mi": 6.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wilderness RV Park",
+   "type": "rv_park",
+   "town": "Robertsdale, AL",
+   "town_mi": 7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Azalea Acres RV Park",
+   "type": "rv_park",
+   "town": "Robertsdale, AL",
+   "town_mi": 7.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Leisure Time Campground",
+   "type": "rv_park",
+   "town": "Auburn, AL",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lakeshore Marina Campground",
+   "type": "rv_park",
+   "town": "Ohatchee, AL",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gulf State Park",
+   "type": "rv_park",
+   "town": "Gulf Shores, AL",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Payne Westside Campground",
+   "type": "paid_camp",
+   "town": "Moundville, AL",
+   "town_mi": 13.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Turnipseed Campground",
+   "type": "paid_camp",
+   "town": "Munford, AL",
+   "town_mi": 8.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chief Ladiga Trail Campground",
+   "type": "paid_camp",
+   "town": "Spring Garden, AL",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wills Creek RV Park",
+   "type": "rv_park",
+   "town": "Pine Ridge, AL",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sherling Lake Campground and Park",
+   "type": "paid_camp",
+   "town": "Greenville, AL",
+   "town_mi": 4.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Van De Graaff Campground",
+   "type": "rv_park",
+   "town": "Northport, AL",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brushy Lake Recreational Area Campground",
+   "type": "paid_camp",
+   "town": "Addison, AL",
+   "town_mi": 8.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spoonbill Sandbar Campsite",
+   "type": "paid_camp",
+   "town": "Malcolm, AL",
+   "town_mi": 6.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Canal Island Platform",
+   "type": "paid_camp",
+   "town": "Stockton, AL",
+   "town_mi": 6.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dead Lake Platform",
+   "type": "paid_camp",
+   "town": "Stockton, AL",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Two Rivers Point Campsite",
+   "type": "paid_camp",
+   "town": "Stockton, AL",
+   "town_mi": 4.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jug Lake Platform",
+   "type": "paid_camp",
+   "town": "Stockton, AL",
+   "town_mi": 2.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ozark / Fort Rucker KOA Journey",
+   "type": "paid_camp",
+   "town": "Ozark, AL",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pickensville Corp of Engineers",
+   "type": "paid_camp",
+   "town": "Pickensville, AL",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cochrane Corps of Engineers",
+   "type": "paid_camp",
+   "town": "Memphis, AL",
+   "town_mi": 4.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brookside Greenway",
+   "type": "paid_camp",
+   "town": "Cardiff, AL",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Backcountry Campsite #4",
+   "type": "paid_camp",
+   "town": "Pelham, AL",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Backcountry Campsite #2",
+   "type": "paid_camp",
+   "town": "Indian Springs Village, AL",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Southern Living Campground",
+   "type": "rv_park",
+   "town": "Standing Rock, AL",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Candy Mountain RV Park",
+   "type": "rv_park",
+   "town": "Coaling, AL",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverview RV Park",
+   "type": "rv_park",
+   "town": "Bay Minette, AL",
+   "town_mi": 6.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Monte Sano State Park Campground",
+   "type": "paid_camp",
+   "town": "Moores Mill, AL",
+   "town_mi": 7.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Legions Pass",
+   "type": "rv_park",
+   "town": "Cottondale, AL",
+   "town_mi": 5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lazy Dan's RV Park",
+   "type": "rv_park",
+   "town": "Woodstock, AL",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bear Creek Hideaway",
+   "type": "rv_park",
+   "town": "Maplesville, AL",
+   "town_mi": 6.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Farley's Creekside RV Park",
+   "type": "rv_park",
+   "town": "Lake View, AL",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "82 RV Park",
+   "type": "rv_park",
+   "town": "Autaugaville, AL",
+   "town_mi": 6.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whitewater Hill RV Park",
+   "type": "rv_park",
+   "town": "Autaugaville, AL",
+   "town_mi": 6.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shoal Creek RV Phase 2",
+   "type": "rv_park",
+   "town": "Killen, AL",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Birmingham RV Park",
+   "type": "rv_park",
+   "town": "Pelham, AL",
+   "town_mi": 4.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Noccalula Falls Campground",
+   "type": "paid_camp",
+   "town": "Gadsden, AL",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Parnell Creek RV Park",
+   "type": "rv_park",
+   "town": "Woodville, AL",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "A Shady Grove RV & Mobile Home",
+   "type": "rv_park",
+   "town": "Redstone Arsenal, AL",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hoover RV Park",
+   "type": "rv_park",
+   "town": "Hoover, AL",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cowford Campground",
+   "type": "rv_park",
+   "town": "Trinity, AL",
+   "town_mi": 6.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sportsman's Park",
+   "type": "rv_park",
+   "town": "Lester, AL",
+   "town_mi": 9.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Joe Wheeler State Park Campground",
+   "type": "paid_camp",
+   "town": "Rogersville, AL",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Point Mallard Camp Ground",
+   "type": "rv_park",
+   "town": "Decatur, AL",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mill Creek RV Park",
+   "type": "rv_park",
+   "town": "Elkmont, AL",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Northgate RV Travel Park",
+   "type": "rv_park",
+   "town": "Athens, AL",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cheaha State Park (Lower) Campground #2",
+   "type": "paid_camp",
+   "town": "Munford, AL",
+   "town_mi": 8.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cheaha State Park (Upper) Campground #1",
+   "type": "rv_park",
+   "town": "Oxford, AL",
+   "town_mi": 8.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McFarland Park Campground",
+   "type": "rv_park",
+   "town": "Sheffield, AL",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Knox Hill RV Resort",
+   "type": "rv_park",
+   "town": "Union, AL",
+   "town_mi": 7.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Space Camp RV Park",
+   "type": "rv_park",
+   "town": "Huntsville, AL",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ditto Landing",
+   "type": "paid_camp",
+   "town": "Owens Cross Roads, AL",
+   "town_mi": 5.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Desoto State Park Improved Campground",
+   "type": "paid_camp",
+   "town": "Valley Head, AL",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RV Storage",
+   "type": "rv_park",
+   "town": "Gulf Shores, AL",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Open Pond Campground",
+   "type": "paid_camp",
+   "town": "Carolina, AL",
+   "town_mi": 10.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sharon Johnston Campground",
+   "type": "paid_camp",
+   "town": "New Market, AL",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Corinth Recreational Area Campground",
+   "type": "paid_camp",
+   "town": "Double Springs, AL",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Alloys Park",
+   "type": "rv_park",
+   "town": "Killen, AL",
+   "town_mi": 4.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rose Trail Park Campground",
+   "type": "paid_camp",
+   "town": "Waterloo, AL",
+   "town_mi": 4.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tuscumbia RV Park",
+   "type": "rv_park",
+   "town": "Tuscumbia, AL",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Twin Forks Campground",
+   "type": "paid_camp",
+   "town": "Bear Creek, AL",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Heritage Acres RV Park",
+   "type": "rv_park",
+   "town": "Tuscumbia, AL",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cullman Campground",
+   "type": "paid_camp",
+   "town": "South Vinemont, AL",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "The Cove RV Resort",
+   "type": "paid_camp",
+   "town": "Attalla, AL",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little River RV Park and Campground",
+   "type": "paid_camp",
+   "town": "Fort Payne, AL",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Swan Creek Manufactured Home Community RV Park",
+   "type": "rv_park",
+   "town": "Athens, AL",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "T's Outback",
+   "type": "rv_park",
+   "town": "Rogersville, AL",
+   "town_mi": 8.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kv's RV Park",
+   "type": "rv_park",
+   "town": "Hartselle, AL",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PICKENSVILLE CG (PICKENSVILLE AL)",
+   "type": "paid_camp",
+   "town": "Pickensville, AL",
+   "town_mi": 1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SERVICE",
+   "type": "paid_camp",
+   "town": "Coffeeville, AL",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SIX MILE CREEK",
+   "type": "paid_camp",
+   "town": "Selmont-West Selmont, AL",
+   "town_mi": 3.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WHITE OAK (CREEK) CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Bakerhill, AL",
+   "town_mi": 8.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BURCHFIELD BRANCH PARK",
+   "type": "paid_camp",
+   "town": "Brookwood, AL",
+   "town_mi": 14,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Meaher State Park Campground",
+   "type": "paid_camp",
+   "town": "Daphne, AL",
+   "town_mi": 4.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chewacla State Park Campground",
+   "type": "paid_camp",
+   "town": "Auburn, AL",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cathedral Caverns State Park Campground Improved Sites",
+   "type": "rv_park",
+   "town": "Grant, AL",
+   "town_mi": 4.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mr. D's RV Park",
+   "type": "rv_park",
+   "town": "Ozark, AL",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rickwood Caverns Campground",
+   "type": "paid_camp",
+   "town": "Smoke Rise, AL",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Smith Lake Park Campground",
+   "type": "paid_camp",
+   "town": "Dodge City, AL",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Redstone Arsenal RV Park",
+   "type": "rv_park",
+   "town": "Redstone Arsenal, AL",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Island Retreat RV Park",
+   "type": "rv_park",
+   "town": "Gulf Shores, AL",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Doc's RV Park",
+   "type": "rv_park",
+   "town": "Gulf Shores, AL",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Michael Tucker Campground",
+   "type": "paid_camp",
+   "town": "Weaver, AL",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Glen Recreation Area",
+   "type": "paid_camp",
+   "town": "White Plains, AL",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crawford's RV Park",
+   "type": "rv_park",
+   "town": "Scottsboro, AL",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Oak Mountain State Park Campground",
+   "type": "paid_camp",
+   "town": "Meadowbrook, AL",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Coleman Lake Recreation Area Campground",
+   "type": "paid_camp",
+   "town": "White Plains, AL",
+   "town_mi": 7.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PRAIRIE CREEK (AL)",
+   "type": "paid_camp",
+   "town": "Benton, AL",
+   "town_mi": 3.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Heritage Motor Coach Resort",
+   "type": "rv_park",
+   "town": "Orange Beach, AL",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Logan Landing RV & Cabin Resort",
+   "type": "rv_park",
+   "town": "Pell City, AL",
+   "town_mi": 8.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cheaha State Park Group Campsite",
+   "type": "paid_camp",
+   "town": "Munford, AL",
+   "town_mi": 8.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nettles Mobile Home Park",
+   "type": "rv_park",
+   "town": "Millbrook, AL",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Still Creek Mobile Home Park",
+   "type": "rv_park",
+   "town": "Millbrook, AL",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "University Station RV park",
+   "type": "rv_park",
+   "town": "Auburn, AL",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Scenic Drive RV Park",
+   "type": "rv_park",
+   "town": "Choccolocco, AL",
+   "town_mi": 4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Warden Station Horse Camp",
+   "type": "paid_camp",
+   "town": "White Plains, AL",
+   "town_mi": 6.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sawyer's Mobile Home Estates & RV Park",
+   "type": "rv_park",
+   "town": "Smiths Station, AL",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Holiday",
+   "type": "rv_park",
+   "town": "Lillian, AL",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Autumn Lake RV Park",
+   "type": "rv_park",
+   "town": "Calvert, AL",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Magnolia Springs RV Hideaway Campground",
+   "type": "rv_park",
+   "town": "Magnolia Springs, AL",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "The Plantations At Fish River",
+   "type": "rv_park",
+   "town": "Magnolia Springs, AL",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camellia RV Park",
+   "type": "rv_park",
+   "town": "Magnolia Springs, AL",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Johnny's Lakeside RV Resort",
+   "type": "rv_park",
+   "town": "Summerdale, AL",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deep South Boat Storage & RV Park",
+   "type": "rv_park",
+   "town": "Bon Secour, AL",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Anchors Aweigh RV Resort",
+   "type": "rv_park",
+   "town": "Foley, AL",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HARDRIDGE CREEK",
+   "type": "paid_camp",
+   "town": "Fort Gaines, GA",
+   "town_mi": 2.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagle's Landing RV Resort",
+   "type": "paid_camp",
+   "town": "Langston, AL",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Windemere Cove",
+   "type": "paid_camp",
+   "town": "Langston, AL",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deer Run RV Park",
+   "type": "paid_camp",
+   "town": "Troy, AL",
+   "town_mi": 6.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rainbow Plantation",
+   "type": "rv_park",
+   "town": "Magnolia Springs, AL",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cherokee Farms RV Park",
+   "type": "rv_park",
+   "town": "Summerdale, AL",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bella Terra RV Resort",
+   "type": "rv_park",
+   "town": "Foley, AL",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blue Heron Escape RV Resort",
+   "type": "rv_park",
+   "town": "Bon Secour, AL",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sun Runners RV Park",
+   "type": "rv_park",
+   "town": "Bon Secour, AL",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whispering Pines RV Resort West",
+   "type": "rv_park",
+   "town": "Bon Secour, AL",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Country Court Motel & RV Park",
+   "type": "rv_park",
+   "town": "Choccolocco, AL",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "River Rocks Landing",
+   "type": "paid_camp",
+   "town": "Gadsden, AL",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moundville Archaeological Park Campground",
+   "type": "paid_camp",
+   "town": "Moundville, AL",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Greensport RV Park",
+   "type": "rv_park",
+   "town": "Southside, AL",
+   "town_mi": 4.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Emmaus RV Park",
+   "type": "rv_park",
+   "town": "Summerdale, AL",
+   "town_mi": 4.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Graystone RV Park",
+   "type": "rv_park",
+   "town": "Summerdale, AL",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sugar Sands RV Resort",
+   "type": "rv_park",
+   "town": "Orange Beach, AL",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ahoy RV Resort",
+   "type": "rv_park",
+   "town": "Foley, AL",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RV Camping",
+   "type": "rv_park",
+   "town": "Chickasaw, AL",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wind Creek Atmore RV Park",
+   "type": "rv_park",
+   "town": "Atmore, AL",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tropic Hideaway RV Resort",
+   "type": "rv_park",
+   "town": "Foley, AL",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Foley Oaks RV Resort",
+   "type": "rv_park",
+   "town": "Bon Secour, AL",
+   "town_mi": 3.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Coastal Paradise RV Resort",
+   "type": "rv_park",
+   "town": "Foley, AL",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "A&R RV Park",
+   "type": "rv_park",
+   "town": "Bon Secour, AL",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Creekside Rv Resort",
+   "type": "rv_park",
+   "town": "Foley, AL",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sun City RV Park",
+   "type": "rv_park",
+   "town": "Elberta, AL",
+   "town_mi": 4.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HWY 98 RV Park",
+   "type": "rv_park",
+   "town": "Lillian, AL",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Thousand Trails Hidden Cove",
+   "type": "rv_park",
+   "town": "Arley, AL",
+   "town_mi": 4.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Finish Line RV Park",
+   "type": "rv_park",
+   "town": "Lincoln, AL",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dry Valley Junction RV Park",
+   "type": "rv_park",
+   "town": "Lincoln, AL",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Love's RV Stop",
+   "type": "rv_park",
+   "town": "Muscle Shoals, AL",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Love's RV Hookup",
+   "type": "rv_park",
+   "town": "Good Hope, AL",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverside RV Resort",
+   "type": "rv_park",
+   "town": "Robertsdale, AL",
+   "town_mi": 8.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HOUSTON SHELTER",
+   "type": "paid_camp",
+   "town": "Double Springs, AL",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BLUFF CREEK",
+   "type": "paid_camp",
+   "town": "Lumpkin, GA",
+   "town_mi": 15.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CHILATCHEE CREEK",
+   "type": "paid_camp",
+   "town": "Boykin, AL",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ISAAC CREEK",
+   "type": "paid_camp",
+   "town": "Whatley, AL",
+   "town_mi": 9.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DEERLICK CREEK",
+   "type": "paid_camp",
+   "town": "Holt, AL",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MILLERS FERRY CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Boykin, AL",
+   "town_mi": 6.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "FORKLAND",
+   "type": "paid_camp",
+   "town": "Forkland, AL",
+   "town_mi": 1.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "GUNTER HILL",
+   "type": "paid_camp",
+   "town": "Prattville, AL",
+   "town_mi": 5.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Macon County Rest Area South Bound",
+   "type": "rest_stop",
+   "town": "Notasulga, AL",
+   "town_mi": 5,
+   "badge": "policy",
+   "policy": "allowed",
+   "osm": true
+  }
+ ],
+ "activities": [
+  {
+   "name": "Bon Secour National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Choctaw National Wildlife Refuge",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Eufaula National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fern Cave National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wheeler National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Weeks Bay National Estuarine Research Reserve",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cahaba River National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sauta Cave National Wildlife Refuge",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Watercress Darter National Wildlife Refuge",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Key Cave National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Alabama River Lakes",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Black Warrior and Tombigbee Lakes",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "View the Russell Cave Museum",
+   "type": "caving",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore the Freedom Riders Story",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pack a Picnic and Make a Day of it",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Take a Hike on the Russell Cave Nature Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Earn Your Russell Cave B.A.R.K Ranger Badge",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Russell Cave Junior Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tuskegee Airmen NHS Hangar 1",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tuskegee Airmen NHS Outdoor Activities",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kaffeeklatsch",
+   "type": "historic_site",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "5 Points Laundromat",
+   "type": "laundromat",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eternal Flame",
+   "type": "historic_site",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Burger Factory",
+   "type": "historic_site",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "2006 School Bus Crash",
+   "type": "historic_site",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artistic Images",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Alabama Railroad Museum",
+   "type": "museum",
+   "city": "Ryland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artisans Cove FRames and Art",
+   "type": "arts_culture",
+   "city": "Ryland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ART Custom Framing",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of William Hooper Councill",
+   "type": "historic_site",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Studio Theatre",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "David Wilson",
+   "type": "historic_site",
+   "city": "Moores Mill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bath House 2",
+   "type": "shower",
+   "city": "Ryland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UAH Stone Geode",
+   "type": "historic_site",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henry and Nell Lane Bradford Auditorium",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "State Black Archives Research Center and Museum",
+   "type": "museum",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wernher von Braun Planetarium",
+   "type": "planetarium",
+   "city": "Ryland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sanford Library",
+   "type": "library",
+   "city": "Ryland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Brewers Cooperative",
+   "type": "brewery_distillery",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ricky's Rocket",
+   "type": "historic_site",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Travelers",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gracelyn Rose sculpture",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Small Bull sculpture",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hotel Monte Sano",
+   "type": "historic_site",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1989 Tornado Memorial",
+   "type": "historic_site",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo Soldiers Memorial",
+   "type": "historic_site",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Travelers II",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lynx Gallery",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moon Gate",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eggbeater Jesus",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Queen Kel The Creator",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SkyLume",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ravenwood Meadery",
+   "type": "brewery_distillery",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Huntsville Museum of Art",
+   "type": "museum",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "M. Louis Salmon Library",
+   "type": "library",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lowe Mill ARTS and Entertainment",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Huntsville - Madison County Public Library",
+   "type": "library",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Early Works Museum",
+   "type": "museum",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Constitution Hall Park",
+   "type": "museum",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weeden House",
+   "type": "museum",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J.F. Drake Learning Resources Center (LRC)",
+   "type": "library",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Levity Live",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Straight to Ale",
+   "type": "brewery_distillery",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Huntsville Public - Cavalry Hills Branch",
+   "type": "library",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U.S. Veterans Memorial Museum",
+   "type": "museum",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shenanigans Comedy Theatre",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monte Sano Amphitheater",
+   "type": "arts_culture",
+   "city": "Ryland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bath House 1",
+   "type": "shower",
+   "city": "Ryland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U.S. Space & Rocket Center",
+   "type": "museum",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burritt Museum",
+   "type": "museum",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yellowhammer Brewery",
+   "type": "brewery_distillery",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cummings Research Park Lake Obelisk",
+   "type": "historic_site",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union Grove Gallery and Meeting Hall",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charger Union Theater",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oakwood Farms Market",
+   "type": "farmers_market",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centennial Square",
+   "type": "historic_site",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eternal Flame",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Outdoor Amphitheater",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Innerspace Brewing",
+   "type": "brewery_distillery",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Orion Amphitheater",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Huntsville Public Library",
+   "type": "library",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "H.C. Blake Art & History Center",
+   "type": "museum",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Huntsville Public Library",
+   "type": "library",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SIGNALS Museum of Information Explosion",
+   "type": "museum",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civilian Conservation Corps Museum & Memorial",
+   "type": "museum",
+   "city": "Ryland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Back Forty Beer Company",
+   "type": "brewery_distillery",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Straight to Ale",
+   "type": "brewery_distillery",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alabama Sports Hall of Fame",
+   "type": "museum",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Birmingham Jefferson Convention Complex Theatre",
+   "type": "arts_culture",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Birmingham Jefferson Convention Complex Concert Hall",
+   "type": "arts_culture",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmers Market",
+   "type": "farmers_market",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Irondale Furnace Historical Marker",
+   "type": "historic_site",
+   "city": "Mountain Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert Jemison Jr./The Old Mill Historical Marker",
+   "type": "historic_site",
+   "city": "Mountain Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steelworker",
+   "type": "historic_site",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Diplomat Delicatessen & Spirits",
+   "type": "brewery_distillery",
+   "city": "Vestavia Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boyd E. Christenberry Planetarium",
+   "type": "planetarium",
+   "city": "Homewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash & Go Laundromat",
+   "type": "laundromat",
+   "city": "Homewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Irondale Market",
+   "type": "farmers_market",
+   "city": "Irondale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio By the Tracks",
+   "type": "arts_culture",
+   "city": "Irondale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Magic City Sign",
+   "type": "arts_culture",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alys Stephens Center",
+   "type": "arts_culture",
+   "city": "Homewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blaze",
+   "type": "arts_culture",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundramate",
+   "type": "laundromat",
+   "city": "Homewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Complex Vision Mozaic",
+   "type": "arts_culture",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "True Story",
+   "type": "brewery_distillery",
+   "city": "Mountain Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cahaba Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Mountain Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MESH Collective Art",
+   "type": "arts_culture",
+   "city": "Midfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Mat",
+   "type": "laundromat",
+   "city": "Homewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Good People Brewing",
+   "type": "brewery_distillery",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vulcan",
+   "type": "arts_culture",
+   "city": "Homewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Decil’s Fountain",
+   "type": "historic_site",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Storyteller",
+   "type": "historic_site",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Fond Memories at Reed Books",
+   "type": "museum",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heaviest Corner on Earth",
+   "type": "historic_site",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Water Based",
+   "type": "arts_culture",
+   "city": "Tarrant",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clarence B. Hanson, Jr. Library & Archives",
+   "type": "library",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "All Good Beverage Co.",
+   "type": "brewery_distillery",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lakeview Marina Music Park",
+   "type": "live_music",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Birmingham District Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Birmingham Botanical Gardens Library",
+   "type": "library",
+   "city": "Mountain Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bruno",
+   "type": "arts_culture",
+   "city": "Mountain Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blount Plaza",
+   "type": "historic_downtown",
+   "city": "Mountain Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Granite Garden",
+   "type": "arts_culture",
+   "city": "Mountain Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civitas Sculpture",
+   "type": "arts_culture",
+   "city": "Mountain Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Orchid Thief",
+   "type": "arts_culture",
+   "city": "Mountain Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eyes Over Burmingham",
+   "type": "arts_culture",
+   "city": "Homewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oldest House in Shades Valley",
+   "type": "historic_site",
+   "city": "Mountain Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Mountain Theatre",
+   "type": "arts_culture",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Encore Theatre & Gallery",
+   "type": "arts_culture",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alabama Jazz Hall of Fame",
+   "type": "museum",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Lives Matter Street Mural",
+   "type": "arts_culture",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Don Kresge Memorial Radio Museum",
+   "type": "museum",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boutwell Auditorium",
+   "type": "arts_culture",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Birmingham Public Library",
+   "type": "library",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Linn Hinley Research Library",
+   "type": "library",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sun Wash Laundromat",
+   "type": "laundromat",
+   "city": "Tarrant",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alabama Theatre",
+   "type": "arts_culture",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McWane Science Center",
+   "type": "science_center",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vulcan Museum",
+   "type": "museum",
+   "city": "Homewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mervyn H. Sterne Library",
+   "type": "library",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lyric Theatre",
+   "type": "arts_culture",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Liberty Replica",
+   "type": "historic_site",
+   "city": "Cahaba Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harwell G. Davis University Library",
+   "type": "library",
+   "city": "Homewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Avondale Regional Branch Library",
+   "type": "library",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lister Hill Library",
+   "type": "library",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Avondale Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Homewood Public Library",
+   "type": "library",
+   "city": "Homewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountain Brook - Emmet O`Neal Library",
+   "type": "library",
+   "city": "Mountain Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iron City",
+   "type": "arts_culture",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Workplay",
+   "type": "arts_culture",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Irondale Furnace",
+   "type": "historic_site",
+   "city": "Mountain Brook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vestavia Hills Library",
+   "type": "library",
+   "city": "Vestavia Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Five Points South",
+   "type": "arts_culture",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southside Branch Library",
+   "type": "library",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alabama Veterans Memorial",
+   "type": "historic_site",
+   "city": "Cahaba Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Negro Southern League Museum",
+   "type": "museum",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monday Night Social Club",
+   "type": "brewery_distillery",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fultondale Public Library",
+   "type": "library",
+   "city": "Fultondale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fultondale Public Library",
+   "type": "library",
+   "city": "Fultondale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smithfield Library",
+   "type": "library",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Ensley Branch Library",
+   "type": "library",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Lake Branch Library",
+   "type": "library",
+   "city": "Irondale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ensley Branch Library",
+   "type": "library",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Five Points West Regional Branch Library",
+   "type": "library",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Inglenook Branch Library",
+   "type": "library",
+   "city": "Tarrant",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Avondale Branch Library",
+   "type": "library",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Birmingham Regional Branch Library",
+   "type": "library",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Powderly Branch Library",
+   "type": "library",
+   "city": "Midfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pratt City Branch Library",
+   "type": "library",
+   "city": "Forestdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Titusville Branch Library",
+   "type": "library",
+   "city": "Homewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West End Branch Library",
+   "type": "library",
+   "city": "Homewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wylam Branch Library",
+   "type": "library",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodlawn Branch Library",
+   "type": "library",
+   "city": "Irondale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arlington Antebellum Home and Gardens",
+   "type": "museum",
+   "city": "Homewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Back Forty Beer Company",
+   "type": "brewery_distillery",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TrimTab Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tarrant Public Library",
+   "type": "library",
+   "city": "Tarrant",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Donor Memorial",
+   "type": "historic_site",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "African Village in America",
+   "type": "arts_culture",
+   "city": "Homewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Irondale Public Library",
+   "type": "library",
+   "city": "Irondale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southern Museum Of Flight",
+   "type": "museum",
+   "city": "Tarrant",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Airpark",
+   "type": "historic_site",
+   "city": "Tarrant",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairfield - Walter J. Hanna Memorial Library",
+   "type": "library",
+   "city": "Fairfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Midfield Public Library",
+   "type": "library",
+   "city": "Midfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Birmingham Museum of Art",
+   "type": "museum",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Birmingham Civil Rights Institute",
+   "type": "museum",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Davis Theatre",
+   "type": "arts_culture",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rosa Parks Library and Museum",
+   "type": "museum",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "W. A. Gayle Planetarium",
+   "type": "museum",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alabama Shakespeare Festival at Carolyn Blount Theatre",
+   "type": "arts_culture",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wright Flyer (Replica)",
+   "type": "arts_culture",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Railyard Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Common Bond Brewers",
+   "type": "brewery_distillery",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1Lt Karl W. Richter",
+   "type": "arts_culture",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hank Williams Statue",
+   "type": "historic_site",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wall of Tolerance",
+   "type": "arts_culture",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confederate Memorial Monument",
+   "type": "historic_site",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty Bell Replica",
+   "type": "historic_site",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Violata Pax Dove",
+   "type": "arts_culture",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rosa Parks Bus Stop",
+   "type": "historic_site",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr. Martin Luther King, Jr.",
+   "type": "arts_culture",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steadfast Stride Toward Justice",
+   "type": "arts_culture",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rosa Parks",
+   "type": "arts_culture",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil Rights Memorial Center",
+   "type": "museum",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freedom Rides Museum",
+   "type": "museum",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First White House of the Confederacy",
+   "type": "museum",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montgomery City-County Public Library - Juliette Hampton Mor",
+   "type": "library",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carolyn Blount Theatre",
+   "type": "arts_culture",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montgomery Museum of Fine Arts",
+   "type": "museum",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Air University Library",
+   "type": "library",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center for the Study of Civil Rights and African-American Culture",
+   "type": "museum",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Memorial for Peace and Justice",
+   "type": "historic_site",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "F. Scott & Zelda Fitzgerald Museum",
+   "type": "museum",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dexter Parsonage Museum",
+   "type": "museum",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dexter Parsonage Interpretive Center",
+   "type": "museum",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montgomery Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hank Williams Museum",
+   "type": "museum",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Legacy Museum: From Enslavement to Mass Incarceration",
+   "type": "museum",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mann Wildlife Learning Museum",
+   "type": "museum",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Legacy Museum",
+   "type": "museum",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr. Richard Harris House",
+   "type": "museum",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil Rights Memorial",
+   "type": "historic_site",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ida Belle Young Library Tower",
+   "type": "library",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Expose Art House II",
+   "type": "arts_culture",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Air Force Enlisted Heritage Hall",
+   "type": "museum",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Millbrook Public Library",
+   "type": "library",
+   "city": "Millbrook",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montgomery City-County Public Library - Coliseum Boulevard B",
+   "type": "library",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montgomery City-County Public Library - Bertha P. Williams L",
+   "type": "library",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montgomery City-County Public Library - Rufus A. Lewis Regio",
+   "type": "library",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Governor`s Square Branch",
+   "type": "library",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "El Lowder Regional Library",
+   "type": "library",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Levi Watkins Learning Center",
+   "type": "library",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centennial Hill Historic District",
+   "type": "historic_downtown",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Court Square Urban Renewal Area Historic District",
+   "type": "historic_downtown",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peacock Tract Historic District",
+   "type": "historic_downtown",
+   "city": "Montgomery",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oakleigh",
+   "type": "museum",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jet Fighter - Trainer",
+   "type": "historic_site",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Steam Engine",
+   "type": "historic_site",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam Veterans of America",
+   "type": "historic_site",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint Mary",
+   "type": "historic_site",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Father Ryan Statue",
+   "type": "arts_culture",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Holy Cross",
+   "type": "arts_culture",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U.S. Coast Guard Monument",
+   "type": "historic_site",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portal",
+   "type": "arts_culture",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joe Cain",
+   "type": "arts_culture",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louis Armstrong",
+   "type": "arts_culture",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Queen",
+   "type": "arts_culture",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battle of Mobile Bay",
+   "type": "historic_site",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Army",
+   "type": "historic_site",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Navy",
+   "type": "historic_site",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marine Corps",
+   "type": "historic_site",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean War",
+   "type": "historic_site",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Air Force",
+   "type": "historic_site",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coast Guard",
+   "type": "historic_site",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Fallen Guardians Monument",
+   "type": "historic_site",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John LeFlore & Joseph Langan",
+   "type": "arts_culture",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mi Pueblo Latino",
+   "type": "farmers_market",
+   "city": "Tillmans Corner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mac's Fresh Produce",
+   "type": "farmers_market",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parkway Branch Mobile Public Library",
+   "type": "library",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Toulminville Branch Public Library",
+   "type": "library",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles M. Baugh Biomedical Library",
+   "type": "library",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mobile Museum of Art",
+   "type": "museum",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mobile Public Library - Moorer/Spring Hill Branch",
+   "type": "library",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saenger Theatre",
+   "type": "arts_culture",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Larkins Music Center",
+   "type": "arts_culture",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mike Dow Amphitheatre",
+   "type": "arts_culture",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richards DAR House Museum",
+   "type": "museum",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National African-American Archives & Museum",
+   "type": "museum",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Minnie Slade Bishop Library",
+   "type": "library",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ben May Main Library",
+   "type": "library",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Conde",
+   "type": "museum",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Condé-Charlotte Museum House",
+   "type": "museum",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gulf Coast Exploreum Science Center",
+   "type": "science_center",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Maritime Museum of the Gulf of Mexico",
+   "type": "museum",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mobile West Regional Library",
+   "type": "library",
+   "city": "Tillmans Corner",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Playhouse in the Park",
+   "type": "arts_culture",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Port City Cleaners",
+   "type": "laundromat",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trinity Gardens Community Branch Library",
+   "type": "library",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arlene Mitchell Theatre",
+   "type": "arts_culture",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burke Memorial Library",
+   "type": "library",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lupercalia Art Society",
+   "type": "arts_culture",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crescent Theater",
+   "type": "arts_culture",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soul Kitchen",
+   "type": "arts_culture",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mobile Carnival Museum",
+   "type": "museum",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Local History & Genealogy - Mobile Public Library",
+   "type": "library",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Braided River Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alabama Korean War Memorial",
+   "type": "historic_site",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lower Alabama Vietnam veterans memorial",
+   "type": "historic_site",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oyster City Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mother's Navy Memorial",
+   "type": "historic_site",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Restoration Area",
+   "type": "museum",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oakleigh House Museum",
+   "type": "museum",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mobile Medical Museum",
+   "type": "museum",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wingman Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chickasaw Civic Theatre",
+   "type": "arts_culture",
+   "city": "Chickasaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chickasaw - Ina Pullen Smallwood Memorial Library",
+   "type": "library",
+   "city": "Chickasaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hank Aaron Childhood Home & Museum",
+   "type": "museum",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iron Hand Brewing",
+   "type": "brewery_distillery",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Africatown Heritage House",
+   "type": "museum",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prichard Historical Museum / Old City Hall",
+   "type": "museum",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prichard Public Library",
+   "type": "library",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "M & J Groceries",
+   "type": "farmers_market",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "History Museum of Mobile",
+   "type": "museum",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ashland Place Historic District",
+   "type": "historic_downtown",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Church Street East Historic District",
+   "type": "historic_downtown",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lower Dauphin Street Historic District",
+   "type": "historic_downtown",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "De Tonti Square Historic District",
+   "type": "historic_downtown",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Common Street Historic District",
+   "type": "historic_downtown",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oakleigh Garden Historic District",
+   "type": "historic_downtown",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Campground Historic District",
+   "type": "historic_downtown",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lafayette Heights Historic District",
+   "type": "historic_downtown",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Dauphin Way Historic District",
+   "type": "historic_downtown",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "D'Iberville Apartments",
+   "type": "historic_downtown",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Midtown Historic District",
+   "type": "historic_downtown",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leinkauf Historic District",
+   "type": "historic_downtown",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maysville Historic District",
+   "type": "historic_downtown",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oakdale Historic District",
+   "type": "historic_downtown",
+   "city": "Mobile",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Africatown Historic District",
+   "type": "historic_downtown",
+   "city": "Prichard",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chickasaw Shipyard Village Historic District",
+   "type": "historic_downtown",
+   "city": "Chickasaw",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Audubon Place Historic District",
+   "type": "historic_downtown",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cleansing Tide",
+   "type": "laundromat",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tuscaloosa Amphitheatre",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Defended Covered Bridge",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Defended Covered Bridge",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Mound",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Market",
+   "type": "farmers_market",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hoole Special Collections Library",
+   "type": "library",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alabama Museum of Natural History",
+   "type": "science_center",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wallace Wade Statue",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frank Thomas Statue",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paul \"Bear\" Bryant Statue",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gene Stallings Statue",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nick Saban Statue",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northport Farmers Market",
+   "type": "farmers_market",
+   "city": "Northport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Tavern",
+   "type": "museum",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rick Rush",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civic Hall of Fame",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Queen City Fountain",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lorrie Lane Studio",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Huey (Bell UH-1 Iroquois)",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "M60 Tank",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USAF Willys MB Jeep",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vought A-7E Corsair",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Tuscaloosa Artillery Gun",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Firefighter",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Madison Hall",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Memorial",
+   "type": "historic_site",
+   "city": "Northport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Bridge",
+   "type": "historic_site",
+   "city": "Northport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quilted Vessel",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goldie 1971",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fibonacci Spiral",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverstone",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Homage to Brancusi",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mobius and Borromean Rings",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Phoenix",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walt Whitman Cult Wagon",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cleansing Tide Laundromat",
+   "type": "laundromat",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Allen Bales Theatre",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evolution of the Black Warrior-Tombigbee Waterway",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Running Minerva",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tuska",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bryce Hospital Cemetery #1A",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Three Sisters",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yellow Python",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr. Peter & Mrs. Ellen Peter-Bryce Gravesite Tuscaloosa County",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Icarus and the Guardian Angels",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Splash",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tuskaloosa Capitol Ruins",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunflower Bike Rack",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maxwell Hall",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flourish",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled Pathway Test #2",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pent/La Buidhe Bealltain",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled Pathway Test #1",
+   "type": "arts_culture",
+   "city": "Holt",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Honor Roll of Soldiers and Patriots of the American Revolution",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alabama Central Female College",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Masons Marks",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Architect",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Tuscaloosa Mast",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Armament Gun",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Virginia Shirley Studio-Gallery",
+   "type": "arts_culture",
+   "city": "Northport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "One Stop Laundry",
+   "type": "laundromat",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash Dry Coin Op",
+   "type": "laundromat",
+   "city": "Cottondale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hargrove Laundromat",
+   "type": "laundromat",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash And Go Tuscaloosa",
+   "type": "laundromat",
+   "city": "Holt",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tuscaloosa Public Library",
+   "type": "library",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Nook",
+   "type": "laundromat",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Alabama State Capital",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amelia Gayle Gorgas Library",
+   "type": "library",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's Hands-On Museum",
+   "type": "museum",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dinah Washington Cultural Arts Center",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smith Hall",
+   "type": "museum",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rodgers Library",
+   "type": "library",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Angelo Bruno Business Library",
+   "type": "library",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McLure Education Library",
+   "type": "library",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paul W. Bryant Museum",
+   "type": "museum",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bryant-Jordan Hall",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Denny Chimes",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northport Historical Museum",
+   "type": "museum",
+   "city": "Northport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bama Theatre",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentuck at Queen City",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentuck Georgine Clark Building",
+   "type": "arts_culture",
+   "city": "Northport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentuck's Studio 2",
+   "type": "arts_culture",
+   "city": "Northport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Warrior Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paul R. Jones Museum",
+   "type": "museum",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weaver-Bolden Branch Library",
+   "type": "library",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lucy Clock Tower",
+   "type": "historic_site",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harrison Galleries",
+   "type": "arts_culture",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Murphy-Collins House",
+   "type": "museum",
+   "city": "Tuscaloosa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veteran's Memorial Monument",
+   "type": "historic_site",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Library of Architecture, Design, and Construction",
+   "type": "library",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Auburn Memorial",
+   "type": "historic_site",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWI Memorial",
+   "type": "historic_site",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monody",
+   "type": "arts_culture",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cam Newton",
+   "type": "arts_culture",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bo Jackson",
+   "type": "arts_culture",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pat Sullivan",
+   "type": "arts_culture",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Heisman",
+   "type": "arts_culture",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bent",
+   "type": "arts_culture",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eta Kappa Nu",
+   "type": "arts_culture",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bent",
+   "type": "arts_culture",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yellow Umbrella",
+   "type": "arts_culture",
+   "city": "Opelika",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmer's Market",
+   "type": "farmers_market",
+   "city": "Opelika",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles Barkley",
+   "type": "arts_culture",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hey Day Market",
+   "type": "farmers_market",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tintinnabular",
+   "type": "arts_culture",
+   "city": "Opelika",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ralph Brown Draughon Library and Mell Classroom Building",
+   "type": "library",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Julie Collins Smith Museum of Fine Art",
+   "type": "museum",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Graves Amphitheater",
+   "type": "arts_culture",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Auburn Public Library",
+   "type": "library",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Telfair Peet Theatre",
+   "type": "arts_culture",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of East Alabama",
+   "type": "museum",
+   "city": "Opelika",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Clay Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Opelika",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jay and Susie Gogue Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Resting Pulse",
+   "type": "brewery_distillery",
+   "city": "Opelika",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Haus",
+   "type": "arts_culture",
+   "city": "Opelika",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Opelika Public Library",
+   "type": "library",
+   "city": "Opelika",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Opelika Wash Company",
+   "type": "laundromat",
+   "city": "Opelika",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thach Hut Coin-op Laundry",
+   "type": "laundromat",
+   "city": "Auburn",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dothan Leadership Monument",
+   "type": "historic_site",
+   "city": "Dothan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World's Smallest City Block",
+   "type": "historic_site",
+   "city": "Dothan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camera Nut Peanut",
+   "type": "arts_culture",
+   "city": "Dothan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mr. Cow",
+   "type": "arts_culture",
+   "city": "Dothan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dothan Houston County Public Library - Westgate Branch",
+   "type": "library",
+   "city": "Dothan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dothan Opera House",
+   "type": "arts_culture",
+   "city": "Dothan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wiregrass Museum of Art",
+   "type": "arts_culture",
+   "city": "Dothan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dothan Houston County Library",
+   "type": "library",
+   "city": "Dothan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Washington Carver Interpretive Museum",
+   "type": "museum",
+   "city": "Dothan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "E. R. Porter Hardware Museum",
+   "type": "museum",
+   "city": "Dothan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Agriculture Museum",
+   "type": "museum",
+   "city": "Kinsey",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shute Pecan Company",
+   "type": "farmers_market",
+   "city": "Dothan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cultural Arts Center",
+   "type": "arts_culture",
+   "city": "Dothan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ACOM First Patient Memorial",
+   "type": "historic_site",
+   "city": "Cowarts",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Folklore Brewing & Meadery",
+   "type": "brewery_distillery",
+   "city": "Rehobeth",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Parklane Plaza",
+   "type": "historic_downtown",
+   "city": "Dothan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lest We Forget",
+   "type": "historic_site",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dragonfly",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rabbit",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beaver",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tortoise",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southern Railway Depot",
+   "type": "museum",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Princess Theater",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brewer Library",
+   "type": "library",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alabama Center for the Arts",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alabama Center for the Arts - Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Decatur and Wheeler Basin Regional Library",
+   "type": "library",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spirit of America Stage",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morgan County-Decatur Farmer's Market",
+   "type": "farmers_market",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cook Museum of Natural Science",
+   "type": "science_center",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eagle Amphitheatre",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Schooling fish",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carnegie Visual Art Center",
+   "type": "arts_culture",
+   "city": "Decatur",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Linda Duran Public Library",
+   "type": "library",
+   "city": "Priceville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lillian C. Deibert",
+   "type": "historic_site",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pack of Lions",
+   "type": "arts_culture",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joe Keenum Sundial",
+   "type": "arts_culture",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Romeo and Juliet",
+   "type": "arts_culture",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr George Huckaba Sundial",
+   "type": "arts_culture",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "W. C. Handy",
+   "type": "arts_culture",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George H. Carroll",
+   "type": "arts_culture",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr. George William Huckaba Sundial",
+   "type": "arts_culture",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Cypress Mill",
+   "type": "historic_site",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shoals Community Theatre",
+   "type": "arts_culture",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Railroad Bed",
+   "type": "historic_site",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steam Engine Mural",
+   "type": "arts_culture",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Railroad Bridge",
+   "type": "historic_site",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norton Auditorium",
+   "type": "arts_culture",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Muscle Shoals Public Library",
+   "type": "library",
+   "city": "Muscle Shoals",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Helen Keller Public Library",
+   "type": "library",
+   "city": "Tuscumbia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alabama Music Hall of Fame",
+   "type": "museum",
+   "city": "Tuscumbia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Amphitheater",
+   "type": "arts_culture",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Collier Library",
+   "type": "library",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UNA Planetarium and Observatory",
+   "type": "planetarium",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial Museum",
+   "type": "museum",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Florence-Lauderdale Public Library",
+   "type": "library",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "W.C. Handy Home and Museum",
+   "type": "museum",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Frank Lloyd Wright Rosenbaum House",
+   "type": "museum",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Singin' River Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bluewater Brewing Company, Inc.",
+   "type": "brewery_distillery",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Florence Lauderdale Farmer's Market",
+   "type": "farmers_market",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's Museum of the Shoals",
+   "type": "museum",
+   "city": "Saint Florian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pope's Tavern Museum",
+   "type": "museum",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George S. Lindsey Theatre",
+   "type": "arts_culture",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zodiac Playhouse",
+   "type": "arts_culture",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Distillery High Ridge Spirits",
+   "type": "brewery_distillery",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Royal Suds",
+   "type": "laundromat",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Grove",
+   "type": "historic_site",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Muscle Shoals National Heritage Area",
+   "type": "museum",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indian Mound Museum",
+   "type": "museum",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sheffield Public Library",
+   "type": "library",
+   "city": "Sheffield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tennessee Valley Museum of Art",
+   "type": "museum",
+   "city": "Tuscumbia",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ritz Theatre",
+   "type": "arts_culture",
+   "city": "Sheffield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Popes Tavern",
+   "type": "museum",
+   "city": "Florence",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Back 40 Beer Company",
+   "type": "brewery_distillery",
+   "city": "Gadsden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spirit of American Citizenship",
+   "type": "historic_site",
+   "city": "Gadsden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Noccalula Statue",
+   "type": "historic_site",
+   "city": "Gadsden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iroquois (Huey) Helicopter",
+   "type": "historic_site",
+   "city": "Gadsden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Main Battle Tank",
+   "type": "historic_site",
+   "city": "Gadsden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Memorial",
+   "type": "historic_site",
+   "city": "Gadsden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mort Glosser Amphitheater",
+   "type": "arts_culture",
+   "city": "Gadsden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rufus Ford Library",
+   "type": "library",
+   "city": "Hokes Bluff",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Back Forty Beer Company",
+   "type": "brewery_distillery",
+   "city": "Gadsden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glencoe Public Library",
+   "type": "library",
+   "city": "Glencoe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southside Public Library",
+   "type": "library",
+   "city": "Southside",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rainbow City Public Library",
+   "type": "library",
+   "city": "Rainbow City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hoyt Warsham Alabama City Branch Library",
+   "type": "library",
+   "city": "Attalla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gadsden - Etowah County Public Library",
+   "type": "library",
+   "city": "Gadsden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gadsden - Etowah County Public - East Gadsden Branch",
+   "type": "library",
+   "city": "Gadsden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Attalla - Etowah County Public Library",
+   "type": "library",
+   "city": "Attalla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greyhound Bus Burning Site",
+   "type": "historic_site",
+   "city": "Hobson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Samuel Noble Monument",
+   "type": "historic_site",
+   "city": "Anniston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greyhound Mural",
+   "type": "arts_culture",
+   "city": "Anniston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coldwater Mountain Brewpub",
+   "type": "brewery_distillery",
+   "city": "Anniston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cheaha Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Anniston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oxford Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hobson City Public Library",
+   "type": "library",
+   "city": "Hobson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berman Museum",
+   "type": "museum",
+   "city": "Saks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anniston Museum of Natural History",
+   "type": "science_center",
+   "city": "Saks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lyles Memorial Library",
+   "type": "library",
+   "city": "Anniston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carver Branch Library",
+   "type": "library",
+   "city": "Anniston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oxford Public Library",
+   "type": "library",
+   "city": "Oxford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World’s Largest Chair",
+   "type": "arts_culture",
+   "city": "Anniston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spanish Fort Public Library and Community Center",
+   "type": "library",
+   "city": "Spanish Fort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trojan Hall",
+   "type": "arts_culture",
+   "city": "Spanish Fort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Summerdale Flea Market",
+   "type": "farmers_market",
+   "city": "Summerdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Summerdale - Marjorie Younce Snook Public Library",
+   "type": "library",
+   "city": "Summerdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Munford Public Library",
+   "type": "library",
+   "city": "Munford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alabama Fan Club and Museum",
+   "type": "museum",
+   "city": "Fort Payne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Payne Opera House",
+   "type": "arts_culture",
+   "city": "Fort Payne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Payne Depot and Museum",
+   "type": "museum",
+   "city": "Fort Payne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The band Alabama",
+   "type": "arts_culture",
+   "city": "Fort Payne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dye Ditch Gang",
+   "type": "arts_culture",
+   "city": "Fort Payne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "DeKalb County Public Library",
+   "type": "library",
+   "city": "Fort Payne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Killen Public Library",
+   "type": "library",
+   "city": "Killen",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln Public Library",
+   "type": "library",
+   "city": "Lincoln",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "2 Old Goats Mercantile & Collectibles",
+   "type": "farmers_market",
+   "city": "Robertsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robertsdale Public Library",
+   "type": "library",
+   "city": "Robertsdale",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oscar Johnson Memorial Library",
+   "type": "library",
+   "city": "Silverhill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oak Mountain Amphitheatre",
+   "type": "arts_culture",
+   "city": "Indian Springs Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Christian Camp Ruins",
+   "type": "historic_site",
+   "city": "Indian Springs Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old CCC Lakside Campsite (\"Unit 1\")",
+   "type": "historic_site",
+   "city": "Indian Springs Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old CCC Ridgeline Campsite (\"Unit 2\")",
+   "type": "historic_site",
+   "city": "Indian Springs Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Christian Camp Plaque #1",
+   "type": "historic_site",
+   "city": "Indian Springs Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stardome Comedy Club",
+   "type": "arts_culture",
+   "city": "Indian Springs Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Shelby County Library",
+   "type": "library",
+   "city": "Indian Springs Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boeing-Toyota Amphitheatre",
+   "type": "arts_culture",
+   "city": "Huntsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Poplar Head Farmers Market",
+   "type": "farmers_market",
+   "city": "Dothan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Schnitzer Pig",
+   "type": "arts_culture",
+   "city": "Dothan",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Patton Creek Shopping Center",
+   "type": "farmers_market",
+   "city": "Hoover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hoover Public Library",
+   "type": "library",
+   "city": "Hoover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Hoover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bent, not Broken",
+   "type": "historic_site",
+   "city": "Good Hope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rocket Republic Brewery",
+   "type": "brewery_distillery",
+   "city": "Madison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Huntsville Public - Madison Branch Library",
+   "type": "library",
+   "city": "Madison",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Helena Public Library",
+   "type": "library",
+   "city": "Helena",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pelham Public Library",
+   "type": "library",
+   "city": "Pelham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alabaster - Albert L. Scott Library",
+   "type": "library",
+   "city": "Alabaster",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pleasant Grove Public Library and Town Hall",
+   "type": "library",
+   "city": "Pleasant Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ground Floor Contemporary",
+   "type": "arts_culture",
+   "city": "Birmingham",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Easterling's Big Peach",
+   "type": "farmers_market",
+   "city": "Clanton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pierce Farms",
+   "type": "farmers_market",
+   "city": "Clanton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chilton - Clanton Public - Maplesville Branch",
+   "type": "library",
+   "city": "Clanton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Loxley Public Library",
+   "type": "library",
+   "city": "Loxley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fresh Produce",
+   "type": "farmers_market",
+   "city": "Coaling",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

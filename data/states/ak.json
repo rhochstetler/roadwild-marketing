@@ -1,0 +1,7357 @@
+{
+ "state": "AK",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "The Trees",
+   "type": "rv_park",
+   "town": "Petersburg, AK",
+   "town_mi": 5.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ohmer Creek Campground",
+   "type": "paid_camp",
+   "town": "Petersburg, AK",
+   "town_mi": 13.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Echo Bend Campsites",
+   "type": "unknown",
+   "town": "Anchorage, AK",
+   "town_mi": 2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Miller's Landing Campground",
+   "type": "rv_park",
+   "town": "Lowell Point, AK",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rosehip Campground",
+   "type": "paid_camp",
+   "town": "Pleasant Valley, AK",
+   "town_mi": 4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TENDERFOOT CREEK",
+   "type": "paid_camp",
+   "town": "Moose Pass, AK",
+   "town_mi": 9.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hidden Lake Campground",
+   "type": "paid_camp",
+   "town": "Cooper Landing, AK",
+   "town_mi": 12.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Skilak Campground",
+   "type": "paid_camp",
+   "town": "Funny River, AK",
+   "town_mi": 11,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "QUARTZ CREEK CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Cooper Landing, AK",
+   "town_mi": 4.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Russian River Campground",
+   "type": "rv_park",
+   "town": "Cooper Landing, AK",
+   "town_mi": 4.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Emerald Lake Campsite",
+   "type": "free_camp",
+   "town": "Halibut Cove, AK",
+   "town_mi": 6.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grewingk Trailhead Campsite",
+   "type": "free_camp",
+   "town": "Halibut Cove, AK",
+   "town_mi": 3.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Humpy Creek Campsite",
+   "type": "unknown",
+   "town": "Halibut Cove, AK",
+   "town_mi": 6.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Willow Creek Resort",
+   "type": "rv_park",
+   "town": "Houston, AK",
+   "town_mi": 13.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kayak Beach Yurt",
+   "type": "paid_camp",
+   "town": "Seldovia Village, AK",
+   "town_mi": 5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grace Ridge North Campsite",
+   "type": "paid_camp",
+   "town": "Seldovia Village, AK",
+   "town_mi": 4.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Denali RV Park & Motel",
+   "type": "rv_park",
+   "town": "Healy, AK",
+   "town_mi": 9.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Thompson's Eagle's Claw Motorcycle Park & Cabins",
+   "type": "paid_camp",
+   "town": "Tok, AK",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "GRANITE CREEK",
+   "type": "paid_camp",
+   "town": "Sunrise, AK",
+   "town_mi": 11.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ptarmigan Creek Campground",
+   "type": "rv_park",
+   "town": "Crown Point, AK",
+   "town_mi": 1.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trail River Campground",
+   "type": "rv_park",
+   "town": "Crown Point, AK",
+   "town_mi": 1.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bing's Landing State Recreation Area",
+   "type": "rv_park",
+   "town": "Funny River, AK",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Girdwood Campground",
+   "type": "paid_camp",
+   "town": "Sunrise, AK",
+   "town_mi": 12.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deep Creek State Recreation Area",
+   "type": "rv_park",
+   "town": "Ninilchik, AK",
+   "town_mi": 10.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gwin's RV Park",
+   "type": "rv_park",
+   "town": "Cooper Landing, AK",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Primrose Campground",
+   "type": "rv_park",
+   "town": "Primrose, AK",
+   "town_mi": 2.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Seward Resort RV Park",
+   "type": "rv_park",
+   "town": "Seward, AK",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pebble Beach",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 8.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kenny Lake RV Park",
+   "type": "rv_park",
+   "town": "Kenny Lake, AK",
+   "town_mi": 9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moon Lake State Recreation Site",
+   "type": "paid_camp",
+   "town": "Tanacross, AK",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lost Lake Trail Campground",
+   "type": "rv_park",
+   "town": "Whitestone, AK",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Log Cabin Wilderness Campground",
+   "type": "rv_park",
+   "town": "Mentasta Lake, AK",
+   "town_mi": 6.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Liberty Falls Campground",
+   "type": "rv_park",
+   "town": "Kenny Lake, AK",
+   "town_mi": 8.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Harding Lake Campground",
+   "type": "paid_camp",
+   "town": "Salcha, AK",
+   "town_mi": 6.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Salcha River Campground",
+   "type": "paid_camp",
+   "town": "Salcha, AK",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Swanson River Campground",
+   "type": "paid_camp",
+   "town": "Point Possession, AK",
+   "town_mi": 13,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "China Poot Lake Campsite",
+   "type": "unknown",
+   "town": "Halibut Cove, AK",
+   "town_mi": 2.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buskin River Campground",
+   "type": "rv_park",
+   "town": "Kodiak, AK",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Beach Campsites",
+   "type": "unknown",
+   "town": "Lowell Point, AK",
+   "town_mi": 5.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Quartz Lake Campground",
+   "type": "paid_camp",
+   "town": "Whitestone, AK",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ahtna Sailors Campground",
+   "type": "rv_park",
+   "town": "Gakona, AK",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rapids Campsite",
+   "type": "paid_camp",
+   "town": "Anchorage, AK",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagle River Campground",
+   "type": "rv_park",
+   "town": "Anchorage, AK",
+   "town_mi": 13.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eklutna Campground",
+   "type": "paid_camp",
+   "town": "Knik River, AK",
+   "town_mi": 5.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Delta State Historical Park",
+   "type": "paid_camp",
+   "town": "Whitestone, AK",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nancy Lake Campground",
+   "type": "paid_camp",
+   "town": "Houston, AK",
+   "town_mi": 9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Possum Creek Camp",
+   "type": "paid_camp",
+   "town": "Talkeetna, AK",
+   "town_mi": 5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Icicle Creek Campsite",
+   "type": "unknown",
+   "town": "Anchorage, AK",
+   "town_mi": 2.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Heritage Falls Campsite South",
+   "type": "free_camp",
+   "town": "Anchorage, AK",
+   "town_mi": 2.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Twin Falls Campground",
+   "type": "unknown",
+   "town": "Anchorage, AK",
+   "town_mi": 4.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "High Canyon",
+   "type": "unknown",
+   "town": "Skagway, AK",
+   "town_mi": 10.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Halibut Cove Tent Platforms",
+   "type": "unknown",
+   "town": "Halibut Cove, AK",
+   "town_mi": 0.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hufman’s Haunt Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 9.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TaK’ ATS’ NA’ Cove Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 9.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Willow Run Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 9.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Monson's Slough Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 11.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Beaver Flats Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 12.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Caribou Island Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 13.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Owl Roost Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 14,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sourdough Gene Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 14.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "K’EY Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 15.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Potty Island Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 16.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "River Otter Slough Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 16.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sentinel Point Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 17.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Last Chance Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 18.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Portage Peak Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 18.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "NaghiLENden Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 18.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Smooth Landing Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 18.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spruce Hide-out Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 18.7,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Raspberry Bush Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 18.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Salmonberry Stash Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 18.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moose Rack Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 19.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Alvin's Bar Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 19.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sunny Bar Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 20.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fireweed Flats Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 20.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cottonwood Corner Campsite",
+   "type": "unknown",
+   "town": "Paxson, AK",
+   "town_mi": 21.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Long Bar Campsite",
+   "type": "unknown",
+   "town": "Gakona, AK",
+   "town_mi": 22.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Joe Secondchief Campsite",
+   "type": "unknown",
+   "town": "Gakona, AK",
+   "town_mi": 22.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wickersham Bar Campsite",
+   "type": "unknown",
+   "town": "Gakona, AK",
+   "town_mi": 21.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stickwan Bar Campsite",
+   "type": "unknown",
+   "town": "Gakona, AK",
+   "town_mi": 21.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tenas Pete Bluff Campsite",
+   "type": "unknown",
+   "town": "Gakona, AK",
+   "town_mi": 21.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Monohan Flats Campsite",
+   "type": "unknown",
+   "town": "Gakona, AK",
+   "town_mi": 20.3,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HwTSII K’AE Campsite",
+   "type": "unknown",
+   "town": "Gakona, AK",
+   "town_mi": 20.1,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nicklie Bar Campsite",
+   "type": "unknown",
+   "town": "Gakona, AK",
+   "town_mi": 17.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Fork Confluence Campsite",
+   "type": "unknown",
+   "town": "Gakona, AK",
+   "town_mi": 17.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tansey Bar Campsite",
+   "type": "unknown",
+   "town": "Gakona, AK",
+   "town_mi": 16.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ole Island Campsite",
+   "type": "unknown",
+   "town": "Gakona, AK",
+   "town_mi": 16.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hoyt Bar Campsite",
+   "type": "unknown",
+   "town": "Gakona, AK",
+   "town_mi": 16.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagle River Crossing Campsite",
+   "type": "free_camp",
+   "town": "Anchorage, AK",
+   "town_mi": 6.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Glacier View RV Park",
+   "type": "rv_park",
+   "town": "Glacier View, AK",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rocky Lake State Recreation Site",
+   "type": "paid_camp",
+   "town": "Houston, AK",
+   "town_mi": 4.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Forest Acres Campground",
+   "type": "paid_camp",
+   "town": "Seward, AK",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bush Camp",
+   "type": "free_camp",
+   "town": "Anchorage, AK",
+   "town_mi": 6.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Thunder Gorge Campsite",
+   "type": "free_camp",
+   "town": "Anchorage, AK",
+   "town_mi": 6.2,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Raven Gorge Campsite",
+   "type": "free_camp",
+   "town": "Anchorage, AK",
+   "town_mi": 8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Carl's Camp",
+   "type": "free_camp",
+   "town": "Whittier, AK",
+   "town_mi": 24.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Santaland RV park",
+   "type": "rv_park",
+   "town": "North Pole, AK",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Karen Hornaday Campground",
+   "type": "paid_camp",
+   "town": "Homer, AK",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pullen Creek RV Park",
+   "type": "rv_park",
+   "town": "Skagway, AK",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Halibut Campground",
+   "type": "rv_park",
+   "town": "Anchor Point, AK",
+   "town_mi": 5.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Haines Hitch-Up RV Park",
+   "type": "rv_park",
+   "town": "Haines, AK",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Oceanside RV Park",
+   "type": "rv_park",
+   "town": "Haines, AK",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Silverking Campground",
+   "type": "rv_park",
+   "town": "Anchor Point, AK",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Driftwood Inn RV Park",
+   "type": "rv_park",
+   "town": "Homer, AK",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fairbanks / Chena River KOA",
+   "type": "rv_park",
+   "town": "Fairbanks, AK",
+   "town_mi": 4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dry Creek State Recreation Site",
+   "type": "paid_camp",
+   "town": "Gulkana, AK",
+   "town_mi": 4.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Heritage RV Park",
+   "type": "rv_park",
+   "town": "Homer, AK",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fishing Hole Campground",
+   "type": "rv_park",
+   "town": "Homer, AK",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ninilchik View Campground",
+   "type": "rv_park",
+   "town": "Ninilchik, AK",
+   "town_mi": 9.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hilltop Truck Stop",
+   "type": "rv_park",
+   "town": "Fox, AK",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Homer Spit Campground",
+   "type": "rv_park",
+   "town": "Homer, AK",
+   "town_mi": 4.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bertha Creek Campground",
+   "type": "paid_camp",
+   "town": "Sunrise, AK",
+   "town_mi": 10.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tangle Lake Campground",
+   "type": "blm",
+   "town": "Paxson, AK",
+   "town_mi": 9.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Creek Campground",
+   "type": "rv_park",
+   "town": "Whittier, AK",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sourdough Creek Campground",
+   "type": "rv_park",
+   "town": "Gakona, AK",
+   "town_mi": 12.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Paxson Lake Campground",
+   "type": "rv_park",
+   "town": "Paxson, AK",
+   "town_mi": 9.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stariski State Recreation Ground",
+   "type": "rv_park",
+   "town": "Anchor Point, AK",
+   "town_mi": 6.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Coho Campground",
+   "type": "rv_park",
+   "town": "Anchor Point, AK",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kyllonen RV Park",
+   "type": "rv_park",
+   "town": "Anchor Point, AK",
+   "town_mi": 5.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Slidehole Campground",
+   "type": "rv_park",
+   "town": "Anchor Point, AK",
+   "town_mi": 5.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grandview RV Park",
+   "type": "rv_park",
+   "town": "Glacier View, AK",
+   "town_mi": 6.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Slide Mountain RV Park",
+   "type": "rv_park",
+   "town": "Eureka Roadhouse, AK",
+   "town_mi": 5.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Meier's Lake RV Park",
+   "type": "rv_park",
+   "town": "Paxson, AK",
+   "town_mi": 13.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chicken Creek RV Park",
+   "type": "rv_park",
+   "town": "Chicken, AK",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Walker Fork Campground",
+   "type": "paid_camp",
+   "town": "Chicken, AK",
+   "town_mi": 6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brushkana Creek Campground",
+   "type": "paid_camp",
+   "town": "Cantwell, AK",
+   "town_mi": 22.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Byers Lake Campground",
+   "type": "rv_park",
+   "town": "Chase, AK",
+   "town_mi": 23.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Troublesome Creek Campground",
+   "type": "rv_park",
+   "town": "Trapper Creek, AK",
+   "town_mi": 15.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Montana Creek Campground",
+   "type": "rv_park",
+   "town": "Susitna North, AK",
+   "town_mi": 10.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Susitna Landing Campground",
+   "type": "rv_park",
+   "town": "Willow, AK",
+   "town_mi": 15.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "COOPER CREEK SOUTH",
+   "type": "paid_camp",
+   "town": "Cooper Landing, AK",
+   "town_mi": 1.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Izaak Walton Campground & Day Use Area",
+   "type": "rv_park",
+   "town": "Sterling, AK",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Glacier Nalu Campground Resort",
+   "type": "rv_park",
+   "town": "Juneau, AK",
+   "town_mi": 15.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fox Run Lodge and RV Campground",
+   "type": "rv_park",
+   "town": "Gateway, AK",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "All Seasons Campground",
+   "type": "rv_park",
+   "town": "Ninilchik, AK",
+   "town_mi": 7.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bird Creek Campground",
+   "type": "paid_camp",
+   "town": "Sunrise, AK",
+   "town_mi": 6.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Decanter Inn and RV Park",
+   "type": "rv_park",
+   "town": "Kasilof, AK",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Scenic View RV Park",
+   "type": "rv_park",
+   "town": "Ninilchik, AK",
+   "town_mi": 6.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Seaview RV Park",
+   "type": "rv_park",
+   "town": "Hope, AK",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Garden City RV",
+   "type": "rv_park",
+   "town": "Skagway, AK",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Odiak Camper Park",
+   "type": "rv_park",
+   "town": "Cordova, AK",
+   "town_mi": 4.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grizzly Ridge Cabins & RV Sites",
+   "type": "rv_park",
+   "town": "Cooper Landing, AK",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Swiftwater Park Campground",
+   "type": "rv_park",
+   "town": "Soldotna, AK",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chilkoot Lake State Recreationsite",
+   "type": "paid_camp",
+   "town": "Lutak, AK",
+   "town_mi": 5.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tok RV Village and Cabins",
+   "type": "rv_park",
+   "town": "Tok, AK",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tolsona Wilderness Campground",
+   "type": "rv_park",
+   "town": "Glennallen, AK",
+   "town_mi": 5.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whitefish Campground & Boat Launch",
+   "type": "paid_camp",
+   "town": "Fox, AK",
+   "town_mi": 8.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Fork Campground",
+   "type": "paid_camp",
+   "town": "Chicken, AK",
+   "town_mi": 18.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moose River RV Park",
+   "type": "rv_park",
+   "town": "Sterling, AK",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Alaska Canoe & Campground",
+   "type": "rv_park",
+   "town": "Sterling, AK",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Beluga Lookout RV Park",
+   "type": "rv_park",
+   "town": "Kenai, AK",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fisherman's Resort RV Park",
+   "type": "rv_park",
+   "town": "Homer, AK",
+   "town_mi": 0.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Marathon Campground",
+   "type": "rv_park",
+   "town": "Seward, AK",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Williams Park Campground",
+   "type": "rv_park",
+   "town": "Seward, AK",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Resurrection North Campground",
+   "type": "rv_park",
+   "town": "Seward, AK",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tent Area Campground",
+   "type": "paid_camp",
+   "town": "Seward, AK",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Porcupine Creek State Recreation Site",
+   "type": "rv_park",
+   "town": "Slana, AK",
+   "town_mi": 15.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rufus Creek Primitive Campsite",
+   "type": "rv_park",
+   "town": "Slana, AK",
+   "town_mi": 13.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Border City Lodge RV Park",
+   "type": "rv_park",
+   "town": "Alcan Border, AK",
+   "town_mi": 5.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "City of Whittier Campground",
+   "type": "rv_park",
+   "town": "Whittier, AK",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kenai Princess RV Park",
+   "type": "rv_park",
+   "town": "Cooper Landing, AK",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tors Trail Campground",
+   "type": "paid_camp",
+   "town": "Pleasant Valley, AK",
+   "town_mi": 15.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Red Eagle Lodge RV Site",
+   "type": "rv_park",
+   "town": "Chistochina, AK",
+   "town_mi": 9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Ground",
+   "type": "rv_park",
+   "town": "Delta Junction, AK",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Delta State Recreation Site",
+   "type": "paid_camp",
+   "town": "Delta Junction, AK",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Green Acres Park & Campground",
+   "type": "rv_park",
+   "town": "Delta Junction, AK",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Willow Creek State Recreation Area",
+   "type": "rv_park",
+   "town": "Houston, AK",
+   "town_mi": 16.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Louise State Recreation Area",
+   "type": "rv_park",
+   "town": "Lake Louise, AK",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "River's Edge RV Park",
+   "type": "rv_park",
+   "town": "College, AK",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagle Trail State Recreation Site",
+   "type": "rv_park",
+   "town": "Tok, AK",
+   "town_mi": 12.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tundra RV Park and Bar",
+   "type": "rv_park",
+   "town": "Tok, AK",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Snowed Inn RV Park",
+   "type": "rv_park",
+   "town": "Delta Junction, AK",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Olnes Pond Campground",
+   "type": "paid_camp",
+   "town": "Fox, AK",
+   "town_mi": 8.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "K'esugi Ken Campground",
+   "type": "rv_park",
+   "town": "Trapper Creek, AK",
+   "town_mi": 13.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mat-Su Valley RV Park",
+   "type": "rv_park",
+   "town": "Susitna North, AK",
+   "town_mi": 13.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Susitna River Campground",
+   "type": "rv_park",
+   "town": "Houston, AK",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ranch House Lodge - RV Park",
+   "type": "rv_park",
+   "town": "Glennallen, AK",
+   "town_mi": 5.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "King For a Day Campground",
+   "type": "rv_park",
+   "town": "Copper Center, AK",
+   "town_mi": 4.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Salmon Grove Campground",
+   "type": "rv_park",
+   "town": "Copper Center, AK",
+   "town_mi": 4.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Klutina River Campground",
+   "type": "rv_park",
+   "town": "Copper Center, AK",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wrangell View RV Park",
+   "type": "rv_park",
+   "town": "Chitina, AK",
+   "town_mi": 8.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagles Rest RV Park",
+   "type": "rv_park",
+   "town": "Valdez, AK",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Valdez RV Park",
+   "type": "rv_park",
+   "town": "Valdez, AK",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bear Paw RV Park",
+   "type": "rv_park",
+   "town": "Valdez, AK",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Valdez KOA Journey",
+   "type": "rv_park",
+   "town": "Valdez, AK",
+   "town_mi": 3.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gakona Alaska RV Park",
+   "type": "rv_park",
+   "town": "Gakona, AK",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hart D Ranch RV Park",
+   "type": "rv_park",
+   "town": "Slana, AK",
+   "town_mi": 18,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Birch Lake State Recreation Site",
+   "type": "rv_park",
+   "town": "Harding-Birch Lakes, AK",
+   "town_mi": 5.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lazy Moose RV Park",
+   "type": "rv_park",
+   "town": "Harding-Birch Lakes, AK",
+   "town_mi": 10.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tatlanika Campground",
+   "type": "rv_park",
+   "town": "Anderson, AK",
+   "town_mi": 7.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McKinley RV Park and Campground",
+   "type": "rv_park",
+   "town": "Healy, AK",
+   "town_mi": 6.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cantwell RV Park",
+   "type": "rv_park",
+   "town": "Cantwell, AK",
+   "town_mi": 5.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fielding Lake State Recreation Site",
+   "type": "paid_camp",
+   "town": "Paxson, AK",
+   "town_mi": 15.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moose Pass R.V. Park",
+   "type": "rv_park",
+   "town": "Moose Pass, AK",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ocean Shores RV Park",
+   "type": "rv_park",
+   "town": "Homer, AK",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Chatanika State Recreation Area",
+   "type": "paid_camp",
+   "town": "Fox, AK",
+   "town_mi": 18.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cripple Creek Campground",
+   "type": "paid_camp",
+   "town": "Pleasant Valley, AK",
+   "town_mi": 28,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mount Prindle Campground",
+   "type": "blm",
+   "town": "Pleasant Valley, AK",
+   "town_mi": 34.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Arctic Circle Campground",
+   "type": "paid_camp",
+   "town": "Evansville, AK",
+   "town_mi": 30.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Marion Creek Campground",
+   "type": "paid_camp",
+   "town": "Coldfoot, AK",
+   "town_mi": 4.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gulkana River RV Park",
+   "type": "rv_park",
+   "town": "Gakona, AK",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Bear RV Park",
+   "type": "rv_park",
+   "town": "South Lakes, AK",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chena Lake Campgriound",
+   "type": "paid_camp",
+   "town": "Moose Creek, AK",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ophir Creek Campground",
+   "type": "blm",
+   "town": "Fox, AK",
+   "town_mi": 31.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Galbraith Lake Campground",
+   "type": "blm",
+   "town": "Anaktuvuk Pass, AK",
+   "town_mi": 60.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Anchorage Ship Creek RV Park",
+   "type": "paid_camp",
+   "town": "Point MacKenzie, AK",
+   "town_mi": 10.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Midtown RV/Camper Park",
+   "type": "rv_park",
+   "town": "Point MacKenzie, AK",
+   "town_mi": 11.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Johnson Lake Campgrpound",
+   "type": "rv_park",
+   "town": "Kasilof, AK",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Seward KOA Journey",
+   "type": "rv_park",
+   "town": "Seward, AK",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Renfro's Lakeside Retreat",
+   "type": "rv_park",
+   "town": "Primrose, AK",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Twin Peaks Lodge & RV Park",
+   "type": "rv_park",
+   "town": "Seward, AK",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Skilak Campground",
+   "type": "paid_camp",
+   "town": "Funny River, AK",
+   "town_mi": 16.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Naabia Niign Campground",
+   "type": "paid_camp",
+   "town": "Northway, AK",
+   "town_mi": 8.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Allison Point",
+   "type": "paid_camp",
+   "town": "Valdez, AK",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pasagshak State Recreation Site",
+   "type": "rv_park",
+   "town": "Chiniak, AK",
+   "town_mi": 10.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Boulder Campground",
+   "type": "rv_park",
+   "town": "Seward, AK",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Iditarod Campground",
+   "type": "rv_park",
+   "town": "Seward, AK",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Campbell Heights Trailer Park",
+   "type": "rv_park",
+   "town": "Point MacKenzie, AK",
+   "town_mi": 14.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grizzly Lake Campground",
+   "type": "rv_park",
+   "town": "Slana, AK",
+   "town_mi": 24.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Last Chance Campground",
+   "type": "paid_camp",
+   "town": "Ketchikan, AK",
+   "town_mi": 5.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Signal Creek Campground",
+   "type": "paid_camp",
+   "town": "Ketchikan, AK",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Three C's Group Use Campground",
+   "type": "paid_camp",
+   "town": "Ketchikan, AK",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Williwaw Campground",
+   "type": "paid_camp",
+   "town": "Whittier, AK",
+   "town_mi": 7.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Bear Campground",
+   "type": "paid_camp",
+   "town": "Whittier, AK",
+   "town_mi": 7.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagle Shadow Campground",
+   "type": "rv_park",
+   "town": "Hyder, AK",
+   "town_mi": 4.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kodiak MWR Recreational Vehicle (RV) Camping Area",
+   "type": "rv_park",
+   "town": "Kodiak Station, AK",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pinnacle Mountain RV Park",
+   "type": "rv_park",
+   "town": "Sutton-Alpine, AK",
+   "town_mi": 7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "The Springer RV Park and Campground",
+   "type": "rv_park",
+   "town": "Palmer, AK",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mt View RV Park",
+   "type": "rv_park",
+   "town": "Palmer, AK",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Denali Rainbow Village RV Park",
+   "type": "rv_park",
+   "town": "Denali Park, AK",
+   "town_mi": 13.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagle Campground",
+   "type": "unknown",
+   "town": "Eagle, AK",
+   "town_mi": 1.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Discovery Campground",
+   "type": "rv_park",
+   "town": "Nikiski, AK",
+   "town_mi": 8.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Childs Glacier Campground",
+   "type": "paid_camp",
+   "town": "Cordova, AK",
+   "town_mi": 31.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chena RV Park",
+   "type": "rv_park",
+   "town": "Valdez, AK",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Valdez Glacier Campground",
+   "type": "rv_park",
+   "town": "Valdez, AK",
+   "town_mi": 5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "River Terrace RV Park",
+   "type": "rv_park",
+   "town": "Soldotna, AK",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Klondike RV Park & Cabins",
+   "type": "rv_park",
+   "town": "Soldotna, AK",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Diamond M Ranch B & B Cabins",
+   "type": "rv_park",
+   "town": "Kenai, AK",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Edgewater Lodge & RV Park",
+   "type": "rv_park",
+   "town": "Soldotna, AK",
+   "town_mi": 0.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Centennial Park Campground",
+   "type": "paid_camp",
+   "town": "Soldotna, AK",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kenai Riverbend Resort",
+   "type": "rv_park",
+   "town": "Ridgeway, AK",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Alaskan Stoves Campground",
+   "type": "paid_camp",
+   "town": "Tok, AK",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Squirrel Creek State Recreational Site",
+   "type": "paid_camp",
+   "town": "Tonsina, AK",
+   "town_mi": 9.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Homer/Baycrest KOA Holiday",
+   "type": "rv_park",
+   "town": "Diamond Ridge, AK",
+   "town_mi": 4.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Auke Bay RV Park",
+   "type": "rv_park",
+   "town": "Juneau, AK",
+   "town_mi": 17.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Harbor Side Campground",
+   "type": "rv_park",
+   "town": "Seward, AK",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Alice Campground",
+   "type": "rv_park",
+   "town": "Seward, AK",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Five Mile Campground",
+   "type": "free_camp",
+   "town": "Stevens Village, AK",
+   "town_mi": 22.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PORCUPINE (AK)",
+   "type": "paid_camp",
+   "town": "Hope, AK",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mendeltna Creek Lodge",
+   "type": "rv_park",
+   "town": "Nelchina, AK",
+   "town_mi": 9.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Golden Nugget RV Park",
+   "type": "rv_park",
+   "town": "Point MacKenzie, AK",
+   "town_mi": 12.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hollywood Farms",
+   "type": "rv_park",
+   "town": "Gustavus, AK",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chena Hot Springs RV Park",
+   "type": "rv_park",
+   "town": "Pleasant Valley, AK",
+   "town_mi": 27.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Denali Grizzly Bear RV Park",
+   "type": "rv_park",
+   "town": "Denali Park, AK",
+   "town_mi": 7.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tok River State Recreation Site",
+   "type": "paid_camp",
+   "town": "Tok, AK",
+   "town_mi": 6.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sourdough Campground & RV Park",
+   "type": "paid_camp",
+   "town": "Tok, AK",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Talkeetna Boat Launch And Campground",
+   "type": "paid_camp",
+   "town": "Talkeetna, AK",
+   "town_mi": 6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Seaside Farms Accomidations",
+   "type": "paid_camp",
+   "town": "Kachemak, AK",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SARKAR LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Naukati Bay, AK",
+   "town_mi": 5.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "EAGLE GLACIER CABIN",
+   "type": "paid_camp",
+   "town": "Excursion Inlet, AK",
+   "town_mi": 24.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eight Fathom Cabin",
+   "type": "paid_camp",
+   "town": "Game Creek, AK",
+   "town_mi": 10.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SPENCER BENCH CABIN",
+   "type": "paid_camp",
+   "town": "Whittier, AK",
+   "town_mi": 12.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HOOK POINT CABIN",
+   "type": "paid_camp",
+   "town": "Cordova, AK",
+   "town_mi": 25.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BEACH RIVER CABIN",
+   "type": "paid_camp",
+   "town": "Chenega, AK",
+   "town_mi": 21.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "APPLETON COVE CABIN",
+   "type": "paid_camp",
+   "town": "Sitka, AK",
+   "town_mi": 19.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Salmon Lake Campground",
+   "type": "paid_camp",
+   "town": "Nome, AK",
+   "town_mi": 31.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SALMON BAY LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Whale Pass, AK",
+   "town_mi": 13.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MALLARD SLOUGH CABIN",
+   "type": "paid_camp",
+   "town": "Petersburg, AK",
+   "town_mi": 13,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MOUNT RYNDA CABIN",
+   "type": "paid_camp",
+   "town": "Petersburg, AK",
+   "town_mi": 24.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "JIMS LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Angoon, AK",
+   "town_mi": 12.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PAULSON BAY CABIN",
+   "type": "paid_camp",
+   "town": "Whittier, AK",
+   "town_mi": 10.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SOFTUK BAR CABIN",
+   "type": "paid_camp",
+   "town": "Cordova, AK",
+   "town_mi": 41,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WILSON NARROWS CABIN",
+   "type": "paid_camp",
+   "town": "Hyder, AK",
+   "town_mi": 40.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DOUBLE BAY CABIN",
+   "type": "paid_camp",
+   "town": "Cordova, AK",
+   "town_mi": 27.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TURNER LAKE WEST CABIN",
+   "type": "paid_camp",
+   "town": "Juneau, AK",
+   "town_mi": 9.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PIPER ISLAND CABIN",
+   "type": "paid_camp",
+   "town": "Sitka, AK",
+   "town_mi": 16.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SALT CHUCK EAST CABIN",
+   "type": "paid_camp",
+   "town": "Kupreanof, AK",
+   "town_mi": 13.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MARTIN LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Cordova, AK",
+   "town_mi": 37.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BRENTS BEACH CABIN",
+   "type": "paid_camp",
+   "town": "Sitka, AK",
+   "town_mi": 8.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SAN JUAN BAY CABIN",
+   "type": "paid_camp",
+   "town": "Chenega, AK",
+   "town_mi": 20.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MCKINLEY TRAIL CABIN",
+   "type": "paid_camp",
+   "town": "Cordova, AK",
+   "town_mi": 15.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KARTA LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Hollis, AK",
+   "town_mi": 4.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DEVILS ELBOW CABIN",
+   "type": "paid_camp",
+   "town": "Point Baker, AK",
+   "town_mi": 20.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "GREENTOP CABIN",
+   "type": "paid_camp",
+   "town": "Pelican, AK",
+   "town_mi": 10.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BARANOF LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Sitka, AK",
+   "town_mi": 19.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SHELIKOF CABIN",
+   "type": "paid_camp",
+   "town": "Sitka, AK",
+   "town_mi": 14.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KEGAN COVE CABIN",
+   "type": "paid_camp",
+   "town": "Metlakatla, AK",
+   "town_mi": 25.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SHAKES SLOUGH 2 CABIN",
+   "type": "paid_camp",
+   "town": "Petersburg, AK",
+   "town_mi": 29.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MENDENHALL CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Juneau, AK",
+   "town_mi": 14.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TIEDEMAN SLOUGH CABIN",
+   "type": "paid_camp",
+   "town": "Cordova, AK",
+   "town_mi": 9.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DEVILS PASS CABIN",
+   "type": "paid_camp",
+   "town": "Cooper Landing, AK",
+   "town_mi": 9.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SULOIA LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Sitka, AK",
+   "town_mi": 20.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MCKINLEY LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Cordova, AK",
+   "town_mi": 15.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "NELLIE MARTIN RIVER CABIN",
+   "type": "paid_camp",
+   "town": "Chenega, AK",
+   "town_mi": 21,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KATHLEEN LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Tenakee Springs, AK",
+   "town_mi": 19.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CRESCENT LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Moose Pass, AK",
+   "town_mi": 4.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "POINT AMARGURA CABIN",
+   "type": "paid_camp",
+   "town": "Craig, AK",
+   "town_mi": 9.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TROLLERS COVE CABIN",
+   "type": "paid_camp",
+   "town": "Kasaan, AK",
+   "town_mi": 16,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LAUGHTON GLACIER CABIN",
+   "type": "paid_camp",
+   "town": "Skagway, AK",
+   "town_mi": 8.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PETERSON LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Juneau, AK",
+   "town_mi": 20.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "JOHN MUIR CABIN",
+   "type": "paid_camp",
+   "town": "Juneau, AK",
+   "town_mi": 18.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DAN MOLLER CABIN",
+   "type": "paid_camp",
+   "town": "Juneau, AK",
+   "town_mi": 12.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TURNER LAKE EAST CABIN",
+   "type": "paid_camp",
+   "town": "Juneau, AK",
+   "town_mi": 17.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TAKU GLACIER CABIN",
+   "type": "paid_camp",
+   "town": "Juneau, AK",
+   "town_mi": 6.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DENVER CABOOSE CABIN",
+   "type": "paid_camp",
+   "town": "Skagway, AK",
+   "town_mi": 3.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BERNERS BAY CABIN",
+   "type": "paid_camp",
+   "town": "Excursion Inlet, AK",
+   "town_mi": 28.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WINDFALL LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Juneau, AK",
+   "town_mi": 21.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ANCHOR PASS CABIN",
+   "type": "paid_camp",
+   "town": "Loring, AK",
+   "town_mi": 27,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BLIND PASS CABIN",
+   "type": "paid_camp",
+   "town": "Loring, AK",
+   "town_mi": 19.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "FISH CREEK CABIN",
+   "type": "paid_camp",
+   "town": "Saxman, AK",
+   "town_mi": 16.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HECKMAN LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Loring, AK",
+   "town_mi": 4.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HELM BAY CABIN",
+   "type": "paid_camp",
+   "town": "Loring, AK",
+   "town_mi": 13.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HELM CREEK CABIN",
+   "type": "paid_camp",
+   "town": "Loring, AK",
+   "town_mi": 13.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "JORDAN LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Loring, AK",
+   "town_mi": 3.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MCDONALD LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Wrangell, AK",
+   "town_mi": 18.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PATCHING LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Loring, AK",
+   "town_mi": 6.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PLENTY CUTTHROAT CABIN",
+   "type": "paid_camp",
+   "town": "Loring, AK",
+   "town_mi": 16.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PHOCENA BAY CABIN",
+   "type": "paid_camp",
+   "town": "Metlakatla, AK",
+   "town_mi": 10.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "REFLECTION LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Wrangell, AK",
+   "town_mi": 21.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ALAVA BAY CABIN",
+   "type": "paid_camp",
+   "town": "Metlakatla, AK",
+   "town_mi": 17.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BAKEWELL LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Saxman, AK",
+   "town_mi": 36.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CHECATS LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Saxman, AK",
+   "town_mi": 32,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ELLA NARROWS CABIN",
+   "type": "paid_camp",
+   "town": "Saxman, AK",
+   "town_mi": 22.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HUGH SMITH LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Metlakatla, AK",
+   "town_mi": 36,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LOG JAM BAY CABIN",
+   "type": "paid_camp",
+   "town": "Chenega, AK",
+   "town_mi": 23.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "JACK BAY CABIN",
+   "type": "paid_camp",
+   "town": "Valdez, AK",
+   "town_mi": 8.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HUMPBACK LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Metlakatla, AK",
+   "town_mi": 40.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "GREEN ISLAND CABIN",
+   "type": "paid_camp",
+   "town": "Chenega, AK",
+   "town_mi": 24.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MANZANITA LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Loring, AK",
+   "town_mi": 21,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PORT CHALMERS CABIN",
+   "type": "paid_camp",
+   "town": "Chenega, AK",
+   "town_mi": 25.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SHELTER BAY CABIN",
+   "type": "paid_camp",
+   "town": "Tatitlek, AK",
+   "town_mi": 32.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "POWER CREEK CABIN",
+   "type": "paid_camp",
+   "town": "Cordova, AK",
+   "town_mi": 7.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WILSON VIEW CABIN",
+   "type": "paid_camp",
+   "town": "Hyder, AK",
+   "town_mi": 36.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CROW PASS CABIN",
+   "type": "paid_camp",
+   "town": "Anchorage, AK",
+   "town_mi": 10.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WINSTANLEY ISLAND CABIN",
+   "type": "paid_camp",
+   "town": "Saxman, AK",
+   "town_mi": 28.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PIGOT BAY CABIN",
+   "type": "paid_camp",
+   "town": "Whittier, AK",
+   "town_mi": 10,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WINSTANLEY LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Saxman, AK",
+   "town_mi": 31,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SHRODE LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Whittier, AK",
+   "town_mi": 14.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "COGHILL LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Whittier, AK",
+   "town_mi": 34.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HARRISON LAGOON CABIN",
+   "type": "paid_camp",
+   "town": "Whittier, AK",
+   "town_mi": 21.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PETERSBURG LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Kupreanof, AK",
+   "town_mi": 8.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KADAKE BAY CABIN",
+   "type": "paid_camp",
+   "town": "Kake, AK",
+   "town_mi": 13.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "GOOSE BAY CABIN",
+   "type": "paid_camp",
+   "town": "Whittier, AK",
+   "town_mi": 15.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "UPPER PARADISE LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Primrose, AK",
+   "town_mi": 9.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CASTLE FLATS CABIN",
+   "type": "paid_camp",
+   "town": "Kupreanof, AK",
+   "town_mi": 16,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LOWER PARADISE LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Primrose, AK",
+   "town_mi": 7.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BREILAND SLOUGH CABIN",
+   "type": "paid_camp",
+   "town": "Petersburg, AK",
+   "town_mi": 13.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "UPPER RUSSIAN LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Cooper Landing, AK",
+   "town_mi": 9.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Aspen Flats Cabin (Chugach National Forest, AK)",
+   "type": "paid_camp",
+   "town": "Cooper Landing, AK",
+   "town_mi": 9.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HARVEY LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Petersburg, AK",
+   "town_mi": 15,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TROUT LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Cooper Landing, AK",
+   "town_mi": 4.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ROMIG CABIN",
+   "type": "paid_camp",
+   "town": "Cooper Landing, AK",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BIG JOHN BAY CABIN",
+   "type": "paid_camp",
+   "town": "Kake, AK",
+   "town_mi": 12.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SWAN LAKE CABIN PETERSBURG",
+   "type": "paid_camp",
+   "town": "Kupreanof, AK",
+   "town_mi": 17.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "JUNEAU LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Cooper Landing, AK",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SWAN LAKE CABIN SEWARD",
+   "type": "paid_camp",
+   "town": "Cooper Landing, AK",
+   "town_mi": 8.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TOWERS ARM CABIN",
+   "type": "paid_camp",
+   "town": "Kupreanof, AK",
+   "town_mi": 15.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WEST SWAN LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Cooper Landing, AK",
+   "town_mi": 9.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KAH SHEETS LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Petersburg, AK",
+   "town_mi": 18.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KAH SHEETS BAY CABIN",
+   "type": "paid_camp",
+   "town": "Petersburg, AK",
+   "town_mi": 18.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "EAST CREEK CABIN",
+   "type": "paid_camp",
+   "town": "Hope, AK",
+   "town_mi": 13.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CARIBOU CREEK CABIN",
+   "type": "paid_camp",
+   "town": "Hope, AK",
+   "town_mi": 7.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CASCADE CREEK CABIN",
+   "type": "paid_camp",
+   "town": "Kupreanof, AK",
+   "town_mi": 14,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "FOX CREEK CABIN (AK)",
+   "type": "paid_camp",
+   "town": "Hope, AK",
+   "town_mi": 11.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RAVENS ROOST CABIN",
+   "type": "paid_camp",
+   "town": "Petersburg, AK",
+   "town_mi": 2.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BEECHER PASS CABIN",
+   "type": "paid_camp",
+   "town": "Petersburg, AK",
+   "town_mi": 14.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Barber Cabin (Chugach National Forest, AK)",
+   "type": "paid_camp",
+   "town": "Cooper Landing, AK",
+   "town_mi": 6.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SPURT COVE CABIN",
+   "type": "paid_camp",
+   "town": "Kupreanof, AK",
+   "town_mi": 15.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CRESCENT SADDLE CABIN",
+   "type": "paid_camp",
+   "town": "Moose Pass, AK",
+   "town_mi": 4.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DALE CLEMENS CABIN",
+   "type": "paid_camp",
+   "town": "Bear Creek, AK",
+   "town_mi": 1.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PORTAGE BAY CABIN",
+   "type": "paid_camp",
+   "town": "Kupreanof, AK",
+   "town_mi": 14.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WEST POINT CABIN",
+   "type": "paid_camp",
+   "town": "Kupreanof, AK",
+   "town_mi": 18.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "GOULDING LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Pelican, AK",
+   "town_mi": 10.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOOK LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Tenakee Springs, AK",
+   "town_mi": 9.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SITKOH LAKE (EAST) CABIN",
+   "type": "paid_camp",
+   "town": "Tenakee Springs, AK",
+   "town_mi": 19.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SITKOH LAKE (WEST) CABIN",
+   "type": "paid_camp",
+   "town": "Tenakee Springs, AK",
+   "town_mi": 19.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LAKE EVA CABIN",
+   "type": "paid_camp",
+   "town": "Sitka, AK",
+   "town_mi": 17.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "FREDS CREEK CABIN",
+   "type": "paid_camp",
+   "town": "Sitka, AK",
+   "town_mi": 12.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "AVOSS LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Port Alexander, AK",
+   "town_mi": 33.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DAVIDOF LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Port Alexander, AK",
+   "town_mi": 27.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PLOTNIKOF LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Port Alexander, AK",
+   "town_mi": 25.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SAMSING COVE CABIN",
+   "type": "paid_camp",
+   "town": "Sitka, AK",
+   "town_mi": 14.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SEVENFATHOM BAY CABIN",
+   "type": "paid_camp",
+   "town": "Sitka, AK",
+   "town_mi": 27.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ALLAN POINT CABIN",
+   "type": "paid_camp",
+   "town": "Sitka, AK",
+   "town_mi": 3.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MOSER ISLAND CABIN",
+   "type": "paid_camp",
+   "town": "Tenakee Springs, AK",
+   "town_mi": 22.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "NORTH BEACH CABIN",
+   "type": "paid_camp",
+   "town": "Sitka, AK",
+   "town_mi": 14.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KANGA BAY CABIN",
+   "type": "paid_camp",
+   "town": "Sitka, AK",
+   "town_mi": 21.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WHITE SULPHUR SPRINGS CABIN",
+   "type": "paid_camp",
+   "town": "Pelican, AK",
+   "town_mi": 11.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BARNES LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Coffman Cove, AK",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CONTROL LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Klawock, AK",
+   "town_mi": 12.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HONKER LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Coffman Cove, AK",
+   "town_mi": 11.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KARTA RIVER CABIN",
+   "type": "paid_camp",
+   "town": "Hollis, AK",
+   "town_mi": 5.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RED BAY LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Port Protection, AK",
+   "town_mi": 12.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SALMON LAKE CABIN THORNE BAY",
+   "type": "paid_camp",
+   "town": "Hollis, AK",
+   "town_mi": 4.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SHIPLEY BAY CABIN",
+   "type": "paid_camp",
+   "town": "Edna Bay, AK",
+   "town_mi": 11.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "STANEY CREEK CABIN",
+   "type": "paid_camp",
+   "town": "Naukati Bay, AK",
+   "town_mi": 4.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SWEET WATER LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Coffman Cove, AK",
+   "town_mi": 5.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TWIN LAKES CABIN (AK)",
+   "type": "paid_camp",
+   "town": "Petersburg, AK",
+   "town_mi": 23.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MOUNT FLEMER CABIN",
+   "type": "paid_camp",
+   "town": "Wrangell, AK",
+   "town_mi": 32.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LITTLE DRY ISLAND CABIN",
+   "type": "paid_camp",
+   "town": "Petersburg, AK",
+   "town_mi": 16.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "GUT ISLAND 1 CABIN",
+   "type": "paid_camp",
+   "town": "Petersburg, AK",
+   "town_mi": 17.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOKNUK CABIN",
+   "type": "paid_camp",
+   "town": "Petersburg, AK",
+   "town_mi": 20.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SERGIEF ISLAND CABIN",
+   "type": "paid_camp",
+   "town": "Petersburg, AK",
+   "town_mi": 20.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "GARNET LEDGE CABIN",
+   "type": "paid_camp",
+   "town": "Petersburg, AK",
+   "town_mi": 22.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "VIRGINIA LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Wrangell, AK",
+   "town_mi": 21.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "STEAMER BAY CABIN",
+   "type": "paid_camp",
+   "town": "Coffman Cove, AK",
+   "town_mi": 12.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BERG BAY CABIN",
+   "type": "paid_camp",
+   "town": "Wrangell, AK",
+   "town_mi": 12.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "FROSTY BAY CABIN",
+   "type": "paid_camp",
+   "town": "Wrangell, AK",
+   "town_mi": 8.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MARTEN LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Wrangell, AK",
+   "town_mi": 9.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ANAN BAY CABIN",
+   "type": "paid_camp",
+   "town": "Wrangell, AK",
+   "town_mi": 5.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ANAN LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Wrangell, AK",
+   "town_mi": 6.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "EAGLE LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Wrangell, AK",
+   "town_mi": 23.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HARDING RIVER CABIN",
+   "type": "paid_camp",
+   "town": "Wrangell, AK",
+   "town_mi": 15.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SITUK LAKE CABIN",
+   "type": "paid_camp",
+   "town": "Yakutat, AK",
+   "town_mi": 9.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "EAGLE CABIN",
+   "type": "paid_camp",
+   "town": "Yakutat, AK",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RAVEN CABIN",
+   "type": "paid_camp",
+   "town": "Yakutat, AK",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tanis Mesa Cabin",
+   "type": "paid_camp",
+   "town": "Yakutat, AK",
+   "town_mi": 44.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ALSEK RIVER CABIN",
+   "type": "paid_camp",
+   "town": "Yakutat, AK",
+   "town_mi": 47.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MIDDLE DANGEROUS RIVER CABIN",
+   "type": "paid_camp",
+   "town": "Yakutat, AK",
+   "town_mi": 20.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ITALIO RIVER CABIN",
+   "type": "paid_camp",
+   "town": "Yakutat, AK",
+   "town_mi": 23.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SALMON LAKE CABIN SITKA",
+   "type": "paid_camp",
+   "town": "Sitka, AK",
+   "town_mi": 18,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TWELVEMILE CABIN",
+   "type": "paid_camp",
+   "town": "Hollis, AK",
+   "town_mi": 10.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HARRIS RIVER CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Hollis, AK",
+   "town_mi": 6.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Starrigavan Campground and Day Use",
+   "type": "paid_camp",
+   "town": "Sitka, AK",
+   "town_mi": 4.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kodiak National Wildlife Refuge Cabins",
+   "type": "paid_camp",
+   "town": "Kodiak, AK",
+   "town_mi": 3.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MIDDLE RIDGE CABIN",
+   "type": "paid_camp",
+   "town": "Wrangell, AK",
+   "town_mi": 13.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KENNEL CREEK CABIN (AK)",
+   "type": "paid_camp",
+   "town": "Tenakee Springs, AK",
+   "town_mi": 7.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "AUK VILLAGE CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Juneau, AK",
+   "town_mi": 19.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kenai Fjords National Park Cabins",
+   "type": "paid_camp",
+   "town": "Lowell Point, AK",
+   "town_mi": 14.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "White Mountains National Recreation Area - Alaska Cabins",
+   "type": "paid_camp",
+   "town": "Fox, AK",
+   "town_mi": 33,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DEEP BAY CABIN",
+   "type": "paid_camp",
+   "town": "Petersburg, AK",
+   "town_mi": 26.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Priest Rock Cabin",
+   "type": "paid_camp",
+   "town": "Port Alsworth, AK",
+   "town_mi": 11.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "NPS Priest Rock Public Use Cabin",
+   "type": "unknown",
+   "town": "Port Alsworth, AK",
+   "town_mi": 11.9,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "White Mountains National Recreation Area",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "BLM Campbell Creek Science Center",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Alaska Maritime National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Alaska Peninsula National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arctic National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Becharof National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dalton Highway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Innoko National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kanuti National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kenai National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Osar Lake Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "South Landmark Gap Trail",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Upper Dickey Lake Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Clearwater Creek Wayside",
+   "type": "off_roading",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Delta Wild and Scenic River Wayside",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Poplar Grove 17b Easement",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "June Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gillespie Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "One Mile Trail",
+   "type": "hunting",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Coal Mine Road/Jarvis Creek",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kodiak National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Koyukuk National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fort Egbert National Historic Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arctic Interagency Visitor Center",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Swede Lake Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "One Mile Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Nowitna National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Selawik National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tetlin National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Togiak National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pinnell Mountain National Recreation Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Windy Creek Trail",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Steese National Conservation Area",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Denali Highway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Richardson Highway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Swede Mountain Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Middle Fork Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kimball Pass Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tiekel Road Grade",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Klutina Lake Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Castner Glacier Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tonsina River Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Moose Creek Trail",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Liberty Falls Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gulkana Mp 141 Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fossil Creek Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fossil Gap Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "McKay Creek",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lower Nome Creek Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Campbell Tract Special Recreation Management Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Yukon Delta National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Yukon Flats National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birch Creek Wild and Scenic River",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Delta Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tongass National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Chugach National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kachemak Bay National Estuarine Research Reserve",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Beaver Creek Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Izembek National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Chena River Lakes",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Iditarod National Historic Trail Recreation Management Area",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Unalakleet Wild and Scenic River",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fortymile Wild and Scenic River",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gulkana Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "University of Alaska Museum of the North",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Atigun Pass",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Snowmobile in Kenai Fjords National Park",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit the Anchorage Alaska Public Lands Information Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Experience the Huna Tribal House",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kayak the Beardslees",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Trails at Bartlett Cove",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Camp at Bartlett Cove",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Stop by the Glacier Bay Visitor Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tour the Russian Bishop's House",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Take the Totem Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore Exhibits on Tlingit Life",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore at Low Tide",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Search for Pollinators",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Watch for Salmon",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fishing in Sitka",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Meet a Demonstrating Artist",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Camp at Kontrashibuna Lake",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fly-In Bear Viewing Along the West Cook Inlet Coast",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit National Historic Landmarks in Sitka",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Go Birding",
+   "type": "birding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Webcams",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Virtual Tours",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Take a Guided Tour to the Valley of Ten Thousand Smokes",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike to Dumpling Overlook",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike The Chilkoot Trail With Your Dog",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Self-Guided Tour of Fort Schwatka",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Experience Kenai Fjords National Park in winter",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore the Exit Glacier area in a couple of hours",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore the Historic Dyea Townsite",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore the Moore Homestead",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit the Mascot Saloon",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Spend the Night in a Rustic Cabin",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Go Fishing on Lake Clark",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Go Fly Fishing at Tanalian Falls",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore How Salmon Are Sustaining Southwest Alaska Communities",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "See the Wassillie Trefon Dena'ina Fish Cache",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Discover Bristol Bay Fishing History",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit the Denison Sawmill Exhibit",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Stay in a Public Use Cabin",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Harding Icefield Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit the Fairbanks Alaska Public Lands Information Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kayak from Port Alsworth to Tommy Island",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike up Tanalian Mountain",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Douglas Public Library",
+   "type": "library",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Perseverance Theatre",
+   "type": "arts_culture",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaska Robotics",
+   "type": "arts_culture",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windfall Fisherman",
+   "type": "arts_culture",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nimbus",
+   "type": "arts_culture",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Commercial Fishermen's Memorial",
+   "type": "historic_site",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wickersham State Historical Site",
+   "type": "museum",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaska State Library",
+   "type": "library",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberty Bell Reproduction",
+   "type": "historic_site",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hard Rock Miners statue",
+   "type": "arts_culture",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sealaska Heritage Institute",
+   "type": "museum",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Public Library",
+   "type": "library",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William H. Seward",
+   "type": "arts_culture",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tahku",
+   "type": "arts_culture",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eagle Pole",
+   "type": "arts_culture",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tsimshian Pole",
+   "type": "arts_culture",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haida Raven Pole",
+   "type": "arts_culture",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sealaska Cultural Values Pole",
+   "type": "arts_culture",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "USS Juneau Memorial",
+   "type": "historic_site",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lodestone Library",
+   "type": "library",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amalga Distillery",
+   "type": "brewery_distillery",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaska State Museum",
+   "type": "museum",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Juneau-Douglas City Museum",
+   "type": "museum",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Last Chance Mining Museum",
+   "type": "museum",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Before I Die ...",
+   "type": "arts_culture",
+   "city": "Juneau",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pyrah's Pioneer Peak Farm",
+   "type": "farmers_market",
+   "city": "Palmer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Where the Matanuska RIver Flows",
+   "type": "arts_culture",
+   "city": "Palmer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alvin S. Okeson Library",
+   "type": "library",
+   "city": "Palmer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idita Wash",
+   "type": "laundromat",
+   "city": "Palmer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palmer Museum of History & Art",
+   "type": "museum",
+   "city": "Palmer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bearpaw River Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Palmer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palmer Public Library",
+   "type": "library",
+   "city": "Palmer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bigfoot Art Gallery",
+   "type": "arts_culture",
+   "city": "Palmer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Borealis Theatre",
+   "type": "arts_culture",
+   "city": "Palmer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Annex",
+   "type": "coworking",
+   "city": "Palmer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glenn Massay Theater",
+   "type": "arts_culture",
+   "city": "Palmer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaska Music and Arts",
+   "type": "arts_culture",
+   "city": "Palmer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dena' - Peoples Stage",
+   "type": "arts_culture",
+   "city": "Palmer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harkening Spirit",
+   "type": "arts_culture",
+   "city": "Palmer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Resurrection Koru",
+   "type": "arts_culture",
+   "city": "Palmer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bushes Bunches Produce Stand",
+   "type": "farmers_market",
+   "city": "Palmer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Friday Fling",
+   "type": "farmers_market",
+   "city": "Palmer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Barn",
+   "type": "historic_site",
+   "city": "Wasilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Curtis D. Menard Memorial",
+   "type": "historic_site",
+   "city": "Wasilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Salmon mosaic",
+   "type": "arts_culture",
+   "city": "Wasilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bear statue",
+   "type": "arts_culture",
+   "city": "Wasilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bear",
+   "type": "arts_culture",
+   "city": "Wasilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moose",
+   "type": "arts_culture",
+   "city": "Wasilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Balto",
+   "type": "arts_culture",
+   "city": "Wasilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wasilla Museum & Visitors Center",
+   "type": "museum",
+   "city": "Wasilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iditarod Trail Sled Dog Museum",
+   "type": "museum",
+   "city": "Wasilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Houses of Wasilla",
+   "type": "museum",
+   "city": "Wasilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stage",
+   "type": "arts_culture",
+   "city": "Wasilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Alaska Transportation and Industry",
+   "type": "museum",
+   "city": "Wasilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wasilla Public Library",
+   "type": "library",
+   "city": "Wasilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wasilla Wash Day",
+   "type": "laundromat",
+   "city": "Wasilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Salmon watching",
+   "type": "arts_culture",
+   "city": "Wasilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bearpaw River Brewery",
+   "type": "brewery_distillery",
+   "city": "Wasilla",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glacier Brewhouse Restaurant & Brewery",
+   "type": "brewery_distillery",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaska State Library",
+   "type": "library",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Captain Cook Monument",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eisenhower Alaska Statehood Monument",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evangeline Atwood Concert Hall",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anchorage Light Speed Planet Walk",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "O’er Land and Sea a Beacon Bright",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reflections on the Great One",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Discovery Theatre",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sydney Laurence Theatre",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Focus on Statehood",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flight of the Raven",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaska Law Enforcement Museum",
+   "type": "museum",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Transformation\"",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaskan Spirts Distillery",
+   "type": "brewery_distillery",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spenard Farmers Market",
+   "type": "farmers_market",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zip Kombucha",
+   "type": "brewery_distillery",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Raven",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Snowshoe",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fine Art Gallery",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arctic Laundry",
+   "type": "laundromat",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anchorage Market at Dimond Center",
+   "type": "farmers_market",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nixon-Hirohito monument",
+   "type": "historic_site",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "E-3 Sentry",
+   "type": "historic_site",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wall of Heroes",
+   "type": "historic_site",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James J. Delaney Memorial",
+   "type": "historic_site",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benny Benson Memorial",
+   "type": "historic_site",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nothern Air Cargo DC-6",
+   "type": "historic_site",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ursus botanicus",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "VW Flower Bus",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Night and Day",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dos Manos",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portal: Drop Assembly #5",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Listening to Stone: Stone Waveform",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chevy Truck",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center Market",
+   "type": "farmers_market",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Midtown Anchorage Farmers Market",
+   "type": "farmers_market",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pena Park Market",
+   "type": "farmers_market",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Anchorage Farmers Market",
+   "type": "farmers_market",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Muldoon Farmers Market",
+   "type": "farmers_market",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grow North Farm",
+   "type": "farmers_market",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ANC Market Social",
+   "type": "farmers_market",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anchorage Farmers Market",
+   "type": "farmers_market",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indigenous Place Name: Nuch'ishtunt",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ch'atanaltsegh: where yellow water comes out",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fish Creek Tunnel Art",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chanshtnu Indigenous Placename Marker",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Muldoon Library",
+   "type": "library",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atwood Resource Center Library and Archives",
+   "type": "library",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anchorage Museum Planetarium",
+   "type": "planetarium",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Racing in the Footsteps of a Legend",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint Paul's Corner Bookstore and Gifts",
+   "type": "library",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Onsite Brewing",
+   "type": "brewery_distillery",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Turnagain Brewing",
+   "type": "brewery_distillery",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ship Creek Brewing",
+   "type": "brewery_distillery",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Golden Nugget Laundromat",
+   "type": "laundromat",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "61 Degrees North Winery",
+   "type": "brewery_distillery",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LumaLim",
+   "type": "museum",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nike Site Point Missile Launch Area",
+   "type": "historic_site",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nike SIte Point Integrated Fire Control Area",
+   "type": "historic_site",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaska's Marine Life",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grandma Olga",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City Laundromat",
+   "type": "laundromat",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Light Speed Planet Walk-Earth",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "APU Spring Creek Farm Stand",
+   "type": "farmers_market",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cynosure Brewing",
+   "type": "brewery_distillery",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wash n Go Laundry",
+   "type": "laundromat",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West High Theatre",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Rail",
+   "type": "brewery_distillery",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indigenous Placename Marker",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indigenous Placename Marker",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaska Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaska Native Heritage Center",
+   "type": "museum",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UAA/APU Consortium Library",
+   "type": "library",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moose's Tooth Pub & Pizzeria",
+   "type": "brewery_distillery",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anchorage Museum",
+   "type": "museum",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "49th State Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Z. J. Loussac Public Library",
+   "type": "library",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anchorage Veteran's Memorial",
+   "type": "historic_site",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Given…by the Great Land",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Shop",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joint Base Elmendorf-Richardson Library",
+   "type": "library",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaska Aviation Museum",
+   "type": "museum",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Martin Luther King Jr. Memorial",
+   "type": "historic_site",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaska Jewish Museum",
+   "type": "museum",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Commemorative Plaque of Pope John Paul II Visit",
+   "type": "historic_site",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mountain View Library",
+   "type": "library",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaska Dance Theatre",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Umoja Coworking",
+   "type": "coworking",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaska Museum of Science and Nature",
+   "type": "science_center",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Umoja Coworking & Incubator",
+   "type": "coworking",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eureka Space",
+   "type": "coworking",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Quantum Laundry Lounge",
+   "type": "laundromat",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anchorage Distillery",
+   "type": "brewery_distillery",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Out North Contemporary Art House Theatre",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jonny's Produce",
+   "type": "farmers_market",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Turnagain Arts Building",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "King Street Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wendy Williamson Auditorium",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hugh M. Elmendorf monument",
+   "type": "historic_site",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McCloud Memorial",
+   "type": "historic_site",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "YUKLA 27 Memorial",
+   "type": "historic_site",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "POW-MIA memorial",
+   "type": "historic_site",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Little Leaf Library",
+   "type": "library",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Double Shovel Cider Company",
+   "type": "brewery_distillery",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Magnetic North Brewery",
+   "type": "brewery_distillery",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Light Speed Planet Walk-Sun",
+   "type": "arts_culture",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zip Kombucha",
+   "type": "brewery_distillery",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anchorage Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Anchorage",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairbanks Ice Museum",
+   "type": "museum",
+   "city": "Fairbanks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lend-Lease Monument",
+   "type": "historic_site",
+   "city": "Fairbanks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Birch Hill Market",
+   "type": "farmers_market",
+   "city": "Farmers Loop",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaska Mining Hall of Fame",
+   "type": "museum",
+   "city": "Fairbanks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bouchard's International Dog Mushing and Sled Museum",
+   "type": "museum",
+   "city": "Fairbanks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "HooDoo Brewery",
+   "type": "brewery_distillery",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barnette's Landing",
+   "type": "historic_site",
+   "city": "Fairbanks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walter Harper Statue",
+   "type": "arts_culture",
+   "city": "Fairbanks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Stampede Mural",
+   "type": "arts_culture",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pioneer by the Bus Stop",
+   "type": "arts_culture",
+   "city": "Fairbanks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "International Signpost",
+   "type": "arts_culture",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Brant IX sounding rocket",
+   "type": "historic_site",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Keith B. Mather Library",
+   "type": "library",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cutler Apartment Complex Laundry Facility",
+   "type": "laundromat",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cutler Apartment Complex Laundry Facility",
+   "type": "laundromat",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Interior Alaska Veterans Memorial",
+   "type": "historic_site",
+   "city": "Fairbanks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UAF Planet Walk Start (Sun)",
+   "type": "museum",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rasmuson Library",
+   "type": "library",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaska Centennial Center For The Arts",
+   "type": "arts_culture",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pioneer Air Museum",
+   "type": "museum",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pioneer Hall",
+   "type": "museum",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairbanks Children's Museum",
+   "type": "museum",
+   "city": "Fairbanks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Noel Wien Public Library",
+   "type": "library",
+   "city": "Fairbanks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ballroom Dance Club (Square Dance Hall)",
+   "type": "arts_culture",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cornerstone Plaza",
+   "type": "historic_downtown",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Humble Roots Beer Project",
+   "type": "brewery_distillery",
+   "city": "Fairbanks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverfront Theatre",
+   "type": "arts_culture",
+   "city": "Fairbanks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fountainhead Antique Auto Museum",
+   "type": "museum",
+   "city": "Fairbanks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Palace Theatre & Saloon",
+   "type": "arts_culture",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kitty Hensley House",
+   "type": "museum",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SS Nenana",
+   "type": "museum",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaska Rkaayeh Village Museum",
+   "type": "museum",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Latitude 65 Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Fairbanks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Drew Plaza",
+   "type": "historic_downtown",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Rotary Pavilion",
+   "type": "arts_culture",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Jim And Marilyn Drew Amphitheater",
+   "type": "arts_culture",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fairbanks Shakespeare Outdoor Theater",
+   "type": "arts_culture",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Events Plaza",
+   "type": "historic_downtown",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flagpole Square",
+   "type": "historic_downtown",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Agriculture Museum",
+   "type": "museum",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Golden Wheel Show Ring",
+   "type": "arts_culture",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tanana Valley Farmers Market",
+   "type": "farmers_market",
+   "city": "College",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Spruce Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Fairbanks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kenai Historical Society",
+   "type": "museum",
+   "city": "Kenai",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldotna Public Library",
+   "type": "library",
+   "city": "Soldotna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kenai Center",
+   "type": "farmers_market",
+   "city": "Kenai",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soldotna Historical Society & Museum, Inc.",
+   "type": "museum",
+   "city": "Soldotna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kenai Public Library",
+   "type": "library",
+   "city": "Kenai",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kodiak History Museum",
+   "type": "museum",
+   "city": "Kodiak",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benny Benson grave",
+   "type": "historic_site",
+   "city": "Kodiak",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kodiak Public Library",
+   "type": "library",
+   "city": "Kodiak",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kodiak Maritime Museum",
+   "type": "museum",
+   "city": "Kodiak",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kodiak National Wildlife Refuge Visitor Center",
+   "type": "museum",
+   "city": "Kodiak",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kodiak Military History Museum",
+   "type": "museum",
+   "city": "Kodiak",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "US Army Private George Fox",
+   "type": "historic_site",
+   "city": "Unalaska",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II",
+   "type": "historic_site",
+   "city": "Unalaska",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Service Flags",
+   "type": "historic_site",
+   "city": "Unalaska",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II in the Aleutians",
+   "type": "historic_site",
+   "city": "Unalaska",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U.S. Coast Guard Bering Sea Patrol",
+   "type": "historic_site",
+   "city": "Unalaska",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SS Northwestern",
+   "type": "historic_site",
+   "city": "Unalaska",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "206th Coast Artillery",
+   "type": "historic_site",
+   "city": "Unalaska",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peace Memorial",
+   "type": "historic_site",
+   "city": "Unalaska",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jesse Lee Home Monument",
+   "type": "historic_site",
+   "city": "Unalaska",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camp Qungaayux Russian Orthodox Marker Cross",
+   "type": "historic_site",
+   "city": "Unalaska",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alexis Magalong",
+   "type": "historic_site",
+   "city": "Unalaska",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Imphenzia",
+   "type": "arts_culture",
+   "city": "Dutch Harbor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWII Submarine Marker",
+   "type": "historic_site",
+   "city": "Unalaska",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of the Aleutians",
+   "type": "museum",
+   "city": "Dutch Harbor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Unalaska Public Library",
+   "type": "library",
+   "city": "Unalaska",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aleutian Islands World War II National Historic Area Visitor Center",
+   "type": "museum",
+   "city": "Dutch Harbor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWII Underground Hospital",
+   "type": "historic_site",
+   "city": "Dutch Harbor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Second Priest Rock",
+   "type": "historic_site",
+   "city": "Dutch Harbor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fourth of July Rock",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yellow Rock KCS",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gun Mount",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gun Mount",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gun Mount",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II Camp",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Canon Mount",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWII Military Camp",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gun Mount",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gun Mount",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gun Mount",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gun Mount",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gun Mount",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWII Military Camp",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Canon Mount",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gun Mount",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gun Mount",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gun Mount",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gun Mount",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWII Hut",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWII Gun Camp",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWII Gun Mount",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WWII Gun Mount",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II US Army Hut Ruin",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War II US Army Hut Ruin",
+   "type": "historic_site",
+   "city": "King Cove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sealing Dedication Statue",
+   "type": "historic_site",
+   "city": "Saint George",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Russian Cannon",
+   "type": "historic_site",
+   "city": "Saint George",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cannon",
+   "type": "historic_site",
+   "city": "Saint George",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wash House - Laundry & Showers",
+   "type": "laundromat",
+   "city": "North Pole",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William H Seward Bust",
+   "type": "arts_culture",
+   "city": "Seward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Good Friday Earthquake Memorial",
+   "type": "historic_site",
+   "city": "Seward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Benny Benson Memorial Park",
+   "type": "historic_site",
+   "city": "Seward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Founder's Monument",
+   "type": "historic_site",
+   "city": "Seward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seward Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Seward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seward Mariners' Memorial",
+   "type": "historic_site",
+   "city": "Seward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jujiro Wada Iditarod Trail Pioneer",
+   "type": "arts_culture",
+   "city": "Seward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Suds N Swirl Laundromat",
+   "type": "laundromat",
+   "city": "Seward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seward Community Library & Museum",
+   "type": "library",
+   "city": "Seward",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sophie's Suds",
+   "type": "shower",
+   "city": "Sterling",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pratt Museum",
+   "type": "museum",
+   "city": "Homer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lakeview Mall",
+   "type": "farmers_market",
+   "city": "Homer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East End Laundry",
+   "type": "laundromat",
+   "city": "Homer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Door Laundry",
+   "type": "laundromat",
+   "city": "Homer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Homer Public Library",
+   "type": "library",
+   "city": "Homer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Point of View Mall",
+   "type": "farmers_market",
+   "city": "Homer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Center for Alaskan Coastal Studies",
+   "type": "museum",
+   "city": "Homer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Homer Community Market",
+   "type": "farmers_market",
+   "city": "Homer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washboard",
+   "type": "laundromat",
+   "city": "Homer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alaska Islands & Oceans NWR Visitor Center",
+   "type": "museum",
+   "city": "Homer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Homer Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Homer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grace Ridge Brewing",
+   "type": "brewery_distillery",
+   "city": "Homer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Market on Main",
+   "type": "farmers_market",
+   "city": "Homer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gold Rush Stampeders",
+   "type": "arts_culture",
+   "city": "Skagway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soapy and Reed Gunfight Plaque",
+   "type": "historic_site",
+   "city": "Skagway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City of Skagway Museum",
+   "type": "museum",
+   "city": "Skagway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Onion Saloon Brothel Museum",
+   "type": "museum",
+   "city": "Skagway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soapy Smith's Parlor",
+   "type": "museum",
+   "city": "Skagway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Skagway Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Skagway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lynch and Kennedy",
+   "type": "arts_culture",
+   "city": "Skagway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Heart of Broadway",
+   "type": "arts_culture",
+   "city": "Skagway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eagles Hall",
+   "type": "arts_culture",
+   "city": "Skagway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Skagway RV Park",
+   "type": "laundromat",
+   "city": "Skagway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic Moore Homestead",
+   "type": "museum",
+   "city": "Skagway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dedman's",
+   "type": "arts_culture",
+   "city": "Skagway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Skagway Public Library",
+   "type": "library",
+   "city": "Skagway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Skagway Spirits Distillery",
+   "type": "brewery_distillery",
+   "city": "Skagway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moose",
+   "type": "arts_culture",
+   "city": "Soldotna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kenai River Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Soldotna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Town of Living Trees Inc",
+   "type": "arts_culture",
+   "city": "Soldotna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dragonfly Gallery",
+   "type": "arts_culture",
+   "city": "Soldotna",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maxine & Jesse Whitney Museum",
+   "type": "museum",
+   "city": "Valdez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whispering Giant, by Peter Toth",
+   "type": "arts_culture",
+   "city": "Valdez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valdez - The All-American Route",
+   "type": "arts_culture",
+   "city": "Valdez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Acres Kwik Trip",
+   "type": "laundromat",
+   "city": "Valdez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valdez Brewing",
+   "type": "brewery_distillery",
+   "city": "Valdez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valdez Consortium Library",
+   "type": "library",
+   "city": "Valdez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valdez Museum",
+   "type": "museum",
+   "city": "Valdez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Growler Bay Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Valdez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Legion Post 2 - Veterans Memorial Park",
+   "type": "historic_site",
+   "city": "Valdez",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gerrish Public Library",
+   "type": "library",
+   "city": "Girdwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marlow Pavilion/Stage",
+   "type": "arts_culture",
+   "city": "Girdwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Girdwood Farmers Market",
+   "type": "farmers_market",
+   "city": "Girdwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Girdwood Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Girdwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Willow Public Library",
+   "type": "library",
+   "city": "Willow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Cheeky Moose",
+   "type": "laundromat",
+   "city": "Anchor Point",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anchor Point Public Library",
+   "type": "library",
+   "city": "Anchor Point",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Delta Community Library",
+   "type": "library",
+   "city": "Delta Junction",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sullivan Road House Museum",
+   "type": "museum",
+   "city": "Delta Junction",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Delta Junction Farmer's Market",
+   "type": "farmers_market",
+   "city": "Delta Junction",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prince William Sound Museum",
+   "type": "museum",
+   "city": "Whittier",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hope and Sunrise Historical Society",
+   "type": "museum",
+   "city": "Hope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Canyon Crek Barn",
+   "type": "historic_site",
+   "city": "Hope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hope Schoolhouse",
+   "type": "historic_site",
+   "city": "Hope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thornton Post Office",
+   "type": "historic_site",
+   "city": "Hope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Canyon Creek Bunkhouse",
+   "type": "historic_site",
+   "city": "Hope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Canyon Creek Blacksmith",
+   "type": "historic_site",
+   "city": "Hope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hope Community Library",
+   "type": "library",
+   "city": "Hope",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Port Chilkoot Distillery",
+   "type": "brewery_distillery",
+   "city": "Haines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sheldon Muesum",
+   "type": "museum",
+   "city": "Haines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haines Borough Public Library",
+   "type": "library",
+   "city": "Haines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hammer Museum",
+   "type": "museum",
+   "city": "Haines",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "K’alyáan Pole",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bicentennial Pole",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haa Léelk’u Ha’s Kaasdahéeni Deiyí Saanaheit Pole Kootéeyaa Pole",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yaadaas Crest Corner Pole—First Twin",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wolf Pole",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cormorant Memorial / Mortuary Column",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trader Legend Pole",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yaadaas Crest Corner Pole—Second Twin",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Raven/Shark Pole",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gaanax.ádi /Raven Crest Pole",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Raven Memorial Pole",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Xa 'Tulitseen",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baranov Totem Pole",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Archangel Dance Studio",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harbor Mountain Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mosquito Legend Pole",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saanaheit Pole",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yaadaas Crest Pole",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frog/Raven Pole",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wooch Jin Dul Shat Kooteeya",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Prospector",
+   "type": "historic_site",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cascade Laundry",
+   "type": "laundromat",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Odess Theater",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kaisei Maru",
+   "type": "historic_site",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lakich’inei Pole",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saanaheit House Posts",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Totem Conservation Exhibit",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yaadaas Crest Corner Pole Fragments",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallery By The Sea",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sitka History Museum",
+   "type": "museum",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Island Artists Gallery",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fate Accompli",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artists Cove",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sitka Rose Gallery",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "CG-6017",
+   "type": "historic_site",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U.S. Coast and Geodetic Survey House",
+   "type": "historic_site",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Michio Hoshino Totem Pole",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shee-atika Corporation Totem Pole",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yei éek kwa néix",
+   "type": "arts_culture",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sitka Public Library",
+   "type": "library",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Russian Bishops House",
+   "type": "museum",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sheldon Jackson Museum",
+   "type": "museum",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Straton Library",
+   "type": "library",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sitka Laundry Center",
+   "type": "laundromat",
+   "city": "Sitka",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

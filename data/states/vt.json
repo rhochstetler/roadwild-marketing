@@ -1,0 +1,2221 @@
+{
+ "state": "VT",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Howell's Camping area",
+   "type": "paid_camp",
+   "town": "Arlington, VT",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Greendale Campground",
+   "type": "paid_camp",
+   "town": "Weston, VT",
+   "town_mi": 4.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Bomoseen KOA Holiday",
+   "type": "rv_park",
+   "town": "Castleton Four Corners, VT",
+   "town_mi": 5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grout Pond Recreation Area",
+   "type": "paid_camp",
+   "town": "Stratton Mountain, VT",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Smugglers Notch RV Village",
+   "type": "rv_park",
+   "town": "Jeffersonville, VT",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Campbell’s Bay Campground",
+   "type": "rv_park",
+   "town": "Highgate Springs, VT",
+   "town_mi": 3.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Maidstone State Park Camping Area \"B\"",
+   "type": "paid_camp",
+   "town": "Groveton, NH",
+   "town_mi": 7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Half Moon Pond State Park",
+   "type": "paid_camp",
+   "town": "Benson, VT",
+   "town_mi": 4.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Dunmore Kampersville",
+   "type": "paid_camp",
+   "town": "East Middlebury, VT",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stoughton Pond Rec Area",
+   "type": "paid_camp",
+   "town": "North Springfield, VT",
+   "town_mi": 3.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "NORTH HARTLAND LAKE BEACH (VT)",
+   "type": "paid_camp",
+   "town": "North Hartland, VT",
+   "town_mi": 0.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CHITTENDEN BROOK CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Rochester, VT",
+   "town_mi": 6.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lakehurst Campground and Marina",
+   "type": "rv_park",
+   "town": "Chazy, NY",
+   "town_mi": 5.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HAPGOOD POND",
+   "type": "paid_camp",
+   "town": "Londonderry, VT",
+   "town_mi": 4.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lakewood Campground",
+   "type": "rv_park",
+   "town": "Swanton, VT",
+   "town_mi": 4.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "D.A.R State Park",
+   "type": "paid_camp",
+   "town": "Port Henry, NY",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Group Camping Area",
+   "type": "paid_camp",
+   "town": "Underhill Center, VT",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mt Ascutney State Park Campground",
+   "type": "paid_camp",
+   "town": "Ascutney, VT",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Emma's Sweet Retreat",
+   "type": "paid_camp",
+   "town": "Rochester, VT",
+   "town_mi": 5.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Goose Point Campground",
+   "type": "rv_park",
+   "town": "Alburgh, VT",
+   "town_mi": 4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Alburgh Travel Trailer Park",
+   "type": "rv_park",
+   "town": "Alburgh, VT",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MOOSALAMOO CAMPGROUND",
+   "type": "paid_camp",
+   "town": "East Middlebury, VT",
+   "town_mi": 5.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Maple Hill Campsites",
+   "type": "paid_camp",
+   "town": "Lincoln, VT",
+   "town_mi": 3.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Winhall Brook Campground",
+   "type": "unknown",
+   "town": "South Londonderry, VT",
+   "town_mi": 2.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brewster River Campground",
+   "type": "paid_camp",
+   "town": "Jeffersonville, VT",
+   "town_mi": 2.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sugar Ridge RV Resort",
+   "type": "paid_camp",
+   "town": "Danville, VT",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Quechee / Pine Valley Kampgrounds of America",
+   "type": "rv_park",
+   "town": "Quechee, VT",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Farnsworth",
+   "type": "paid_camp",
+   "town": "Fairlee, VT",
+   "town_mi": 5.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rest N' Nest Campground",
+   "type": "paid_camp",
+   "town": "Fairlee, VT",
+   "town_mi": 5.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Breezy Meadows Campground",
+   "type": "rv_park",
+   "town": "Concord, VT",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Alpine Valley RV Park & Campground",
+   "type": "rv_park",
+   "town": "Concord, VT",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Base Camp RV Park and Campground",
+   "type": "rv_park",
+   "town": "Troy, VT",
+   "town_mi": 3.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Barrewood Campground",
+   "type": "rv_park",
+   "town": "Troy, VT",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Abel Mountain Campground",
+   "type": "rv_park",
+   "town": "Randolph, VT",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Allis State Park Campground",
+   "type": "paid_camp",
+   "town": "Williamstown, VT",
+   "town_mi": 6.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Limehurst Lake Campground",
+   "type": "paid_camp",
+   "town": "Williamstown, VT",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shelburne Camping Area",
+   "type": "rv_park",
+   "town": "Shelburne, VT",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sunset Rock RV Park",
+   "type": "rv_park",
+   "town": "Chazy, NY",
+   "town_mi": 5.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Summer Place Lakeside Campground",
+   "type": "rv_park",
+   "town": "Chazy, NY",
+   "town_mi": 5.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Champlain Valley Campground",
+   "type": "rv_park",
+   "town": "Swanton, VT",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Skyland, LLC",
+   "type": "rv_park",
+   "town": "South Hero, VT",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "10 Acre Campground",
+   "type": "rv_park",
+   "town": "Port Henry, NY",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Missisquoi National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ball Mountain Lake",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "North Hartland Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "North Springfield Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Townshend Lake",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Union Village Dam",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Visit the Mansion",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Colonel Donald G. Cook, USMC Memorial Statue",
+   "type": "historic_site",
+   "city": "Winooski",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shelburne Village Historic District",
+   "type": "historic_downtown",
+   "city": "Shelburne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Williston Village Historic District",
+   "type": "historic_downtown",
+   "city": "Williston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pierson Free Library (temporary location)",
+   "type": "library",
+   "city": "Shelburne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flynn Theatre",
+   "type": "arts_culture",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jaime Two Coats",
+   "type": "historic_site",
+   "city": "Shelburne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shelburne Winery",
+   "type": "brewery_distillery",
+   "city": "Shelburne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University of Vermont Recital Hall",
+   "type": "arts_culture",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vermont Pub & Brewery",
+   "type": "brewery_distillery",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Craig's",
+   "type": "museum",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "5 Corners Laundry",
+   "type": "laundromat",
+   "city": "Essex Junction",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grace Goodhue Coolidge",
+   "type": "historic_site",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Citizen Cider",
+   "type": "brewery_distillery",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Wells",
+   "type": "arts_culture",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Winooski Memorial Library",
+   "type": "library",
+   "city": "Winooski",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Four Quarters Brewing",
+   "type": "brewery_distillery",
+   "city": "Winooski",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zero Gravity Craft Brewery",
+   "type": "brewery_distillery",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sam Mazza's Farm Market",
+   "type": "farmers_market",
+   "city": "Malletts Bay",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pomerleau Neighborhood Park",
+   "type": "arts_culture",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Off Center for the Dramatic Arts",
+   "type": "arts_culture",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fiddlehead Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Shelburne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paul Mazza's Fruit & Vegetables",
+   "type": "farmers_market",
+   "city": "Essex Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World's Tallest Filing Cabinet",
+   "type": "arts_culture",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Foam Brewers",
+   "type": "brewery_distillery",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hyperbolic Paraboloid",
+   "type": "arts_culture",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Battery",
+   "type": "historic_site",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grave Site",
+   "type": "historic_site",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grey Lock",
+   "type": "arts_culture",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ethan Allen",
+   "type": "historic_site",
+   "city": "Winooski",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Catamount Statue",
+   "type": "arts_culture",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Black Snake Affair",
+   "type": "historic_site",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "City Vault",
+   "type": "historic_site",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Lone Sailor",
+   "type": "arts_culture",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "shelburne mill at the falls",
+   "type": "historic_site",
+   "city": "Shelburne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Simple Roots",
+   "type": "brewery_distillery",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burlington Civil War Memorial",
+   "type": "historic_site",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BCA",
+   "type": "arts_culture",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goldstar Mother's Dedication",
+   "type": "historic_site",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Millennium Bell Time Capsule",
+   "type": "historic_site",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kelis the Afronaut",
+   "type": "arts_culture",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reserve My Cube",
+   "type": "coworking",
+   "city": "Winooski",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goodwater Brewery",
+   "type": "brewery_distillery",
+   "city": "Taft Corners",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1st Republic Brewing",
+   "type": "brewery_distillery",
+   "city": "Essex Junction",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weird Window Brewing",
+   "type": "brewery_distillery",
+   "city": "Winooski",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burlington Farmers Market",
+   "type": "farmers_market",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Union Street Laundry",
+   "type": "laundromat",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BCA Center",
+   "type": "arts_culture",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Free Library",
+   "type": "library",
+   "city": "South Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Library",
+   "type": "library",
+   "city": "Malletts Bay",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maple Street Art Space",
+   "type": "arts_culture",
+   "city": "Essex Junction",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fletcher Free Library: NNE Branch",
+   "type": "library",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Church Street Marketplace",
+   "type": "historic_site",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Queen Mountain Club",
+   "type": "historic_site",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Strömkarlen (River Troll)",
+   "type": "arts_culture",
+   "city": "Shelburne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Soda Plant",
+   "type": "farmers_market",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abstractions Art Gallery",
+   "type": "arts_culture",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Burlington Public Library",
+   "type": "library",
+   "city": "South Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battery Park Bandstand",
+   "type": "arts_culture",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ECHO Leahy Center for Lake Champlain",
+   "type": "museum",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fletcher Free Library",
+   "type": "library",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shelburne Museum",
+   "type": "museum",
+   "city": "Shelburne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ethan Allen Homestead Museum",
+   "type": "museum",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burlington Beer Company",
+   "type": "brewery_distillery",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Citizen Cider Warehouse",
+   "type": "brewery_distillery",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greers",
+   "type": "laundromat",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "David W. Howe Library",
+   "type": "library",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Billings Library",
+   "type": "library",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dana Health Sciences Library",
+   "type": "library",
+   "city": "Winooski",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fleming Museum of Art",
+   "type": "museum",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Royall Tyler Theatre",
+   "type": "arts_culture",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Adam's Farm Market",
+   "type": "farmers_market",
+   "city": "Williston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dorothy Alling Memorial Library",
+   "type": "library",
+   "city": "Williston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundromat 99",
+   "type": "laundromat",
+   "city": "Winooski",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Switchback Brewery",
+   "type": "brewery_distillery",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Queen City Brewery",
+   "type": "brewery_distillery",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McCarthy Arts Center",
+   "type": "arts_culture",
+   "city": "Winooski",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Durick Library",
+   "type": "library",
+   "city": "Winooski",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Essex Free Library",
+   "type": "library",
+   "city": "Essex Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reverence",
+   "type": "arts_culture",
+   "city": "Taft Corners",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brownell Library",
+   "type": "library",
+   "city": "Essex Junction",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Four Quarters Brewing",
+   "type": "brewery_distillery",
+   "city": "Winooski",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Memorial Hall",
+   "type": "arts_culture",
+   "city": "Essex Center",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burnham Memorial Library",
+   "type": "library",
+   "city": "Colchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vermont National Guard Library & Museum",
+   "type": "museum",
+   "city": "Winooski",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Amphiteatre",
+   "type": "arts_culture",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Barn Market & Deli",
+   "type": "farmers_market",
+   "city": "South Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bath and Laundry",
+   "type": "shower",
+   "city": "Burlington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marble Street Historic District",
+   "type": "historic_downtown",
+   "city": "West Rutland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pittsford Green Historic District",
+   "type": "historic_downtown",
+   "city": "Pittsford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rutland Courthouse Historic District",
+   "type": "historic_downtown",
+   "city": "Rutland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rutland Downtown Historic District",
+   "type": "historic_downtown",
+   "city": "Rutland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norman Rockwell Museum",
+   "type": "museum",
+   "city": "Rutland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paramount Theater",
+   "type": "arts_culture",
+   "city": "Rutland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vermont Marble Museum",
+   "type": "museum",
+   "city": "Proctor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Leash Sculpture",
+   "type": "arts_culture",
+   "city": "Rutland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rutland Water Fountain",
+   "type": "arts_culture",
+   "city": "Rutland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chittenden Public Library",
+   "type": "library",
+   "city": "Chittenden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rutland Farmers Market",
+   "type": "farmers_market",
+   "city": "Rutland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oculus",
+   "type": "arts_culture",
+   "city": "Rutland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edward Hastings Ripley",
+   "type": "historic_site",
+   "city": "Mendon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Doug Casella",
+   "type": "historic_site",
+   "city": "Mendon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New England Maple Museum",
+   "type": "museum",
+   "city": "Pittsford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rutland Free Library",
+   "type": "library",
+   "city": "Rutland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maclure Library",
+   "type": "library",
+   "city": "Pittsford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Proctor Free Library",
+   "type": "library",
+   "city": "Proctor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bailey Memorial Library",
+   "type": "library",
+   "city": "Rutland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Rutland Free Library",
+   "type": "library",
+   "city": "West Rutland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vermont Farmer's Winter Market",
+   "type": "farmers_market",
+   "city": "Rutland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chaffee Art Center",
+   "type": "arts_culture",
+   "city": "Rutland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Hub CoWorks",
+   "type": "coworking",
+   "city": "Rutland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barre Downtown Historic District",
+   "type": "historic_downtown",
+   "city": "Barre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montpelier Historic District",
+   "type": "historic_downtown",
+   "city": "Montpelier",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plainfield Village Historic District",
+   "type": "historic_downtown",
+   "city": "Plainfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert Burns Memorial Statue",
+   "type": "historic_site",
+   "city": "Barre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vermont Historical Society Museum and Pavilion",
+   "type": "museum",
+   "city": "Montpelier",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beavin & Sons",
+   "type": "arts_culture",
+   "city": "Montpelier",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capital City Laundry",
+   "type": "laundromat",
+   "city": "Montpelier",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vermont Granite Museum",
+   "type": "museum",
+   "city": "Barre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monument to Heroic Deeds",
+   "type": "historic_site",
+   "city": "Barre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burned Ranger's House",
+   "type": "historic_site",
+   "city": "Plainfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Busy Bubble",
+   "type": "laundromat",
+   "city": "Barre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1918 Spanish Flu Memorial",
+   "type": "historic_site",
+   "city": "Barre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "T.W. Wood Gallery & Arts Center",
+   "type": "arts_culture",
+   "city": "Montpelier",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio Place Arts",
+   "type": "arts_culture",
+   "city": "Barre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War Memorial",
+   "type": "historic_site",
+   "city": "Barre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lost Nations Theater",
+   "type": "arts_culture",
+   "city": "Montpelier",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barre Opera House",
+   "type": "arts_culture",
+   "city": "Barre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Haybarn Theatre",
+   "type": "arts_culture",
+   "city": "Plainfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central Vermont Memorial Civic Center",
+   "type": "arts_culture",
+   "city": "Montpelier",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Branch Vineyards",
+   "type": "brewery_distillery",
+   "city": "Montpelier",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ainsworth Public Library",
+   "type": "library",
+   "city": "Williamstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kellogg Hubbard Public Library",
+   "type": "library",
+   "city": "Montpelier",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cutler Memorial Library",
+   "type": "library",
+   "city": "Plainfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Calef Memorial Library",
+   "type": "library",
+   "city": "Washington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aldrich Public Library",
+   "type": "library",
+   "city": "Barre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Super Sparkle Laundry",
+   "type": "laundromat",
+   "city": "Barre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soap Opera",
+   "type": "laundromat",
+   "city": "Barre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Caledonia Spirits Inc.",
+   "type": "brewery_distillery",
+   "city": "Montpelier",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Caledonia Spirits Inc.",
+   "type": "brewery_distillery",
+   "city": "Montpelier",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barre Auditorium",
+   "type": "arts_culture",
+   "city": "Barre",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Creative Campus at Goddard",
+   "type": "arts_culture",
+   "city": "Plainfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bath House / Laundry",
+   "type": "laundromat",
+   "city": "Williamstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Bath House",
+   "type": "shower",
+   "city": "Williamstown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aldrich Public Library - York Branch",
+   "type": "library",
+   "city": "Orange",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gary Library",
+   "type": "library",
+   "city": "Montpelier",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Camp Meade",
+   "type": "arts_culture",
+   "city": "Middlesex",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elm Harris Jewler Studio",
+   "type": "arts_culture",
+   "city": "Middlesex",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kurt Buliger Photography Gallery and Studio",
+   "type": "arts_culture",
+   "city": "Middlesex",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Bennington Historic District",
+   "type": "historic_downtown",
+   "city": "Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Bennington Historic District",
+   "type": "historic_downtown",
+   "city": "Old Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WTC Monument",
+   "type": "historic_site",
+   "city": "Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic Marker: Bennington Battle Monument",
+   "type": "historic_site",
+   "city": "Old Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brigadier General John Stark",
+   "type": "arts_culture",
+   "city": "Old Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farm Road Brewing",
+   "type": "brewery_distillery",
+   "city": "Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Village Garage Distillery",
+   "type": "brewery_distillery",
+   "city": "Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harvest Brewing",
+   "type": "brewery_distillery",
+   "city": "Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vine & Branches Gallery",
+   "type": "arts_culture",
+   "city": "Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bennington Battle Monument",
+   "type": "historic_site",
+   "city": "Old Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bennington Historical Museum",
+   "type": "museum",
+   "city": "Old Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Madison Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Village Garage",
+   "type": "brewery_distillery",
+   "city": "Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bennington Free Library",
+   "type": "library",
+   "city": "Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Covered Bridge Museum",
+   "type": "museum",
+   "city": "Old Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert Frost House",
+   "type": "museum",
+   "city": "North Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Dollhouse and Toy Museum of Vermont",
+   "type": "museum",
+   "city": "Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Market Wagon",
+   "type": "farmers_market",
+   "city": "North Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bennington Theater",
+   "type": "arts_culture",
+   "city": "Bennington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Family Cow Farmstand",
+   "type": "farmers_market",
+   "city": "Shelburne",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brattleboro Downtown Historic District",
+   "type": "historic_downtown",
+   "city": "Brattleboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hooker-Dunham Theater and Gallery",
+   "type": "arts_culture",
+   "city": "Brattleboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brattleboro Stone Church",
+   "type": "arts_culture",
+   "city": "Brattleboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brattleboro Museum & Art Center",
+   "type": "museum",
+   "city": "Brattleboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brooks Memorial Library",
+   "type": "library",
+   "city": "Brattleboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Epsilon Spires",
+   "type": "arts_culture",
+   "city": "Brattleboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New England Youth Theatre",
+   "type": "arts_culture",
+   "city": "Brattleboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "C. F. Church Bldg.",
+   "type": "arts_culture",
+   "city": "Brattleboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wild Carrot Farm;Fair Winds Farm",
+   "type": "farmers_market",
+   "city": "Brattleboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Brewers Guild",
+   "type": "brewery_distillery",
+   "city": "Salisbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Queen Connie",
+   "type": "arts_culture",
+   "city": "Salisbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Salisbury Free Public Library",
+   "type": "library",
+   "city": "Salisbury",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alumni Auditorium & Gymnasium",
+   "type": "arts_culture",
+   "city": "Lyndonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cobleigh Public Library",
+   "type": "library",
+   "city": "Lyndonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Saint Anne Monument",
+   "type": "historic_site",
+   "city": "Isle la Motte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Isle La Motte Historical Society",
+   "type": "museum",
+   "city": "Isle la Motte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Isle La Motte Monument",
+   "type": "historic_site",
+   "city": "Isle la Motte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Isle La Motte Free Public Library",
+   "type": "library",
+   "city": "Isle la Motte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hall's Orchards",
+   "type": "farmers_market",
+   "city": "Isle la Motte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fisk Farm",
+   "type": "arts_culture",
+   "city": "Isle la Motte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sandy Bottom Farm Stand",
+   "type": "farmers_market",
+   "city": "Isle la Motte",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jaquith Public Library",
+   "type": "library",
+   "city": "Marshfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norwich Village Historic District",
+   "type": "historic_downtown",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peaceful Serenity",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "D₂D",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Foucault Pendulum",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Inuksuk",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dartmouth Panels",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Feldberg Library",
+   "type": "library",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "X-Delta",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thel",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert Frost",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Feral Seed",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BASIC: The First User-Friendly Computer Programming Language",
+   "type": "historic_site",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Epic of American Civilization",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Perdido",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Refuge",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fountain Figure",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wide Babelki Bowl",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rauner Special Collections Library",
+   "type": "library",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hartford Historical Society",
+   "type": "museum",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1902 Room",
+   "type": "library",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reiss Hall",
+   "type": "library",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hopkins Center for the Arts",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Family Visual Arts Center",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Howe Library",
+   "type": "library",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bema",
+   "type": "arts_culture",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Baker Library",
+   "type": "library",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berry Library",
+   "type": "library",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Montshire Museum of Science",
+   "type": "science_center",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norwich Public Library",
+   "type": "library",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norwich Farmers Market",
+   "type": "farmers_market",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hartford Library",
+   "type": "library",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crossroad Farm Stand",
+   "type": "farmers_market",
+   "city": "Norwich",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hood Museum of Art",
+   "type": "museum",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wilder Club & Library",
+   "type": "library",
+   "city": "Hanover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Worthen Library",
+   "type": "library",
+   "city": "South Hero",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Two Heroes Brewery",
+   "type": "brewery_distillery",
+   "city": "South Hero",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Hero Bicentennial Museum",
+   "type": "museum",
+   "city": "South Hero",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Couture's Maple Shop",
+   "type": "farmers_market",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hitchcock Memorial Library & Museum",
+   "type": "library",
+   "city": "Westfield",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veteran’s Memorial",
+   "type": "historic_site",
+   "city": "Swanton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Swanton Public Library",
+   "type": "library",
+   "city": "Swanton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stowe Village Historic District",
+   "type": "historic_downtown",
+   "city": "Stowe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stowe Free Library",
+   "type": "library",
+   "city": "Stowe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stowe Historical Society Museum",
+   "type": "museum",
+   "city": "Stowe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northwood Gallery",
+   "type": "arts_culture",
+   "city": "Stowe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Alchemist Stowe",
+   "type": "brewery_distillery",
+   "city": "Stowe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idletyme Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Stowe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vermont Ski and Snowboard Museum",
+   "type": "museum",
+   "city": "Stowe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stowe Cider",
+   "type": "brewery_distillery",
+   "city": "Stowe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "von Trapp Brewery",
+   "type": "brewery_distillery",
+   "city": "Stowe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bryan Fine Art Gallery",
+   "type": "arts_culture",
+   "city": "Stowe",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glee Merritt Kelley Community Library",
+   "type": "library",
+   "city": "Wolcott",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Justin Smith Morrill Homestead",
+   "type": "museum",
+   "city": "Strafford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barrett Memorial Hall",
+   "type": "arts_culture",
+   "city": "Strafford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morrill Memorial & Harris Library",
+   "type": "library",
+   "city": "Strafford",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean War Veterans Memorial",
+   "type": "historic_site",
+   "city": "Sunderland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunderland",
+   "type": "historic_site",
+   "city": "Sunderland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Earth Sky Time Community Farm",
+   "type": "farmers_market",
+   "city": "Sunderland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Visitors Center Hildene",
+   "type": "museum",
+   "city": "Sunderland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hildene Main House",
+   "type": "museum",
+   "city": "Sunderland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weston Village Historic District",
+   "type": "historic_downtown",
+   "city": "Weston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farrar-Mansur House",
+   "type": "museum",
+   "city": "Weston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Old Mill Museum",
+   "type": "museum",
+   "city": "Weston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Weston Playhouse",
+   "type": "arts_culture",
+   "city": "Weston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wilder Memorial Library",
+   "type": "library",
+   "city": "Weston",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

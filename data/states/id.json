@@ -1,0 +1,6141 @@
+{
+ "state": "ID",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "St. Charles Campground",
+   "type": "paid_camp",
+   "town": "St. Charles, ID",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Paris Springs Campground",
+   "type": "paid_camp",
+   "town": "Bloomington, ID",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bostetter Campground",
+   "type": "paid_camp",
+   "town": "Oakley, ID",
+   "town_mi": 15.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Cleveland Campground West",
+   "type": "paid_camp",
+   "town": "Albion, ID",
+   "town_mi": 7.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Independence Lakes Campground",
+   "type": "paid_camp",
+   "town": "Oakley, ID",
+   "town_mi": 10.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Fork Campground (St. Charles Canyon)",
+   "type": "paid_camp",
+   "town": "St. Charles, ID",
+   "town_mi": 7.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Willow Flat Campground",
+   "type": "paid_camp",
+   "town": "Bloomington, ID",
+   "town_mi": 11.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Porcupine Campground",
+   "type": "paid_camp",
+   "town": "St. Charles, ID",
+   "town_mi": 6.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Davis Canyon Campground",
+   "type": "paid_camp",
+   "town": "St. Charles, ID",
+   "town_mi": 5.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pettit Campground",
+   "type": "paid_camp",
+   "town": "Hollister, ID",
+   "town_mi": 19.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Summit View Campground",
+   "type": "paid_camp",
+   "town": "Georgetown, ID",
+   "town_mi": 6.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Diamondfield Jack Campground",
+   "type": "paid_camp",
+   "town": "Hollister, ID",
+   "town_mi": 20.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blowout Campground",
+   "type": "paid_camp",
+   "town": "Alpine Northwest, WY",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mountain View Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Box Canyon Campground",
+   "type": "paid_camp",
+   "town": "Island Park, ID",
+   "town_mi": 10.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bowns Campground",
+   "type": "paid_camp",
+   "town": "Fairfield, ID",
+   "town_mi": 18.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tin Can Flat Campground",
+   "type": "paid_camp",
+   "town": "Saltese, MT",
+   "town_mi": 13.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Conrad Crossing Campground",
+   "type": "paid_camp",
+   "town": "De Borgia, MT",
+   "town_mi": 15.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Smith Lake Campground",
+   "type": "paid_camp",
+   "town": "Moyie Springs, ID",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pittsburg Campground",
+   "type": "paid_camp",
+   "town": "White Bird, ID",
+   "town_mi": 12.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buffalo Campground (Island Park)",
+   "type": "paid_camp",
+   "town": "Island Park, ID",
+   "town_mi": 7.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "French Creek Campground",
+   "type": "paid_camp",
+   "town": "Cascade, ID",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trap Creek Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 10.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hot Springs Campground (ID)",
+   "type": "paid_camp",
+   "town": "Garden Valley, ID",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Fork Payette River Camping",
+   "type": "paid_camp",
+   "town": "Garden Valley, ID",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Flat Rock Campground (Island Park)",
+   "type": "paid_camp",
+   "town": "Island Park, ID",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bad Bear Campground",
+   "type": "paid_camp",
+   "town": "Idaho City, ID",
+   "town_mi": 8.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Springs Campground (Caribou NF)",
+   "type": "paid_camp",
+   "town": "Inkom, ID",
+   "town_mi": 8.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McFarland Campground",
+   "type": "paid_camp",
+   "town": "Leadore, ID",
+   "town_mi": 13.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Graham Cabin",
+   "type": "paid_camp",
+   "town": "Lowman, ID",
+   "town_mi": 18.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Birch Creek Campground (ID)",
+   "type": "paid_camp",
+   "town": "Mud Lake, ID",
+   "town_mi": 29.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Phi Kappa Campground",
+   "type": "paid_camp",
+   "town": "Sun Valley, ID",
+   "town_mi": 13.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Maple Grove Campground (ID)",
+   "type": "paid_camp",
+   "town": "Oxford, ID",
+   "town_mi": 14.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grandview Campground (ID)",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Red Top Campground",
+   "type": "paid_camp",
+   "town": "Sylvanite, MT",
+   "town_mi": 4.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deer Park Cabin",
+   "type": "paid_camp",
+   "town": "Lowman, ID",
+   "town_mi": 14.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dent Acres Campground",
+   "type": "paid_camp",
+   "town": "Orofino, ID",
+   "town_mi": 9.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hidden Creek Campground",
+   "type": "paid_camp",
+   "town": "Riverbend, MT",
+   "town_mi": 27.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bad Medicine Campground",
+   "type": "paid_camp",
+   "town": "Bull Lake, MT",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Al Taylor Cabin",
+   "type": "paid_camp",
+   "town": "Spencer, ID",
+   "town_mi": 10.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "O'Hara Campground",
+   "type": "paid_camp",
+   "town": "Elk City, ID",
+   "town_mi": 18.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Eddy Campground",
+   "type": "paid_camp",
+   "town": "Heron, MT",
+   "town_mi": 2.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elk Creek Cabins",
+   "type": "paid_camp",
+   "town": "Lowman, ID",
+   "town_mi": 26.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Third Fork Cabin",
+   "type": "paid_camp",
+   "town": "Smiths Ferry, ID",
+   "town_mi": 12.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Huckleberry Campground",
+   "type": "paid_camp",
+   "town": "Wallace, ID",
+   "town_mi": 16.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sunny Gulch Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mike Harris Campground",
+   "type": "paid_camp",
+   "town": "Victor, ID",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Elk Campground",
+   "type": "paid_camp",
+   "town": "Irwin, ID",
+   "town_mi": 9.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Flats Campground (ID)",
+   "type": "paid_camp",
+   "town": "Lowman, ID",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lolo Creek Campground",
+   "type": "paid_camp",
+   "town": "Weippe, ID",
+   "town_mi": 10.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Thatcher Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 15,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Shore Campground (ID)",
+   "type": "paid_camp",
+   "town": "Trout Creek, MT",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Iron Lake Campground",
+   "type": "paid_camp",
+   "town": "Salmon, ID",
+   "town_mi": 23.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Johnson Bar Group Site",
+   "type": "paid_camp",
+   "town": "Stites, ID",
+   "town_mi": 20,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Third Creek Group Site",
+   "type": "paid_camp",
+   "town": "Clifton, ID",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Fork Campground (Big Wood River)",
+   "type": "paid_camp",
+   "town": "Ketchum, ID",
+   "town_mi": 7.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Table Rock Campground (ID)",
+   "type": "paid_camp",
+   "town": "Ririe, ID",
+   "town_mi": 9.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buttermilk Campground",
+   "type": "paid_camp",
+   "town": "Island Park, ID",
+   "town_mi": 8.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chemeketan Campground",
+   "type": "paid_camp",
+   "town": "Ketchum, ID",
+   "town_mi": 22.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deadwood Lookout Cabin",
+   "type": "paid_camp",
+   "town": "Lowman, ID",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Herd Lake Campground",
+   "type": "paid_camp",
+   "town": "Clayton, ID",
+   "town_mi": 15.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Swinging Bridge Campground",
+   "type": "paid_camp",
+   "town": "Banks, ID",
+   "town_mi": 6.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elk Creek Campground (Sawtooth NF)",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 7.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buck Park Cabin",
+   "type": "paid_camp",
+   "town": "Cambridge, ID",
+   "town_mi": 14.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Roaring River Lake Campground",
+   "type": "paid_camp",
+   "town": "Idaho City, ID",
+   "town_mi": 24,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Agency Creek Campground",
+   "type": "paid_camp",
+   "town": "Leadore, ID",
+   "town_mi": 21,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Custer #1 Campground",
+   "type": "paid_camp",
+   "town": "Clayton, ID",
+   "town_mi": 16.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bayhorse Recreation Site",
+   "type": "paid_camp",
+   "town": "Challis, ID",
+   "town_mi": 8.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cold Springs Campground (Boise NF)",
+   "type": "paid_camp",
+   "town": "Smiths Ferry, ID",
+   "town_mi": 7.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kit Price Campground",
+   "type": "paid_camp",
+   "town": "Kellogg, ID",
+   "town_mi": 15.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Glacier View Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Avery Creek Cabin",
+   "type": "paid_camp",
+   "town": "Osburn, ID",
+   "town_mi": 13.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Meadow Lake Campground (ID)",
+   "type": "paid_camp",
+   "town": "Leadore, ID",
+   "town_mi": 17.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Cottonwood Campground",
+   "type": "paid_camp",
+   "town": "Jarbidge, NV",
+   "town_mi": 11.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Penstemon Campground",
+   "type": "paid_camp",
+   "town": "Hollister, ID",
+   "town_mi": 18.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bonneville Campground (ID)",
+   "type": "paid_camp",
+   "town": "Lowman, ID",
+   "town_mi": 16.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Table Meadows Campground",
+   "type": "paid_camp",
+   "town": "Elk City, ID",
+   "town_mi": 11.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Point Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 5.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Payette Lake Campground",
+   "type": "paid_camp",
+   "town": "McCall, ID",
+   "town_mi": 15.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Silver Creek Campground (ID)",
+   "type": "paid_camp",
+   "town": "Smiths Ferry, ID",
+   "town_mi": 13.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wild Goose Campground",
+   "type": "paid_camp",
+   "town": "Kooskia, ID",
+   "town_mi": 16.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elks Flat Campground",
+   "type": "paid_camp",
+   "town": "Fairfield, ID",
+   "town_mi": 28,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pole Flat Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 12.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Twin Creek Group Camping Site",
+   "type": "paid_camp",
+   "town": "Sula, MT",
+   "town_mi": 16.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Partridge Creek Campground",
+   "type": "paid_camp",
+   "town": "Elk River, ID",
+   "town_mi": 1.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Rock Campground (ID)",
+   "type": "paid_camp",
+   "town": "Idaho City, ID",
+   "town_mi": 12.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elk Summit Campground",
+   "type": "paid_camp",
+   "town": "Pinesdale, MT",
+   "town_mi": 20.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stolle Meadows Cabin",
+   "type": "paid_camp",
+   "town": "Cascade, ID",
+   "town_mi": 19.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Loristica Group Campground",
+   "type": "paid_camp",
+   "town": "Mackay, ID",
+   "town_mi": 10.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Apgar Campground (Lochsa River)",
+   "type": "paid_camp",
+   "town": "Kooskia, ID",
+   "town_mi": 21.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Walde Lookout Cabin",
+   "type": "paid_camp",
+   "town": "Kooskia, ID",
+   "town_mi": 17.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Albert Moser Campground",
+   "type": "paid_camp",
+   "town": "Preston, ID",
+   "town_mi": 9.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Meadow Creek Cabin",
+   "type": "paid_camp",
+   "town": "Kooskia, ID",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Fork Campground (Owyhee)",
+   "type": "paid_camp",
+   "town": "Jordan Valley, OR",
+   "town_mi": 27.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grouse Campground (ID)",
+   "type": "paid_camp",
+   "town": "New Meadows, ID",
+   "town_mi": 8.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spring Creek Campground (ID)",
+   "type": "paid_camp",
+   "town": "Midvale, ID",
+   "town_mi": 12.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hunter Creek Transfer Camp",
+   "type": "paid_camp",
+   "town": "Fairfield, ID",
+   "town_mi": 17.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Peace Valley Campground",
+   "type": "paid_camp",
+   "town": "Smiths Ferry, ID",
+   "town_mi": 15.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mink Creek Group Site Campground",
+   "type": "paid_camp",
+   "town": "Inkom, ID",
+   "town_mi": 9.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "White Sands Campground",
+   "type": "paid_camp",
+   "town": "Pinesdale, MT",
+   "town_mi": 25.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Scout Mountain Campground",
+   "type": "paid_camp",
+   "town": "Inkom, ID",
+   "town_mi": 9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Barber Flat Cabin (Boise NF)",
+   "type": "paid_camp",
+   "town": "Idaho City, ID",
+   "town_mi": 14.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Williams Lake Campground",
+   "type": "paid_camp",
+   "town": "Salmon, ID",
+   "town_mi": 10.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bull Trout Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 17,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Warm River Cabin",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 6.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Evergreen Campground (ID)",
+   "type": "paid_camp",
+   "town": "New Meadows, ID",
+   "town_mi": 7.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grandjean Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 11.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Hank Campground",
+   "type": "paid_camp",
+   "town": "Heron, MT",
+   "town_mi": 17.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Montpelier Canyon Campground",
+   "type": "paid_camp",
+   "town": "Montpelier, ID",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Atlanta Cabin",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 29.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Calamity Campground",
+   "type": "paid_camp",
+   "town": "Irwin, ID",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Thompson Flat Campground",
+   "type": "paid_camp",
+   "town": "Albion, ID",
+   "town_mi": 6.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "The Forks Campground",
+   "type": "paid_camp",
+   "town": "Jarbidge, NV",
+   "town_mi": 11.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Falls Campground",
+   "type": "paid_camp",
+   "town": "Swan Valley, ID",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Devils Elbow Campground",
+   "type": "paid_camp",
+   "town": "Kellogg, ID",
+   "town_mi": 16.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Coffee Pot Campground",
+   "type": "paid_camp",
+   "town": "Island Park, ID",
+   "town_mi": 3.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kelly Forks Campground",
+   "type": "paid_camp",
+   "town": "Pierce, ID",
+   "town_mi": 30.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Park Creek Campground (ID)",
+   "type": "paid_camp",
+   "town": "Lowman, ID",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cedars Campground",
+   "type": "paid_camp",
+   "town": "Riverbend, MT",
+   "town_mi": 22.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stoddard Creek Campground",
+   "type": "paid_camp",
+   "town": "Spencer, ID",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Fork Group Site 5 (Nez Perce NF)",
+   "type": "paid_camp",
+   "town": "Grangeville, ID",
+   "town_mi": 9.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Steel Creek Group Campground",
+   "type": "paid_camp",
+   "town": "Spencer, ID",
+   "town_mi": 10.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wendover Campground",
+   "type": "paid_camp",
+   "town": "Elk City, ID",
+   "town_mi": 38.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McCrea Bridge Campground",
+   "type": "paid_camp",
+   "town": "Island Park, ID",
+   "town_mi": 5.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rattlesnake Campground (ID)",
+   "type": "paid_camp",
+   "town": "Smiths Ferry, ID",
+   "town_mi": 10.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Alturas Lake Inlet Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 21.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Noe Creek Campground",
+   "type": "paid_camp",
+   "town": "Pierce, ID",
+   "town_mi": 24.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Cleveland Campground East",
+   "type": "paid_camp",
+   "town": "Albion, ID",
+   "town_mi": 6.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Garden Creek Campground",
+   "type": "paid_camp",
+   "town": "Mackay, ID",
+   "town_mi": 23,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spring Bar Campground",
+   "type": "paid_camp",
+   "town": "Riggins, ID",
+   "town_mi": 8.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Banner Creek Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 17,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Emigration Campground",
+   "type": "paid_camp",
+   "town": "Bennington, ID",
+   "town_mi": 12,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Helende Campground",
+   "type": "paid_camp",
+   "town": "Lowman, ID",
+   "town_mi": 7.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Glade Creek Campground",
+   "type": "paid_camp",
+   "town": "Kooskia, ID",
+   "town_mi": 22,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kirkham Campground",
+   "type": "paid_camp",
+   "town": "Lowman, ID",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Trinity Cabin",
+   "type": "paid_camp",
+   "town": "Idaho City, ID",
+   "town_mi": 24,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dog Creek Campground (ID)",
+   "type": "paid_camp",
+   "town": "Fairfield, ID",
+   "town_mi": 28.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Malad Summit Campground",
+   "type": "paid_camp",
+   "town": "Downey, ID",
+   "town_mi": 9.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Orogrande Campground #1 and #2",
+   "type": "paid_camp",
+   "town": "Elk City, ID",
+   "town_mi": 9.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elk Creek Campground (Clearwater NF)",
+   "type": "paid_camp",
+   "town": "Elk River, ID",
+   "town_mi": 0.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Washington Creek Campground",
+   "type": "paid_camp",
+   "town": "Pierce, ID",
+   "town_mi": 18.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whitehouse Campground",
+   "type": "paid_camp",
+   "town": "Pinesdale, MT",
+   "town_mi": 28.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sheep Trail Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 8.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Canyon Transfer Camp",
+   "type": "paid_camp",
+   "town": "Fairfield, ID",
+   "town_mi": 19.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Easley Campground",
+   "type": "paid_camp",
+   "town": "Ketchum, ID",
+   "town_mi": 10.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Silver City Campground",
+   "type": "paid_camp",
+   "town": "Murphy, ID",
+   "town_mi": 16.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cottonwood Recreation Site (ID)",
+   "type": "paid_camp",
+   "town": "Challis, ID",
+   "town_mi": 13.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Goodenough Creek Campground",
+   "type": "paid_camp",
+   "town": "McCammon, ID",
+   "town_mi": 4.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Boulder Campground",
+   "type": "paid_camp",
+   "town": "Deary, ID",
+   "town_mi": 5.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Willow Creek Transfer Camp",
+   "type": "paid_camp",
+   "town": "Fairfield, ID",
+   "town_mi": 25.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Red Ives Cabin",
+   "type": "paid_camp",
+   "town": "St. Regis, MT",
+   "town_mi": 20.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Walker Cabin",
+   "type": "paid_camp",
+   "town": "Elk City, ID",
+   "town_mi": 7.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Warm River Campground",
+   "type": "paid_camp",
+   "town": "Warm River, ID",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grayback Campground and Group Sites",
+   "type": "paid_camp",
+   "town": "Idaho City, ID",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mountain View Campground (ID)",
+   "type": "paid_camp",
+   "town": "Lowman, ID",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Outlet Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Aquarius Campground and Purple Beach Group Site",
+   "type": "paid_camp",
+   "town": "Pierce, ID",
+   "town_mi": 25.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Boundary Creek Campground (ID)",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 28.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagle Cove Campground",
+   "type": "paid_camp",
+   "town": "Bruneau, ID",
+   "town_mi": 5.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Broken Wheel Campground",
+   "type": "paid_camp",
+   "town": "Bruneau, ID",
+   "town_mi": 5.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Aspen Acres RV Park and Golf Course",
+   "type": "rv_park",
+   "town": "Drummond, ID",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Flat Campground (ID)",
+   "type": "paid_camp",
+   "town": "Cascade, ID",
+   "town_mi": 10.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bread Loaves Group Camp",
+   "type": "paid_camp",
+   "town": "Oakley, ID",
+   "town_mi": 13.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blue Anchor RV Park",
+   "type": "rv_park",
+   "town": "Osburn, ID",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Redfish Inlet Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 7.8,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bear Valley Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 25.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fir Creek Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 22.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Campground (Bannock)",
+   "type": "paid_camp",
+   "town": "Rockland, ID",
+   "town_mi": 9.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Raven Creek Campground",
+   "type": "paid_camp",
+   "town": "Elk City, ID",
+   "town_mi": 31.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Poet Creek Campground",
+   "type": "paid_camp",
+   "town": "Elk City, ID",
+   "town_mi": 20.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deep Creek Campground (ID)",
+   "type": "paid_camp",
+   "town": "Conner, MT",
+   "town_mi": 31.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Observation Point Campground",
+   "type": "paid_camp",
+   "town": "Elk City, ID",
+   "town_mi": 32.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Magruder Crossing Campground",
+   "type": "paid_camp",
+   "town": "Conner, MT",
+   "town_mi": 32.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Paradise Campground (ID)",
+   "type": "paid_camp",
+   "town": "Darby, MT",
+   "town_mi": 29.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bridge Creek Campground (ID)",
+   "type": "paid_camp",
+   "town": "Elk City, ID",
+   "town_mi": 11.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hardscrabble Campground",
+   "type": "paid_camp",
+   "town": "Crouch, ID",
+   "town_mi": 9.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McDonald Flat Campground",
+   "type": "paid_camp",
+   "town": "Salmon, ID",
+   "town_mi": 21.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Penny Spring Campground",
+   "type": "paid_camp",
+   "town": "Donnelly, ID",
+   "town_mi": 19.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Box Canyon Campground (Island Park)",
+   "type": "paid_camp",
+   "town": "Island Park, ID",
+   "town_mi": 9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buffalo Run RV Park & Cabins",
+   "type": "rv_park",
+   "town": "Island Park, ID",
+   "town_mi": 11.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Indian Creek Beach Campsite",
+   "type": "paid_camp",
+   "town": "Yellow Pine, ID",
+   "town_mi": 23,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Golden Gate Campground",
+   "type": "paid_camp",
+   "town": "Yellow Pine, ID",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Iron Bog Campground",
+   "type": "paid_camp",
+   "town": "Lost River, ID",
+   "town_mi": 7.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lud Drexler Park Campground",
+   "type": "paid_camp",
+   "town": "Hollister, ID",
+   "town_mi": 12.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trout Creek Campground (ID)",
+   "type": "paid_camp",
+   "town": "Yellow Pine, ID",
+   "town_mi": 15.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fort Limhi RV Park",
+   "type": "rv_park",
+   "town": "Salmon, ID",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moose Crossing RV Park",
+   "type": "rv_park",
+   "town": "Mackay, ID",
+   "town_mi": 8.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "River Park RV Park",
+   "type": "rv_park",
+   "town": "Mackay, ID",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "White Knob Motel & RV Park",
+   "type": "rv_park",
+   "town": "Mackay, ID",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dutchman Flat Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 11.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper O'Brien Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 12.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower O'Brien Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 12.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Holman Creek Campground",
+   "type": "paid_camp",
+   "town": "Clayton, ID",
+   "town_mi": 7.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shoshone RV Park",
+   "type": "rv_park",
+   "town": "Shoshone, ID",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverside RV Park & Campground (ID)",
+   "type": "rv_park",
+   "town": "Bellevue, ID",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Water's Edge RV Park",
+   "type": "rv_park",
+   "town": "Cascade, ID",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chalet Family Campground",
+   "type": "paid_camp",
+   "town": "Donnelly, ID",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Bear RV Park",
+   "type": "rv_park",
+   "town": "McCall, ID",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wallace RV Park",
+   "type": "rv_park",
+   "town": "Wallace, ID",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cedar Creek Campground (ID)",
+   "type": "paid_camp",
+   "town": "Fernwood, ID",
+   "town_mi": 6.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bear Creek Pass Campground",
+   "type": "paid_camp",
+   "town": "Charlos Heights, MT",
+   "town_mi": 14.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pen Basin Campground",
+   "type": "paid_camp",
+   "town": "Yellow Pine, ID",
+   "town_mi": 23.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Twin Creek Campground (ID)",
+   "type": "paid_camp",
+   "town": "Sula, MT",
+   "town_mi": 16.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lema's RV Park & Store",
+   "type": "rv_park",
+   "town": "Leadore, ID",
+   "town_mi": 0.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Baumgartner Campground",
+   "type": "paid_camp",
+   "town": "Fairfield, ID",
+   "town_mi": 22.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chaparral Campground",
+   "type": "paid_camp",
+   "town": "Fairfield, ID",
+   "town_mi": 27.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bird Creek Campground (ID)",
+   "type": "paid_camp",
+   "town": "Fairfield, ID",
+   "town_mi": 26.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Willow Creek Campground (Sawtooth NF)",
+   "type": "paid_camp",
+   "town": "Fairfield, ID",
+   "town_mi": 24.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Boulder View Campground",
+   "type": "paid_camp",
+   "town": "Ketchum, ID",
+   "town_mi": 10.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Huckleberry Campground (Panhandle)",
+   "type": "paid_camp",
+   "town": "Hope, ID",
+   "town_mi": 4.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Abbot Campground",
+   "type": "paid_camp",
+   "town": "Fairfield, ID",
+   "town_mi": 27.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Silver Creek Campground (Picabo)",
+   "type": "paid_camp",
+   "town": "Gannett, ID",
+   "town_mi": 3.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Antone Cabin",
+   "type": "paid_camp",
+   "town": "Lima, MT",
+   "town_mi": 21.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Box Canyon Campground",
+   "type": "paid_camp",
+   "town": "Island Park, ID",
+   "town_mi": 10.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McCoy Creek Campground",
+   "type": "paid_camp",
+   "town": "Alpine Northwest, WY",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Creek Campground",
+   "type": "paid_camp",
+   "town": "Victor, ID",
+   "town_mi": 5.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SUMMIT VIEW CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Georgetown, ID",
+   "town_mi": 6.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blowout Campground",
+   "type": "paid_camp",
+   "town": "Alpine Northwest, WY",
+   "town_mi": 2.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bowns Campground",
+   "type": "paid_camp",
+   "town": "Fairfield, ID",
+   "town_mi": 18.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Diamondfield Jack Campground",
+   "type": "paid_camp",
+   "town": "Hollister, ID",
+   "town_mi": 20.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pettit Campground",
+   "type": "paid_camp",
+   "town": "Hollister, ID",
+   "town_mi": 19.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Cleveland Campground - West Side",
+   "type": "paid_camp",
+   "town": "Albion, ID",
+   "town_mi": 7.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Independence Lakes Campground",
+   "type": "paid_camp",
+   "town": "Oakley, ID",
+   "town_mi": 10.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mountain View Campground",
+   "type": "paid_camp",
+   "town": "Stanley, ID",
+   "town_mi": 3.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Devils Orchard",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "The Spatter Cones",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Emigrant Trail (Hagerman)",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "North Crater Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Broken Top Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Geological Interpretive Trail (City of Rocks)",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Creekside Towers Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Castle Rocks Fish Pond",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Backcountry Camping in Indian Grove",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "City of Rocks Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Goldbug Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Trail Creek Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pocket Warmup Boulder",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Stanley Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Smith Cabin Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Show Bath Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Midnight Fright",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Stuart Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Martin Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Loon Creek Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sunflower Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cox Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hospital Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Barth Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Challis Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sunbeam Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bear Creek Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kirkham Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bonneville Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pine Flats Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Greylock Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Chattanooga Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Skinny Dipper's Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Upper Loon Creek Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Owen Cabin Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Vulcan Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Molly's Tub Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sheep Creek Bridge Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Loftus Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Vaughn Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ninemeyer Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Oxbow/Brownlee",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Idaho Panhandle National Forests",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Nez Perce-Clearwater National Forests",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kootenai National Forest",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Boise National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Caribou-Targhee National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Payette National Forest",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Salmon-Challis National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sawtooth National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Challis Foothills Trail System",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "American Falls Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Anderson Ranch Reservoir Boat Ramps",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arrowrock Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Black Canyon Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Cascade",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Deadwood Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Island Park Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Lowell",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Waha",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Walcott",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Little Wood River Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mann Creek Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Montour Wildlife/Recreation Management Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Reservoir A",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ririe Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Soldiers Meadow Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Palisades Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bear Lake National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Camas National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Deer Flat National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Grays Lake National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Clearwater National Forest",
+   "type": "horseback_riding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kootenai National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ridge to Rivers Trail System",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Morley Nelson Snake River Birds of Prey National Conservation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Craters of the Moon National Monument",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bruneau-Jarbidge Rivers Wilderness Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Little Jacks Creek Wilderness Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "North Fork Owyhee Wilderness Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Owyhee River Wilderness Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pole Creek Wilderness Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Appendicitis Hill Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bear Den Butte Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Black Butte Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Black Canyon (I) Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Black Canyon (II) Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Borah Peak Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Box Creek Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cedar Butte Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "China Cup Butte ISA Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Crystal Lake Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Deer Creek Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Eighteen Mile Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Friedman Creek Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Goldburg Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gooding City of Rocks East Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gooding City of Rocks West Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Grandmother Mountain Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Great Rift ISA Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hawley Mountain Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hell's Half Acre Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Henry's Lake Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "King Hill Creek Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lava Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Little City of Rocks Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Little Deer Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Little Wood River Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lower Salmon Falls Creek Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Marshall Mountain Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Petticoat Peak Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Raven's Eye Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sand Butte Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sand Mountain Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Selkirk Crest Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Shale Butte Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Shoshone Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Snowhole Rapids Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "White Knob Mountains Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Worm Creek Wilderness Study Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Battle Creek Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Big Jacks Creek Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bruneau Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cottonwood Creek Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Deep Creek Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dickshooter Creek Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Duncan Creek Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Jarbidge Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Little Jacks Creek Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Owyhee Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Red Canyon Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sheep Creek Wild and Scenic River",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "West Fork Bruneau Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wickahoney Creek Wild and Scenic River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "California National Historic Trail | Idaho",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lewis and Clark Back Country Byway",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Nez Perce National Historic Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Poison Creek Picnic Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bonneville Point",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Clay Peak",
+   "type": "off_roading",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Weiser Dunes",
+   "type": "off_roading",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fossil Creek OHV Trail",
+   "type": "off_roading",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Jump Creek",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rabbit Creek OHV Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wilson Creek Travel Management Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Popcorn Island",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Windy Bay Boater Park",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Deadman Hole Recreation Site",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Morgan Creek Recreation Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Blackrock Canyon Recreation Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Heart Mountain Springs Recreation Site",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Discovery Hill",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Eightmile Day Use Area",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Elevenmile Day Use Area",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Goldbug Hot Springs",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Morgan Bar Recreation Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Tower Rock Recreation Site",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Smokey Cubs Recreation Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kilpatrick Day Use Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "North Menan Butte Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Milner Historic Recreation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Snake River Vista Recreation Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bruneau Canyon Overlook",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bruneau River Launch Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bruneau River Take-Out",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cedar Creek Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Idaho Centennial Road/Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Jarbidge River Launch Site",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Croy Creek Trailhead",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fish Creek Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gooding/Camas County Line",
+   "type": "winter_sports",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Creek Trailhead",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Murtaugh Boating Access",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Silver Creek (North and South)",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sun Peak Picnic Area and Trailhead",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Minidoka National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Oxford Slough Waterfowl Production Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Payette River Corridor",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Salmon River",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "South Fork of The Snake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Delaney Creek",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Little Lost Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lookout Mountain",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mirror Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cress Creek Nature Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "North Fork Owyhee River",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Salmon Falls Creek Reservoir",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Coeur d'Alene Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lower Salmon River",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Payette River",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gooding City of Rocks",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Thorn Creek Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Great Rift Backcountry Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Blackfoot River",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "St. Anthony Sand Dunes",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Balanced Rock",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birds of Prey Scenic Float",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Pend Oreille",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dworshak Reservoir",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lucky Peak Lake",
+   "type": "boating",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Abandoned Railroad Bed Bike Trail",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Old Faithful Lower General Store to Morning Glory Pool Bike Trail",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Natural Bridge Bike Trail",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lone Star Geyser Bike Trail",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fountain Freight Road Bike Trail",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Craters Junior Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birding in the Hagerman Valley",
+   "type": "birding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Enjoy a Picnic",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore a Cave",
+   "type": "caving",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "View Exhibits at the Minidoka Visitor Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Take a Self-Guided Walking Tour of Minidoka",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Emigrant Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Backpack the Craters of the Moon Wilderness",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike Up Inferno Cone",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Tree Molds Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Watch the Coho Salmon Run on Lapwai Creek",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Minidoka Junior Ranger!",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "See Fossils on Display",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a City of Rocks Junior Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "See the Camas Flowers Bloom on Weippe Prairie",
+   "type": "scenic_drive",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Spalding Walking Tour",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bike the Tea Kettle Trail",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Horseback Riding in City of Rocks",
+   "type": "horseback_riding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "History of Pinnacle Pass Guided Hike",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Geological Interpretive Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Archeology of Castle Rocks Guided Hike",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wayside Exhibits Loop at the Visitor Center",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hanford: Visit Nez Perce National Historical Park",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Idaho Anne Frank Human Rights Memorial",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frank Steunenberg Statue",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Laundry",
+   "type": "laundromat",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boise B",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steve Appleton Memorial",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idaho Shakespeare Festival",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abraham Lincoln Statue",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hospitality Of Nez Perce Statue",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Model 1840 Seacoast Gun Cannon",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Replica of the Liberty Bell",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World Trade Center Memorial",
+   "type": "historic_site",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Firefighter’s Prayer Statue",
+   "type": "historic_site",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cecil D. Andrus: A Legacy of Conservation",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Star Memorial By-Way",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Let Freedom Ring",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Boise Historic District Engraved Stone",
+   "type": "historic_site",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ray Need, M.D. Engraved Stone",
+   "type": "historic_site",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Billy Moynihan Engraved Stone",
+   "type": "historic_site",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harry Morrison Dam Memorial Stone",
+   "type": "historic_site",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whitewater Park Engraved Stone",
+   "type": "historic_site",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barbarian Brewing",
+   "type": "brewery_distillery",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Dog Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Giants",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boise Brewing",
+   "type": "brewery_distillery",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Source Gallery",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eternal Wind",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steve Appleton Statue",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Spirit of the Broncos",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallery 601",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mazama Glacier",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Benjamin Victor Gallery",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oregon Trail Memorial",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jiffy Clean Coin Laundry",
+   "type": "laundromat",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Salute",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr Bong Shin Memorial Plaque",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Foundations of Prosperity",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Transmontane",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Life in Flux",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cover Ups",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bee Wise",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunflowers",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tremendous Trees",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Summer in the Fields",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vibrant City",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fantasy Flora and Fauna",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Winnie",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Litharacnium",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Virgo",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heliotrope",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Where you are",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trout Dreams",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dreamscape 1: Loving Boise to Pieces",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A totem to winged power",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bright Land",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sally Reed Lived Here",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stone Threads",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Migrating for 10,000 Years",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Do Not Open",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Sculpture",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Basque Mural",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Blues",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Couple",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Galactic",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shapes I",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lets take a trip. Maybe I'll marry her.",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Don't make me lose my mind baby. Sweating, all because of you.",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coming In",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aspen Reflections",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Pursuit of...",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scoria",
+   "type": "brewery_distillery",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thelma",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Botanica Industria",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Erato & Euterpe",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "EAB",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boise Works!",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Floral Finale",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Playing Around",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TARDIS",
+   "type": "arts_culture",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oregon Trail Obelisk: Developing Roads",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oregon Trail Obelisk: Farming in Boise",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oregon Trail Obelisk: Black Pioneers",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oregon Trail Obelisk: Developing Roads",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "King of the Road",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trailhead",
+   "type": "coworking",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cloud 9 Brewery",
+   "type": "brewery_distillery",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ada Community Library Lake Hazel Branch",
+   "type": "library",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barbarian Brewing Garden City Taproom",
+   "type": "brewery_distillery",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Common Well",
+   "type": "coworking",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garden City Public Library",
+   "type": "library",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clairvoyant Brewing",
+   "type": "brewery_distillery",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brown Beard Brewing",
+   "type": "brewery_distillery",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kiln",
+   "type": "coworking",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rave Laundry",
+   "type": "laundromat",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northwest Science Museum Vision Center",
+   "type": "science_center",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windows in Time",
+   "type": "arts_culture",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gentle Breeze",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Julius M. Kleiner",
+   "type": "historic_site",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Journey",
+   "type": "arts_culture",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Journey",
+   "type": "arts_culture",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Journey",
+   "type": "arts_culture",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Throne",
+   "type": "arts_culture",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Bench",
+   "type": "arts_culture",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zephyrus",
+   "type": "arts_culture",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Wings",
+   "type": "arts_culture",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "HaBATat",
+   "type": "arts_culture",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capitol Contemporary Gallery",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Above and Below",
+   "type": "arts_culture",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bee Business",
+   "type": "arts_culture",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bruery at Eagle View Landing",
+   "type": "brewery_distillery",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Breeze Better Laundry",
+   "type": "laundromat",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oregon Trail marker",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Western Collective",
+   "type": "brewery_distillery",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idaho Museum of Mining and Geology",
+   "type": "museum",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spirit of Idaho Women",
+   "type": "historic_site",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic Interurban Trolley Mural",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idaho Film Society",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ada Community Library Victory Branch",
+   "type": "library",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Albertsons Library",
+   "type": "library",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centennial Amphitheatre",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idaho State Library",
+   "type": "library",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World Center For Birds Of Prey",
+   "type": "museum",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Peregrine Fund Research Library",
+   "type": "library",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Discovery Center of Idaho",
+   "type": "science_center",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Idaho Penitentiary",
+   "type": "museum",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idaho Military History Museum",
+   "type": "museum",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boise Art Museum",
+   "type": "museum",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boise Philharmonic Orchestra",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boise Little Theater",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boise Public Library",
+   "type": "library",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jim Hall Foothills Learning Center",
+   "type": "museum",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boise Main Co-Working Space",
+   "type": "coworking",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idaho State Museum",
+   "type": "museum",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idaho Black History Museum",
+   "type": "museum",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stage Coach Theatre",
+   "type": "arts_culture",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joseph Bown House",
+   "type": "museum",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Library! at Bown Crossing",
+   "type": "library",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Library! at Collister",
+   "type": "library",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Treefort Music Hall",
+   "type": "live_music",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TRICA",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Visual Arts Collective (VAC)",
+   "type": "arts_culture",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idaho Central Credit Union Plaza",
+   "type": "historic_downtown",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thompsons",
+   "type": "laundromat",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic South Boise Streetcar Station Plaza",
+   "type": "historic_downtown",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Castle House",
+   "type": "arts_culture",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "12th Street Laundry",
+   "type": "laundromat",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ada Community Library",
+   "type": "library",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Library!",
+   "type": "library",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Breeze",
+   "type": "laundromat",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Egyptian Theatre",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sockeye Grill & Brewery",
+   "type": "brewery_distillery",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ABC Laundry",
+   "type": "laundromat",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wishy-Washy Laundromat",
+   "type": "laundromat",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Library! at Hillcrest",
+   "type": "library",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Opera Idaho",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boise Contemporary Theater",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ming Studios",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Payette Brewing",
+   "type": "brewery_distillery",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Colony Beer Co.",
+   "type": "brewery_distillery",
+   "city": "Garden City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Freak Alley Gallery",
+   "type": "arts_culture",
+   "city": "Boise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lakeview Amphitheater",
+   "type": "arts_culture",
+   "city": "Star",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Star Branch Library",
+   "type": "library",
+   "city": "Star",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meridian Welcome Sign",
+   "type": "arts_culture",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "By the Seaside",
+   "type": "arts_culture",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Loose Screw Beer Co",
+   "type": "brewery_distillery",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Final Cast",
+   "type": "arts_culture",
+   "city": "Eagle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Radiate Positivity",
+   "type": "arts_culture",
+   "city": "Eagle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meridian Library",
+   "type": "library",
+   "city": "Eagle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flushing Pheasants Sculpture to honor Keith Bird.",
+   "type": "arts_culture",
+   "city": "Star",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aspens & Pines along the Boise River",
+   "type": "arts_culture",
+   "city": "Eagle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Rope Swing",
+   "type": "arts_culture",
+   "city": "Eagle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Takunekka",
+   "type": "arts_culture",
+   "city": "Eagle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fly Cycles",
+   "type": "arts_culture",
+   "city": "Eagle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eagle Public Library",
+   "type": "library",
+   "city": "Eagle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children's Museum of Idaho",
+   "type": "museum",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "unBound",
+   "type": "library",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cherry Lane Library",
+   "type": "library",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rave Laundry",
+   "type": "laundromat",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tiny Library",
+   "type": "library",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orchard Park Library",
+   "type": "library",
+   "city": "Eagle",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spirit of Flight Center",
+   "type": "museum",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warhawk Air Museum",
+   "type": "museum",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pinnacle Branch",
+   "type": "library",
+   "city": "Meridian",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nampa Christian Field",
+   "type": "historic_site",
+   "city": "Nampa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nampa Train Depot Museum and Interpretive Center",
+   "type": "museum",
+   "city": "Nampa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundromat",
+   "type": "laundromat",
+   "city": "Nampa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Orma J. Smith Museum of Natural History",
+   "type": "science_center",
+   "city": "Nampa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whittenberger Planetarium",
+   "type": "planetarium",
+   "city": "Nampa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Centennial Amphitheater",
+   "type": "arts_culture",
+   "city": "Nampa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rosenthal Gallery of Art",
+   "type": "arts_culture",
+   "city": "Nampa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Breeze, Better Laundry",
+   "type": "laundromat",
+   "city": "Nampa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Get the Funk Out Laundromat",
+   "type": "laundromat",
+   "city": "Nampa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jesus Christ",
+   "type": "arts_culture",
+   "city": "Nampa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cruzen-Murray Library",
+   "type": "library",
+   "city": "Nampa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Happy Laundry",
+   "type": "laundromat",
+   "city": "Nampa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Theatre",
+   "type": "arts_culture",
+   "city": "Nampa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riley Library",
+   "type": "library",
+   "city": "Nampa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Cleveland Self-Serve Laundromat",
+   "type": "laundromat",
+   "city": "Nampa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nampa Public Library",
+   "type": "library",
+   "city": "Nampa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nampa Civic Center",
+   "type": "arts_culture",
+   "city": "Nampa",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Canyon County Veteran Memorial",
+   "type": "historic_site",
+   "city": "Caldwell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mill Wheel",
+   "type": "historic_site",
+   "city": "Middleton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peaceful Belly Farm",
+   "type": "farmers_market",
+   "city": "Caldwell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Caldwell Public Library",
+   "type": "library",
+   "city": "Caldwell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Indian Creek Museum",
+   "type": "museum",
+   "city": "Caldwell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lee Moberly Museum",
+   "type": "museum",
+   "city": "Middleton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Middleton Public Library",
+   "type": "library",
+   "city": "Middleton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idaho Central Credit Union Stage",
+   "type": "arts_culture",
+   "city": "Caldwell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Bag",
+   "type": "laundromat",
+   "city": "Middleton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idaho Vietnam Veteran's Memorial",
+   "type": "historic_site",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veteran's Memorial",
+   "type": "historic_site",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idaho Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Broadway Wash N Dry",
+   "type": "laundromat",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Collectors Corner Museum",
+   "type": "museum",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Anderson Street Laundry",
+   "type": "laundromat",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Possibly Picasso",
+   "type": "arts_culture",
+   "city": "Ammon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Lounge",
+   "type": "laundromat",
+   "city": "Ammon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idaho Fresh Produce",
+   "type": "farmers_market",
+   "city": "Ammon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Skies Product Dist",
+   "type": "farmers_market",
+   "city": "Ammon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colonial Theatre",
+   "type": "arts_culture",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pugsslane Alley",
+   "type": "arts_culture",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Teton Laundromat",
+   "type": "laundromat",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Actors' Repertory Theater of Idaho",
+   "type": "arts_culture",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amsterdam Spring Tulips",
+   "type": "arts_culture",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Gesture;Steel Tears",
+   "type": "arts_culture",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alpenglow II",
+   "type": "arts_culture",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East-Side",
+   "type": "arts_culture",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Self Portrait: Born Under the Sign of Gemini",
+   "type": "arts_culture",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Eagle Rock",
+   "type": "arts_culture",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Snake River Fur Trader",
+   "type": "arts_culture",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Look and Listen",
+   "type": "arts_culture",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Itty Bitty Farms",
+   "type": "farmers_market",
+   "city": "Iona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Art Museum of Eastern Idaho",
+   "type": "museum",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Museum of Idaho",
+   "type": "museum",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Willard Arts Center",
+   "type": "arts_culture",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maple Street Laundry",
+   "type": "laundromat",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "ARTitorium on Broadway",
+   "type": "arts_culture",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Phoenix",
+   "type": "arts_culture",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idaho Falls Public Library",
+   "type": "library",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin-Op Laundrymat",
+   "type": "laundromat",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "D&L Cleaners & Laundry",
+   "type": "laundromat",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First Street Wash N Dry",
+   "type": "laundromat",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heads & Tails Distillery",
+   "type": "brewery_distillery",
+   "city": "Idaho Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iona Library",
+   "type": "library",
+   "city": "Iona",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Clean",
+   "type": "museum",
+   "city": "Pocatello",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "OriginStreetAddressesPocatello",
+   "type": "historic_site",
+   "city": "Pocatello",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The ISU \"I\"",
+   "type": "historic_site",
+   "city": "Pocatello",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McDougall Field",
+   "type": "historic_site",
+   "city": "Chubbuck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Off The Rails Brewing",
+   "type": "brewery_distillery",
+   "city": "Pocatello",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pocatello Model Railroad and Historical Society",
+   "type": "museum",
+   "city": "Pocatello",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Star Route Brewery",
+   "type": "brewery_distillery",
+   "city": "Pocatello",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portneuf Valley Farmers Market",
+   "type": "farmers_market",
+   "city": "Pocatello",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic Downtown Pocatello",
+   "type": "museum",
+   "city": "Pocatello",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portneuf District Library",
+   "type": "library",
+   "city": "Chubbuck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marshall Public Library",
+   "type": "library",
+   "city": "Pocatello",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Palace Playhouse",
+   "type": "arts_culture",
+   "city": "Chubbuck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bannock County Historical Museum",
+   "type": "museum",
+   "city": "Pocatello",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portneuf Health Trust Amphitheatre",
+   "type": "arts_culture",
+   "city": "Chubbuck",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eli Oboler Library",
+   "type": "library",
+   "city": "Pocatello",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stephens Performing Arts Center (PAC)",
+   "type": "arts_culture",
+   "city": "Pocatello",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Twin Falls County Museum",
+   "type": "museum",
+   "city": "Filer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Herrett Museum",
+   "type": "museum",
+   "city": "Twin Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "CSI Tower",
+   "type": "historic_site",
+   "city": "Twin Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evel Knievel Monument",
+   "type": "historic_site",
+   "city": "Twin Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "IB Perrine Monument",
+   "type": "historic_site",
+   "city": "Twin Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Well Water Drill Rig",
+   "type": "historic_site",
+   "city": "Filer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TF Handy Wash",
+   "type": "laundromat",
+   "city": "Twin Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Twin Falls Public Library",
+   "type": "library",
+   "city": "Twin Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Roper Auditorium",
+   "type": "arts_culture",
+   "city": "Twin Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Twin Falls City Park Historic District",
+   "type": "historic_downtown",
+   "city": "Twin Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Twins Statue",
+   "type": "historic_site",
+   "city": "Twin Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Filer Public Library",
+   "type": "library",
+   "city": "Filer",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BlueRock Farm Market",
+   "type": "farmers_market",
+   "city": "Twin Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Harvey",
+   "type": "arts_culture",
+   "city": "Coeur d'Alene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "K27 Monument",
+   "type": "historic_site",
+   "city": "Hayden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tricksters Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Dalton Gardens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trails End Brewery",
+   "type": "brewery_distillery",
+   "city": "Dalton Gardens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mad Bomber Brewing",
+   "type": "brewery_distillery",
+   "city": "Hayden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Washboard",
+   "type": "laundromat",
+   "city": "Huetter",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coeur d'Alene Summer Theatre Office",
+   "type": "arts_culture",
+   "city": "Dalton Gardens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Outpost Brewing",
+   "type": "brewery_distillery",
+   "city": "Coeur d'Alene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry & Cleaning Village",
+   "type": "laundromat",
+   "city": "Coeur d'Alene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coeur d'Alene Galleries",
+   "type": "arts_culture",
+   "city": "Coeur d'Alene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Angel Art Gallery",
+   "type": "arts_culture",
+   "city": "Coeur d'Alene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kootenai County Farmers' Market",
+   "type": "farmers_market",
+   "city": "Hayden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hayden Laundry & Dry Cleaning",
+   "type": "laundromat",
+   "city": "Hayden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rusty's",
+   "type": "brewery_distillery",
+   "city": "Hayden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "High Society Brewing",
+   "type": "brewery_distillery",
+   "city": "Hayden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cranberry Road Winery",
+   "type": "brewery_distillery",
+   "city": "Coeur d'Alene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bird Aviation Museum & Invention Center",
+   "type": "museum",
+   "city": "Hayden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of North Idaho",
+   "type": "museum",
+   "city": "Coeur d'Alene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coeur d'Alene Public Library",
+   "type": "library",
+   "city": "Coeur d'Alene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boswell Hall",
+   "type": "arts_culture",
+   "city": "Coeur d'Alene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Molstead Library",
+   "type": "library",
+   "city": "Coeur d'Alene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hayden Library",
+   "type": "library",
+   "city": "Hayden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Art Spirit Gallery",
+   "type": "arts_culture",
+   "city": "Coeur d'Alene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Selkirk Abbey",
+   "type": "brewery_distillery",
+   "city": "Huetter",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coeur D'Alene Cellars",
+   "type": "brewery_distillery",
+   "city": "Dalton Gardens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coeur d'Alene Laundry & Drycleaning",
+   "type": "laundromat",
+   "city": "Coeur d'Alene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stylus Wine and Vinyl Bar",
+   "type": "brewery_distillery",
+   "city": "Coeur d'Alene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Daft Badger Brewing",
+   "type": "brewery_distillery",
+   "city": "Coeur d'Alene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jeremiah Johnson Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Coeur d'Alene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lake City Laundromat",
+   "type": "laundromat",
+   "city": "Fernan Lake Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paragon Brewing",
+   "type": "brewery_distillery",
+   "city": "Dalton Gardens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Poteet Produce",
+   "type": "farmers_market",
+   "city": "Dalton Gardens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jeff Weir Art Gallery & Studio",
+   "type": "arts_culture",
+   "city": "Hayden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Idaho Aquaponics",
+   "type": "farmers_market",
+   "city": "Hayden",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vantage Point Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Fernan Lake Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seltice Laundry & Dry Cleaning",
+   "type": "laundromat",
+   "city": "Huetter",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lake City Playhouse",
+   "type": "arts_culture",
+   "city": "Coeur d'Alene",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Education Monument",
+   "type": "historic_site",
+   "city": "Rexburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BYU-I Planetarium",
+   "type": "planetarium",
+   "city": "Rexburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Romney Geology Museum",
+   "type": "museum",
+   "city": "Rexburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "SJ Healing Crossroads Shrine by Scott & Janae Johnson",
+   "type": "historic_site",
+   "city": "Sugar City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Legacy Flight Museum",
+   "type": "museum",
+   "city": "Rexburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veterans Freedom Memorial",
+   "type": "historic_site",
+   "city": "Rexburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Madison Public Library",
+   "type": "library",
+   "city": "Rexburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Romance Theater",
+   "type": "arts_culture",
+   "city": "Rexburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Magic Suds Laundromat",
+   "type": "laundromat",
+   "city": "Rexburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "David O. McKay Library",
+   "type": "library",
+   "city": "Rexburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nez Perce County Historical Society",
+   "type": "museum",
+   "city": "Lewiston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "C. C. Van Arsdol",
+   "type": "historic_site",
+   "city": "Lewiston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jack O'Conner Visitor Center",
+   "type": "museum",
+   "city": "Lewiston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sudzy's Laundromat",
+   "type": "laundromat",
+   "city": "Lewiston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Groundwork Brewing LLC",
+   "type": "brewery_distillery",
+   "city": "Lewiston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Bonner County Library District - Sandpoint Branch",
+   "type": "library",
+   "city": "Sandpoint",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Liberty",
+   "type": "arts_culture",
+   "city": "Sandpoint",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Matchwood",
+   "type": "brewery_distillery",
+   "city": "Sandpoint",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Utara",
+   "type": "brewery_distillery",
+   "city": "Sandpoint",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MickDuff's - Beer Hall",
+   "type": "brewery_distillery",
+   "city": "Sandpoint",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MickDuff's - Brewery and Restaurant",
+   "type": "brewery_distillery",
+   "city": "Sandpoint",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Panida Theater",
+   "type": "arts_culture",
+   "city": "Sandpoint",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Hive",
+   "type": "live_music",
+   "city": "Sandpoint",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stanley Museum",
+   "type": "museum",
+   "city": "Stanley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art & Flow",
+   "type": "arts_culture",
+   "city": "Post Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Filling Station Post Falls",
+   "type": "brewery_distillery",
+   "city": "Post Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Mullan Statue",
+   "type": "arts_culture",
+   "city": "Post Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Post Falls Library",
+   "type": "library",
+   "city": "Post Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Post Falls Museum",
+   "type": "museum",
+   "city": "Post Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UpNorth Distillery",
+   "type": "brewery_distillery",
+   "city": "Post Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Jacklin Arts & Cultural Center",
+   "type": "arts_culture",
+   "city": "Post Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Post Falls Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Post Falls",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hemingway Memorial",
+   "type": "historic_site",
+   "city": "Sun Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Community Library",
+   "type": "library",
+   "city": "Ketchum",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sun Valley Pavilion",
+   "type": "arts_culture",
+   "city": "Sun Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sun Valley Museum of Art",
+   "type": "museum",
+   "city": "Ketchum",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Spot",
+   "type": "arts_culture",
+   "city": "Ketchum",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Argyros Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Ketchum",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sacajawea Interpretive Center",
+   "type": "museum",
+   "city": "East Salmon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Salmon Public Library",
+   "type": "library",
+   "city": "Salmon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bertram's Brewery",
+   "type": "brewery_distillery",
+   "city": "Salmon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Pub Taproom",
+   "type": "brewery_distillery",
+   "city": "Salmon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Highlander Beer",
+   "type": "brewery_distillery",
+   "city": "Salmon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Pioneer Fire of 2016",
+   "type": "historic_site",
+   "city": "Idaho City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Ribbon Tree",
+   "type": "historic_site",
+   "city": "Idaho City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boise Basin District Library",
+   "type": "library",
+   "city": "Idaho City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boise Basin Museum",
+   "type": "museum",
+   "city": "Idaho City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McCall Brewing Company",
+   "type": "brewery_distillery",
+   "city": "McCall",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Central Idaho Historical Museum",
+   "type": "museum",
+   "city": "McCall",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McCall Public Library",
+   "type": "library",
+   "city": "McCall",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ashton Library",
+   "type": "library",
+   "city": "Ashton",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

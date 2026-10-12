@@ -1,0 +1,5413 @@
+{
+ "state": "NV",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "Bird Creek Campground",
+   "type": "paid_camp",
+   "town": "McGill, NV",
+   "town_mi": 7.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Red Rock Canyon Campground",
+   "type": "paid_camp",
+   "town": "Summerlin South, NV",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Slide Creek Campground",
+   "type": "paid_camp",
+   "town": "Wells, NV",
+   "town_mi": 28.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ward Mountain Campground (Murray Summit)",
+   "type": "paid_camp",
+   "town": "Ruth, NV",
+   "town_mi": 4.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McWilliams Campground",
+   "type": "paid_camp",
+   "town": "Mount Charleston, NV",
+   "town_mi": 5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fletcher View Campground",
+   "type": "paid_camp",
+   "town": "Mount Charleston, NV",
+   "town_mi": 0.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Timber Creek Campground",
+   "type": "paid_camp",
+   "town": "McGill, NV",
+   "town_mi": 8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mahogany Grove Campground",
+   "type": "paid_camp",
+   "town": "Mount Charleston, NV",
+   "town_mi": 3.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hilltop Campground",
+   "type": "paid_camp",
+   "town": "Mount Charleston, NV",
+   "town_mi": 3.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nevada Beach Campground",
+   "type": "paid_camp",
+   "town": "Stateline, NV",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Divine Springs Campground",
+   "type": "paid_camp",
+   "town": "Eagleville, CA",
+   "town_mi": 13.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whispering Elms Campground",
+   "type": "paid_camp",
+   "town": "Baker, NV",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Beaver Dam Campground B",
+   "type": "paid_camp",
+   "town": "Enterprise, UT",
+   "town_mi": 18.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Valley of Fire Overflow Camping",
+   "type": "paid_camp",
+   "town": "Moapa Valley, NV",
+   "town_mi": 8.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cherry Creek Campground (NV)",
+   "type": "paid_camp",
+   "town": "Rachel, NV",
+   "town_mi": 36.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Desert Creek Campground",
+   "type": "paid_camp",
+   "town": "Topaz, CA",
+   "town_mi": 8.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jack Creek Campground",
+   "type": "paid_camp",
+   "town": "Wildhorse, NV",
+   "town_mi": 14.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kingston Campground (NV)",
+   "type": "paid_camp",
+   "town": "Kingston, NV",
+   "town_mi": 4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Bluster Campground",
+   "type": "paid_camp",
+   "town": "Jarbidge, NV",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lye Creek Campground",
+   "type": "paid_camp",
+   "town": "Paradise Valley, NV",
+   "town_mi": 13.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pavlak Campground",
+   "type": "paid_camp",
+   "town": "Jarbidge, NV",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Peavine Creek Campground",
+   "type": "paid_camp",
+   "town": "Tonopah, NV",
+   "town_mi": 37.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Creek Campground (Toiyabe)",
+   "type": "paid_camp",
+   "town": "Kingston, NV",
+   "town_mi": 30.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Creek Campground (Jarbidge)",
+   "type": "paid_camp",
+   "town": "Jarbidge, NV",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "San Juan Campground",
+   "type": "paid_camp",
+   "town": "Kingston, NV",
+   "town_mi": 12.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sawmill Campground (NV)",
+   "type": "paid_camp",
+   "town": "Jarbidge, NV",
+   "town_mi": 0.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Toquima Cave Campground",
+   "type": "paid_camp",
+   "town": "Kingston, NV",
+   "town_mi": 14.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Columbine Campground (NV)",
+   "type": "paid_camp",
+   "town": "Kingston, NV",
+   "town_mi": 27.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Topaz Lodge RV Park",
+   "type": "rv_park",
+   "town": "Topaz Lake, NV",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Marlette Peak Campground",
+   "type": "paid_camp",
+   "town": "Incline Village, NV",
+   "town_mi": 6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fernley RV Park",
+   "type": "rv_park",
+   "town": "Wadsworth, NV",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mountain Shadows RV Park",
+   "type": "rv_park",
+   "town": "Wells, NV",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Royal Peacock RV Park and Campground",
+   "type": "rv_park",
+   "town": "Denio, NV",
+   "town_mi": 27.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Terraces Campground & Picnic Area",
+   "type": "paid_camp",
+   "town": "Lamoille, NV",
+   "town_mi": 8.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Middlegate Station RV Park",
+   "type": "rv_park",
+   "town": "Gabbs, NV",
+   "town_mi": 29.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cleve Creek Campground",
+   "type": "paid_camp",
+   "town": "Ely, NV",
+   "town_mi": 17,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Illipah Reservoir Campground",
+   "type": "paid_camp",
+   "town": "Ruth, NV",
+   "town_mi": 21.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hidden Campsite (NV)",
+   "type": "paid_camp",
+   "town": "Alamo, NV",
+   "town_mi": 16.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Major's Station RV Park",
+   "type": "rv_park",
+   "town": "Ely, NV",
+   "town_mi": 22.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Snake Creek Campsite",
+   "type": "paid_camp",
+   "town": "Baker, NV",
+   "town_mi": 7.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Creek Campsite",
+   "type": "paid_camp",
+   "town": "McGill, NV",
+   "town_mi": 10.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Overton Wildlife Management Area Campground",
+   "type": "paid_camp",
+   "town": "Moapa Valley, NV",
+   "town_mi": 6.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cabin Pines Campground",
+   "type": "paid_camp",
+   "town": "Caliente, NV",
+   "town_mi": 10.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Slide Creek Campground (Jarbidge)",
+   "type": "paid_camp",
+   "town": "Jarbidge, NV",
+   "town_mi": 8.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Shore Campground (NV)",
+   "type": "paid_camp",
+   "town": "South Fork, NV",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Silver Crown Mobile Home Park",
+   "type": "rv_park",
+   "town": "Sun Valley, NV",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Topaz Lake Park",
+   "type": "rv_park",
+   "town": "Topaz Lake, NV",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Agua Caliente",
+   "type": "rv_park",
+   "town": "Caliente, NV",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Double Dice",
+   "type": "rv_park",
+   "town": "Elko, NV",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sacramento Pass Recreation Area",
+   "type": "blm",
+   "town": "Baker, NV",
+   "town_mi": 12.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Flowers Camp",
+   "type": "unknown",
+   "town": "Kingston, NV",
+   "town_mi": 31.4,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hawkeye R.V. Park",
+   "type": "rv_park",
+   "town": "Yerington, NV",
+   "town_mi": 4.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Clear Creek Mobile Home Park & RV",
+   "type": "rv_park",
+   "town": "Indian Hills, NV",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Concours Parts & Accessories",
+   "type": "rv_park",
+   "town": "Carson City, NV",
+   "town_mi": 3.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Space Station RV Park",
+   "type": "rv_park",
+   "town": "Beatty, NV",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RV Country - Laughlin",
+   "type": "rv_park",
+   "town": "Bullhead City, AZ",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Arch Rock Campground",
+   "type": "paid_camp",
+   "town": "Moapa Valley, NV",
+   "town_mi": 14.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Atlatl Rock Campground",
+   "type": "paid_camp",
+   "town": "Moapa Valley, NV",
+   "town_mi": 14.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Kampground",
+   "type": "rv_park",
+   "town": "Fort Mohave, AZ",
+   "town_mi": 4.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lakeside RV Park",
+   "type": "rv_park",
+   "town": "Pahrump, NV",
+   "town_mi": 6.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Oasis Las Vegas RV Resort",
+   "type": "rv_park",
+   "town": "Enterprise, NV",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Picketts RV Park",
+   "type": "rv_park",
+   "town": "Alamo, NV",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wendover KOA",
+   "type": "rv_park",
+   "town": "West Wendover, NV",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Las Vegas KOA at Sam's Town",
+   "type": "rv_park",
+   "town": "Whitney, NV",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Maycliff Mini Storage and RV Park",
+   "type": "rv_park",
+   "town": "Winchester, NV",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Angel Creek Campground",
+   "type": "paid_camp",
+   "town": "Wells, NV",
+   "town_mi": 7.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Ruby Campground",
+   "type": "unknown",
+   "town": "South Fork, NV",
+   "town_mi": 36.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Thomas Canyon Campground",
+   "type": "paid_camp",
+   "town": "Lamoille, NV",
+   "town_mi": 6.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bob Scott Campground",
+   "type": "paid_camp",
+   "town": "Austin, NV",
+   "town_mi": 5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mount Rose Campground",
+   "type": "unknown",
+   "town": "Incline Village, NV",
+   "town_mi": 4.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sunresort RV",
+   "type": "rv_park",
+   "town": "Scenic, AZ",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Virginia City RV Park",
+   "type": "rv_park",
+   "town": "Virginia City, NV",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Main Street Station RV Park",
+   "type": "rv_park",
+   "town": "Winchester, NV",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Berlin Ichthyosaur Campground",
+   "type": "paid_camp",
+   "town": "Gabbs, NV",
+   "town_mi": 18.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Good Sam RV Park",
+   "type": "rv_park",
+   "town": "Reno, NV",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shamrock RV Park",
+   "type": "rv_park",
+   "town": "Reno, NV",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "INDIAN CREEK CAMPGROUND (CA)",
+   "type": "paid_camp",
+   "town": "Alpine Village, CA",
+   "town_mi": 2.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bonanza Terrace RV Park",
+   "type": "rv_park",
+   "town": "Reno, NV",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "River West Resort",
+   "type": "rv_park",
+   "town": "Reno, NV",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RV Park at Grand Sierra Resort",
+   "type": "rv_park",
+   "town": "Reno, NV",
+   "town_mi": 4.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Boulder Beach Residence RV Park",
+   "type": "rv_park",
+   "town": "Henderson, NV",
+   "town_mi": 12,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Desert Sands RV Park",
+   "type": "rv_park",
+   "town": "Whitney, NV",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gold Ranch RV Resort",
+   "type": "rv_park",
+   "town": "Verdi, NV",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sparks Marina RV Park",
+   "type": "rv_park",
+   "town": "Sparks, NV",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "The RV Park at Circus Circus",
+   "type": "rv_park",
+   "town": "Winchester, NV",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nevada Treasure RV Resort",
+   "type": "rv_park",
+   "town": "Pahrump, NV",
+   "town_mi": 6.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Preferred RV Resort",
+   "type": "rv_park",
+   "town": "Pahrump, NV",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whiskey Flats RV Park",
+   "type": "rv_park",
+   "town": "Hawthorne, NV",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bermuda Palms RV Park",
+   "type": "rv_park",
+   "town": "Enterprise, NV",
+   "town_mi": 5.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Esmerelda RV Park & Cabins",
+   "type": "rv_park",
+   "town": "Dyer, NV",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Silver State RV Park",
+   "type": "rv_park",
+   "town": "Winnemucca, NV",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Winnemucca RV Park",
+   "type": "rv_park",
+   "town": "Winnemucca, NV",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Angel Lake RV Park",
+   "type": "rv_park",
+   "town": "Wells, NV",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Silver City RV Resort",
+   "type": "rv_park",
+   "town": "Indian Hills, NV",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pahrump RV Park and Lodging",
+   "type": "rv_park",
+   "town": "Pahrump, NV",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cleve Creek Campground",
+   "type": "blm",
+   "town": "Ely, NV",
+   "town_mi": 18,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wine Ridge RV Resort & Cottages",
+   "type": "rv_park",
+   "town": "Pahrump, NV",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Star Point",
+   "type": "rv_park",
+   "town": "Imlay, NV",
+   "town_mi": 4.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hitchin' Post RV Park and Motel",
+   "type": "rv_park",
+   "town": "Nellis AFB, NV",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Goldfield Miners Camp",
+   "type": "rv_park",
+   "town": "Goldfield, NV",
+   "town_mi": 0.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elk Flat Campground",
+   "type": "paid_camp",
+   "town": "Ely, NV",
+   "town_mi": 9.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "New Frontier RV Park",
+   "type": "rv_park",
+   "town": "Winnemucca, NV",
+   "town_mi": 1.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Beatty RV Park",
+   "type": "rv_park",
+   "town": "Beatty, NV",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Saguaro RV Park",
+   "type": "rv_park",
+   "town": "Jackpot, NV",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Desert Rose RV Park",
+   "type": "rv_park",
+   "town": "Fernley, NV",
+   "town_mi": 2.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gold Country RV Park",
+   "type": "rv_park",
+   "town": "Elko, NV",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kyle Canyon Campground",
+   "type": "paid_camp",
+   "town": "Mount Charleston, NV",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Border Inn RV Park",
+   "type": "rv_park",
+   "town": "Baker, NV",
+   "town_mi": 4.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mesquite RV and Trailer Park",
+   "type": "rv_park",
+   "town": "Mesquite, NV",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Boulder Oaks RV Resort",
+   "type": "rv_park",
+   "town": "Boulder City, NV",
+   "town_mi": 10,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Solstice Motorcoach RV Resort",
+   "type": "rv_park",
+   "town": "Mesquite, NV",
+   "town_mi": 0.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Angel Lake Campground",
+   "type": "paid_camp",
+   "town": "Wells, NV",
+   "town_mi": 9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RV Ranch Resort",
+   "type": "rv_park",
+   "town": "Pahrump, NV",
+   "town_mi": 6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Valley View RV Park",
+   "type": "rv_park",
+   "town": "Elko, NV",
+   "town_mi": 4.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dayton RV Park",
+   "type": "rv_park",
+   "town": "Silver City, NV",
+   "town_mi": 2.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Thousand Trails Las Vegas",
+   "type": "rv_park",
+   "town": "Whitney, NV",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Carson Valley Inn RV Resort",
+   "type": "rv_park",
+   "town": "Minden, NV",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Canyon Trail RV Park",
+   "type": "rv_park",
+   "town": "Boulder City, NV",
+   "town_mi": 9.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pioche RV Park and Campground",
+   "type": "rv_park",
+   "town": "Pioche, NV",
+   "town_mi": 1.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Model T RV Park",
+   "type": "rv_park",
+   "town": "Winnemucca, NV",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverside RV Park",
+   "type": "rv_park",
+   "town": "Laughlin, NV",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "China Town",
+   "type": "rv_park",
+   "town": "Wells, NV",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "American Quality Suites & Tonopah RV",
+   "type": "rv_park",
+   "town": "Tonopah, NV",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Horsethief Gulch Campground",
+   "type": "rv_park",
+   "town": "Ursine, NV",
+   "town_mi": 3.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Las Vegas KOA Journey North Section",
+   "type": "rv_park",
+   "town": "Whitney, NV",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Echo Bay RV Village",
+   "type": "rv_park",
+   "town": "Moapa Valley, NV",
+   "town_mi": 20.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mesquite Trails RV Resort",
+   "type": "rv_park",
+   "town": "Mesquite, NV",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Las Vegas RV Resort",
+   "type": "rv_park",
+   "town": "Whitney, NV",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Arizona Charlie's Boulder RV Park",
+   "type": "rv_park",
+   "town": "Whitney, NV",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "East Creek Campground",
+   "type": "unknown",
+   "town": "McGill, NV",
+   "town_mi": 9.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake View Campground",
+   "type": "paid_camp",
+   "town": "Ely, NV",
+   "town_mi": 10.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Clark RV Park",
+   "type": "rv_park",
+   "town": "Battle Mountain, NV",
+   "town_mi": 0.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Zephry Cove RV Park and Campground",
+   "type": "unknown",
+   "town": "Zephyr Cove, NV",
+   "town_mi": 1.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Carson RV Resort",
+   "type": "rv_park",
+   "town": "Indian Hills, NV",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bordertown RV Resort",
+   "type": "rv_park",
+   "town": "Cold Springs, NV",
+   "town_mi": 2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Panther Valley RV Park",
+   "type": "rv_park",
+   "town": "Golden Valley, NV",
+   "town_mi": 2.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Green Acres RV Park",
+   "type": "rv_park",
+   "town": "Reno, NV",
+   "town_mi": 4.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Victorian RV Park",
+   "type": "rv_park",
+   "town": "Sparks, NV",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Broadway Colt RV Park",
+   "type": "rv_park",
+   "town": "Battle Mountain, NV",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Coyote Summit Caravan",
+   "type": "rv_park",
+   "town": "Rachel, NV",
+   "town_mi": 7.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fallon RV Park",
+   "type": "rv_park",
+   "town": "Fallon, NV",
+   "town_mi": 5.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Walker River Resort",
+   "type": "rv_park",
+   "town": "Smith Valley, NV",
+   "town_mi": 6.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CasaBlanca Resort & Casino RV Park",
+   "type": "rv_park",
+   "town": "Mesquite, NV",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Silver Sky Lodge Enterprise",
+   "type": "rv_park",
+   "town": "Eureka, NV",
+   "town_mi": 1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Slide Creek Campground",
+   "type": "paid_camp",
+   "town": "Wells, NV",
+   "town_mi": 28.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Truck Parking I-15 Southbound, Mile 111",
+   "type": "rest_stop",
+   "town": "Bunkerville, NV",
+   "town_mi": 7.6,
+   "badge": "policy",
+   "policy": "allowed",
+   "osm": true
+  },
+  {
+   "name": "Truck Parking I-15 Northbound, Mile 110",
+   "type": "rest_stop",
+   "town": "Bunkerville, NV",
+   "town_mi": 7.6,
+   "badge": "policy",
+   "policy": "allowed",
+   "osm": true
+  }
+ ],
+ "activities": [
+  {
+   "name": "Hike the Baker Creek Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Lehman Creek Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike to Johnson Lake from Snake Creek",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wheeler Peak Bristlecone Grove",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lexington Arch",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Upper Strawberry Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Serviceberry Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Baker Lake Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pole Canyon Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lehman Creek Trail (Great Basin)",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mountain View Nature Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wheeler Peak Summit",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Highland Route (Great Basin)",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Boy Scout Canyon Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Colorado River Hot Spring (Lower)",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Colorado River Hot Springs (Upper)",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Black Rock Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cover My Buttress",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Wake Up Wall",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Trego Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Smith Creek Valley Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bartine Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Atman",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Brass Wall",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Romper Room",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Scare Tactics",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Soldier Meadows Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Double Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Kyle Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Reese River Valley Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rose Tower",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cannabis Crag",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sweet Pain Wall",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "The Pier",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Warm Springs (Denio)",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hot Springs (Gabbs Valley)",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Booker Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dixie Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Shipley Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fish Lake Valley Hot Well",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Great Boiling Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Casey Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Alkali Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pearl Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Bog Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hot Spring (Jarbidge North)",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hot Spring (Jarbidge South)",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Walti Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Warm Spring (Big Smoky Valley)",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Devil's Faucet Hot Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Buffalo Hot Springs",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Moorman Spring",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "The Nightcrawler",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Unimpeachable Groping",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "The Geysers (Beowawe)",
+   "type": "hot_springs",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Epinephrine",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Motorcycle Mama",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gold Butte National Monument",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gold Butte Back Country Byway",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Winnemucca Sand Dunes",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Grimes Point/Hidden Cave Archaeological Site",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ash Meadows National Wildlife Refuge",
+   "type": "birding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Arrow Canyon Wilderness",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Desert National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fallon National Wildlife Refuge",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Steven's Camp Recreation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Upper High Rock Canyon Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Shoshone OHV Trail System",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pahranagat National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Stillwater National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Sloan Canyon NCA",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Faye-Luther Trail System",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "High Rock Canyon",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "South Fork Owyhee River Recreation Area",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "South Fork Canyon Special Recreation Management Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pine Forest Recreation Area",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Red Rock Canyon National Conservation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hickison Petroglyph Recreation Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Railroad Valley Wildlife Management Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Moon Rocks OHV Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Highland Range Crucial Bighorn Habitat",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lahontan Cutthroat Natural Area",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rhyolite Historic Area",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hoover Dam",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ruby Lake National Wildlife Refuge",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Moapa Valley National Wildlife Refuge",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lahontan Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rye Patch Reservoir",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Great Basin National Park Junior Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lehman Caves Tour",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Sage Steppe Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike to Johnson Lake from Snake Creek",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike to Snake Creek Overlook",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Shoshone ADA Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike to Dead Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Timber Creek Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike to Johnson Lake from Baker Creek",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Backpack the Baker & Johnson Lakes Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Lehman Creek Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Alpine Lakes Loop",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike to the Glacier",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the ADA Sky Island Forest Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at the Lehman Caves Picnic Area",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Get a Backcountry Camping Permit",
+   "type": "camping",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "See the Exhibits at the Lehman Caves Visitor Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "See the Exhibits at the Great Basin Visitor Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at Upper Lehman Campground",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Highland Route",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Driving the Park",
+   "type": "scenic_drive",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Astronomy Ranger Program",
+   "type": "stargazing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hiking at Tule Springs Fossil Beds National Monument",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Launderette",
+   "type": "laundromat",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Basin Brewery",
+   "type": "brewery_distillery",
+   "city": "Sparks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washoe County Library",
+   "type": "library",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Basque Sheepherder Monument",
+   "type": "historic_site",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Duds'n'Suds",
+   "type": "laundromat",
+   "city": "Sparks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Indeed!",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sierra Memorial Art Space",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Basque Library",
+   "type": "library",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Good Luck Macbeth Theatre Company",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheatre",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Slieve Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pelican Sculpture",
+   "type": "arts_culture",
+   "city": "Lockwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frog Sculpture",
+   "type": "arts_culture",
+   "city": "Lockwood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Suds City Coin Laundry",
+   "type": "laundromat",
+   "city": "Golden Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Mackay",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Abstract Concrete Wall",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peace Statue",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ginnetoy 2nd",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Punjab VIII",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Offset Forms 08",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wind Art",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steel and Fabrication Sculpture",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steel Through Concrete",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rememberance #3",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of Natural History",
+   "type": "science_center",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "F. Donald Tibbetts Memorial Plaza",
+   "type": "historic_site",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Savitt Medical Library",
+   "type": "library",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nell J Redfield Learning and Resource Center",
+   "type": "library",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bruka Theatre",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nena Miller Statue",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "International Bowling Museum & Hall of Fame",
+   "type": "museum",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guerra Bert Law Library",
+   "type": "library",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Gallery",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frank Zenklusen Memorial",
+   "type": "historic_site",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alice In Wonderland Hookah Caterpillar Mural",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cargo Concert Hall",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The N",
+   "type": "historic_site",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "No Evil",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "BattleBorn",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nevadan",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sonny",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Poppy",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "2 Moran St",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wild Orchid",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pan Pantoja",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Whale Alley",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seeds of Change",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "777 S. Center",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Follow the Queen",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vacation Motor Lodge",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peerless",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hands Up",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beau Shaver Tribute",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "In the Mist of Downtown",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lahontan Cutthroat",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "This Is City Living",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Back in the Day is Now",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lasting Dose Tattoo",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Junkee Clothing Exchange",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Melting Pot World Emporium",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evolution Tattoo",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evolution of Mankind - WTF",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thai Chili",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Dogs and Grace",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portraits",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Happy Happy Joy Joy",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Craft Wine and Beer",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "140 E Pueblo St",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nevada Fine Arts",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "101 E Pueblo St",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Chocolate Walrus",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "La Garage",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alterations Connection",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carter Bros Ace Hardware",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "El Adobe Cafe",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1264 S Virginia St",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ponderosa Meat and Provision Co",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beefy’s Inc",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Micano Home",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sierra Nevada Chocolate",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Timeless Fashion",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rainshadow Community Charter High",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Valor Tatoo Parlor",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Holland Project",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portal of Evolution",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reno Family History Center",
+   "type": "library",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Casino Chips",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brew Brothers",
+   "type": "brewery_distillery",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Champion Laundry",
+   "type": "laundromat",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eagle Framing & Art Gallery",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Launderland",
+   "type": "laundromat",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The_Theatre",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Prater Way Laundromat",
+   "type": "laundromat",
+   "city": "Sparks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Launderland",
+   "type": "laundromat",
+   "city": "Sparks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Valleys Library",
+   "type": "library",
+   "city": "Golden Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wa-Pai-Shone",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pyramid Laundry",
+   "type": "laundromat",
+   "city": "Sparks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Clay Canvas",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sun Valley Launderette",
+   "type": "laundromat",
+   "city": "Sun Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "King's Row Laundromat",
+   "type": "laundromat",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Depot Craft Brewery & Distillery",
+   "type": "brewery_distillery",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eldorado Showroom",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Space Whale",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Par by Parlay 6 Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nevada Historical Marker #169",
+   "type": "historic_site",
+   "city": "Sparks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reno Public Market",
+   "type": "farmers_market",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laika Press",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northwest Reno Library",
+   "type": "library",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Huffaker Schoolhouse",
+   "type": "museum",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Washoe County Library",
+   "type": "library",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Terry Lee Wells Nevada Discovery Museum",
+   "type": "science_center",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "University of Nevada, Reno - Innevation Center",
+   "type": "coworking",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robert Z Hawkins Ampitheater",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wilbur D. May Museum",
+   "type": "museum",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sparks Heritage Museum",
+   "type": "museum",
+   "city": "Sparks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tony Armstrong Amphitheater",
+   "type": "arts_culture",
+   "city": "Sparks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brewers Cabinet Tap Room",
+   "type": "brewery_distillery",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brewers Cabinet",
+   "type": "brewery_distillery",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Basin Community Food Co-op",
+   "type": "farmers_market",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mckinley Arts & Culture Center",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Battle Born Beer",
+   "type": "brewery_distillery",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nevada Sunset Winery",
+   "type": "brewery_distillery",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fleischmann Planetarium",
+   "type": "planetarium",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mackay Mines",
+   "type": "library",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mathewson-IGT Knowledge Center",
+   "type": "library",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Distinguised Nevadans Memorial",
+   "type": "historic_site",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nevada Museum of Art",
+   "type": "museum",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wingfield Ampitheater",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Local Beer Works",
+   "type": "brewery_distillery",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pioneer Center",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sergeant George D. Sullivan Memorial",
+   "type": "historic_site",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Under the Rose Brewery",
+   "type": "brewery_distillery",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ferino Distillery",
+   "type": "brewery_distillery",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stremmel Gallery",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richard H. Bryan Statue",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Basin Science Sample and Records Library",
+   "type": "library",
+   "city": "Sun Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elizabeth Sturm Library",
+   "type": "library",
+   "city": "Sun Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "IMBĪB Custom Brews - Reno",
+   "type": "brewery_distillery",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reno Sparks Cultural Resource Program",
+   "type": "museum",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artists Co-op Gallery Reno",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "10 Torr Distilling and Brewing",
+   "type": "brewery_distillery",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sparks branch Washoe Co. Library",
+   "type": "library",
+   "city": "Sparks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nugget Event Center",
+   "type": "arts_culture",
+   "city": "Sparks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reno Collective",
+   "type": "coworking",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Revision Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Sparks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kiln",
+   "type": "coworking",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Good Luck Macbeth",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pigeon Head Brewery",
+   "type": "brewery_distillery",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reno Little Theater",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richardson Gallery of Fine Art",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Seven Troughs Distilling Co.",
+   "type": "brewery_distillery",
+   "city": "Sparks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "High Mark Distillery /High Mark Barrel House",
+   "type": "brewery_distillery",
+   "city": "Sparks",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spanish Springs Library",
+   "type": "library",
+   "city": "Spanish Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Schussboom Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aladin's Market & Kitchen",
+   "type": "farmers_market",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Midway",
+   "type": "arts_culture",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lead Dog Brewery",
+   "type": "brewery_distillery",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Automobile Museum",
+   "type": "museum",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Lane",
+   "type": "laundromat",
+   "city": "Winnemucca",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pioneer Memorial Park",
+   "type": "historic_site",
+   "city": "Winnemucca",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The W",
+   "type": "historic_site",
+   "city": "Winnemucca",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "F-86 Sabre",
+   "type": "historic_site",
+   "city": "Winnemucca",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bell UH-1 Iroquois",
+   "type": "historic_site",
+   "city": "Winnemucca",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "M3 Stuart",
+   "type": "historic_site",
+   "city": "Winnemucca",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Humboldt Museum",
+   "type": "museum",
+   "city": "Winnemucca",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Humboldt County Public Library",
+   "type": "library",
+   "city": "Winnemucca",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Westgate Cabaret",
+   "type": "arts_culture",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cashman Center",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lied Library",
+   "type": "library",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Awakening Theater",
+   "type": "arts_culture",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"O\" Theatre",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Encore Theater",
+   "type": "arts_culture",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "KÀ - Cirque du Soleil",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "PH Live",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Judy Bayley Theater",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marjorie Barrick Museum of Art and Harry Reid Center",
+   "type": "museum",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artemus W. Ham Concert Hall",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Las Vegas Mormon Fort State Historic Park",
+   "type": "historic_site",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunrise Library",
+   "type": "library",
+   "city": "Sunrise Manor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lowden Theater",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Performing Arts Center",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smith Center for the Performing Arts",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nevada State Museum",
+   "type": "museum",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Origen Museum",
+   "type": "museum",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "NV Energy Foundation Sustainability Gallery",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TI Theatre Mystère",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Discovery Children's Museum",
+   "type": "science_center",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Emergency Arts",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Work in Progress",
+   "type": "coworking",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Mob Museum",
+   "type": "museum",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Arts Factory",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Springs Amphitheatre",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hollywood Car Museum",
+   "type": "museum",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Neon Museum",
+   "type": "museum",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Laundry",
+   "type": "laundromat",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Erotic Heritage Museum",
+   "type": "museum",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atomic Museum Vegas",
+   "type": "museum",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Absinthe",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theatre 7",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "24-Hour Laundromat",
+   "type": "laundromat",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waterworks Museum",
+   "type": "museum",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Graduate Arts Studio",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "grass sand maze",
+   "type": "historic_site",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "North Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "cornerstone gallery",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The box office",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hop Nuts Brewing",
+   "type": "brewery_distillery",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zak Bagan's The Haunted Museum",
+   "type": "museum",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Burlesque Hall of Fame",
+   "type": "museum",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Area15",
+   "type": "arts_culture",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Las Vegas Natural History Museum",
+   "type": "science_center",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Omega Mart - Meow Wolf",
+   "type": "arts_culture",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Charleston Library",
+   "type": "library",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berkley Square",
+   "type": "historic_downtown",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Resorts World Theatre",
+   "type": "arts_culture",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sphere",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whitney Library",
+   "type": "library",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charleston Heights Arts Center",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Box Theater",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Left of Center Gallery",
+   "type": "arts_culture",
+   "city": "North Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Las Vegas Library",
+   "type": "library",
+   "city": "North Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry & Dry Cleaners",
+   "type": "laundromat",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Punk Rock Museum",
+   "type": "museum",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Las Vegas Library",
+   "type": "library",
+   "city": "North Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garden Amphitheater",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "CraftHaus",
+   "type": "brewery_distillery",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spin City",
+   "type": "laundromat",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Majestic Theatre",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arte Museum Las Vegas",
+   "type": "museum",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artem Galerie",
+   "type": "arts_culture",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alumni Amphitheatre",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Black Lives Matter Banner",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Different Daring Diverse",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Donald C. Moyer Amphitheater",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Plants, Portraits, and Patterns",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "UNLV Surplus Center",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Count Kustoms",
+   "type": "museum",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nellis Petting Zoo",
+   "type": "museum",
+   "city": "Nellis Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shelby Museum",
+   "type": "museum",
+   "city": "Nellis Air Force Base",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rainbow Library",
+   "type": "library",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Big Edge",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "G gallery",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Classic Vdubs",
+   "type": "historic_site",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Swm n Pool",
+   "type": "historic_site",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cobalt Gallery",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Photo Bang Bang",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "GYPSY DEN VINTAGE",
+   "type": "historic_site",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Inspire Theater",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "HellPop! in the Arts Factory",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Laundry",
+   "type": "laundromat",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elvis Presley Museum",
+   "type": "museum",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bellagio Gallery of Fine Art",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mad Apple Theater",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jerry Tarkanian Statue Monument",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sin City Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint Mark's Square",
+   "type": "historic_downtown",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Palazzo Theater",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dolby Live",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fire Breathing Praying Mantis Statue",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Madame Tussauds Las Vegas",
+   "type": "museum",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nuclear Testing Archive-Public Reading Facility",
+   "type": "library",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hacienda Horse Neon Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Normandie Motel Neon Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dancer Neon Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cocktail Neon Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Las Vegas Neon Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Silver Slipper Neon Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pabst Blue Ribbon Neon Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lucky Cuss Motel Neon Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Silver Slipper Neon Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Society Cleaners Neon Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bow & Arrow Motel Neon Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sahara Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cesars Palace Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Neon Museum Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jerry Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stardust Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aladdin's Lamp",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Treasure Island Skull",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frontier Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Golden Nuget Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moulin Rouge Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Steiner Cleaners Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riviera Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "La Concha Motel Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Liberace Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sassy Sally's Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Binion's Horseshoe Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tam O'Shanter Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yucca Motel Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tropicana Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ugly Duckling Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Algiers Sign",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Desert Rose Motel",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Siegfried & Roy Monument",
+   "type": "historic_site",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bliss Dance",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Las Vegas Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dr. Clean",
+   "type": "laundromat",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mechan9",
+   "type": "arts_culture",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Las Vegas Coin Laundry #6",
+   "type": "laundromat",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Ball",
+   "type": "arts_culture",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "In Every Lieftime I Will Find You",
+   "type": "arts_culture",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Be Scorchd",
+   "type": "arts_culture",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Robot",
+   "type": "arts_culture",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Infinite Ship",
+   "type": "arts_culture",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Owl",
+   "type": "arts_culture",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gateway",
+   "type": "arts_culture",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "David Copperfield",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A Public Fit Theatre Company",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Core Contemporary",
+   "type": "arts_culture",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Journey to the West",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Linen Fresh Laundromat",
+   "type": "laundromat",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Linen Fresh",
+   "type": "laundromat",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Able Baker Brewing",
+   "type": "brewery_distillery",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shoe",
+   "type": "arts_culture",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laundry Plus",
+   "type": "laundromat",
+   "city": "North Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flamingo Showroom",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "X Burlesque Theatre",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Julius Caesar Statue at Caesars Palace Las Vegas",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Rat Pack Memorial Plaque",
+   "type": "historic_site",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Imagine Exhibitions Gallery Featuring Da Vinci the Exhibition",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Animazing Gallery",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Summit Showroom",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Signature Galleries",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beer Zombies Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tenaya Creek Brewery",
+   "type": "brewery_distillery",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saxe Theater",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Cannon",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Cube",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Talisman",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Las Vegas High School Historic District",
+   "type": "historic_downtown",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Las Vegas High School Neighborhood Historic District",
+   "type": "historic_downtown",
+   "city": "Las Vegas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Composers Room",
+   "type": "live_music",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Typewriter Eraser, Scale X",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Man Group",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carrot Top & Fantasy",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MUSEUM OF ICE CREAM",
+   "type": "museum",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "International Theater",
+   "type": "arts_culture",
+   "city": "Winchester",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lemmon Valley Coin Laundry",
+   "type": "laundromat",
+   "city": "Lemmon Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Brewer's Cabinet",
+   "type": "brewery_distillery",
+   "city": "Reno",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old US Mint",
+   "type": "museum",
+   "city": "Carson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nevada State Constitution Monument",
+   "type": "historic_site",
+   "city": "Carson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carson City Library",
+   "type": "library",
+   "city": "Carson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean War Memorial",
+   "type": "historic_site",
+   "city": "Carson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nevada Vietnam Memorial",
+   "type": "historic_site",
+   "city": "Carson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Van Gogh & Vino",
+   "type": "arts_culture",
+   "city": "Carson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin-op Laundry",
+   "type": "laundromat",
+   "city": "Carson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carson Farmers Market",
+   "type": "farmers_market",
+   "city": "Carson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "LaunderLand",
+   "type": "laundromat",
+   "city": "Carson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Great Basin Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Carson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nevada State Library & Archives",
+   "type": "library",
+   "city": "Carson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Adams Hub for Innovation",
+   "type": "coworking",
+   "city": "Carson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nevada State Railroad Museum",
+   "type": "museum",
+   "city": "Carson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brewery Arts Center (Main Building)",
+   "type": "arts_culture",
+   "city": "Carson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brewery Arts Center (Performance Hall)",
+   "type": "arts_culture",
+   "city": "Carson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bob McFadden Plaza",
+   "type": "historic_downtown",
+   "city": "Carson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laxalt Plaza",
+   "type": "historic_downtown",
+   "city": "Carson City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eastgate Depot",
+   "type": "museum",
+   "city": "Mound House",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesquite Community Theatre",
+   "type": "arts_culture",
+   "city": "Mesquite",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Virgin Valley Heritage Museum",
+   "type": "museum",
+   "city": "Mesquite",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesquite Fine Arts Center",
+   "type": "arts_culture",
+   "city": "Mesquite",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mesquite Library",
+   "type": "library",
+   "city": "Mesquite",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Donkey History Museum",
+   "type": "museum",
+   "city": "Mesquite",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "House of Blues",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Head Statue",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Oasis Laundromat",
+   "type": "laundromat",
+   "city": "Whitney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Criss Angel Studios",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Joe Zaher",
+   "type": "historic_site",
+   "city": "Spring Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles \"Charlie\" Kellogg",
+   "type": "historic_site",
+   "city": "Spring Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Michael Jackson One Theater",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wiseguys Live Comedy",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spring Valley Library",
+   "type": "library",
+   "city": "Spring Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Michelob Ultra Arena",
+   "type": "arts_culture",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carrol Shelby Museum",
+   "type": "museum",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Raiders Preview Center",
+   "type": "museum",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barley's Casino & Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Whitney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pinball Hall of Fame",
+   "type": "museum",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cleanbay Cleaners",
+   "type": "laundromat",
+   "city": "Paradise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chilton Centennial Tower",
+   "type": "historic_site",
+   "city": "Elko",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "9/11 World Trade Center Monument",
+   "type": "historic_site",
+   "city": "Elko",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Caterpillar grader",
+   "type": "historic_site",
+   "city": "Elko",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Basque Sheepherder",
+   "type": "arts_culture",
+   "city": "Elko",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jet Coin",
+   "type": "laundromat",
+   "city": "Elko",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Elko County Library",
+   "type": "library",
+   "city": "Elko",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Reynolds Amphitheater",
+   "type": "arts_culture",
+   "city": "Elko",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northeastern Nevada Museum",
+   "type": "museum",
+   "city": "Elko",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Western Folklife Center",
+   "type": "museum",
+   "city": "Elko",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cowboy Gear and Arts Museum",
+   "type": "museum",
+   "city": "Elko",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bootleg Canyon",
+   "type": "historic_site",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Water Street District",
+   "type": "historic_downtown",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "CraftHaus Brewery",
+   "type": "brewery_distillery",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "It All Starts Here.",
+   "type": "arts_culture",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rock Lizards",
+   "type": "arts_culture",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smiley Face Rock Art",
+   "type": "arts_culture",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smiley Face Rock Art",
+   "type": "arts_culture",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gas Can/Chainwheel/Bullet Art",
+   "type": "arts_culture",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mojave Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Josh Stevens Monument",
+   "type": "historic_site",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Josh Stevens Memorial",
+   "type": "historic_site",
+   "city": "Whitney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cougar statue",
+   "type": "arts_culture",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Home of ADVENTURES with Christian, RIP",
+   "type": "historic_site",
+   "city": "Whitney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Neon Desert Brewing",
+   "type": "brewery_distillery",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Broadway Kids Academy",
+   "type": "arts_culture",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clark County Museum",
+   "type": "museum",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Botticelli Marketplace",
+   "type": "farmers_market",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Backyard Amphitheater",
+   "type": "arts_culture",
+   "city": "Whitney",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James I. Gibson Library",
+   "type": "library",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nakata Market of Japan Henderson",
+   "type": "farmers_market",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lovelady Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Firelight Barn Dinner Theater",
+   "type": "arts_culture",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pahrump Station Laundromat",
+   "type": "laundromat",
+   "city": "Pahrump",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sin City Feed",
+   "type": "farmers_market",
+   "city": "Pahrump",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Bell Memorial Bench",
+   "type": "historic_site",
+   "city": "Pahrump",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pahrump Community Library",
+   "type": "library",
+   "city": "Pahrump",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pahrump Valley Museum",
+   "type": "museum",
+   "city": "Pahrump",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sanders Family Winery",
+   "type": "brewery_distillery",
+   "city": "Pahrump",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Artesian Cellars",
+   "type": "brewery_distillery",
+   "city": "Pahrump",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fallon International Market",
+   "type": "farmers_market",
+   "city": "Fallon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Churchill County Museum",
+   "type": "museum",
+   "city": "Fallon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frey Ranch",
+   "type": "brewery_distillery",
+   "city": "Fallon Station",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grid Market and Brewery",
+   "type": "brewery_distillery",
+   "city": "Fallon",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ely Shoshone Tribal Library",
+   "type": "library",
+   "city": "Ely",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ely Art Bank",
+   "type": "arts_culture",
+   "city": "Ely",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Pine County Library",
+   "type": "library",
+   "city": "Ely",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nevada Northern Railway Museum",
+   "type": "museum",
+   "city": "Ely",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Pine Museum",
+   "type": "museum",
+   "city": "Ely",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Soak N Suds Laundromat",
+   "type": "laundromat",
+   "city": "Ely",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Windmill Public Library",
+   "type": "library",
+   "city": "Enterprise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Enterprise Library",
+   "type": "library",
+   "city": "Enterprise",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sahara West Library",
+   "type": "library",
+   "city": "Summerlin South",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sahara West Library Art Gallery",
+   "type": "arts_culture",
+   "city": "Summerlin South",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Summerlin Farmers Market",
+   "type": "farmers_market",
+   "city": "Summerlin South",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sahara West Library and Fine Arts Museum",
+   "type": "museum",
+   "city": "Summerlin South",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Summerlin Library",
+   "type": "library",
+   "city": "Summerlin South",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nevada Ballet Theatre",
+   "type": "arts_culture",
+   "city": "Summerlin South",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bike Bridge",
+   "type": "arts_culture",
+   "city": "Gerlach",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "TWA Terminal Building",
+   "type": "historic_site",
+   "city": "Boulder City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boulder City-Hoover Dam Museum",
+   "type": "museum",
+   "city": "Boulder City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Star Memorial Highway",
+   "type": "historic_site",
+   "city": "Boulder City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boulder City Bubbles",
+   "type": "laundromat",
+   "city": "Boulder City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boulder City Historic District",
+   "type": "historic_downtown",
+   "city": "Boulder City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tom Devlin's Monster Museum",
+   "type": "museum",
+   "city": "Boulder City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boulder City Library",
+   "type": "library",
+   "city": "Boulder City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boulder Theater",
+   "type": "arts_culture",
+   "city": "Boulder City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Statue of Liberty",
+   "type": "arts_culture",
+   "city": "Fernley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fernley and Lassen Railway Depot",
+   "type": "museum",
+   "city": "Fernley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fernley Branch Library",
+   "type": "library",
+   "city": "Fernley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wells Branch Library",
+   "type": "library",
+   "city": "Wells",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trail of the 49ers Interpretive Center",
+   "type": "museum",
+   "city": "Wells",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Humboldt Wells",
+   "type": "historic_site",
+   "city": "Wells",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Te-Moak Wells Tribal Library",
+   "type": "library",
+   "city": "Wells",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mount Charleston Library",
+   "type": "library",
+   "city": "Mount Charleston",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wash House Laughlin",
+   "type": "laundromat",
+   "city": "Laughlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Brew Brothers",
+   "type": "brewery_distillery",
+   "city": "Laughlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pavilion Theater",
+   "type": "arts_culture",
+   "city": "Laughlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Don's Celebrity Theatre",
+   "type": "arts_culture",
+   "city": "Laughlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Don Laughlin's Classic Auto Exhibition Hall",
+   "type": "museum",
+   "city": "Laughlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Don Laughlin's Classic Car Collection - First Floor Showroom",
+   "type": "museum",
+   "city": "Laughlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laughlin Library",
+   "type": "library",
+   "city": "Laughlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rio Vista Amphitheater",
+   "type": "arts_culture",
+   "city": "Laughlin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lost City Museum",
+   "type": "museum",
+   "city": "Moapa Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Room",
+   "type": "laundromat",
+   "city": "Moapa Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moapa Valley Library",
+   "type": "library",
+   "city": "Moapa Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wendover Will",
+   "type": "historic_site",
+   "city": "West Wendover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln Highway Memorial",
+   "type": "historic_site",
+   "city": "West Wendover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Long Distance Telephone Memorial",
+   "type": "historic_site",
+   "city": "West Wendover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Enola Gay Memorial",
+   "type": "historic_site",
+   "city": "West Wendover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peppermill Concert Hall",
+   "type": "arts_culture",
+   "city": "West Wendover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Wendover Library",
+   "type": "library",
+   "city": "West Wendover",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McGill Drugstore Museum",
+   "type": "museum",
+   "city": "McGill",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

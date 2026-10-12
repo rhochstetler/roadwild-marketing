@@ -1,0 +1,4921 @@
+{
+ "state": "KY",
+ "generated_at": "2026-10-07",
+ "sample": false,
+ "spots": [
+  {
+   "name": "MAPLE SPRINGS",
+   "type": "paid_camp",
+   "town": "Brownsville, KY",
+   "town_mi": 7.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "General Butler State Park Campground",
+   "type": "rv_park",
+   "town": "Carrollton, KY",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Two Rivers Campground",
+   "type": "rv_park",
+   "town": "Prestonville, KY",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Zilpo Recreation Area",
+   "type": "unknown",
+   "town": "Farmers, KY",
+   "town_mi": 5.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gays Creek Campground",
+   "type": "unknown",
+   "town": "Buckhorn, KY",
+   "town_mi": 2.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Clear Creek Campground",
+   "type": "unknown",
+   "town": "Salt Lick, KY",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Claylick Boat-in Campground",
+   "type": "unknown",
+   "town": "Farmers, KY",
+   "town_mi": 6.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TWIN KNOBS CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Farmers, KY",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BOAT GUNNEL GROUP CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Farmers, KY",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Evarts RV Park",
+   "type": "rv_park",
+   "town": "Evarts, KY",
+   "town_mi": 0.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Shelby Campground",
+   "type": "rv_park",
+   "town": "Shelbyville, KY",
+   "town_mi": 1.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bowling Green KOA Holiday",
+   "type": "paid_camp",
+   "town": "Plano, KY",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tompkinsville City Park",
+   "type": "paid_camp",
+   "town": "Tompkinsville, KY",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bluffs Campsite",
+   "type": "unknown",
+   "town": "Brownsville, KY",
+   "town_mi": 4.5,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sal Hollow Campsite",
+   "type": "unknown",
+   "town": "Brownsville, KY",
+   "town_mi": 4.6,
+   "badge": "access_checked",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Raymer Hollow Campsite",
+   "type": "paid_camp",
+   "town": "Brownsville, KY",
+   "town_mi": 7.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Craigs Creek Campground",
+   "type": "unknown",
+   "town": "North Corbin, KY",
+   "town_mi": 9.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Livermore RV Park",
+   "type": "rv_park",
+   "town": "Livermore, KY",
+   "town_mi": 0.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brooks RV Park",
+   "type": "rv_park",
+   "town": "Brooks, KY",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Smith Ridge Campgrounds",
+   "type": "unknown",
+   "town": "Campbellsville, KY",
+   "town_mi": 4.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yogi Bear's Jellystone Park at Mammoth Cave",
+   "type": "rv_park",
+   "town": "Cave City, KY",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Miguel's Campsite",
+   "type": "paid_camp",
+   "town": "Campton, KY",
+   "town_mi": 8.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Land of the Arches",
+   "type": "paid_camp",
+   "town": "Campton, KY",
+   "town_mi": 6.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elkhorn Campground",
+   "type": "rv_park",
+   "town": "Frankfort, KY",
+   "town_mi": 3.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "OH Kentucky RV Park",
+   "type": "rv_park",
+   "town": "Berea, KY",
+   "town_mi": 2.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Walnut Meadows RV Park",
+   "type": "rv_park",
+   "town": "Berea, KY",
+   "town_mi": 2.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hillman Ferry Campground at Land Between The Lakes",
+   "type": "paid_camp",
+   "town": "Grand Rivers, KY",
+   "town_mi": 5.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dad's Bluegrass Campground",
+   "type": "rv_park",
+   "town": "Franklin, KY",
+   "town_mi": 1.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Barren River Lake State Resort Park Campground",
+   "type": "rv_park",
+   "town": "Fountain Run, KY",
+   "town_mi": 10.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Thompson Park",
+   "type": "rv_park",
+   "town": "Barbourville, KY",
+   "town_mi": 0.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wranglers Campground",
+   "type": "rv_park",
+   "town": "Cadiz, KY",
+   "town_mi": 13.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Energy Lake Campground",
+   "type": "paid_camp",
+   "town": "Cadiz, KY",
+   "town_mi": 11.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bell Farm Horse Camp",
+   "type": "unknown",
+   "town": "Stearns, KY",
+   "town_mi": 10.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sheltowee Trace RV Park",
+   "type": "rv_park",
+   "town": "Rockholds, KY",
+   "town_mi": 8.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Diamond Lake Resort",
+   "type": "rv_park",
+   "town": "West Louisville, KY",
+   "town_mi": 0.6,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Carr Creek State Park Campground",
+   "type": "unknown",
+   "town": "Vicco, KY",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Carter Caves Campground",
+   "type": "paid_camp",
+   "town": "Olive Hill, KY",
+   "town_mi": 5.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moutardier Campground",
+   "type": "unknown",
+   "town": "Brownsville, KY",
+   "town_mi": 8.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dog Creek Campground",
+   "type": "unknown",
+   "town": "Brownsville, KY",
+   "town_mi": 11.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wax Campground",
+   "type": "unknown",
+   "town": "Clarkson, KY",
+   "town_mi": 11.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sulphur Creek Resort Campground",
+   "type": "unknown",
+   "town": "Burkesville, KY",
+   "town_mi": 8.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grandma's RV Camping",
+   "type": "rv_park",
+   "town": "Shepherdsville, KY",
+   "town_mi": 0.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Western KY RV Park",
+   "type": "paid_camp",
+   "town": "Central City, KY",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KOA Journey",
+   "type": "rv_park",
+   "town": "North Corbin, KY",
+   "town_mi": 1.2,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Somerset KY RV Park",
+   "type": "rv_park",
+   "town": "Burnside, KY",
+   "town_mi": 1.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Everette Park Caampground",
+   "type": "rv_park",
+   "town": "Rosine, KY",
+   "town_mi": 0.4,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whispering Hills RV Park",
+   "type": "rv_park",
+   "town": "Georgetown, KY",
+   "town_mi": 2.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Horine Reservation Campground",
+   "type": "paid_camp",
+   "town": "Hollyvilla, KY",
+   "town_mi": 1.5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bee Rock Campground",
+   "type": "unknown",
+   "town": "North Corbin, KY",
+   "town_mi": 13,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ohio County Campground",
+   "type": "paid_camp",
+   "town": "Hartford, KY",
+   "town_mi": 1.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake View Camping",
+   "type": "paid_camp",
+   "town": "Cloverport, KY",
+   "town_mi": 6.9,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Paducah RV Park & Campground",
+   "type": "rv_park",
+   "town": "Reidland, KY",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Green County RV Park",
+   "type": "rv_park",
+   "town": "Greensburg, KY",
+   "town_mi": 1.1,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grove Boat-in Campground",
+   "type": "unknown",
+   "town": "Corbin, KY",
+   "town_mi": 6.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Carlson Army Recreational Area",
+   "type": "rv_park",
+   "town": "Muldraugh, KY",
+   "town_mi": 3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cummins Ferry RV Park, Campground",
+   "type": "rv_park",
+   "town": "High Bridge, KY",
+   "town_mi": 5.3,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp on the Kentucky",
+   "type": "rv_park",
+   "town": "Salvisa, KY",
+   "town_mi": 5,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Etown RV Park",
+   "type": "rv_park",
+   "town": "Elizabethtown, KY",
+   "town_mi": 3.8,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Illegal Campground",
+   "type": "rv_park",
+   "town": "Lexington-Fayette, KY",
+   "town_mi": 2.7,
+   "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BAILEYS POINT",
+   "type": "paid_camp",
+   "town": "Scottsville, KY",
+   "town_mi": 11.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WAITSBORO CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Burnside, KY",
+   "town_mi": 1.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "AXTEL",
+   "type": "paid_camp",
+   "town": "Hardinsburg, KY",
+   "town_mi": 10.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CARR CREEK LAKE SHELTERS",
+   "type": "paid_camp",
+   "town": "Vicco, KY",
+   "town_mi": 1.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LINTON",
+   "type": "paid_camp",
+   "town": "Big Rock, TN",
+   "town_mi": 11.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TRACE BRANCH CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Hyden, KY",
+   "town_mi": 5.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MILL SPRINGS MILL SHELTER",
+   "type": "paid_camp",
+   "town": "Monticello, KY",
+   "town_mi": 7.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LITTCARR CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Vicco, KY",
+   "town_mi": 6.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CUMBERLAND POINT CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Monticello, KY",
+   "town_mi": 8.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "German Campground",
+   "type": "paid_camp",
+   "town": "Prestonsburg, KY",
+   "town_mi": 2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  }
+ ],
+ "activities": [
+  {
+   "name": "Daniel Boone National Forest",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dewey Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fishtrap Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Grayson Lake",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ohio River - Greenup Pool",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Paintsville Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Yatesville Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Barren River Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Buckhorn Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Carr Creek Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cave Run Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Green River Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ohio River - Markland Pool",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ohio River - McAlpine Pool",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Nolin River Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Rough River Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Taylorsville Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Barkley Lake",
+   "type": "rock_climbing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Laurel River Lake",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Martins Fork Lake",
+   "type": "fishing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Lake Cumberland",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Clarks River National Wildlife Refuge",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Cave Tours",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Gap Cave Tour",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Pets",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Mammoth Cave Junior Ranger",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hike the Trails at Fort Donelson NB",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore Wildflowers at Cedar Sink",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Hensley Settlement Tours",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Picnic at the Abraham Lincoln Birthplace",
+   "type": "picnicking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "View the Lincoln Family Bible",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Jr. Ranger at the Birthplace",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Attend a Ranger Program",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Boundary Oak Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Stop by the Fort Donelson NB Visitor Center",
+   "type": "historic_site",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Want to Become a Junior Ranger?",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Travel the Pathway of a President",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Birdwatching at the Birthplace Unit",
+   "type": "birding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Observe Wildlife at the Birthplace Unit",
+   "type": "wildlife_viewing",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Become a Jr. Ranger at the Boyhood Home",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Big Sink Trail",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Overlook Trail at Knob Creek",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fort Donelson NB Autotour Route",
+   "type": "scenic_drive",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Fort Donelson: Then and Now",
+   "type": "scenic_drive",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Quilt Trail",
+   "type": "scenic_drive",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Attend a Ranger-led Program",
+   "type": "interpretive_program",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Houchin Ferry to Brownsville",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Nolin River Dam to Houchin Ferry",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Green River Ferry to Houchin Ferry",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Dennison Ferry to Green River Ferry",
+   "type": "paddling",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Explore the park on Horseback",
+   "type": "horseback_riding",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Ride the Big Hollow Trail",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Mammoth Cave Railroad Bike and Hike Trail",
+   "type": "biking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Take a Ridge-top Walk to Sunset Point",
+   "type": "hiking",
+   "city": null,
+   "verified": false,
+   "osm": false
+  },
+  {
+   "name": "Waveland Museum",
+   "type": "museum",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chevy Chase Coin Laundry",
+   "type": "laundromat",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Sixth Brewery",
+   "type": "brewery_distillery",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James K. Patterson",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Painted horse",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lexington Police Memorial",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Zero Milestone Camel",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lex",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gardenstop",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lexington Grove",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Meadow",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Institute 193",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Manchester Music Hall",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Farmer's Market",
+   "type": "farmers_market",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky Room",
+   "type": "museum",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Winner's Circle",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Patterson Cabin",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scissors",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jason Baines Ghost Bike",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goodwill",
+   "type": "farmers_market",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lexington Fireman Memorial",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Adena Mound",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Moonshine",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "My Name is MO",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stockyard Commons",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Distillery District",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Selby's International Food Market",
+   "type": "farmers_market",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Lexington Peddler's Mall",
+   "type": "farmers_market",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nightwatchers",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ethereal Brewing",
+   "type": "brewery_distillery",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Waste Knot",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guignol Theatre",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lexington Children's Theatre",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louis Armstrong",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stuarto's Olive Oil Co",
+   "type": "farmers_market",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laudromat",
+   "type": "laundromat",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodhill Laundry Center",
+   "type": "laundromat",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Painting With A Twist",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garden Springs Laundromat",
+   "type": "laundromat",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ladies' Confederate Memorial",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confederate Soldier Monument",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Moon",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Youth",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Smiley Pete",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jefferson Davis",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Morrison",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Transylvania Alumni",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Janet Hopkins memorial",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "summer fun",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "young fisherman",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "old soldier",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "just like mom",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lil Duffer",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "three children dancing (name might be Hand Me Downs)",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flight 5191 Memorial",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lexington Children's Museum",
+   "type": "museum",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Man o’ War Memorial",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Secretariat",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Katsina, the Sacred Dancer",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pepper Distilling",
+   "type": "brewery_distillery",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John C. Breckinridge Memorial",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Hunt Morgan Memorial",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Mother of Us All",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Til the Cows Come Home",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Pythia in Agate",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Untitled",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Friendship",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cedar Hall - Helm Place",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Morlan Gallery",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mirror Twin Brewing",
+   "type": "brewery_distillery",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Together We Are Stronger",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "artfarm",
+   "type": "coworking",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "First Impressions",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William T. Young Library",
+   "type": "library",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aviation Museum of Kentucky",
+   "type": "museum",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Margaret I King Library",
+   "type": "library",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lexington History Museum",
+   "type": "museum",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lexington Public Library - Central Branch",
+   "type": "library",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Livery",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rock House Brewing",
+   "type": "brewery_distillery",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "MoonDance Amphitheater",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beaumont Branch - Lexington Public Library",
+   "type": "library",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downtown Arts Center",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Country Boy Brewing",
+   "type": "brewery_distillery",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William S. Webb Museum of Anthropology",
+   "type": "museum",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Editions Gallery",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Living Arts and Science Center",
+   "type": "science_center",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northside Branch Public Library",
+   "type": "library",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James Pepper Distillery",
+   "type": "brewery_distillery",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Night Market",
+   "type": "farmers_market",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky Ballet Theatre",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lexington Public Library-Tates Creek Branch",
+   "type": "library",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wildcat",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Headley-Whitney Museum",
+   "type": "museum",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barrel House Distillery",
+   "type": "brewery_distillery",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lyric Theater",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carriage House Theatre",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Burl",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J. Douglas Gay Jr. / Frances Carrick Thomas Library",
+   "type": "library",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Eastside Branch Public Library",
+   "type": "library",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Blue Stallion Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lexington Opera House",
+   "type": "arts_culture",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Saddlebred Museum",
+   "type": "museum",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "International Museum of the Horse",
+   "type": "museum",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James E. Pepper Distillery",
+   "type": "brewery_distillery",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bluegrass Distillers",
+   "type": "brewery_distillery",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pivot Brewing",
+   "type": "brewery_distillery",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barn Foundation",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Creamery Foundation",
+   "type": "historic_site",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Marksbury Family Branch Public Library",
+   "type": "library",
+   "city": "Lexington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confederate Monument",
+   "type": "historic_site",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo Statue",
+   "type": "arts_culture",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Angel of Hope Ashley Lyons Memorial",
+   "type": "historic_site",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Homegrown Direct LLC",
+   "type": "farmers_market",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Midway Art Studio",
+   "type": "arts_culture",
+   "city": "Midway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scott County Museum",
+   "type": "museum",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chinkapin Brewing",
+   "type": "brewery_distillery",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bourbon 30",
+   "type": "brewery_distillery",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ward Hall",
+   "type": "museum",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Scott County Public Library",
+   "type": "library",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Biwater Farm",
+   "type": "farmers_market",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Triple J Farms",
+   "type": "farmers_market",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evans Orchard",
+   "type": "farmers_market",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Country Boy Brewing",
+   "type": "brewery_distillery",
+   "city": "Georgetown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Midway Branch Public Library",
+   "type": "library",
+   "city": "Midway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Memorial Library",
+   "type": "library",
+   "city": "Midway",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Cannonball",
+   "type": "historic_site",
+   "city": "Elizabethtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Laundry Express",
+   "type": "laundromat",
+   "city": "Elizabethtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hardin County Museum",
+   "type": "museum",
+   "city": "Elizabethtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hardin County Public Library",
+   "type": "library",
+   "city": "Elizabethtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Historic State Theatre",
+   "type": "arts_culture",
+   "city": "Elizabethtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky High School Basketball Hall of Fame",
+   "type": "museum",
+   "city": "Elizabethtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boundary Oak Distillery",
+   "type": "brewery_distillery",
+   "city": "Rineyville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Swope's Cars of Yesteryear",
+   "type": "museum",
+   "city": "Elizabethtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hardin County Veteran's Tribute",
+   "type": "historic_site",
+   "city": "Elizabethtown",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Museum of the American Printing House for the Blind",
+   "type": "museum",
+   "city": "Mockingbird Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Daniel Boone statue",
+   "type": "arts_culture",
+   "city": "Seneca Gardens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Thinker",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John B. Castleman Monument",
+   "type": "historic_site",
+   "city": "Seneca Gardens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Red",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tau Beta Pi",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Klondike Deli",
+   "type": "farmers_market",
+   "city": "Meadowview Estates",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Rock Bar & Brew",
+   "type": "brewery_distillery",
+   "city": "Strathmoor Manor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "St. Matthews Homestyle Coin Laundry",
+   "type": "laundromat",
+   "city": "Bellewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "King Louis XVI",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas Jefferson",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Stage and Amphitheater",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jeffersonville Farmers' Market",
+   "type": "farmers_market",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisville Ballet",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Michters Distillery & Tour Center",
+   "type": "brewery_distillery",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky Shakespeare in Central Park",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky Derby Museum",
+   "type": "museum",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"David (inspired by Michelangelo)\" (sculpture)",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fallen Soldier",
+   "type": "arts_culture",
+   "city": "Shively",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Faribolus (sculpture)",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Personnage",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Night Wave;Moon (sculpture)",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Coloured Gate of Louisville (The Inevitable Return of the Indefatigable Dr. Fahey)",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WaterWorks Museum",
+   "type": "museum",
+   "city": "Mockingbird Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walden theater",
+   "type": "arts_culture",
+   "city": "Mockingbird Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wyatt Center for the Arts",
+   "type": "arts_culture",
+   "city": "Strathmoor Manor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norton Fine Arts Center",
+   "type": "arts_culture",
+   "city": "Strathmoor Manor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Children with Kites",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gracehopper",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Cloud Rings\" (installation)",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Arillated: The 21c Pip Mobile\" (art car)",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Daniel Boone\" (sculpture)",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ad Astra \"To the Stars\"",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Roger Clark",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "York",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Witch Tree",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Miles To Go Before I Sleep",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallant Fox Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Mockingbird Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "2406 Laundry Mart",
+   "type": "laundromat",
+   "city": "Mockingbird Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Calliope (The Nine Muses)",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frolic",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leonard \"Lenny\" Lyles",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hunters",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Skydance",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warp Zone Louisville",
+   "type": "coworking",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John Hultgren Photography",
+   "type": "arts_culture",
+   "city": "Seneca Gardens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pegasus (sculpture)",
+   "type": "arts_culture",
+   "city": "Audubon Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gravely Brewing Co",
+   "type": "brewery_distillery",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Garrison Slave Pen Site",
+   "type": "historic_site",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Heigold House Facade",
+   "type": "historic_site",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Bat",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Engineering Art",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles Hermany",
+   "type": "historic_site",
+   "city": "Brownsboro Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Warren Fuller",
+   "type": "historic_site",
+   "city": "Brownsboro Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Modified Social Bench C",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Silver Wishbone",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Conn Center Sculpture Garden",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Truth and Justice",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fingertips",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jack Segell Memorial",
+   "type": "historic_site",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Basket",
+   "type": "laundromat",
+   "city": "Mockingbird Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U. S. Coast Guard World War II Operations in Louisville",
+   "type": "historic_site",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Captain John F. Gilooly",
+   "type": "historic_site",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lewis and Clark Expedition Historical Marker",
+   "type": "historic_site",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "York Historical Marker",
+   "type": "historic_site",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisville Steamboat Era Historical Marker",
+   "type": "historic_site",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Muhammad Ali’s grave",
+   "type": "historic_site",
+   "city": "Seneca Gardens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Col. Harland Sander’s grave",
+   "type": "historic_site",
+   "city": "Seneca Gardens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "U.S. Marine Hospital",
+   "type": "historic_site",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fleur de Flea Vintage Market",
+   "type": "farmers_market",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Logan Street Market",
+   "type": "farmers_market",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Woodlawn Race Course",
+   "type": "historic_site",
+   "city": "Woodlawn Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "In Loving Memory of Darrell Anthony Sweet",
+   "type": "historic_site",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverfront Amphiteater",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sons of Liberty - 1775",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rosie The Riveter Statue",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Our City",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lincoln Memorial",
+   "type": "historic_site",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Loomhouse",
+   "type": "museum",
+   "city": "Lynnview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Muhammad Ali Center",
+   "type": "museum",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "East Portland Warehouse, LLC (Artist Gallery Lots)",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Awry Brewing",
+   "type": "brewery_distillery",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Atrium Brewing",
+   "type": "brewery_distillery",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky Peerless Distilling Co.",
+   "type": "brewery_distillery",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Saint Matthews Branch Public Library",
+   "type": "library",
+   "city": "Norbourne Estates",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Apocalypse Brew Works",
+   "type": "brewery_distillery",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crescent Hill Branch Library Louisville Free Public Library",
+   "type": "library",
+   "city": "Mockingbird Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "James P. Boyce Centennial Library",
+   "type": "library",
+   "city": "Seneca Gardens",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Walden Theatre",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portland Museum",
+   "type": "museum",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ten20 Brewery Butchertown",
+   "type": "brewery_distillery",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John T. Smith Library",
+   "type": "library",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisville Free Public Library",
+   "type": "library",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brown Theatre",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Portland Branch Public Library",
+   "type": "library",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Forester Distillery",
+   "type": "brewery_distillery",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky Science Center",
+   "type": "science_center",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Frazier History Museum",
+   "type": "museum",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Louisville Slugger Museum & Factory",
+   "type": "museum",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Actors Theatre of Louisville",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Alley Theater",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iroquois Amphitheater",
+   "type": "arts_culture",
+   "city": "Shively",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Playhouse",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bulleit Frontier Whiskey Experience at Stitzel-Weller",
+   "type": "brewery_distillery",
+   "city": "Shively",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Stitzel-Weller",
+   "type": "brewery_distillery",
+   "city": "Shively",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sullivan University Library & Learning Resource Center",
+   "type": "library",
+   "city": "Wellington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bluegrass Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Bellewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Western Branch Library Louisville Free Public Library",
+   "type": "library",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bon Air Regional Branch Library",
+   "type": "library",
+   "city": "Wellington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Avian Adventure",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ekstrom Library",
+   "type": "library",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J B Speed Art Museum",
+   "type": "museum",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rauch Planetarium",
+   "type": "planetarium",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Studio Arts/HPES Building/Thrust Theater",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newburg Branch",
+   "type": "library",
+   "city": "Watterson Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hop Atomica",
+   "type": "brewery_distillery",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Art Sanctuary",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Shawnee Branch",
+   "type": "library",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Monnik Beer Company",
+   "type": "brewery_distillery",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Filson Historical Society Research Library",
+   "type": "library",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky Shakespeare",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Conrad-Caldwell House Museum",
+   "type": "museum",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brough Brothers Distillery",
+   "type": "brewery_distillery",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Meredith-Dunn Library",
+   "type": "library",
+   "city": "Meadowview Estates",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iroquois Branch Public Library",
+   "type": "library",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Michter's Shively Distillery",
+   "type": "brewery_distillery",
+   "city": "Shively",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "El Rey Market",
+   "type": "farmers_market",
+   "city": "Lynnview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Louisville Palace Theater",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort George Archeological Site",
+   "type": "historic_site",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Iroquois High School Ampitheater",
+   "type": "arts_culture",
+   "city": "Shively",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brown Forman Theatre",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Mirror Dish",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Victor Jory Theatre",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lower Level North Corridor",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ina B. Bond Gallery",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Howard L. Bingham Gallery",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mezzanine Gallery",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallery 27",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Against the Grain Brewery",
+   "type": "brewery_distillery",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "American Pharoah Exhibit",
+   "type": "historic_site",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "PARLOUR Pizza + Pints",
+   "type": "brewery_distillery",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Floyd Theatre",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Upland Jeffersonville",
+   "type": "brewery_distillery",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "1883 Gallery",
+   "type": "museum",
+   "city": "Mockingbird Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Forester's Paristown Theatre",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Foresters Paristown Hall",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flag Pole Courtyard",
+   "type": "historic_downtown",
+   "city": "Mockingbird Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sculpture Garden",
+   "type": "arts_culture",
+   "city": "Strathmoor Manor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Our Honored Dead",
+   "type": "historic_site",
+   "city": "Bellewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "C. Douglas Ramey Amphitheatre",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lusk Family Amphitheater",
+   "type": "arts_culture",
+   "city": "Bellewood",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brown-Forman Amphitheater",
+   "type": "arts_culture",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aqua Theater",
+   "type": "arts_culture",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Life Saving Station #10",
+   "type": "museum",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Falls of the Ohio Interpretive Center",
+   "type": "museum",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Roots 101 African American Museum",
+   "type": "museum",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rabbithole Distillery",
+   "type": "brewery_distillery",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whiskey Row",
+   "type": "historic_downtown",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "W.L. Lyons Brown Library",
+   "type": "library",
+   "city": "Strathmoor Manor",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jefferson County Law Library",
+   "type": "library",
+   "city": "Louisville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Highlands-Shelby Park Branch",
+   "type": "library",
+   "city": "Parkway Village",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confederate Monument",
+   "type": "historic_site",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Brass Dancer",
+   "type": "arts_culture",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tango Statue",
+   "type": "arts_culture",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Corvette Museum",
+   "type": "museum",
+   "city": "Plum Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky Museum",
+   "type": "museum",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Collonade",
+   "type": "arts_culture",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cravens Library",
+   "type": "library",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Commons",
+   "type": "library",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fine Arts Center",
+   "type": "arts_culture",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hardin Planetarium",
+   "type": "planetarium",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Guthrie Tower",
+   "type": "historic_site",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Historic Railpark and Train Museum",
+   "type": "museum",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Southern Kentucky Performing Arts Center (SKyPAC)",
+   "type": "arts_culture",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Warren County Public Library",
+   "type": "library",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Downing Museum",
+   "type": "museum",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greenwood Public Library",
+   "type": "library",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "White Squirrel Brewery",
+   "type": "brewery_distillery",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverview at Hobson Grove",
+   "type": "museum",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "WBKO Stage",
+   "type": "arts_culture",
+   "city": "Plum Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Aviation Heritage Park",
+   "type": "museum",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Look Sharp Cleaners",
+   "type": "laundromat",
+   "city": "Bowling Green",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confederate Monument",
+   "type": "historic_site",
+   "city": "Owensboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Laundry",
+   "type": "laundromat",
+   "city": "Owensboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Laundry Room",
+   "type": "laundromat",
+   "city": "Owensboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Daviess County Public Library",
+   "type": "library",
+   "city": "Owensboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McConnell Plaza",
+   "type": "arts_culture",
+   "city": "Owensboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bluegrass Hall of Fame & Museum",
+   "type": "museum",
+   "city": "Owensboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "RiverPark Center",
+   "type": "arts_culture",
+   "city": "Owensboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Owensboro Museum of Science and History",
+   "type": "science_center",
+   "city": "Owensboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Owensboro Museum of Fine Art",
+   "type": "museum",
+   "city": "Owensboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Theatre Workshop of Owensboro",
+   "type": "arts_culture",
+   "city": "Owensboro",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kenton County Veterans Memorial",
+   "type": "historic_site",
+   "city": "Crescent Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "High Water Marker",
+   "type": "historic_site",
+   "city": "Crestview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Northern Kentucky 9/11 Memorial",
+   "type": "historic_site",
+   "city": "Crescent Springs",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Army of the Republic Monument",
+   "type": "historic_site",
+   "city": "Covington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Veteran’s Monument",
+   "type": "historic_site",
+   "city": "Covington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trail Shark",
+   "type": "arts_culture",
+   "city": "Fort Thomas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bircus Brewing Company",
+   "type": "brewery_distillery",
+   "city": "Ludlow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wooden Cask Brewing Co.",
+   "type": "brewery_distillery",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boy",
+   "type": "arts_culture",
+   "city": "Fort Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Big Boy",
+   "type": "arts_culture",
+   "city": "Fort Wright",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newport Police Memorial",
+   "type": "historic_site",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dietz Auditorium",
+   "type": "arts_culture",
+   "city": "Erlanger",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The London Police",
+   "type": "arts_culture",
+   "city": "Covington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hon. Henry Stanbery",
+   "type": "historic_site",
+   "city": "Dayton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Purple Paisley, Local Artisan Shop",
+   "type": "arts_culture",
+   "city": "Covington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tewes Farm",
+   "type": "farmers_market",
+   "city": "Crestview Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky Natural History",
+   "type": "arts_culture",
+   "city": "Covington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Beverly Hills Supper Club Memorial",
+   "type": "historic_site",
+   "city": "Southgate",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Red Bike",
+   "type": "historic_downtown",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Braxton Barrel House",
+   "type": "brewery_distillery",
+   "city": "Lakeside Park",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Batthery Bates",
+   "type": "historic_site",
+   "city": "Park Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Coin Laundry",
+   "type": "laundromat",
+   "city": "Elsmere",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Clothesline Laundry",
+   "type": "laundromat",
+   "city": "Bellevue",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peddler's Flea Market",
+   "type": "farmers_market",
+   "city": "Fort Thomas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newport History Museum",
+   "type": "museum",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Newport Laundromax",
+   "type": "laundromat",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cold Spring Branch Library",
+   "type": "library",
+   "city": "Cold Spring",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cincinnati Water Works",
+   "type": "historic_site",
+   "city": "Bellevue",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Braxton Brewing",
+   "type": "brewery_distillery",
+   "city": "Covington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Campbell County Public Library - Philip N. Carrico Branch",
+   "type": "library",
+   "city": "Southgate",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Campbell County Public Library - Newport Branch",
+   "type": "library",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Erlanger Branch Library",
+   "type": "library",
+   "city": "Crestview Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mary Ann Mongan Library",
+   "type": "library",
+   "city": "Covington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Carnegie",
+   "type": "arts_culture",
+   "city": "Covington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dee Felice Market",
+   "type": "farmers_market",
+   "city": "Covington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Leapin Lizard Gallery",
+   "type": "arts_culture",
+   "city": "Covington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Southgate House Revival",
+   "type": "arts_culture",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Footlighters, Inc.",
+   "type": "arts_culture",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Behringer-Crawford Museum at Devou",
+   "type": "museum",
+   "city": "Park Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ruth’s Coin Laundry",
+   "type": "laundromat",
+   "city": "Elsmere",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Tharp Dayton Heritage Museum",
+   "type": "museum",
+   "city": "Dayton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hilltop Laundromat",
+   "type": "laundromat",
+   "city": "Southgate",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Thomas Military Museum",
+   "type": "museum",
+   "city": "Fort Thomas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "New Riff Distillery",
+   "type": "brewery_distillery",
+   "city": "Bellevue",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vent Haven Museum",
+   "type": "museum",
+   "city": "Fort Mitchell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Amphitheater",
+   "type": "arts_culture",
+   "city": "Fort Thomas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Village Players of Ft. Thomas",
+   "type": "arts_culture",
+   "city": "Fort Thomas",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ludlow Heritage Museum",
+   "type": "museum",
+   "city": "Ludlow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Incinerator",
+   "type": "historic_site",
+   "city": "Bromley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Riverbend Music Center",
+   "type": "arts_culture",
+   "city": "Crestview",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sunflower Stand",
+   "type": "farmers_market",
+   "city": "Silver Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Second Sight Spirits",
+   "type": "brewery_distillery",
+   "city": "Ludlow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Megacorp Pavilion",
+   "type": "arts_culture",
+   "city": "Newport",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goose Girl Fountain",
+   "type": "historic_site",
+   "city": "Covington",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pieratts Appliances and Furniture",
+   "type": "farmers_market",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Daniel Boone Statue",
+   "type": "arts_culture",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richmond Peddler's Mall",
+   "type": "farmers_market",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fort Twitty",
+   "type": "historic_site",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Chenault Vineyards",
+   "type": "brewery_distillery",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boone Trace DAR Monument",
+   "type": "historic_site",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Crabbe Library",
+   "type": "library",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "EKU Center for the Arts",
+   "type": "arts_culture",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dreaming Creek Brewery",
+   "type": "brewery_distillery",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Madison County Public Library",
+   "type": "library",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Richmond Mall",
+   "type": "farmers_market",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jane F. Campbell Building",
+   "type": "arts_culture",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Ravine",
+   "type": "arts_culture",
+   "city": "Richmond",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Nexus",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Now Get!",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confederate Monument",
+   "type": "historic_site",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colored Soldiers Monument",
+   "type": "historic_site",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam War Memorial",
+   "type": "historic_site",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Goebel Statue",
+   "type": "historic_site",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Daniel Boone's Grave",
+   "type": "historic_site",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "William Goebel's Grave",
+   "type": "historic_site",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thunder",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bronze Buffalo",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Linda Bailey Memorial",
+   "type": "historic_site",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Maude McCarty American War Mothers Memorial",
+   "type": "historic_site",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Charles Wickliffe Memorial",
+   "type": "historic_site",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bert Combs Marker",
+   "type": "historic_site",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky Historical Society Civil War Marker",
+   "type": "historic_site",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "John \"Stony\" Spicer Memorial",
+   "type": "historic_site",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Albert Blanton",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "West Sixth Farm",
+   "type": "brewery_distillery",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "La Jardiniere Garden Club 2002",
+   "type": "historic_site",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Barnacle",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Huey, Dewey, and Louie",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whitney M. Young Jr.",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lovers Leap Winery",
+   "type": "brewery_distillery",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Glenn's Creek Distilling",
+   "type": "brewery_distillery",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "3 Roosters",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Put A Ring On It",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Impossiscope",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "A Flowering Of Time",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Fixation",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Daniel Boone",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky Covid Memorial",
+   "type": "historic_site",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gold Star Families Memorial Marker",
+   "type": "historic_site",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Bull",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Theater Ticket Office",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Thomas D. Clark Center for Kentucky History",
+   "type": "museum",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paul Sawyier Public Library",
+   "type": "library",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Buffalo Trace Distillery",
+   "type": "brewery_distillery",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Grand Theatre",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky Military History Museum",
+   "type": "museum",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky War Memorial",
+   "type": "historic_site",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "J Mattingly 18445",
+   "type": "brewery_distillery",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Old Farmer's Market shelter",
+   "type": "farmers_market",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Watd Oates Amphitheatre",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jim Beam",
+   "type": "brewery_distillery",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paul G. Blazer Library",
+   "type": "library",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Outdoor Amphitheatre",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sig Luscher Brewery",
+   "type": "brewery_distillery",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capital City Museum",
+   "type": "museum",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Kentucky National Guard Memorial",
+   "type": "historic_site",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Pourters Beer",
+   "type": "brewery_distillery",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Whiskey Thief Distilery Co.",
+   "type": "brewery_distillery",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Capital Gallery",
+   "type": "arts_culture",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Franklin County Farmers Market Shelter",
+   "type": "farmers_market",
+   "city": "Frankfort",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Admiral Husband Edward Kimmel",
+   "type": "historic_site",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wild Turkey Cock",
+   "type": "arts_culture",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Henderson County Public Library",
+   "type": "library",
+   "city": "Henderson",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Peacekeeper",
+   "type": "historic_site",
+   "city": "Hopkinsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Alhambra Theatre",
+   "type": "arts_culture",
+   "city": "Hopkinsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Casey Jones Distillery",
+   "type": "brewery_distillery",
+   "city": "Hopkinsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hopkinsville-Christian County Public Library",
+   "type": "library",
+   "city": "Hopkinsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Market House Museum",
+   "type": "museum",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Market House Theatre",
+   "type": "arts_culture",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Yeiser Art Gallery",
+   "type": "arts_culture",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "George Rodgers Clark Statue",
+   "type": "arts_culture",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bricolage Art Collective",
+   "type": "arts_culture",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Lloyd Tilghman Memorial",
+   "type": "historic_site",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Noble Park Amphitheater",
+   "type": "arts_culture",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wacinton",
+   "type": "arts_culture",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korean War Memorial",
+   "type": "historic_site",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Speedwash America LLC",
+   "type": "laundromat",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McCracken County Public Library",
+   "type": "library",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Columbia Theatre",
+   "type": "arts_culture",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Speedwash America LLC",
+   "type": "laundromat",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Farmer's Market",
+   "type": "farmers_market",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Luther F. Carson Four Rivers Center",
+   "type": "arts_culture",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The National Quilt Museum",
+   "type": "museum",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Matheson Learning Library",
+   "type": "library",
+   "city": "Lone Oak",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Trader's Mall",
+   "type": "farmers_market",
+   "city": "Reidland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Arant Confederate Park",
+   "type": "historic_site",
+   "city": "Reidland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hotel Metropolitan",
+   "type": "museum",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Purple Toad Winery",
+   "type": "brewery_distillery",
+   "city": "Lone Oak",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "River Heritage Museum",
+   "type": "museum",
+   "city": "Paducah",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ashalnd",
+   "type": "laundromat",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Catlettsburg Farmers Market",
+   "type": "farmers_market",
+   "city": "Catlettsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Venus",
+   "type": "arts_culture",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vulcan",
+   "type": "arts_culture",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Genesis",
+   "type": "arts_culture",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Love Over Everything",
+   "type": "arts_culture",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "You Look Good in Ashland Kentucky",
+   "type": "arts_culture",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Second Floor",
+   "type": "coworking",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Highlands Museum & Discovery Center",
+   "type": "science_center",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flatwoods Branch Library",
+   "type": "library",
+   "city": "Flatwoods",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Russell E. Compton Civic Center & Museum",
+   "type": "museum",
+   "city": "Catlettsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Paramount Arts Center",
+   "type": "arts_culture",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boyd County Public Library",
+   "type": "library",
+   "city": "Ashland",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Midland Branch Public Library",
+   "type": "library",
+   "city": "Summit",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Catlettsburg Branch Public Library",
+   "type": "library",
+   "city": "Catlettsburg",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Evarts Public Library",
+   "type": "library",
+   "city": "Evarts",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jesus Welcoming with Open Arms",
+   "type": "arts_culture",
+   "city": "Grand Rivers",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Edmonson County Public Library",
+   "type": "library",
+   "city": "Brownsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hillview Branch Library",
+   "type": "library",
+   "city": "Hunters Hollow",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wolfe County Vietnam War Memorial",
+   "type": "historic_site",
+   "city": "Campton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wolfe County Cooperative Extension Service",
+   "type": "museum",
+   "city": "Campton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wolfe County Public Library",
+   "type": "library",
+   "city": "Campton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Ridgway Memorial Library",
+   "type": "library",
+   "city": "Shepherdsville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "\"Sue Mundy's\" Grave - Historical Marker",
+   "type": "historic_site",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Washouse",
+   "type": "laundromat",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Goodnight Memorial Library",
+   "type": "library",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Dueling Grounds Distillery",
+   "type": "brewery_distillery",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Simpson County Historical Society and History Center",
+   "type": "museum",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "African American Heritage Center",
+   "type": "museum",
+   "city": "Franklin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Confederate Memorial",
+   "type": "historic_site",
+   "city": "Pewee Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gallapalooza Horse Statue",
+   "type": "arts_culture",
+   "city": "Worthington Hills",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Little Stonehenge",
+   "type": "historic_site",
+   "city": "Norton Commons",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Wolf Pen Corridor",
+   "type": "historic_site",
+   "city": "Norton Commons",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Norton Commons Amphitheater",
+   "type": "arts_culture",
+   "city": "Norton Commons",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "South Oldham Library",
+   "type": "library",
+   "city": "Pewee Valley",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "North Village Market",
+   "type": "farmers_market",
+   "city": "Norton Commons",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Rowan County Public Library",
+   "type": "library",
+   "city": "Lakeview Heights",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Desert Storm Monument",
+   "type": "historic_site",
+   "city": "Oak Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Operation Desert Storm",
+   "type": "historic_site",
+   "city": "Oak Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vietnam Veterans Memorial",
+   "type": "historic_site",
+   "city": "Oak Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "For All Who Served",
+   "type": "historic_site",
+   "city": "Oak Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "French and Indian War",
+   "type": "historic_site",
+   "city": "Oak Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Revolutionary War Monument",
+   "type": "historic_site",
+   "city": "Oak Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "War of 1812 Monument",
+   "type": "historic_site",
+   "city": "Oak Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mexican War Monument",
+   "type": "historic_site",
+   "city": "Oak Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Civil War Monument",
+   "type": "historic_site",
+   "city": "Oak Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Spanish American War Monument",
+   "type": "historic_site",
+   "city": "Oak Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War 1 Monument",
+   "type": "historic_site",
+   "city": "Oak Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "World War 2 Monument",
+   "type": "historic_site",
+   "city": "Oak Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Korea Conflict Monument",
+   "type": "historic_site",
+   "city": "Oak Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Greneda Conflict Monument",
+   "type": "historic_site",
+   "city": "Oak Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Panama Conflict Memorial",
+   "type": "historic_site",
+   "city": "Oak Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Don F. Pratt Memorial Museum",
+   "type": "museum",
+   "city": "Oak Grove",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Unknown Confederate Soldier Monument",
+   "type": "historic_site",
+   "city": "Horse Cave",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Hidden River Cave & American Cave Museum",
+   "type": "museum",
+   "city": "Horse Cave",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Mccreary County Public Library District",
+   "type": "library",
+   "city": "Whitley City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Boone Gap",
+   "type": "historic_site",
+   "city": "Berea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Madison County Public Library - Berea Branch",
+   "type": "library",
+   "city": "Berea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Pinnacles Amphitheater",
+   "type": "arts_culture",
+   "city": "Berea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Jelkyl Drama Center",
+   "type": "arts_culture",
+   "city": "Berea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berea Flea Market",
+   "type": "farmers_market",
+   "city": "Berea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berea Gallery & Event Center",
+   "type": "arts_culture",
+   "city": "Berea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Berea Farmers Market",
+   "type": "farmers_market",
+   "city": "Berea",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "McHargue's Mill",
+   "type": "museum",
+   "city": "London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Vendors Market",
+   "type": "farmers_market",
+   "city": "London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Laurel County Public Library",
+   "type": "library",
+   "city": "London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flea Land Flea Market",
+   "type": "farmers_market",
+   "city": "London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flea Land Flea Market",
+   "type": "farmers_market",
+   "city": "London",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Sander's Cafe and Museum",
+   "type": "museum",
+   "city": "Corbin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "The Wrigley Taproom & Eatery",
+   "type": "brewery_distillery",
+   "city": "Corbin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Colonel Sanders",
+   "type": "arts_culture",
+   "city": "Corbin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Gentle Acres Farm Market",
+   "type": "farmers_market",
+   "city": "Corbin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corbin Historic Train Restoration",
+   "type": "historic_site",
+   "city": "Corbin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Cumberland Parkway Flea Market",
+   "type": "farmers_market",
+   "city": "Hopewell",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Corbin Public Library",
+   "type": "library",
+   "city": "Corbin",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Butler-Turpin House Museum",
+   "type": "museum",
+   "city": "Carrollton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carroll County Public Library",
+   "type": "library",
+   "city": "Carrollton",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Carter County Public Library",
+   "type": "library",
+   "city": "Olive Hill",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Flea Market",
+   "type": "farmers_market",
+   "city": "Simpsonville",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "National Cave Museum and Library",
+   "type": "museum",
+   "city": "Park City",
+   "verified": false,
+   "osm": true
+  },
+  {
+   "name": "Bell's Tavern",
+   "type": "historic_site",
+   "city": "Park City",
+   "verified": false,
+   "osm": true
+  }
+ ]
+}

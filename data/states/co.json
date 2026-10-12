@@ -1,6 +1,6 @@
 {
  "state": "CO",
- "generated_at": "2026-10-07",
+ "generated_at": "2026-10-12",
  "sample": false,
  "spots": [
   {
@@ -5318,15 +5318,6 @@
    "type": "paid_camp",
    "town": "Rico, CO",
    "town_mi": 17.4,
-   "badge": "agency",
-   "policy": null,
-   "osm": false
-  },
-  {
-   "name": "MANITOU LAKE PAVILION",
-   "type": "paid_camp",
-   "town": "Westcreek, CO",
-   "town_mi": 5.4,
    "badge": "agency",
    "policy": null,
    "osm": false

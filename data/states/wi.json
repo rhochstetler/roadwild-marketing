@@ -1,6 +1,6 @@
 {
  "state": "WI",
- "generated_at": "2026-10-07",
+ "generated_at": "2026-10-12",
  "sample": false,
  "spots": [
   {
@@ -1912,15 +1912,6 @@
    "osm": false
   },
   {
-   "name": "PICNIC POINT (WI)",
-   "type": "paid_camp",
-   "town": "Chelsea, WI",
-   "town_mi": 6.4,
-   "badge": "agency",
-   "policy": null,
-   "osm": false
-  },
-  {
    "name": "SPEARHEAD POINT",
    "type": "paid_camp",
    "town": "Chelsea, WI",
@@ -1934,15 +1925,6 @@
    "type": "paid_camp",
    "town": "Chelsea, WI",
    "town_mi": 6.7,
-   "badge": "agency",
-   "policy": null,
-   "osm": false
-  },
-  {
-   "name": "SAILOR LAKE PAVILION",
-   "type": "paid_camp",
-   "town": "Park Falls, WI",
-   "town_mi": 10.5,
    "badge": "agency",
    "policy": null,
    "osm": false

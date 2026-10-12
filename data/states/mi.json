@@ -1,6 +1,6 @@
 {
  "state": "MI",
- "generated_at": "2026-10-07",
+ "generated_at": "2026-10-12",
  "sample": false,
  "spots": [
   {
@@ -4810,15 +4810,6 @@
    "osm": false
   },
   {
-   "name": "LAKE OTTAWA PAVILION",
-   "type": "paid_camp",
-   "town": "Iron River, MI",
-   "town_mi": 6.3,
-   "badge": "agency",
-   "policy": null,
-   "osm": false
-  },
-  {
    "name": "Bass Lake State Forest Campground",
    "type": "paid_camp",
    "town": "Gwinn, MI",
@@ -5084,15 +5075,6 @@
    "type": "paid_camp",
    "town": "Munising, MI",
    "town_mi": 18.3,
-   "badge": "agency",
-   "policy": null,
-   "osm": false
-  },
-  {
-   "name": "CLARK LAKE PAVILION",
-   "type": "paid_camp",
-   "town": "Watersmeet, MI",
-   "town_mi": 6.1,
    "badge": "agency",
    "policy": null,
    "osm": false

@@ -1,6 +1,6 @@
 {
  "state": "CA",
- "generated_at": "2026-10-07",
+ "generated_at": "2026-10-12",
  "sample": false,
  "spots": [
   {
@@ -9,6 +9,15 @@
    "town": "Twin Lakes, CA",
    "town_mi": 11.1,
    "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Virginia Creek Primitive Campground",
+   "type": "boondocking",
+   "town": "Virginia Lakes, CA",
+   "town_mi": 2.5,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -26,7 +35,7 @@
    "type": "paid_camp",
    "town": "Bear Valley, CA",
    "town_mi": 3.7,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -44,7 +53,7 @@
    "type": "paid_camp",
    "town": "Weitchpec, CA",
    "town_mi": 21.7,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -53,7 +62,7 @@
    "type": "paid_camp",
    "town": "Wofford Heights, CA",
    "town_mi": 1.1,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -62,7 +71,7 @@
    "type": "paid_camp",
    "town": "Chilcoot-Vinton, CA",
    "town_mi": 6.9,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -71,7 +80,7 @@
    "type": "paid_camp",
    "town": "Floriston, CA",
    "town_mi": 4.2,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -89,7 +98,7 @@
    "type": "paid_camp",
    "town": "Three Rivers, CA",
    "town_mi": 7,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -143,7 +152,25 @@
    "type": "paid_camp",
    "town": "Shaver Lake, CA",
    "town_mi": 13.4,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Santa Cruz Island - Scorpion Canyon",
+   "type": "unknown",
+   "town": "Channel Islands Beach, CA",
+   "town_mi": 20.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dirt Flat",
+   "type": "boondocking",
+   "town": "El Portal, CA",
+   "town_mi": 2.9,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -153,6 +180,24 @@
    "town": "Poso Park, CA",
    "town_mi": 0.5,
    "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trumbull Lake",
+   "type": "unknown",
+   "town": "Virginia Lakes, CA",
+   "town_mi": 0.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gerle Creek",
+   "type": "unknown",
+   "town": "Tahoma, CA",
+   "town_mi": 14.6,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -179,7 +224,7 @@
    "type": "paid_camp",
    "town": "Mammoth Lakes, CA",
    "town_mi": 1.5,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -206,7 +251,7 @@
    "type": "paid_camp",
    "town": "Stonyford, CA",
    "town_mi": 9.9,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -215,7 +260,16 @@
    "type": "paid_camp",
    "town": "Meyers, CA",
    "town_mi": 11.7,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Robinson Creek North",
+   "type": "unknown",
+   "town": "Twin Lakes, CA",
+   "town_mi": 2.1,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -233,7 +287,16 @@
    "type": "paid_camp",
    "town": "Sunnyside-Tahoe City, CA",
    "town_mi": 14.2,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Anacapa Island",
+   "type": "unknown",
+   "town": "Channel Islands Beach, CA",
+   "town_mi": 13.3,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -269,7 +332,7 @@
    "type": "paid_camp",
    "town": "Big Bear City, CA",
    "town_mi": 6.6,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -283,11 +346,29 @@
    "osm": false
   },
   {
+   "name": "Santa Barbara Island",
+   "type": "unknown",
+   "town": "Palos Verdes Estates, CA",
+   "town_mi": 40.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Strawberry Point Campground",
    "type": "paid_camp",
    "town": "Pollock Pines, CA",
    "town_mi": 14.4,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Little Truckee",
+   "type": "unknown",
+   "town": "Sierraville, CA",
+   "town_mi": 8.9,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -296,7 +377,7 @@
    "type": "paid_camp",
    "town": "Trinity Village, CA",
    "town_mi": 7.3,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -314,7 +395,7 @@
    "type": "paid_camp",
    "town": "Madeline, CA",
    "town_mi": 18.8,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -328,11 +409,29 @@
    "osm": false
   },
   {
+   "name": "Pleasant Campground",
+   "type": "boondocking",
+   "town": "Tahoma, CA",
+   "town_mi": 8.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lone Pine",
+   "type": "unknown",
+   "town": "Lone Pine, CA",
+   "town_mi": 6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Fremont Campground",
    "type": "paid_camp",
    "town": "Eastern Goleta Valley, CA",
    "town_mi": 7.1,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -341,7 +440,7 @@
    "type": "paid_camp",
    "town": "Tahoma, CA",
    "town_mi": 13.3,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -355,11 +454,29 @@
    "osm": false
   },
   {
+   "name": "Silver Creek",
+   "type": "unknown",
+   "town": "Markleeville, CA",
+   "town_mi": 6.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Long Point (CA)",
+   "type": "unknown",
+   "town": "Janesville, CA",
+   "town_mi": 9.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Selby Campground",
    "type": "paid_camp",
    "town": "Derby Acres, CA",
    "town_mi": 15.6,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -368,7 +485,7 @@
    "type": "paid_camp",
    "town": "Chilcoot-Vinton, CA",
    "town_mi": 6.5,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -377,7 +494,16 @@
    "type": "paid_camp",
    "town": "Pine Flat, CA",
    "town_mi": 9.3,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pioneer Trail",
+   "type": "unknown",
+   "town": "Strawberry, CA",
+   "town_mi": 1.5,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -386,7 +512,7 @@
    "type": "paid_camp",
    "town": "Yosemite Valley, CA",
    "town_mi": 0.6,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -395,7 +521,7 @@
    "type": "paid_camp",
    "town": "New Cuyama, CA",
    "town_mi": 10.6,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -409,11 +535,20 @@
    "osm": false
   },
   {
+   "name": "Slide Creek Campground (CA)",
+   "type": "boondocking",
+   "town": "Hyampom, CA",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Minersville Campground",
    "type": "paid_camp",
    "town": "Weaverville, CA",
    "town_mi": 9.8,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -440,7 +575,7 @@
    "type": "paid_camp",
    "town": "Litchfield, CA",
    "town_mi": 23.2,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -476,7 +611,7 @@
    "type": "paid_camp",
    "town": "Butte Meadows, CA",
    "town_mi": 1,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -485,7 +620,7 @@
    "type": "paid_camp",
    "town": "Grizzly Flats, CA",
    "town_mi": 6.8,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -494,7 +629,25 @@
    "type": "paid_camp",
    "town": "Chester, CA",
    "town_mi": 4.7,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "McGee Creek",
+   "type": "unknown",
+   "town": "McGee Creek, CA",
+   "town_mi": 0.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Barton Flats",
+   "type": "unknown",
+   "town": "Big Bear Lake, CA",
+   "town_mi": 5.1,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -503,7 +656,7 @@
    "type": "paid_camp",
    "town": "Kernville, CA",
    "town_mi": 10.7,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -512,7 +665,7 @@
    "type": "paid_camp",
    "town": "Lake Arrowhead, CA",
    "town_mi": 2.5,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -566,7 +719,7 @@
    "type": "paid_camp",
    "town": "Silver City, CA",
    "town_mi": 7.3,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -575,7 +728,7 @@
    "type": "paid_camp",
    "town": "Big Bear Lake, CA",
    "town_mi": 4.1,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -585,6 +738,15 @@
    "town": "Mammoth Lakes, CA",
    "town_mi": 4.9,
    "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Soquel Campground",
+   "type": "boondocking",
+   "town": "Bass Lake, CA",
+   "town_mi": 5.6,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -625,6 +787,15 @@
    "osm": false
   },
   {
+   "name": "Shirttail Creek",
+   "type": "unknown",
+   "town": "Alta, CA",
+   "town_mi": 5.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Lovers Leap Campground",
    "type": "paid_camp",
    "town": "Meyers, CA",
@@ -638,7 +809,16 @@
    "type": "paid_camp",
    "town": "Gasquet, CA",
    "town_mi": 2.4,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hanna Flat",
+   "type": "unknown",
+   "town": "Big Bear Lake, CA",
+   "town_mi": 5.5,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -647,7 +827,7 @@
    "type": "paid_camp",
    "town": "Mount Laguna, CA",
    "town_mi": 7,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -665,7 +845,7 @@
    "type": "paid_camp",
    "town": "Wawona, CA",
    "town_mi": 2.4,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -674,7 +854,16 @@
    "type": "paid_camp",
    "town": "Bear Valley, CA",
    "town_mi": 10.7,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Pine Canyon",
+   "type": "unknown",
+   "town": "Big Pine, CA",
+   "town_mi": 7.4,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -683,7 +872,7 @@
    "type": "paid_camp",
    "town": "Twin Lakes, CA",
    "town_mi": 2.1,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -701,7 +890,7 @@
    "type": "paid_camp",
    "town": "June Lake, CA",
    "town_mi": 1.8,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -710,7 +899,7 @@
    "type": "paid_camp",
    "town": "Frazier Park, CA",
    "town_mi": 7.7,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -733,11 +922,65 @@
    "osm": false
   },
   {
+   "name": "Lake of the Woods",
+   "type": "unknown",
+   "town": "Sierraville, CA",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Rainbow Basin / Owl Canyon Campground",
    "type": "paid_camp",
    "town": "Lenwood, CA",
    "town_mi": 9.6,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ice House",
+   "type": "unknown",
+   "town": "Pollock Pines, CA",
+   "town_mi": 13.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crystal Creek Primitive Campground",
+   "type": "boondocking",
+   "town": "French Gulch, CA",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "College",
+   "type": "unknown",
+   "town": "Big Creek, CA",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fashoda",
+   "type": "unknown",
+   "town": "Pollock Pines, CA",
+   "town_mi": 12.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Marion Mountain",
+   "type": "unknown",
+   "town": "Idyllwild-Pine Cove, CA",
+   "town_mi": 3.3,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -746,7 +989,7 @@
    "type": "paid_camp",
    "town": "Mammoth Lakes, CA",
    "town_mi": 1.2,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -755,6 +998,24 @@
    "type": "paid_camp",
    "town": "Grizzly Flats, CA",
    "town_mi": 13.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wheeler Gorge",
+   "type": "unknown",
+   "town": "Meiners Oaks, CA",
+   "town_mi": 3.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Granite Flat (CA)",
+   "type": "unknown",
+   "town": "Truckee, CA",
+   "town_mi": 3.6,
    "badge": "agency",
    "policy": null,
    "osm": false
@@ -773,7 +1034,7 @@
    "type": "paid_camp",
    "town": "Wilsonia, CA",
    "town_mi": 9,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -782,7 +1043,7 @@
    "type": "paid_camp",
    "town": "Lake Isabella, CA",
    "town_mi": 0.9,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -809,7 +1070,7 @@
    "type": "paid_camp",
    "town": "Tahoma, CA",
    "town_mi": 13.8,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -854,7 +1115,7 @@
    "type": "paid_camp",
    "town": "Happy Camp, CA",
    "town_mi": 2.1,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -863,6 +1124,15 @@
    "type": "paid_camp",
    "town": "Bear Valley, CA",
    "town_mi": 15,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lightning Tree",
+   "type": "unknown",
+   "town": "Lake Davis, CA",
+   "town_mi": 5.8,
    "badge": "agency",
    "policy": null,
    "osm": false
@@ -877,11 +1147,20 @@
    "osm": false
   },
   {
+   "name": "Cherry Valley",
+   "type": "unknown",
+   "town": "Long Barn, CA",
+   "town_mi": 14,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "South Fork Rec Campground",
    "type": "paid_camp",
    "town": "Mountain Mesa, CA",
    "town_mi": 2.2,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -891,6 +1170,15 @@
    "town": "Barstow, CA",
    "town_mi": 14,
    "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Sage Flat",
+   "type": "unknown",
+   "town": "Big Pine, CA",
+   "town_mi": 8.1,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -926,7 +1214,7 @@
    "type": "paid_camp",
    "town": "Pollock Pines, CA",
    "town_mi": 3.4,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -949,11 +1237,20 @@
    "osm": false
   },
   {
+   "name": "French Meadows",
+   "type": "unknown",
+   "town": "Sunnyside-Tahoe City, CA",
+   "town_mi": 13.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Coldwater Campground - Inyo NF (CA)",
    "type": "paid_camp",
    "town": "Mammoth Lakes, CA",
    "town_mi": 1.8,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -980,7 +1277,7 @@
    "type": "paid_camp",
    "town": "Kernville, CA",
    "town_mi": 8.3,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -989,7 +1286,16 @@
    "type": "paid_camp",
    "town": "Wilsonia, CA",
    "town_mi": 6,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "June Lake",
+   "type": "unknown",
+   "town": "June Lake, CA",
+   "town_mi": 2.6,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1007,7 +1313,7 @@
    "type": "paid_camp",
    "town": "Twentynine Palms, CA",
    "town_mi": 10.8,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1016,7 +1322,7 @@
    "type": "paid_camp",
    "town": "Kirkwood, CA",
    "town_mi": 12.7,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1025,7 +1331,7 @@
    "type": "paid_camp",
    "town": "Yosemite West, CA",
    "town_mi": 5.5,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1048,11 +1354,38 @@
    "osm": false
   },
   {
+   "name": "Fern Basin",
+   "type": "unknown",
+   "town": "Idyllwild-Pine Cove, CA",
+   "town_mi": 3.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Oak",
+   "type": "unknown",
+   "town": "Pollock Pines, CA",
+   "town_mi": 10.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Fir Cove Campground",
    "type": "paid_camp",
    "town": "Ruth, CA",
    "town_mi": 4.5,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Goumaz",
+   "type": "unknown",
+   "town": "Westwood, CA",
+   "town_mi": 10.6,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1079,7 +1412,16 @@
    "type": "paid_camp",
    "town": "Indian Wells, CA",
    "town_mi": 10.8,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Table Mountain (Inyo)",
+   "type": "unknown",
+   "town": "Wilkerson, CA",
+   "town_mi": 10.8,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1088,7 +1430,7 @@
    "type": "paid_camp",
    "town": "Virginia Lakes, CA",
    "town_mi": 13.1,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1097,7 +1439,25 @@
    "type": "paid_camp",
    "town": "Fort Jones, CA",
    "town_mi": 16.5,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Almanor",
+   "type": "unknown",
+   "town": "Almanor, CA",
+   "town_mi": 0.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whitney Portal",
+   "type": "unknown",
+   "town": "Lone Pine, CA",
+   "town_mi": 8.3,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1106,7 +1466,7 @@
    "type": "paid_camp",
    "town": "Potrero, CA",
    "town_mi": 7.1,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1116,6 +1476,15 @@
    "town": "Gasquet, CA",
    "town_mi": 12.3,
    "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grays Meadows",
+   "type": "unknown",
+   "town": "Independence, CA",
+   "town_mi": 6.4,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1138,11 +1507,29 @@
    "osm": false
   },
   {
+   "name": "North Shore (CA)",
+   "type": "unknown",
+   "town": "Lake Arrowhead, CA",
+   "town_mi": 1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Manzanita Lake",
+   "type": "unknown",
+   "town": "Mineral, CA",
+   "town_mi": 8.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Big Reservoir Campground",
    "type": "paid_camp",
    "town": "Alta, CA",
    "town_mi": 5.5,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1178,7 +1565,16 @@
    "type": "paid_camp",
    "town": "Mad River, CA",
    "town_mi": 2.4,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grizzly",
+   "type": "unknown",
+   "town": "Lake Davis, CA",
+   "town_mi": 2.5,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1201,6 +1597,15 @@
    "osm": false
   },
   {
+   "name": "Roxie Peconom Campground",
+   "type": "boondocking",
+   "town": "Westwood, CA",
+   "town_mi": 10.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Gregory Creek Group Campground",
    "type": "paid_camp",
    "town": "Lakehead, CA",
@@ -1210,11 +1615,47 @@
    "osm": false
   },
   {
+   "name": "Peltier Bridge Primitive Campground",
+   "type": "boondocking",
+   "town": "Shasta, CA",
+   "town_mi": 3.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "White Cloud",
+   "type": "unknown",
+   "town": "Washington, CA",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Loon Lake",
+   "type": "unknown",
+   "town": "Tahoma, CA",
+   "town_mi": 11.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Indian Flats Campground",
    "type": "paid_camp",
    "town": "Aguanga, CA",
    "town_mi": 13.4,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dry Gulch",
+   "type": "boondocking",
+   "town": "El Portal, CA",
+   "town_mi": 2.7,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1223,7 +1664,7 @@
    "type": "paid_camp",
    "town": "Lake Almanor West, CA",
    "town_mi": 4,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1233,6 +1674,15 @@
    "town": "South Lake Tahoe, CA",
    "town_mi": 3.5,
    "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tannery Gulch",
+   "type": "unknown",
+   "town": "Weaverville, CA",
+   "town_mi": 7.9,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1250,7 +1700,7 @@
    "type": "paid_camp",
    "town": "Mammoth Lakes, CA",
    "town_mi": 2.3,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1259,7 +1709,7 @@
    "type": "paid_camp",
    "town": "Indian Wells, CA",
    "town_mi": 11.2,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1268,7 +1718,7 @@
    "type": "paid_camp",
    "town": "Aguanga, CA",
    "town_mi": 5.9,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1277,7 +1727,7 @@
    "type": "paid_camp",
    "town": "Weitchpec, CA",
    "town_mi": 3.1,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1300,11 +1750,38 @@
    "osm": false
   },
   {
+   "name": "Boise Creek",
+   "type": "unknown",
+   "town": "Willow Creek, CA",
+   "town_mi": 1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Long Valley Campground",
+   "type": "boondocking",
+   "town": "Kennedy Meadows, CA",
+   "town_mi": 11.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Dripping Springs Campground (CA)",
    "type": "paid_camp",
    "town": "Aguanga, CA",
    "town_mi": 6.7,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Goose Meadows",
+   "type": "unknown",
+   "town": "Truckee, CA",
+   "town_mi": 6.5,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1322,6 +1799,15 @@
    "type": "paid_camp",
    "town": "Buck Meadows, CA",
    "town_mi": 2.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Meadow (Stanislaus NF)",
+   "type": "unknown",
+   "town": "Bear Valley, CA",
+   "town_mi": 4.8,
    "badge": "agency",
    "policy": null,
    "osm": false
@@ -1358,7 +1844,16 @@
    "type": "paid_camp",
    "town": "Mission Canyon, CA",
    "town_mi": 7.2,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kinnikinnick",
+   "type": "unknown",
+   "town": "Big Creek, CA",
+   "town_mi": 5.2,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1376,7 +1871,7 @@
    "type": "paid_camp",
    "town": "Gasquet, CA",
    "town_mi": 9.9,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1385,7 +1880,16 @@
    "type": "paid_camp",
    "town": "Bear Valley, CA",
    "town_mi": 1.5,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Onion Valley",
+   "type": "unknown",
+   "town": "Independence, CA",
+   "town_mi": 8.5,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1394,6 +1898,15 @@
    "type": "paid_camp",
    "town": "Tahoma, CA",
    "town_mi": 10.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Peppermint Dispersed Area",
+   "type": "boondocking",
+   "town": "Ponderosa, CA",
+   "town_mi": 1.6,
    "badge": "agency",
    "policy": null,
    "osm": false
@@ -1408,11 +1921,29 @@
    "osm": false
   },
   {
+   "name": "Bushytail",
+   "type": "unknown",
+   "town": "Weaverville, CA",
+   "town_mi": 9.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Plaskett Creek Campground",
    "type": "paid_camp",
    "town": "Fort Hunter Liggett, CA",
    "town_mi": 13.9,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sherwin Creek",
+   "type": "unknown",
+   "town": "Mammoth Lakes, CA",
+   "town_mi": 2.8,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1421,7 +1952,16 @@
    "type": "paid_camp",
    "town": "Sunnyside-Tahoe City, CA",
    "town_mi": 1,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Castle Lake Campground",
+   "type": "boondocking",
+   "town": "Dunsmuir, CA",
+   "town_mi": 5.6,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1430,7 +1970,7 @@
    "type": "paid_camp",
    "town": "Yucca Valley, CA",
    "town_mi": 4,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1439,7 +1979,25 @@
    "type": "paid_camp",
    "town": "Gasquet, CA",
    "town_mi": 7.1,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crab Flats",
+   "type": "unknown",
+   "town": "Running Springs, CA",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Summit Lake North",
+   "type": "unknown",
+   "town": "Warner Valley, CA",
+   "town_mi": 7.6,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1457,7 +2015,7 @@
    "type": "paid_camp",
    "town": "Warner Valley, CA",
    "town_mi": 3.4,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1480,6 +2038,15 @@
    "osm": false
   },
   {
+   "name": "Horse Camp Primitive Campground",
+   "type": "boondocking",
+   "town": "Shasta, CA",
+   "town_mi": 3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Peavine Campground",
    "type": "paid_camp",
    "town": "Wrightwood, CA",
@@ -1489,11 +2056,47 @@
    "osm": false
   },
   {
+   "name": "Cottonwood Creek",
+   "type": "unknown",
+   "town": "Sierraville, CA",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sheep Camp Primitive Campground",
+   "type": "boondocking",
+   "town": "Shasta, CA",
+   "town_mi": 6.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Tuff Campground",
    "type": "paid_camp",
    "town": "Sunny Slopes, CA",
    "town_mi": 0.8,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Obsidian Flat",
+   "type": "unknown",
+   "town": "June Lake, CA",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pinecrest",
+   "type": "unknown",
+   "town": "Strawberry, CA",
+   "town_mi": 0.9,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1502,7 +2105,7 @@
    "type": "paid_camp",
    "town": "Lake Isabella, CA",
    "town_mi": 6,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1511,7 +2114,25 @@
    "type": "paid_camp",
    "town": "Glendora, CA",
    "town_mi": 10.1,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "San Miguel Island",
+   "type": "unknown",
+   "town": "Isla Vista, CA",
+   "town_mi": 37.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sage Hill",
+   "type": "unknown",
+   "town": "Eastern Goleta Valley, CA",
+   "town_mi": 6.6,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1520,7 +2141,16 @@
    "type": "paid_camp",
    "town": "Palo Verde, CA",
    "town_mi": 10.1,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Laguna",
+   "type": "unknown",
+   "town": "Mount Laguna, CA",
+   "town_mi": 1.7,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1543,11 +2173,20 @@
    "osm": false
   },
   {
+   "name": "Oh Ridge",
+   "type": "unknown",
+   "town": "June Lake, CA",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Leavis Flat Campground",
    "type": "paid_camp",
    "town": "California Hot Springs, CA",
    "town_mi": 1.3,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1556,7 +2195,25 @@
    "type": "paid_camp",
    "town": "Wilsonia, CA",
    "town_mi": 0.5,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Slide Campground",
+   "type": "boondocking",
+   "town": "Hyampom, CA",
+   "town_mi": 3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lewis",
+   "type": "unknown",
+   "town": "Kingvale, CA",
+   "town_mi": 13.1,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1565,7 +2222,7 @@
    "type": "paid_camp",
    "town": "Onyx, CA",
    "town_mi": 10.6,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1583,7 +2240,7 @@
    "type": "paid_camp",
    "town": "Weitchpec, CA",
    "town_mi": 18.5,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1592,6 +2249,15 @@
    "type": "paid_camp",
    "town": "Strawberry, CA",
    "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ellery Creek",
+   "type": "unknown",
+   "town": "Lakehead, CA",
+   "town_mi": 8.3,
    "badge": "agency",
    "policy": null,
    "osm": false
@@ -1633,11 +2299,38 @@
    "osm": false
   },
   {
+   "name": "Sunset - Union Valley",
+   "type": "unknown",
+   "town": "Pollock Pines, CA",
+   "town_mi": 12.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Alpine View Campground",
    "type": "paid_camp",
    "town": "Trinity Center, CA",
    "town_mi": 7.3,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brandy Creek Primitive Campground",
+   "type": "boondocking",
+   "town": "Shasta, CA",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Millard Campground",
+   "type": "boondocking",
+   "town": "Altadena, CA",
+   "town_mi": 1.8,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1646,7 +2339,7 @@
    "type": "paid_camp",
    "town": "Aspen Springs, CA",
    "town_mi": 1.2,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1660,11 +2353,38 @@
    "osm": false
   },
   {
+   "name": "Hospital Flat",
+   "type": "unknown",
+   "town": "Kernville, CA",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Trimmer Campground",
    "type": "paid_camp",
    "town": "Shaver Lake, CA",
    "town_mi": 13.6,
    "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Burnt Rancheria",
+   "type": "unknown",
+   "town": "Mount Laguna, CA",
+   "town_mi": 0.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Honeymoon Flat",
+   "type": "unknown",
+   "town": "Twin Lakes, CA",
+   "town_mi": 2.9,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1682,7 +2402,7 @@
    "type": "paid_camp",
    "town": "Bucks Lake, CA",
    "town_mi": 3.1,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1691,7 +2411,7 @@
    "type": "paid_camp",
    "town": "Covelo, CA",
    "town_mi": 14.9,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1705,11 +2425,20 @@
    "osm": false
   },
   {
+   "name": "Yellowjacket",
+   "type": "unknown",
+   "town": "Pollock Pines, CA",
+   "town_mi": 14.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Sentinel Campground",
    "type": "paid_camp",
    "town": "Wilsonia, CA",
    "town_mi": 16.2,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1727,7 +2456,7 @@
    "type": "paid_camp",
    "town": "Ruth, CA",
    "town_mi": 4.2,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1741,11 +2470,29 @@
    "osm": false
   },
   {
+   "name": "Silver Creek (Truckee)",
+   "type": "unknown",
+   "town": "Sunnyside-Tahoe City, CA",
+   "town_mi": 5.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ackerman Campground",
+   "type": "boondocking",
+   "town": "Lewiston, CA",
+   "town_mi": 6.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Potato Patch Campground (CA)",
    "type": "paid_camp",
    "town": "Butte Meadows, CA",
    "town_mi": 7.1,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1768,11 +2515,20 @@
    "osm": false
   },
   {
+   "name": "Serrano",
+   "type": "unknown",
+   "town": "Big Bear Lake, CA",
+   "town_mi": 1.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Grassy Flat Campground",
    "type": "paid_camp",
    "town": "Gasquet, CA",
    "town_mi": 4.7,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1790,7 +2546,16 @@
    "type": "paid_camp",
    "town": "Fall River Mills, CA",
    "town_mi": 3.6,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lassen Creek Campground",
+   "type": "boondocking",
+   "town": "Fort Bidwell, CA",
+   "town_mi": 7.4,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1799,7 +2564,16 @@
    "type": "paid_camp",
    "town": "Twin Lakes, CA",
    "town_mi": 1.4,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lakes Basin",
+   "type": "unknown",
+   "town": "Graeagle, CA",
+   "town_mi": 6,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1826,7 +2600,7 @@
    "type": "paid_camp",
    "town": "Foresta, CA",
    "town_mi": 9.4,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1844,7 +2618,7 @@
    "type": "paid_camp",
    "town": "Weitchpec, CA",
    "town_mi": 17.6,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1867,11 +2641,20 @@
    "osm": false
   },
   {
+   "name": "Middle Meadows",
+   "type": "unknown",
+   "town": "Sunnyside-Tahoe City, CA",
+   "town_mi": 17.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Furnace Creek Campground",
    "type": "paid_camp",
    "town": "Furnace Creek, CA",
    "town_mi": 2.5,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1899,6 +2682,15 @@
    "town": "Wrightwood, CA",
    "town_mi": 6.3,
    "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tunnel Mills II",
+   "type": "unknown",
+   "town": "Alta, CA",
+   "town_mi": 8.3,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1957,6 +2749,78 @@
    "osm": false
   },
   {
+   "name": "Emigrant Campground",
+   "type": "unknown",
+   "town": "Furnace Creek, CA",
+   "town_mi": 20.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Homestake Campground (Primitive)",
+   "type": "unknown",
+   "town": "Keeler, CA",
+   "town_mi": 19.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mahogany Flat Campground (Primitive)",
+   "type": "unknown",
+   "town": "Furnace Creek, CA",
+   "town_mi": 17.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Saline Valley Campground (Primitive)",
+   "type": "unknown",
+   "town": "Keeler, CA",
+   "town_mi": 23,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stovepipe Wells Campground",
+   "type": "unknown",
+   "town": "Furnace Creek, CA",
+   "town_mi": 19.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sunset Campground",
+   "type": "unknown",
+   "town": "Furnace Creek, CA",
+   "town_mi": 2.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Thorndike Campground (Primitive)",
+   "type": "unknown",
+   "town": "Furnace Creek, CA",
+   "town_mi": 17.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wildrose Campground",
+   "type": "unknown",
+   "town": "Furnace Creek, CA",
+   "town_mi": 20.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Hotelling Campground",
    "type": "paid_camp",
    "town": "Weitchpec, CA",
@@ -1970,6 +2834,6513 @@
    "type": "paid_camp",
    "town": "Coffee Creek, CA",
    "town_mi": 11.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Divine Springs Campground",
+   "type": "unknown",
+   "town": "Eagleville, CA",
+   "town_mi": 13.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chimney Creek Campground",
+   "type": "unknown",
+   "town": "Pearsonville, CA",
+   "town_mi": 9.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ya-Gub-Weh-tuh Campground",
+   "type": "paid_camp",
+   "town": "Auberry, CA",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Equestrian Campground",
+   "type": "paid_camp",
+   "town": "Auberry, CA",
+   "town_mi": 5.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shasta Campground",
+   "type": "unknown",
+   "town": "Shasta Lake, CA",
+   "town_mi": 3.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Steiner Flat Primitive Campground",
+   "type": "unknown",
+   "town": "Douglas City, CA",
+   "town_mi": 2.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Corn Springs Campground",
+   "type": "unknown",
+   "town": "Desert Center, CA",
+   "town_mi": 8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wiley's Well Campground",
+   "type": "unknown",
+   "town": "Palo Verde, CA",
+   "town_mi": 10.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BOULDER OAKS EQST",
+   "type": "paid_camp",
+   "town": "Campo, CA",
+   "town_mi": 6.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ARROYO SECO",
+   "type": "paid_camp",
+   "town": "Greenfield, CA",
+   "town_mi": 14.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SAN GORGONIO",
+   "type": "paid_camp",
+   "town": "Big Bear Lake, CA",
+   "town_mi": 5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BOULDER BASIN",
+   "type": "paid_camp",
+   "town": "Idyllwild-Pine Cove, CA",
+   "town_mi": 5.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "GREEN VALLEY",
+   "type": "paid_camp",
+   "town": "Running Springs, CA",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SKYLINE",
+   "type": "paid_camp",
+   "town": "Big Bear City, CA",
+   "town_mi": 7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "STUMPY MEADOWS",
+   "type": "paid_camp",
+   "town": "Pollock Pines, CA",
+   "town_mi": 10.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LOWER TWIN LAKES AT BRIDGEPORT",
+   "type": "paid_camp",
+   "town": "Twin Lakes, CA",
+   "town_mi": 0.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WENCH CREEK",
+   "type": "paid_camp",
+   "town": "Pollock Pines, CA",
+   "town_mi": 14.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DINKEY CREEK",
+   "type": "paid_camp",
+   "town": "Shaver Lake, CA",
+   "town_mi": 9.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HOPE VALLEY",
+   "type": "paid_camp",
+   "town": "South Lake Tahoe, CA",
+   "town_mi": 3.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MOUNT ROSE (NV)",
+   "type": "paid_camp",
+   "town": "Incline Village, NV",
+   "town_mi": 4.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HAYWARD FLAT",
+   "type": "paid_camp",
+   "town": "Trinity Center, CA",
+   "town_mi": 8.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HAT CREEK",
+   "type": "paid_camp",
+   "town": "Old Station, CA",
+   "town_mi": 1.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SILVER LAKE EAST- ELDORADO",
+   "type": "paid_camp",
+   "town": "Markleeville, CA",
+   "town_mi": 3.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HALLSTED",
+   "type": "paid_camp",
+   "town": "Twain, CA",
+   "town_mi": 2.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RED FEATHER CALIFORNIA",
+   "type": "paid_camp",
+   "town": "Little Grass Valley, CA",
+   "town_mi": 0.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PINE GLEN",
+   "type": "paid_camp",
+   "town": "Mammoth Lakes, CA",
+   "town_mi": 2.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BIG PINE CREEK CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Big Pine, CA",
+   "town_mi": 8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LOON LAKE CHALET",
+   "type": "paid_camp",
+   "town": "Tahoma, CA",
+   "town_mi": 11,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ROBBS HUT",
+   "type": "paid_camp",
+   "town": "Pollock Pines, CA",
+   "town_mi": 15.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "FAWN",
+   "type": "paid_camp",
+   "town": "Weaverville, CA",
+   "town_mi": 8.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WOLF CREEK CALIFORNIA",
+   "type": "paid_camp",
+   "town": "Pollock Pines, CA",
+   "town_mi": 13.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "East Fork Campground – Inyo National Forest (CA)",
+   "type": "paid_camp",
+   "town": "Swall Meadows, CA",
+   "town_mi": 4.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "AGNEW HORSE CAMP",
+   "type": "paid_camp",
+   "town": "June Lake, CA",
+   "town_mi": 5.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Pines Campground",
+   "type": "paid_camp",
+   "town": "Yosemite Valley, CA",
+   "town_mi": 0.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crane Flat Campground",
+   "type": "paid_camp",
+   "town": "Foresta, CA",
+   "town_mi": 6.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dorst Creek Campground-Sequoia and Kings Canyon National Park",
+   "type": "paid_camp",
+   "town": "Hartland, CA",
+   "town_mi": 8.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lodgepole Campground-Sequoia and Kings Canyon National Park",
+   "type": "paid_camp",
+   "town": "Silver City, CA",
+   "town_mi": 10.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SANTA ROSA ISLAND",
+   "type": "paid_camp",
+   "town": "Isla Vista, CA",
+   "town_mi": 31,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SANTA CRUZ ISLAND DEL NORTE BACKCOUNTRY",
+   "type": "paid_camp",
+   "town": "Channel Islands Beach, CA",
+   "town_mi": 27,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DEKKAS ROCK",
+   "type": "paid_camp",
+   "town": "Lakehead, CA",
+   "town_mi": 8.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LAKESHORE EAST",
+   "type": "paid_camp",
+   "town": "Lakehead, CA",
+   "town_mi": 2.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Point (Shasta Lake, CA)",
+   "type": "paid_camp",
+   "town": "Lakehead, CA",
+   "town_mi": 8.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nevada Beach Campground",
+   "type": "paid_camp",
+   "town": "Stateline, NV",
+   "town_mi": 1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "FRENCH GULCH",
+   "type": "paid_camp",
+   "town": "Lake Isabella, CA",
+   "town_mi": 1.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TILLIE CREEK",
+   "type": "paid_camp",
+   "town": "Wofford Heights, CA",
+   "town_mi": 1.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LUPINE",
+   "type": "paid_camp",
+   "town": "Bass Lake, CA",
+   "town_mi": 1.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "JACKASS MEADOW",
+   "type": "paid_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 16.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MONO HOT SPRINGS",
+   "type": "paid_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 15.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CATAVEE",
+   "type": "paid_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 5.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DEER CREEK",
+   "type": "paid_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RANCHERIA",
+   "type": "paid_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MAMMOTH POOL",
+   "type": "paid_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 10.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rock Creek (Sierra National Forest, CA)",
+   "type": "paid_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 8.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HEADQUARTERS",
+   "type": "paid_camp",
+   "town": "Kernville, CA",
+   "town_mi": 3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "FISH CREEK (CA)",
+   "type": "paid_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 7.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HOLEY MEADOW",
+   "type": "paid_camp",
+   "town": "California Hot Springs, CA",
+   "town_mi": 5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "GRASSHOPPER FLAT",
+   "type": "paid_camp",
+   "town": "Lake Davis, CA",
+   "town_mi": 2.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LOGGER CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Verdi, CA",
+   "town_mi": 6.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SWEETWATER",
+   "type": "paid_camp",
+   "town": "Bass Lake, CA",
+   "town_mi": 12,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Forks Campground (Sierra)",
+   "type": "paid_camp",
+   "town": "Bass Lake, CA",
+   "town_mi": 1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TEXAS FLATS",
+   "type": "paid_camp",
+   "town": "Fish Camp, CA",
+   "town_mi": 6.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KELTY MEADOW",
+   "type": "paid_camp",
+   "town": "Fish Camp, CA",
+   "town_mi": 6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "GRANITE FLAT (CALIFORNIA)",
+   "type": "paid_camp",
+   "town": "Truckee, CA",
+   "town_mi": 3.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "COY FLAT",
+   "type": "paid_camp",
+   "town": "Pierpoint, CA",
+   "town_mi": 1.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CRANE VALLEY",
+   "type": "paid_camp",
+   "town": "Bass Lake, CA",
+   "town_mi": 1.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WISHON BASS LAKE",
+   "type": "paid_camp",
+   "town": "Bass Lake, CA",
+   "town_mi": 2.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CEDAR BLUFF",
+   "type": "paid_camp",
+   "town": "Bass Lake, CA",
+   "town_mi": 1.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LITTLE LASIER MEADOWS CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Sierra City, CA",
+   "town_mi": 8.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SANDY FLAT",
+   "type": "paid_camp",
+   "town": "Bodfish, CA",
+   "town_mi": 2.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "FRY CREEK CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Aguanga, CA",
+   "town_mi": 7.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grouse Valley Cabins",
+   "type": "paid_camp",
+   "town": "Three Rivers, CA",
+   "town_mi": 10.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BOAT-IN SITES (LAKE SONOMA)",
+   "type": "paid_camp",
+   "town": "Geyserville, CA",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BUCKHORN",
+   "type": "paid_camp",
+   "town": "Flournoy, CA",
+   "town_mi": 9.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BUCK RIDGE",
+   "type": "paid_camp",
+   "town": "Yosemite Lakes, CA",
+   "town_mi": 7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ISLAND PARK",
+   "type": "paid_camp",
+   "town": "Squaw Valley, CA",
+   "town_mi": 11.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "ORLAND BUTTES",
+   "type": "paid_camp",
+   "town": "Orland, CA",
+   "town_mi": 9.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "WARM SPRINGS REC AREA",
+   "type": "paid_camp",
+   "town": "Geyserville, CA",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "RUNNING DEER CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Little Grass Valley, CA",
+   "town_mi": 0.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HORSE CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Little Grass Valley, CA",
+   "town_mi": 0.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MOUNTAIN OAK",
+   "type": "paid_camp",
+   "town": "Wrightwood, CA",
+   "town_mi": 6.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LAKE CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Wrightwood, CA",
+   "town_mi": 6.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TABLE MOUNTAIN (ANGELES)",
+   "type": "paid_camp",
+   "town": "Wrightwood, CA",
+   "town_mi": 4.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "COYOTE POINT",
+   "type": "paid_camp",
+   "town": "Farmington, CA",
+   "town_mi": 9.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "DIMOND O",
+   "type": "paid_camp",
+   "town": "Foresta, CA",
+   "town_mi": 10.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SUMMERDALE CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Fish Camp, CA",
+   "town_mi": 0.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PARADISE CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Eastern Goleta Valley, CA",
+   "town_mi": 7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CAPPS CROSSING",
+   "type": "paid_camp",
+   "town": "Grizzly Flats, CA",
+   "town_mi": 7.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BOYINGTON MILL",
+   "type": "paid_camp",
+   "town": "Floriston, CA",
+   "town_mi": 5.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BOCA CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Floriston, CA",
+   "town_mi": 4.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LAKESIDE (TRUCKEE)",
+   "type": "paid_camp",
+   "town": "Truckee, CA",
+   "town_mi": 2.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CALPINE LOOKOUT",
+   "type": "paid_camp",
+   "town": "Calpine, CA",
+   "town_mi": 1.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CONVICT LAKE CAMPGROUND",
+   "type": "paid_camp",
+   "town": "McGee Creek, CA",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Silver Lake Campground June Lake (CA)",
+   "type": "paid_camp",
+   "town": "June Lake, CA",
+   "town_mi": 1.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Indian Scotty Campground",
+   "type": "paid_camp",
+   "town": "Greenview, CA",
+   "town_mi": 10.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HIRZ MOUNTAIN LOOKOUT",
+   "type": "paid_camp",
+   "town": "Lakehead, CA",
+   "town_mi": 7.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "GIRARD RIDGE LOOKOUT",
+   "type": "paid_camp",
+   "town": "Castella, CA",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "POST CREEK GUARD STATION",
+   "type": "paid_camp",
+   "town": "Platina, CA",
+   "town_mi": 8.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "FOREST GLEN GUARD STATION",
+   "type": "paid_camp",
+   "town": "Ruth, CA",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LITTLE MT. HOFFMAN LOOKOUT",
+   "type": "paid_camp",
+   "town": "Tennant, CA",
+   "town_mi": 13.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "TREE OF HEAVEN CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Hornbrook, CA",
+   "town_mi": 7.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "BERGER",
+   "type": "paid_camp",
+   "town": "Sierra City, CA",
+   "town_mi": 3.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PEARCH CREEK CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Weitchpec, CA",
+   "town_mi": 11.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "PINE MOUNTAIN LOOKOUT",
+   "type": "paid_camp",
+   "town": "Potter Valley, CA",
+   "town_mi": 5.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "OAK FLAT LOOKOUT",
+   "type": "paid_camp",
+   "town": "Choctaw Valley, CA",
+   "town_mi": 11.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "UPPER STONY CREEK CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Hartland, CA",
+   "town_mi": 7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KIT CARSON CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Alpine Village, CA",
+   "town_mi": 4.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LOST CLAIM",
+   "type": "paid_camp",
+   "town": "Buck Meadows, CA",
+   "town_mi": 1.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "China Flat Campground",
+   "type": "unknown",
+   "town": "Kirkwood, CA",
+   "town_mi": 12.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wentworth Springs Campground",
+   "type": "unknown",
+   "town": "Tahoma, CA",
+   "town_mi": 10.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Northwind Campground",
+   "type": "unknown",
+   "town": "Pollock Pines, CA",
+   "town_mi": 14,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Hole Campground",
+   "type": "unknown",
+   "town": "Sunnyside-Tahoe City, CA",
+   "town_mi": 11,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Meadows Campground",
+   "type": "unknown",
+   "town": "Sunnyside-Tahoe City, CA",
+   "town_mi": 14.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dru Barner Campground",
+   "type": "unknown",
+   "town": "Georgetown, CA",
+   "town_mi": 4.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ridgeville Boat-In Campground",
+   "type": "unknown",
+   "town": "Weaverville, CA",
+   "town_mi": 10,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Philpot Picnic Area",
+   "type": "unknown",
+   "town": "Post Mountain, CA",
+   "town_mi": 4.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mill Creek Campground",
+   "type": "unknown",
+   "town": "Stonyford, CA",
+   "town_mi": 6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Fork Campground",
+   "type": "unknown",
+   "town": "Stonyford, CA",
+   "town_mi": 5.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Green Springs Campground",
+   "type": "unknown",
+   "town": "Covelo, CA",
+   "town_mi": 20.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "General Campgrounds & Trailheads",
+   "type": "unknown",
+   "town": "Paskenta, CA",
+   "town_mi": 16.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bobcat Meadow Campground",
+   "type": "unknown",
+   "town": "Campo, CA",
+   "town_mi": 6.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wildomar Campground",
+   "type": "unknown",
+   "town": "Lakeland Village, CA",
+   "town_mi": 4.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hobo Campground",
+   "type": "unknown",
+   "town": "Bodfish, CA",
+   "town_mi": 2.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Main Dam Campground",
+   "type": "unknown",
+   "town": "Lake Isabella, CA",
+   "town_mi": 0.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Troy Meadow Campground",
+   "type": "unknown",
+   "town": "Kennedy Meadows, CA",
+   "town_mi": 8.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Zuni Campground",
+   "type": "unknown",
+   "town": "Santa Clarita, CA",
+   "town_mi": 6.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mosquito Lakes Campground",
+   "type": "unknown",
+   "town": "Bear Valley, CA",
+   "town_mi": 8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stanislaus River Campground",
+   "type": "unknown",
+   "town": "Bear Valley, CA",
+   "town_mi": 3.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Baker Campground",
+   "type": "unknown",
+   "town": "Strawberry, CA",
+   "town_mi": 16.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Beardsley Dam Campground",
+   "type": "unknown",
+   "town": "Strawberry, CA",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dardanelle Campground",
+   "type": "unknown",
+   "town": "Strawberry, CA",
+   "town_mi": 13.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Niagara Creek Campground",
+   "type": "unknown",
+   "town": "Strawberry, CA",
+   "town_mi": 10,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wildcat Campground",
+   "type": "unknown",
+   "town": "Yosemite Lakes, CA",
+   "town_mi": 10.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hidden View Campground",
+   "type": "unknown",
+   "town": "Yosemite Lakes, CA",
+   "town_mi": 7.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kirch Flat Campground",
+   "type": "unknown",
+   "town": "Squaw Valley, CA",
+   "town_mi": 11.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Slide Creek Campground",
+   "type": "unknown",
+   "town": "Wells, NV",
+   "town_mi": 28.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sagehen Creek Campground",
+   "type": "unknown",
+   "town": "Truckee, CA",
+   "town_mi": 6.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Frenchy Point Campground",
+   "type": "unknown",
+   "town": "Clipper Mills, CA",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Meadow Lake Shoreline Campground",
+   "type": "unknown",
+   "town": "Kingvale, CA",
+   "town_mi": 7.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Silver Bowl Campground",
+   "type": "unknown",
+   "town": "Warner Valley, CA",
+   "town_mi": 11.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elam Campground",
+   "type": "unknown",
+   "town": "Mineral, CA",
+   "town_mi": 11.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Battle Creek Campground",
+   "type": "unknown",
+   "town": "Mineral, CA",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hole-in-the-Ground Campground",
+   "type": "unknown",
+   "town": "Mineral, CA",
+   "town_mi": 6.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Domingo Springs Campground",
+   "type": "unknown",
+   "town": "Warner Valley, CA",
+   "town_mi": 3.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Applewhite Campground",
+   "type": "unknown",
+   "town": "Lytle Creek, CA",
+   "town_mi": 0.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LITTLE BEAVER A CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Little Grass Valley, CA",
+   "town_mi": 2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "CROCKER GUARD STATION",
+   "type": "paid_camp",
+   "town": "Lake Davis, CA",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SARDINE PEAK LOOKOUT",
+   "type": "paid_camp",
+   "town": "Sierra Brooks, CA",
+   "town_mi": 7.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Horseshoe Springs Campground",
+   "type": "unknown",
+   "town": "Garey, CA",
+   "town_mi": 14.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "MEDICINE LAKE RECREATION AREA",
+   "type": "paid_camp",
+   "town": "Tennant, CA",
+   "town_mi": 17.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SANTA ROSA ISLAND BACKCOUNTRY BEACH CAMPING",
+   "type": "paid_camp",
+   "town": "Isla Vista, CA",
+   "town_mi": 32.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mattole Campground",
+   "type": "paid_camp",
+   "town": "Scotia, CA",
+   "town_mi": 18.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tolkan Campground",
+   "type": "paid_camp",
+   "town": "Shelter Cove, CA",
+   "town_mi": 3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Foster Bar Campground",
+   "type": "unknown",
+   "town": "Powers, OR",
+   "town_mi": 17.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rogue River Dispersed Campsites",
+   "type": "unknown",
+   "town": "Powers, OR",
+   "town_mi": 15.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Harr Point Campground",
+   "type": "unknown",
+   "town": "Ruch, OR",
+   "town_mi": 14.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "River Bench Campground",
+   "type": "unknown",
+   "town": "Selma, OR",
+   "town_mi": 6.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Rock Campground",
+   "type": "unknown",
+   "town": "Butte Meadows, CA",
+   "town_mi": 11.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sawmill Campground",
+   "type": "unknown",
+   "town": "Lake Hughes, CA",
+   "town_mi": 6.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Legacy Campground",
+   "type": "unknown",
+   "town": "Almanor, CA",
+   "town_mi": 0.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Aikens Creek West Campground",
+   "type": "unknown",
+   "town": "Weitchpec, CA",
+   "town_mi": 3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Roadrunner Campground",
+   "type": "unknown",
+   "town": "Holtville, CA",
+   "town_mi": 16.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "COTTONWOOD CAMPGROUND (CA)",
+   "type": "paid_camp",
+   "town": "North Shore, CA",
+   "town_mi": 17,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "COOPER GULCH CAMPGROUND",
+   "type": "paid_camp",
+   "town": "Lewiston, CA",
+   "town_mi": 3.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Aquatic Park Cove, Black Point Overnight Anchoring, Sailing Vessels only (auxiliary engine OK)",
+   "type": "paid_camp",
+   "town": "Sausalito, CA",
+   "town_mi": 5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kingston Campground",
+   "type": "free_camp",
+   "town": "Kingston, NV",
+   "town_mi": 4.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Woodcamp Campground",
+   "type": "paid_camp",
+   "town": "Sierra City, CA",
+   "town_mi": 7.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sawmill Walk-in Campground",
+   "type": "free_camp",
+   "town": "Virginia Lakes, CA",
+   "town_mi": 6.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagle Campground",
+   "type": "paid_camp",
+   "town": "Spaulding, CA",
+   "town_mi": 7.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mt. Lowe Trail Camp",
+   "type": "free_camp",
+   "town": "Altadena, CA",
+   "town_mi": 2.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fish Creek Campground",
+   "type": "paid_camp",
+   "town": "Kennedy Meadows, CA",
+   "town_mi": 7.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mt. Whitney Trailhead Ravine Campground",
+   "type": "paid_camp",
+   "town": "Lone Pine, CA",
+   "town_mi": 8.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Converse Basin",
+   "type": "free_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 4.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Western Big Meadow Road",
+   "type": "free_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rush Creek Campground",
+   "type": "paid_camp",
+   "town": "Weaverville, CA",
+   "town_mi": 5.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jackson Creek Campground",
+   "type": "paid_camp",
+   "town": "Graniteville, CA",
+   "town_mi": 7.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sulphur Springs Campground",
+   "type": "free_camp",
+   "town": "Happy Camp, CA",
+   "town_mi": 11.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fowlers Camp Campground",
+   "type": "paid_camp",
+   "town": "McCloud, CA",
+   "town_mi": 5.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hartley Springs Campground",
+   "type": "paid_camp",
+   "town": "June Lake, CA",
+   "town_mi": 4.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rock Creek (Family Cg)",
+   "type": "paid_camp",
+   "town": "Meadow Valley, CA",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Snag Lake Campground",
+   "type": "paid_camp",
+   "town": "Whitehawk, CA",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ballinger Campground",
+   "type": "paid_camp",
+   "town": "Cuyama, CA",
+   "town_mi": 10.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Burnt Ranch Campground",
+   "type": "paid_camp",
+   "town": "Burnt Ranch, CA",
+   "town_mi": 1.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Schoolhouse Campground",
+   "type": "paid_camp",
+   "town": "North San Juan, CA",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tomhead Saddle Campground",
+   "type": "free_camp",
+   "town": "Platina, CA",
+   "town_mi": 15.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sawmill Meadows Campground",
+   "type": "paid_camp",
+   "town": "Benton, CA",
+   "town_mi": 10.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buckeye Campground",
+   "type": "paid_camp",
+   "town": "Twin Lakes, CA",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Meadow Campground",
+   "type": "paid_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 7.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ellery Lake Campground",
+   "type": "paid_camp",
+   "town": "Lee Vining, CA",
+   "town_mi": 6.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Martin's Dairy Horse Camp",
+   "type": "paid_camp",
+   "town": "Mount Hebron, CA",
+   "town_mi": 10,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gooseneck Cove Boat-in Campground",
+   "type": "free_camp",
+   "town": "Lakehead, CA",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Swanson Campground",
+   "type": "paid_camp",
+   "town": "Shaver Lake, CA",
+   "town_mi": 2.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bullseye Lake",
+   "type": "free_camp",
+   "town": "Tennant, CA",
+   "town_mi": 17.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Meadow Rental Cabin",
+   "type": "paid_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 6.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Abbott Creek",
+   "type": "free_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 2.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sampson Flat",
+   "type": "free_camp",
+   "town": "Squaw Valley, CA",
+   "town_mi": 8.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tooms Rv Campground",
+   "type": "paid_camp",
+   "town": "Little Grass Valley, CA",
+   "town_mi": 1.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hirz Cabin",
+   "type": "paid_camp",
+   "town": "Lakehead, CA",
+   "town_mi": 7.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Milton Reservoir Camping Area",
+   "type": "free_camp",
+   "town": "Sierra City, CA",
+   "town_mi": 4.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Meadow Lake Campground",
+   "type": "paid_camp",
+   "town": "Kingvale, CA",
+   "town_mi": 7.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pierce Pond",
+   "type": "free_camp",
+   "town": "Hartland, CA",
+   "town_mi": 1.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hirz Mt Lookout",
+   "type": "paid_camp",
+   "town": "Lakehead, CA",
+   "town_mi": 8.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Meadow Camp",
+   "type": "paid_camp",
+   "town": "Meadow Valley, CA",
+   "town_mi": 2.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stag Point Ohv Trailhead And Camp",
+   "type": "free_camp",
+   "town": "Little Grass Valley, CA",
+   "town_mi": 8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Fork Campground",
+   "type": "paid_camp",
+   "town": "Belden, CA",
+   "town_mi": 2.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Post Creek Lookout",
+   "type": "paid_camp",
+   "town": "Platina, CA",
+   "town_mi": 8.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Golden Trout Campground",
+   "type": "paid_camp",
+   "town": "Clipper Mills, CA",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Orr Lake Campground",
+   "type": "free_camp",
+   "town": "Tennant, CA",
+   "town_mi": 6.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Summit Meadow/Lookout Peak",
+   "type": "free_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 13.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lava Butte Campground",
+   "type": "free_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Green Cabin Flat Campground",
+   "type": "free_camp",
+   "town": "Squaw Valley, CA",
+   "town_mi": 11.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Canyon Creek Campground",
+   "type": "paid_camp",
+   "town": "Graniteville, CA",
+   "town_mi": 8.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Valley Horse Camp",
+   "type": "free_camp",
+   "town": "Strawberry, CA",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ludlum House",
+   "type": "paid_camp",
+   "town": "Harbor, OR",
+   "town_mi": 7.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wakalu Hep Yo (wild River) Campground",
+   "type": "paid_camp",
+   "town": "Dorrington, CA",
+   "town_mi": 2.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "San Juan Cua Campground",
+   "type": "free_camp",
+   "town": "Kingston, NV",
+   "town_mi": 12.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cherry Flat",
+   "type": "free_camp",
+   "town": "Hartland, CA",
+   "town_mi": 3.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ruling Creek Campground",
+   "type": "paid_camp",
+   "town": "Big Bend, CA",
+   "town_mi": 8.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp 4 1/2 Cabin",
+   "type": "free_camp",
+   "town": "Squaw Valley, CA",
+   "town_mi": 10.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Reservoir C Campground",
+   "type": "free_camp",
+   "town": "Canby, CA",
+   "town_mi": 15.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Deadman Campground",
+   "type": "free_camp",
+   "town": "June Lake, CA",
+   "town_mi": 6.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Virginia Creek Campground",
+   "type": "free_camp",
+   "town": "Virginia Lakes, CA",
+   "town_mi": 1.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kingston Guard Station",
+   "type": "free_camp",
+   "town": "Kingston, NV",
+   "town_mi": 5.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Boulder",
+   "type": "free_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 9.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Hume Lake Road",
+   "type": "free_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 5.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spinning Wheel Campground",
+   "type": "paid_camp",
+   "town": "Buck Meadows, CA",
+   "town_mi": 5.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kerrick Corral Campground",
+   "type": "free_camp",
+   "town": "Strawberry, CA",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Onion Valley Campground",
+   "type": "paid_camp",
+   "town": "Alta, CA",
+   "town_mi": 8.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagle Meadows Horse Camp",
+   "type": "free_camp",
+   "town": "Strawberry, CA",
+   "town_mi": 11.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chicago Stump Trailhead",
+   "type": "free_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 4.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bolan Mountain Lookout",
+   "type": "paid_camp",
+   "town": "Takilma, OR",
+   "town_mi": 8.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "White Rock Campground",
+   "type": "free_camp",
+   "town": "Soda Springs, CA",
+   "town_mi": 6.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eastern Big Meadow Road",
+   "type": "free_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 6.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chula Vista",
+   "type": "paid_camp",
+   "town": "Pine Mountain Club, CA",
+   "town_mi": 3.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lone Rock Campground",
+   "type": "free_camp",
+   "town": "Pollock Pines, CA",
+   "town_mi": 13.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Garden Point Campground",
+   "type": "paid_camp",
+   "town": "Camptonville, CA",
+   "town_mi": 4.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Indian Valley Camp",
+   "type": "free_camp",
+   "town": "Post Mountain, CA",
+   "town_mi": 7.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spruce Grove Campground",
+   "type": "free_camp",
+   "town": "Sierra Madre, CA",
+   "town_mi": 3.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Schonchin Springs",
+   "type": "paid_camp",
+   "town": "Tennant, CA",
+   "town_mi": 15.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gravel Flat Camping Area",
+   "type": "free_camp",
+   "town": "Squaw Valley, CA",
+   "town_mi": 11.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Davis",
+   "type": "free_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 9.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Poso Guard Station",
+   "type": "paid_camp",
+   "town": "California Hot Springs, CA",
+   "town_mi": 4.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bear Wallow Camping Area",
+   "type": "free_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 11.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bitterbrush Campground",
+   "type": "paid_camp",
+   "town": "West Bishop, CA",
+   "town_mi": 7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Intake 2 Campground",
+   "type": "paid_camp",
+   "town": "West Bishop, CA",
+   "town_mi": 10.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Hell Hole Campground",
+   "type": "free_camp",
+   "town": "Sunnyside-Tahoe City, CA",
+   "town_mi": 11,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sly Creek",
+   "type": "paid_camp",
+   "town": "Clipper Mills, CA",
+   "town_mi": 4.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fresno Dome Campground",
+   "type": "paid_camp",
+   "town": "Fish Camp, CA",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hacienda Campground",
+   "type": "paid_camp",
+   "town": "Twain Harte, CA",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Rush Creek Campground",
+   "type": "free_camp",
+   "town": "Adin, CA",
+   "town_mi": 7.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Stony Campground",
+   "type": "paid_camp",
+   "town": "Lodoga, CA",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Campground",
+   "type": "paid_camp",
+   "town": "Wrightwood, CA",
+   "town_mi": 6.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fouts Campground",
+   "type": "paid_camp",
+   "town": "Stonyford, CA",
+   "town_mi": 5.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Fork Campground",
+   "type": "paid_camp",
+   "town": "Stonyford, CA",
+   "town_mi": 5.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Clover Meadow Campground",
+   "type": "free_camp",
+   "town": "Mammoth Lakes, CA",
+   "town_mi": 17.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nelder Grove",
+   "type": "free_camp",
+   "town": "Fish Camp, CA",
+   "town_mi": 4.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Algoma Campground",
+   "type": "free_camp",
+   "town": "McCloud, CA",
+   "town_mi": 13.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dark Day Campground",
+   "type": "paid_camp",
+   "town": "Camptonville, CA",
+   "town_mi": 3.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Rock Campground",
+   "type": "paid_camp",
+   "town": "Little Grass Valley, CA",
+   "town_mi": 2.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lakes Basin Family Campground .",
+   "type": "paid_camp",
+   "town": "Graeagle, CA",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Toad Lake Campground",
+   "type": "free_camp",
+   "town": "Mount Shasta, CA",
+   "town_mi": 9.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sample Meadow",
+   "type": "free_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 10.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buck Rock Campground",
+   "type": "free_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 5.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Laufman Campground",
+   "type": "paid_camp",
+   "town": "Milford, CA",
+   "town_mi": 1.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Creek Campground",
+   "type": "free_camp",
+   "town": "Kingston, NV",
+   "town_mi": 31.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wrangle Campground",
+   "type": "free_camp",
+   "town": "Ashland, OR",
+   "town_mi": 12.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trinity River Campground",
+   "type": "paid_camp",
+   "town": "Coffee Creek, CA",
+   "town_mi": 2.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Redbank Campground",
+   "type": "free_camp",
+   "town": "Etna, CA",
+   "town_mi": 20.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jack Creek Campground",
+   "type": "free_camp",
+   "town": "Wildhorse, NV",
+   "town_mi": 14.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Alpine West Shore Campground",
+   "type": "paid_camp",
+   "town": "Bear Valley, CA",
+   "town_mi": 2.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Herring Reservoir Campground",
+   "type": "paid_camp",
+   "town": "Strawberry, CA",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bloomfield Campground",
+   "type": "paid_camp",
+   "town": "Markleeville, CA",
+   "town_mi": 10.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Corral Creek Dispersed Camping",
+   "type": "free_camp",
+   "town": "Kernville, CA",
+   "town_mi": 7.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elam Creek Campground",
+   "type": "paid_camp",
+   "town": "Chester, CA",
+   "town_mi": 12,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fletcher View Campground",
+   "type": "paid_camp",
+   "town": "Mount Charleston, NV",
+   "town_mi": 0.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "bigflat Trailhead",
+   "type": "free_camp",
+   "town": "Coffee Creek, CA",
+   "town_mi": 11.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Springs Campground",
+   "type": "paid_camp",
+   "town": "Pine Mountain Club, CA",
+   "town_mi": 10.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Escondido",
+   "type": "paid_camp",
+   "town": "Fort Hunter Liggett, CA",
+   "town_mi": 17.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cedar Pass",
+   "type": "free_camp",
+   "town": "Cedarville, CA",
+   "town_mi": 6.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Mountain Lookout",
+   "type": "paid_camp",
+   "town": "Milford, CA",
+   "town_mi": 3.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Jimmy Campground",
+   "type": "free_camp",
+   "town": "Wrightwood, CA",
+   "town_mi": 11.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Fork Trail Camp",
+   "type": "free_camp",
+   "town": "Sierra Madre, CA",
+   "town_mi": 5.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Robinson Flat Campground",
+   "type": "free_camp",
+   "town": "Kingvale, CA",
+   "town_mi": 11.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Backpacker's Walk-in Campground",
+   "type": "paid_camp",
+   "town": "Bear Valley, CA",
+   "town_mi": 3.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Glenn Camp",
+   "type": "paid_camp",
+   "town": "Duarte, CA",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sage Picnic Site",
+   "type": "paid_camp",
+   "town": "Littlerock, CA",
+   "town_mi": 4.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mcwilliams Campground",
+   "type": "paid_camp",
+   "town": "Mount Charleston, NV",
+   "town_mi": 4.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Memorial Campground",
+   "type": "paid_camp",
+   "town": "Fort Hunter Liggett, CA",
+   "town_mi": 15.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Reyes Creek Campground",
+   "type": "paid_camp",
+   "town": "Pine Mountain Club, CA",
+   "town_mi": 13.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Merrill Campground",
+   "type": "paid_camp",
+   "town": "Spaulding, CA",
+   "town_mi": 7.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Plum Valley Campground",
+   "type": "free_camp",
+   "town": "Lake City, CA",
+   "town_mi": 7.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bob Scott Campground",
+   "type": "paid_camp",
+   "town": "Austin, NV",
+   "town_mi": 4.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cave Campground",
+   "type": "paid_camp",
+   "town": "Old Station, CA",
+   "town_mi": 1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cedar Camp Campground",
+   "type": "free_camp",
+   "town": "Lodoga, CA",
+   "town_mi": 10.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Clear Creek Campground",
+   "type": "free_camp",
+   "town": "Trinity Center, CA",
+   "town_mi": 7.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Summit",
+   "type": "free_camp",
+   "town": "Shaver Lake, CA",
+   "town_mi": 6.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Miranda Pines",
+   "type": "paid_camp",
+   "town": "Garey, CA",
+   "town_mi": 18.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pavlak Campground",
+   "type": "free_camp",
+   "town": "Jarbidge, NV",
+   "town_mi": 2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fir Top Campground",
+   "type": "paid_camp",
+   "town": "Sierra City, CA",
+   "town_mi": 7.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Toquima Cave Campground",
+   "type": "free_camp",
+   "town": "Kingston, NV",
+   "town_mi": 14.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Navy Camp Campground",
+   "type": "paid_camp",
+   "town": "Potter Valley, CA",
+   "town_mi": 11.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Soda Springs Campground",
+   "type": "paid_camp",
+   "town": "Bass Lake, CA",
+   "town_mi": 10.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Middle Lion",
+   "type": "paid_camp",
+   "town": "Ojai, CA",
+   "town_mi": 8.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lone Rock (family Campground )",
+   "type": "paid_camp",
+   "town": "Janesville, CA",
+   "town_mi": 10,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Harris Spring Campground",
+   "type": "free_camp",
+   "town": "Tennant, CA",
+   "town_mi": 10.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mill Flat Campground",
+   "type": "free_camp",
+   "town": "Squaw Valley, CA",
+   "town_mi": 11.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Doe Campground",
+   "type": "paid_camp",
+   "town": "Covelo, CA",
+   "town_mi": 15.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Butte Creek Campground",
+   "type": "free_camp",
+   "town": "Old Station, CA",
+   "town_mi": 7.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Baja",
+   "type": "free_camp",
+   "town": "Garey, CA",
+   "town_mi": 20.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Barrel Springs",
+   "type": "free_camp",
+   "town": "Sisquoc, CA",
+   "town_mi": 9.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mill Creek (family Campground )",
+   "type": "paid_camp",
+   "town": "Bucks Lake, CA",
+   "town_mi": 2.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lupine Campground",
+   "type": "paid_camp",
+   "town": "Wrightwood, CA",
+   "town_mi": 2.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Aliso Park Campground",
+   "type": "paid_camp",
+   "town": "New Cuyama, CA",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sundew (family Campground )",
+   "type": "paid_camp",
+   "town": "Bucks Lake, CA",
+   "town_mi": 1.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pass Creek Campground Annex",
+   "type": "paid_camp",
+   "town": "Sierra City, CA",
+   "town_mi": 6.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Keller Peak Yellow Post",
+   "type": "paid_camp",
+   "town": "Running Springs, CA",
+   "town_mi": 3.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Horse Flats Campground",
+   "type": "paid_camp",
+   "town": "Sierra Madre, CA",
+   "town_mi": 12.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Los Alamos Campground",
+   "type": "paid_camp",
+   "town": "Lebec, CA",
+   "town_mi": 11.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Salmon Creek Campground",
+   "type": "paid_camp",
+   "town": "Sierra City, CA",
+   "town_mi": 3.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brookshire",
+   "type": "paid_camp",
+   "town": "Garey, CA",
+   "town_mi": 14.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Greenville (family Campground )",
+   "type": "paid_camp",
+   "town": "Greenville, CA",
+   "town_mi": 1.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Willow Creek Campground",
+   "type": "free_camp",
+   "town": "New Pine Creek, OR",
+   "town_mi": 8.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Sandy Campground",
+   "type": "paid_camp",
+   "town": "Fish Camp, CA",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper San Juan Campground",
+   "type": "paid_camp",
+   "town": "Lakeland Village, CA",
+   "town_mi": 4.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Indian Springs Campground",
+   "type": "paid_camp",
+   "town": "Kingvale, CA",
+   "town_mi": 7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "East Fork Campground",
+   "type": "free_camp",
+   "town": "Coffee Creek, CA",
+   "town_mi": 21,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Silver Lake (Family Cg)",
+   "type": "paid_camp",
+   "town": "Meadow Valley, CA",
+   "town_mi": 3.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whitlock Campground",
+   "type": "free_camp",
+   "town": "Paskenta, CA",
+   "town_mi": 7.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Meadow Campground",
+   "type": "paid_camp",
+   "town": "Bear Valley, CA",
+   "town_mi": 4.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cottonwood Lakes Walk-in Campground",
+   "type": "paid_camp",
+   "town": "Lone Pine, CA",
+   "town_mi": 9.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whisky Falls Campground",
+   "type": "free_camp",
+   "town": "North Fork, CA",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Granite Creek",
+   "type": "free_camp",
+   "town": "Mammoth Lakes, CA",
+   "town_mi": 16.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crystal Springs Campground",
+   "type": "paid_camp",
+   "town": "Alpine Village, CA",
+   "town_mi": 2.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Berry Creek Campground",
+   "type": "free_camp",
+   "town": "Lund, NV",
+   "town_mi": 21.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sycamore Grove Camp Ground",
+   "type": "paid_camp",
+   "town": "Red Bluff, CA",
+   "town_mi": 2.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rose Valley",
+   "type": "paid_camp",
+   "town": "Ojai, CA",
+   "town_mi": 6.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Howard's Gulch Campground",
+   "type": "paid_camp",
+   "town": "Canby, CA",
+   "town_mi": 4.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Springs Campground",
+   "type": "paid_camp",
+   "town": "Mammoth Lakes, CA",
+   "town_mi": 9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Woodchuck Campground",
+   "type": "paid_camp",
+   "town": "Kingvale, CA",
+   "town_mi": 4.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Poppy Campground",
+   "type": "paid_camp",
+   "town": "Kingvale, CA",
+   "town_mi": 13.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Valle Vista Campground",
+   "type": "paid_camp",
+   "town": "Pine Mountain Club, CA",
+   "town_mi": 10.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Junction Campground",
+   "type": "paid_camp",
+   "town": "Lee Vining, CA",
+   "town_mi": 7.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Pine Grove Campground",
+   "type": "paid_camp",
+   "town": "Swall Meadows, CA",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rocky Point",
+   "type": "paid_camp",
+   "town": "Littlerock, CA",
+   "town_mi": 4.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bridge Campground",
+   "type": "paid_camp",
+   "town": "Old Station, CA",
+   "town_mi": 4.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Madrone Cove Campground",
+   "type": "paid_camp",
+   "town": "Clipper Mills, CA",
+   "town_mi": 4.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Luther Pass Overflow Campground",
+   "type": "free_camp",
+   "town": "Meyers, CA",
+   "town_mi": 2.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Nye",
+   "type": "free_camp",
+   "town": "Stonyford, CA",
+   "town_mi": 15.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crater Lake Campground",
+   "type": "paid_camp",
+   "town": "Spaulding, CA",
+   "town_mi": 14.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cal Ida Campground",
+   "type": "paid_camp",
+   "town": "Camptonville, CA",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sand Flat Campground",
+   "type": "free_camp",
+   "town": "Bear Valley, CA",
+   "town_mi": 4.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gaggs Camp",
+   "type": "paid_camp",
+   "town": "Bass Lake, CA",
+   "town_mi": 5.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grays Meadow Campground",
+   "type": "paid_camp",
+   "town": "Independence, CA",
+   "town_mi": 5.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brush Creek Dispersed Camping",
+   "type": "free_camp",
+   "town": "Ponderosa, CA",
+   "town_mi": 10,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Chiquito Campground",
+   "type": "paid_camp",
+   "town": "Bass Lake, CA",
+   "town_mi": 11.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ramshorn Campground",
+   "type": "paid_camp",
+   "town": "Goodyears Bar, CA",
+   "town_mi": 1.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fish Lake",
+   "type": "paid_camp",
+   "town": "Weitchpec, CA",
+   "town_mi": 4.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cattle Camp Campground",
+   "type": "paid_camp",
+   "town": "McCloud, CA",
+   "town_mi": 10.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Carlton Flat Campground",
+   "type": "paid_camp",
+   "town": "Camptonville, CA",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dillon Creek Campground",
+   "type": "paid_camp",
+   "town": "Happy Camp, CA",
+   "town_mi": 18.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Union East Campground",
+   "type": "paid_camp",
+   "town": "Bear Valley, CA",
+   "town_mi": 4.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sawmill Flat Campground",
+   "type": "free_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 16.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stoney Point Campground",
+   "type": "paid_camp",
+   "town": "Weaverville, CA",
+   "town_mi": 8.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "East Fork",
+   "type": "paid_camp",
+   "town": "Willow Creek, CA",
+   "town_mi": 4.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Meeks Bay Campground",
+   "type": "paid_camp",
+   "town": "Tahoma, CA",
+   "town_mi": 1.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ahart Campground",
+   "type": "paid_camp",
+   "town": "Kingvale, CA",
+   "town_mi": 12.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Cove Campground",
+   "type": "paid_camp",
+   "town": "Chilcoot-Vinton, CA",
+   "town_mi": 6.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Reyes Peak Campground",
+   "type": "paid_camp",
+   "town": "Meiners Oaks, CA",
+   "town_mi": 12.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mt Ashland Campground",
+   "type": "free_camp",
+   "town": "Ashland, OR",
+   "town_mi": 8.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Breckenridge Campground",
+   "type": "free_camp",
+   "town": "Bodfish, CA",
+   "town_mi": 9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "East Meadow Campground",
+   "type": "paid_camp",
+   "town": "Sierra City, CA",
+   "town_mi": 7.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Meadowview Equestrian Campground",
+   "type": "paid_camp",
+   "town": "Doyle, CA",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hope Valley Campground",
+   "type": "paid_camp",
+   "town": "Markleeville, CA",
+   "town_mi": 6.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buck Meadow Campground",
+   "type": "paid_camp",
+   "town": "Shaver Lake, CA",
+   "town_mi": 15.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cottonwood Flat",
+   "type": "free_camp",
+   "town": "Canby, CA",
+   "town_mi": 9.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bretz Mill Campground",
+   "type": "free_camp",
+   "town": "Shaver Lake, CA",
+   "town_mi": 6.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Messenger Flats Campground",
+   "type": "paid_camp",
+   "town": "Acton, CA",
+   "town_mi": 8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wagon Flat",
+   "type": "paid_camp",
+   "town": "Sisquoc, CA",
+   "town_mi": 12.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mosquito Flat Backpacker Campground",
+   "type": "free_camp",
+   "town": "Swall Meadows, CA",
+   "town_mi": 7.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Willow Campground",
+   "type": "paid_camp",
+   "town": "Wilkerson, CA",
+   "town_mi": 11,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kangaroo Lake Campground",
+   "type": "paid_camp",
+   "town": "Gazelle, CA",
+   "town_mi": 13.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cottonwood Springs Campground",
+   "type": "paid_camp",
+   "town": "Chilcoot-Vinton, CA",
+   "town_mi": 4.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hobo Gulch Campground/Trailhead",
+   "type": "free_camp",
+   "town": "Junction City, CA",
+   "town_mi": 13.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Old Mill Campground",
+   "type": "free_camp",
+   "town": "Stonyford, CA",
+   "town_mi": 6.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Santa Rosa Springs Cg",
+   "type": "free_camp",
+   "town": "La Quinta, CA",
+   "town_mi": 13,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Captains Point Boat-in Campground",
+   "type": "free_camp",
+   "town": "Trinity Center, CA",
+   "town_mi": 8.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Flat",
+   "type": "paid_camp",
+   "town": "Gasquet, CA",
+   "town_mi": 10.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tipsu Tyee Campground",
+   "type": "free_camp",
+   "town": "Ruch, OR",
+   "town_mi": 14.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dog Lake Campground",
+   "type": "paid_camp",
+   "town": "Lakeview, OR",
+   "town_mi": 19.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nettle Springs",
+   "type": "free_camp",
+   "town": "Pine Mountain Club, CA",
+   "town_mi": 7.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Matthews Creek Campground",
+   "type": "paid_camp",
+   "town": "Weitchpec, CA",
+   "town_mi": 24.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grouse Ridge Campground",
+   "type": "paid_camp",
+   "town": "Graniteville, CA",
+   "town_mi": 7.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Branch Campground",
+   "type": "free_camp",
+   "town": "Happy Camp, CA",
+   "town_mi": 9.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Rock Campground",
+   "type": "paid_camp",
+   "town": "Wrightwood, CA",
+   "town_mi": 9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Devore Campground",
+   "type": "free_camp",
+   "town": "Sierra Madre, CA",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jackass Springs Campground",
+   "type": "free_camp",
+   "town": "Trinity Center, CA",
+   "town_mi": 2.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Emerson Campground",
+   "type": "free_camp",
+   "town": "Eagleville, CA",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deerlick Springs Campground",
+   "type": "free_camp",
+   "town": "Platina, CA",
+   "town_mi": 7.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gull Lake Campground",
+   "type": "paid_camp",
+   "town": "June Lake, CA",
+   "town_mi": 1.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hidden Horse",
+   "type": "paid_camp",
+   "town": "Coffee Creek, CA",
+   "town_mi": 14,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "El Cariso Campground",
+   "type": "paid_camp",
+   "town": "Lakeland Village, CA",
+   "town_mi": 2.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gansner Bar (family Campground )",
+   "type": "paid_camp",
+   "town": "Belden, CA",
+   "town_mi": 1.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wildhorse Crossing Campground",
+   "type": "paid_camp",
+   "town": "Wildhorse, NV",
+   "town_mi": 7.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Davis Flat Campground",
+   "type": "paid_camp",
+   "town": "Stonyford, CA",
+   "town_mi": 5.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Leavitt Meadows Campground",
+   "type": "paid_camp",
+   "town": "Walker, CA",
+   "town_mi": 13.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deanes Valley Campground",
+   "type": "paid_camp",
+   "town": "Meadow Valley, CA",
+   "town_mi": 4.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Acorn Woman Lakes",
+   "type": "paid_camp",
+   "town": "Ruch, OR",
+   "town_mi": 13.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Glass Creek Campground",
+   "type": "paid_camp",
+   "town": "June Lake, CA",
+   "town_mi": 6.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Alder Creek Campground",
+   "type": "paid_camp",
+   "town": "Butte Meadows, CA",
+   "town_mi": 8.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Caballo Campground",
+   "type": "free_camp",
+   "town": "Pine Mountain Club, CA",
+   "town_mi": 3.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sonora Bridge Campground",
+   "type": "paid_camp",
+   "town": "Walker, CA",
+   "town_mi": 10.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wells Cabin Campground",
+   "type": "free_camp",
+   "town": "Covelo, CA",
+   "town_mi": 16.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Markleeville Campground",
+   "type": "paid_camp",
+   "town": "Markleeville, CA",
+   "town_mi": 2.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hell Gate Campground",
+   "type": "paid_camp",
+   "town": "Post Mountain, CA",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blue Lake",
+   "type": "paid_camp",
+   "town": "Madeline, CA",
+   "town_mi": 12.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hart-Tish Recreation Complex",
+   "type": "paid_camp",
+   "town": "Ruch, OR",
+   "town_mi": 13.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Desert Creek Campground",
+   "type": "free_camp",
+   "town": "Topaz, CA",
+   "town_mi": 8.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Watson Lake Campground",
+   "type": "free_camp",
+   "town": "Dutch Flat, CA",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Union Flat Campground",
+   "type": "paid_camp",
+   "town": "Downieville, CA",
+   "town_mi": 3.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Packsaddle Campground",
+   "type": "paid_camp",
+   "town": "Sierra City, CA",
+   "town_mi": 3.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deer Valley Campground",
+   "type": "paid_camp",
+   "town": "Upper Lake, CA",
+   "town_mi": 7.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kyle Canyon Campground",
+   "type": "paid_camp",
+   "town": "Mount Charleston, NV",
+   "town_mi": 0.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gould Mesa Campground",
+   "type": "free_camp",
+   "town": "La Crescenta-Montrose, CA",
+   "town_mi": 1.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Soup Springs Campground",
+   "type": "paid_camp",
+   "town": "Eagleville, CA",
+   "town_mi": 8.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cave Lake Campground",
+   "type": "paid_camp",
+   "town": "New Pine Creek, CA",
+   "town_mi": 5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Billy Creek, Upper Campground",
+   "type": "paid_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 2.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Aspen Campground",
+   "type": "paid_camp",
+   "town": "Lee Vining, CA",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shafter Campground",
+   "type": "paid_camp",
+   "town": "Mount Hebron, CA",
+   "town_mi": 5.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Forest Glen Campground",
+   "type": "paid_camp",
+   "town": "Ruth, CA",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fuller Grove Campground",
+   "type": "paid_camp",
+   "town": "Potter Valley, CA",
+   "town_mi": 11.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sycamore Flat Campground",
+   "type": "paid_camp",
+   "town": "Piñon Hills, CA",
+   "town_mi": 11.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Mountain Rental",
+   "type": "paid_camp",
+   "town": "Potter Valley, CA",
+   "town_mi": 5.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Idlewild Campground",
+   "type": "paid_camp",
+   "town": "Etna, CA",
+   "town_mi": 12.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Payne Springs Campground",
+   "type": "free_camp",
+   "town": "Tennant, CA",
+   "town_mi": 18.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sandy Flat Campground",
+   "type": "paid_camp",
+   "town": "Bear Valley, CA",
+   "town_mi": 3.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Honn Campground",
+   "type": "paid_camp",
+   "town": "Hat Creek, CA",
+   "town_mi": 1.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lye Creek Campground",
+   "type": "paid_camp",
+   "town": "Paradise Valley, NV",
+   "town_mi": 13.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Loganville Campground",
+   "type": "paid_camp",
+   "town": "Sierra City, CA",
+   "town_mi": 1.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Auxiliary Dam Campground",
+   "type": "paid_camp",
+   "town": "Lake Isabella, CA",
+   "town_mi": 1.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chilao Campgrounds",
+   "type": "paid_camp",
+   "town": "Sierra Madre, CA",
+   "town_mi": 10.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chapman Creek Campground",
+   "type": "paid_camp",
+   "town": "Sattley, CA",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gold Lake Boat Ramp",
+   "type": "paid_camp",
+   "town": "Chilcoot-Vinton, CA",
+   "town_mi": 7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ripstein Campground",
+   "type": "free_camp",
+   "town": "Junction City, CA",
+   "town_mi": 10.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Mountain Campground",
+   "type": "paid_camp",
+   "town": "Meiners Oaks, CA",
+   "town_mi": 13.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Valley Forge Campground",
+   "type": "free_camp",
+   "town": "Altadena, CA",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dimond \"O\" Campground",
+   "type": "paid_camp",
+   "town": "Buck Meadows, CA",
+   "town_mi": 11.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fort Goff Campground",
+   "type": "free_camp",
+   "town": "Happy Camp, CA",
+   "town_mi": 7.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Horse Flat Campground",
+   "type": "free_camp",
+   "town": "Coffee Creek, CA",
+   "town_mi": 6.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cedar Creek Campground",
+   "type": "free_camp",
+   "town": "Alta Sierra, CA",
+   "town_mi": 2.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jerseydale Campground",
+   "type": "paid_camp",
+   "town": "Midpines, CA",
+   "town_mi": 5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sawmill Campground",
+   "type": "free_camp",
+   "town": "Jarbidge, NV",
+   "town_mi": 0.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dutchman Campground",
+   "type": "paid_camp",
+   "town": "Frazier Park, CA",
+   "town_mi": 9.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sterling Lake Campground",
+   "type": "paid_camp",
+   "town": "Kingvale, CA",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Reds Meadow Campground",
+   "type": "paid_camp",
+   "town": "Mammoth Lakes, CA",
+   "town_mi": 4.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Bluster Campground",
+   "type": "free_camp",
+   "town": "Jarbidge, NV",
+   "town_mi": 2.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mcgill Campground",
+   "type": "paid_camp",
+   "town": "Pine Mountain Club, CA",
+   "town_mi": 4.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Forks Campground",
+   "type": "paid_camp",
+   "town": "West Bishop, CA",
+   "town_mi": 9.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tenmile Campground",
+   "type": "paid_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 3.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mill Valley Campground",
+   "type": "paid_camp",
+   "town": "Stonyford, CA",
+   "town_mi": 9.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Scott Mountain Campground",
+   "type": "free_camp",
+   "town": "Coffee Creek, CA",
+   "town_mi": 13.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Creek Campground",
+   "type": "free_camp",
+   "town": "Jarbidge, NV",
+   "town_mi": 2.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Aerie Crag Rav Camp",
+   "type": "paid_camp",
+   "town": "June Lake, CA",
+   "town_mi": 2.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wild Plum Campground",
+   "type": "paid_camp",
+   "town": "Sierra City, CA",
+   "town_mi": 1.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "White River Campground",
+   "type": "free_camp",
+   "town": "Preston, NV",
+   "town_mi": 15,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mt. Pacifico Campground",
+   "type": "paid_camp",
+   "town": "Littlerock, CA",
+   "town_mi": 10.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "North Lake Campground",
+   "type": "paid_camp",
+   "town": "West Bishop, CA",
+   "town_mi": 12.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Boulder Flat Campground",
+   "type": "paid_camp",
+   "town": "Bear Valley, CA",
+   "town_mi": 13.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trout Creek Campground",
+   "type": "free_camp",
+   "town": "Tennant, CA",
+   "town_mi": 9.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "O'Neil Creek Campground",
+   "type": "paid_camp",
+   "town": "Happy Camp, CA",
+   "town_mi": 14.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sims Flat Campground",
+   "type": "paid_camp",
+   "town": "Castella, CA",
+   "town_mi": 8.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Log Corral Meadow",
+   "type": "free_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 1.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Manker Campground",
+   "type": "paid_camp",
+   "town": "Wrightwood, CA",
+   "town_mi": 5.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fiddle Creek Campground",
+   "type": "paid_camp",
+   "town": "Camptonville, CA",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ah-Di-Na Campground",
+   "type": "paid_camp",
+   "town": "McCloud, CA",
+   "town_mi": 10.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Goldfield Campground",
+   "type": "free_camp",
+   "town": "Coffee Creek, CA",
+   "town_mi": 3.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bear Canyon Campground",
+   "type": "free_camp",
+   "town": "Altadena, CA",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deep Creek Campground",
+   "type": "free_camp",
+   "town": "New Pine Creek, OR",
+   "town_mi": 7.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mill Creek Falls Campground",
+   "type": "paid_camp",
+   "town": "Eagleville, CA",
+   "town_mi": 9.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lindsey Lake Campground",
+   "type": "paid_camp",
+   "town": "Graniteville, CA",
+   "town_mi": 5.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Peavine Creek Campground",
+   "type": "paid_camp",
+   "town": "Gabbs, NV",
+   "town_mi": 37.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lightning Point Campground",
+   "type": "paid_camp",
+   "town": "Acton, CA",
+   "town_mi": 8.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Silver Lake East Campground",
+   "type": "paid_camp",
+   "town": "Kirkwood, CA",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bishop Park Campground",
+   "type": "paid_camp",
+   "town": "West Bishop, CA",
+   "town_mi": 10.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grandview Campground",
+   "type": "paid_camp",
+   "town": "Bishop, CA",
+   "town_mi": 11.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lightning Tree Campground",
+   "type": "paid_camp",
+   "town": "Graeagle, CA",
+   "town_mi": 5.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Angel Creek Campground",
+   "type": "paid_camp",
+   "town": "Wells, NV",
+   "town_mi": 8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Voyager Rock Camping Area",
+   "type": "free_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 16.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Middle Creek Campground",
+   "type": "paid_camp",
+   "town": "Upper Lake, CA",
+   "town_mi": 6.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deadman Campground, Upper And Lower",
+   "type": "free_camp",
+   "town": "June Lake, CA",
+   "town_mi": 6.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pacific Valley Campground",
+   "type": "free_camp",
+   "town": "Bear Valley, CA",
+   "town_mi": 8.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eagle Creek Campground",
+   "type": "paid_camp",
+   "town": "Coffee Creek, CA",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rocky Rest Campground",
+   "type": "paid_camp",
+   "town": "Goodyears Bar, CA",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Penny Pines Campground",
+   "type": "paid_camp",
+   "town": "Upper Lake, CA",
+   "town_mi": 9.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Conklin Campground",
+   "type": "paid_camp",
+   "town": "Milford, CA",
+   "town_mi": 7.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kings Campground",
+   "type": "paid_camp",
+   "town": "Frazier Park, CA",
+   "town_mi": 6.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Diablo Campground",
+   "type": "paid_camp",
+   "town": "Sierra City, CA",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Beaver Creek Campground",
+   "type": "free_camp",
+   "town": "Hornbrook, CA",
+   "town_mi": 14,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Three Prong Campground",
+   "type": "free_camp",
+   "town": "Paskenta, CA",
+   "town_mi": 13.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "West Kaiser",
+   "type": "free_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 9.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bear Basin Butte Lookout / Pierson Cabin",
+   "type": "paid_camp",
+   "town": "Gasquet, CA",
+   "town_mi": 12.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bolsillo Campground",
+   "type": "free_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 13.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brimstone OHV Campground",
+   "type": "free_camp",
+   "town": "Alta, CA",
+   "town_mi": 7.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Monte Cristo Campground",
+   "type": "paid_camp",
+   "town": "La Crescenta-Montrose, CA",
+   "town_mi": 10.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pepperdine",
+   "type": "paid_camp",
+   "town": "Cedarville, CA",
+   "town_mi": 6.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bogard Campground",
+   "type": "free_camp",
+   "town": "Clear Creek, CA",
+   "town_mi": 4.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "East Creek Campground",
+   "type": "paid_camp",
+   "town": "McGill, NV",
+   "town_mi": 9.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ski Island Boat-in Campground",
+   "type": "free_camp",
+   "town": "Jones Valley, CA",
+   "town_mi": 4.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hilltop Campground",
+   "type": "paid_camp",
+   "town": "Mount Charleston, NV",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Idlehour Campground",
+   "type": "free_camp",
+   "town": "Altadena, CA",
+   "town_mi": 3.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Highland Lakes Campground",
+   "type": "paid_camp",
+   "town": "Bear Valley, CA",
+   "town_mi": 13.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sage Flat Campground",
+   "type": "paid_camp",
+   "town": "Big Pine, CA",
+   "town_mi": 6.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Greys Mountain Campground",
+   "type": "paid_camp",
+   "town": "Bass Lake, CA",
+   "town_mi": 4.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tioga Lake Campground",
+   "type": "paid_camp",
+   "town": "Lee Vining, CA",
+   "town_mi": 7.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Snake Lake (Family Cg)",
+   "type": "paid_camp",
+   "town": "Keddie, CA",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Minaret Falls Campground",
+   "type": "paid_camp",
+   "town": "Mammoth Lakes, CA",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Peninsula Tent Campground",
+   "type": "paid_camp",
+   "town": "Little Grass Valley, CA",
+   "town_mi": 1.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Carr Lake Campground",
+   "type": "paid_camp",
+   "town": "Graniteville, CA",
+   "town_mi": 5.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake George Campground",
+   "type": "paid_camp",
+   "town": "Mammoth Lakes, CA",
+   "town_mi": 1.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Scott Flat Campground",
+   "type": "free_camp",
+   "town": "Post Mountain, CA",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Meadow Lake Campground",
+   "type": "paid_camp",
+   "town": "Kingvale, CA",
+   "town_mi": 6.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blue Ridge Campground",
+   "type": "paid_camp",
+   "town": "Wrightwood, CA",
+   "town_mi": 3.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rocky Knoll Campground",
+   "type": "paid_camp",
+   "town": "Mineral, CA",
+   "town_mi": 6.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Thorn Meadows",
+   "type": "free_camp",
+   "town": "Ojai, CA",
+   "town_mi": 14.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Ruby Campground",
+   "type": "paid_camp",
+   "town": "South Fork, NV",
+   "town_mi": 36.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Bend Campground",
+   "type": "paid_camp",
+   "town": "Lee Vining, CA",
+   "town_mi": 4.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gold Lake Picnic Area",
+   "type": "paid_camp",
+   "town": "Lake Davis, CA",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Toad Springs",
+   "type": "free_camp",
+   "town": "Pine Mountain Club, CA",
+   "town_mi": 3.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little North Fork Campground",
+   "type": "paid_camp",
+   "town": "Bucks Lake, CA",
+   "town_mi": 7.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wyandotte Campground",
+   "type": "paid_camp",
+   "town": "Little Grass Valley, CA",
+   "town_mi": 1.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Paradise Spring",
+   "type": "free_camp",
+   "town": "Garey, CA",
+   "town_mi": 20.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chirpchatter Campground",
+   "type": "free_camp",
+   "town": "Montgomery Creek, CA",
+   "town_mi": 10.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moraine Campground",
+   "type": "paid_camp",
+   "town": "Lee Vining, CA",
+   "town_mi": 2.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pierce Creek Campground",
+   "type": "free_camp",
+   "town": "Kingvale, CA",
+   "town_mi": 8.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Aspen Campground",
+   "type": "paid_camp",
+   "town": "Spaulding, CA",
+   "town_mi": 7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Four Jeffrey Campground",
+   "type": "paid_camp",
+   "town": "West Bishop, CA",
+   "town_mi": 9.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ward Lake Campground",
+   "type": "paid_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 15.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Bend Campground",
+   "type": "paid_camp",
+   "town": "Wildhorse, NV",
+   "town_mi": 11.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Sage Campground",
+   "type": "free_camp",
+   "town": "Daphnedale Park, CA",
+   "town_mi": 6.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Appletree Campground",
+   "type": "paid_camp",
+   "town": "Wrightwood, CA",
+   "town_mi": 5.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bradys Camp (Family Cg)",
+   "type": "free_camp",
+   "town": "Greenhorn, CA",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rocky Campground",
+   "type": "paid_camp",
+   "town": "Old Station, CA",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "China Bar Camping Area",
+   "type": "free_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 11.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Indian Valley Campground",
+   "type": "paid_camp",
+   "town": "Camptonville, CA",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rocky Point Campground",
+   "type": "paid_camp",
+   "town": "Bear Valley, CA",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mccarthy Point Lookout",
+   "type": "paid_camp",
+   "town": "Butte Meadows, CA",
+   "town_mi": 9.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Pine Campground",
+   "type": "paid_camp",
+   "town": "Old Station, CA",
+   "town_mi": 3.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Creek Campground",
+   "type": "free_camp",
+   "town": "Kingston, NV",
+   "town_mi": 10.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tool Box Spring Cg",
+   "type": "paid_camp",
+   "town": "Anza, CA",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ash Creek Campground",
+   "type": "free_camp",
+   "town": "Adin, CA",
+   "town_mi": 7.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Red Bridge",
+   "type": "free_camp",
+   "town": "Spring Garden, CA",
+   "town_mi": 3.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Coot Bay (fishing & Picnic Site)",
+   "type": "paid_camp",
+   "town": "Chilcoot-Vinton, CA",
+   "town_mi": 7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Figueroa",
+   "type": "paid_camp",
+   "town": "Los Olivos, CA",
+   "town_mi": 9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Columbine Campground",
+   "type": "free_camp",
+   "town": "Kingston, NV",
+   "town_mi": 27.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Arbuckle Flat Boat-in Campground",
+   "type": "free_camp",
+   "town": "Oak Run, CA",
+   "town_mi": 7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bear Creek Campground",
+   "type": "free_camp",
+   "town": "Upper Lake, CA",
+   "town_mi": 11.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mt. Rose Campground",
+   "type": "paid_camp",
+   "town": "Incline Village, NV",
+   "town_mi": 4.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jarbidge Campground",
+   "type": "free_camp",
+   "town": "Jarbidge, NV",
+   "town_mi": 0.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp Draw Trailhead",
+   "type": "free_camp",
+   "town": "Jarbidge, NV",
+   "town_mi": 8.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bootleg Campground",
+   "type": "paid_camp",
+   "town": "Walker, CA",
+   "town_mi": 7.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pigeon Point Campground",
+   "type": "paid_camp",
+   "town": "Junction City, CA",
+   "town_mi": 3.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sugarfoot Glade Campground",
+   "type": "free_camp",
+   "town": "Paskenta, CA",
+   "town_mi": 12.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Madrone Campground",
+   "type": "free_camp",
+   "town": "Big Bend, CA",
+   "town_mi": 10.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Echo Lake",
+   "type": "free_camp",
+   "town": "Warner Valley, CA",
+   "town_mi": 9.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Jones Valley Campground",
+   "type": "paid_camp",
+   "town": "Jones Valley, CA",
+   "town_mi": 2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Trees Campground",
+   "type": "paid_camp",
+   "town": "West Bishop, CA",
+   "town_mi": 8.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mccloud Bridge Campground",
+   "type": "paid_camp",
+   "town": "Lakehead, CA",
+   "town_mi": 8.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Willow Creek Campground",
+   "type": "paid_camp",
+   "town": "Adin, CA",
+   "town_mi": 14.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sabrina Campground",
+   "type": "paid_camp",
+   "town": "West Bishop, CA",
+   "town_mi": 12.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Morton Peak Lo",
+   "type": "paid_camp",
+   "town": "Yucaipa, CA",
+   "town_mi": 4.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Martin Meadow Campground",
+   "type": "free_camp",
+   "town": "Kirkwood, CA",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Talbot Campground",
+   "type": "free_camp",
+   "town": "Soda Springs, CA",
+   "town_mi": 9.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "chico Flat Campground",
+   "type": "free_camp",
+   "town": "Kernville, CA",
+   "town_mi": 5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Holiday Campground",
+   "type": "paid_camp",
+   "town": "Aspen Springs, CA",
+   "town_mi": 1.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mariners Roost Boat-in Campground",
+   "type": "free_camp",
+   "town": "Lewiston, CA",
+   "town_mi": 10.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Grizzly Creek Campground",
+   "type": "paid_camp",
+   "town": "Bucks Lake, CA",
+   "town_mi": 1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chris Flat Campground",
+   "type": "paid_camp",
+   "town": "Walker, CA",
+   "town_mi": 8.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kirk Creek",
+   "type": "paid_camp",
+   "town": "Fort Hunter Liggett, CA",
+   "town_mi": 14.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yuba Pass Campground",
+   "type": "paid_camp",
+   "town": "Sattley, CA",
+   "town_mi": 3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bear Campground",
+   "type": "free_camp",
+   "town": "Lake Hughes, CA",
+   "town_mi": 10.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Plaskett Meadows Campground",
+   "type": "paid_camp",
+   "town": "Elk Creek, CA",
+   "town_mi": 19,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Soda Springs Campground",
+   "type": "paid_camp",
+   "town": "Mammoth Lakes, CA",
+   "town_mi": 5.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine City Campground",
+   "type": "paid_camp",
+   "town": "Mammoth Lakes, CA",
+   "town_mi": 1.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mcbride Springs Campground",
+   "type": "paid_camp",
+   "town": "Mount Shasta, CA",
+   "town_mi": 2.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ponderosa Campground",
+   "type": "paid_camp",
+   "town": "Fort Hunter Liggett, CA",
+   "town_mi": 8.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Panther Meadows Campground",
+   "type": "free_camp",
+   "town": "Mount Shasta, CA",
+   "town_mi": 6.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grizzly Flat Dispersed Camping",
+   "type": "free_camp",
+   "town": "Covelo, CA",
+   "town_mi": 16,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kalamazoo Campground",
+   "type": "paid_camp",
+   "town": "McGill, NV",
+   "town_mi": 15.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mt. Pinos Campground",
+   "type": "paid_camp",
+   "town": "Pine Mountain Club, CA",
+   "town_mi": 3.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hampshire Rocks Campground",
+   "type": "paid_camp",
+   "town": "Kingvale, CA",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Angel Lake Campground",
+   "type": "paid_camp",
+   "town": "Wells, NV",
+   "town_mi": 9.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Atchison Campground",
+   "type": "free_camp",
+   "town": "Covelo, CA",
+   "town_mi": 19.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cooper Canyon Campground",
+   "type": "free_camp",
+   "town": "Littlerock, CA",
+   "town_mi": 11.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rat Trap Gap Campground And Trailhead",
+   "type": "free_camp",
+   "town": "Platina, CA",
+   "town_mi": 10.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gumboot Campground",
+   "type": "free_camp",
+   "town": "Castella, CA",
+   "town_mi": 11.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Reservoir F Campground",
+   "type": "free_camp",
+   "town": "Canby, CA",
+   "town_mi": 9.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eel River Campground",
+   "type": "paid_camp",
+   "town": "Covelo, CA",
+   "town_mi": 9.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Clark Springs Campground",
+   "type": "paid_camp",
+   "town": "Weaverville, CA",
+   "town_mi": 10.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sulphur Springs Campground",
+   "type": "free_camp",
+   "town": "Littlerock, CA",
+   "town_mi": 11,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Thomas Canyon Campground",
+   "type": "paid_camp",
+   "town": "Lamoille, NV",
+   "town_mi": 6.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Horseshoe Meadows Horse Camp",
+   "type": "paid_camp",
+   "town": "Lone Pine, CA",
+   "town_mi": 9.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Patterson Campground",
+   "type": "paid_camp",
+   "town": "Eagleville, CA",
+   "town_mi": 9.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gurnsey Creek Campground",
+   "type": "paid_camp",
+   "town": "Warner Valley, CA",
+   "town_mi": 8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sierra Campground",
+   "type": "paid_camp",
+   "town": "Sierra City, CA",
+   "town_mi": 5.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chuchupate Campground",
+   "type": "paid_camp",
+   "town": "Lake of the Woods, CA",
+   "town_mi": 2.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spring Camp",
+   "type": "free_camp",
+   "town": "Monrovia, CA",
+   "town_mi": 3.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Green's Creek Boat-in Campground",
+   "type": "free_camp",
+   "town": "Mountain Gate, CA",
+   "town_mi": 8.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buckhorn Campground",
+   "type": "paid_camp",
+   "town": "Duarte, CA",
+   "town_mi": 13,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trail Creek Campground",
+   "type": "paid_camp",
+   "town": "Etna, CA",
+   "town_mi": 16.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kennedy Meadows Campground",
+   "type": "free_camp",
+   "town": "Kennedy Meadows, CA",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Frog Meadow Campground",
+   "type": "free_camp",
+   "town": "Sugarloaf Saw Mill, CA",
+   "town_mi": 3.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Marian",
+   "type": "free_camp",
+   "town": "Pine Mountain Club, CA",
+   "town_mi": 3.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Halfmoon Campground",
+   "type": "paid_camp",
+   "town": "Lake of the Woods, CA",
+   "town_mi": 12.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kingsley Glade Campground",
+   "type": "free_camp",
+   "town": "Paskenta, CA",
+   "town_mi": 11.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Meadows Campground",
+   "type": "paid_camp",
+   "town": "Aspen Springs, CA",
+   "town_mi": 2.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Iris Meadow Campground",
+   "type": "paid_camp",
+   "town": "Aspen Springs, CA",
+   "town_mi": 2.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Basin Gulch Campground",
+   "type": "paid_camp",
+   "town": "Platina, CA",
+   "town_mi": 2.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "hammerhorn Lake Campground",
+   "type": "paid_camp",
+   "town": "Covelo, CA",
+   "town_mi": 17.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Grizzly",
+   "type": "free_camp",
+   "town": "Belden, CA",
+   "town_mi": 9.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Meadowview Campground",
+   "type": "paid_camp",
+   "town": "Strawberry, CA",
+   "town_mi": 0.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Bucks (Family Cg)",
+   "type": "paid_camp",
+   "town": "Bucks Lake, CA",
+   "town_mi": 1.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Beaver Campground",
+   "type": "paid_camp",
+   "town": "Little Grass Valley, CA",
+   "town_mi": 0.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mcgee Creek Campground",
+   "type": "free_camp",
+   "town": "McGee Creek, CA",
+   "town_mi": 1.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Oak Flat Campground",
+   "type": "paid_camp",
+   "town": "Potter Valley, CA",
+   "town_mi": 12,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Limestone Campground",
+   "type": "paid_camp",
+   "town": "Ponderosa, CA",
+   "town_mi": 10.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stough Reservoir Campground",
+   "type": "paid_camp",
+   "town": "Cedarville, CA",
+   "town_mi": 4.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deadlun Campground",
+   "type": "free_camp",
+   "town": "Big Bend, CA",
+   "town_mi": 4.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Queen Lily Campground",
+   "type": "paid_camp",
+   "town": "Belden, CA",
+   "town_mi": 3.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mountain Glen Campground",
+   "type": "paid_camp",
+   "town": "Wilkerson, CA",
+   "town_mi": 10.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bear Valley Campground",
+   "type": "free_camp",
+   "town": "Sierra Brooks, CA",
+   "town_mi": 6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cherry Hill Campground",
+   "type": "paid_camp",
+   "town": "Butte Meadows, CA",
+   "town_mi": 2.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Badger Flat Campground",
+   "type": "paid_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 8.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Friis",
+   "type": "free_camp",
+   "town": "Creston, CA",
+   "town_mi": 14.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sardine Campground",
+   "type": "paid_camp",
+   "town": "Sierra City, CA",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Boulder Gulch Campground",
+   "type": "paid_camp",
+   "town": "Lake Isabella, CA",
+   "town_mi": 2.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bailey Cove Campground",
+   "type": "paid_camp",
+   "town": "Mountain Gate, CA",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crystal Lake Recreation Area",
+   "type": "paid_camp",
+   "town": "Wrightwood, CA",
+   "town_mi": 12,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hoegees Campground",
+   "type": "free_camp",
+   "town": "Sierra Madre, CA",
+   "town_mi": 2.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wishon Point Campground",
+   "type": "paid_camp",
+   "town": "Bass Lake, CA",
+   "town_mi": 2.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Little Jackass Campground",
+   "type": "free_camp",
+   "town": "Bass Lake, CA",
+   "town_mi": 13.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rucker Lake Campground",
+   "type": "paid_camp",
+   "town": "Washington, CA",
+   "town_mi": 7.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sweetwater Campground",
+   "type": "paid_camp",
+   "town": "Buck Meadows, CA",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Carberry Campground",
+   "type": "paid_camp",
+   "town": "Williams, OR",
+   "town_mi": 15,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Preacher Meadow Campground",
+   "type": "paid_camp",
+   "town": "Trinity Center, CA",
+   "town_mi": 1.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Chiquito Campground",
+   "type": "free_camp",
+   "town": "Fish Camp, CA",
+   "town_mi": 12.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Peppermint Campground",
+   "type": "paid_camp",
+   "town": "Ponderosa, CA",
+   "town_mi": 3.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ward Mountain Campground",
+   "type": "paid_camp",
+   "town": "Ruth, NV",
+   "town_mi": 4.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Oak Flat Campground",
+   "type": "paid_camp",
+   "town": "Hasley Canyon, CA",
+   "town_mi": 8.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Placer Campground",
+   "type": "paid_camp",
+   "town": "Bass Lake, CA",
+   "town_mi": 11.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Flat Camp Ground",
+   "type": "paid_camp",
+   "town": "Junction City, CA",
+   "town_mi": 6.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sunset Campground",
+   "type": "paid_camp",
+   "town": "Potter Valley, CA",
+   "town_mi": 12.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bridge Camp Campground",
+   "type": "paid_camp",
+   "town": "Weaverville, CA",
+   "town_mi": 9.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jackass Meadow Campground",
+   "type": "paid_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 16.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mary Smith Campground",
+   "type": "paid_camp",
+   "town": "Lewiston, CA",
+   "town_mi": 2.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hermit Valley Campground",
+   "type": "paid_camp",
+   "town": "Bear Valley, CA",
+   "town_mi": 9.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Portal Forebay Campground",
+   "type": "paid_camp",
+   "town": "Big Creek, CA",
+   "town_mi": 12.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Watkins Campground",
+   "type": "paid_camp",
+   "town": "Williams, OR",
+   "town_mi": 15.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Whiskers Campground",
+   "type": "paid_camp",
+   "town": "Bass Lake, CA",
+   "town_mi": 4.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Guffy Campground",
+   "type": "paid_camp",
+   "town": "Wrightwood, CA",
+   "town_mi": 1.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Findley Campground",
+   "type": "paid_camp",
+   "town": "Sierra City, CA",
+   "town_mi": 7.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lumsden Campground",
+   "type": "paid_camp",
+   "town": "Buck Meadows, CA",
+   "town_mi": 2.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Marten Campground",
+   "type": "paid_camp",
+   "town": "Bear Valley, CA",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Timber Creek Campground",
+   "type": "paid_camp",
+   "town": "McGill, NV",
+   "town_mi": 7.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Navajo Flat/Ohv Staging Area",
+   "type": "paid_camp",
+   "town": "Creston, CA",
+   "town_mi": 16.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nira",
+   "type": "paid_camp",
+   "town": "Los Olivos, CA",
+   "town_mi": 12.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "La Panza",
+   "type": "paid_camp",
+   "town": "Creston, CA",
+   "town_mi": 18.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bates Canyon",
+   "type": "paid_camp",
+   "town": "New Cuyama, CA",
+   "town_mi": 12.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cerro Alto",
+   "type": "paid_camp",
+   "town": "Atascadero, CA",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Horseshoe",
+   "type": "paid_camp",
+   "town": "Garey, CA",
+   "town_mi": 13.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Landslide Campground",
+   "type": "paid_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 4.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hume Lake Campground",
+   "type": "paid_camp",
+   "town": "Wilsonia, CA",
+   "town_mi": 4.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Turkey Flat Ohv Staging Area",
+   "type": "paid_camp",
+   "town": "Santa Margarita, CA",
+   "town_mi": 14.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Davy Brown",
+   "type": "paid_camp",
+   "town": "Los Olivos, CA",
+   "town_mi": 11.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp 9 Recreation Area",
+   "type": "paid_camp",
+   "town": "Wofford Heights, CA",
+   "town_mi": 3.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hi Mountain",
+   "type": "paid_camp",
+   "town": "Edna, CA",
+   "town_mi": 11.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Buck Spring",
+   "type": "free_camp",
+   "town": "Garey, CA",
+   "town_mi": 20.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "American Canyon",
+   "type": "paid_camp",
+   "town": "Edna, CA",
+   "town_mi": 19.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kirby Cove Campground",
+   "type": "unknown",
+   "town": "Sausalito, CA",
+   "town_mi": 2.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jedediah Smith Campground - Jedediah Smith Redwoods State Park",
+   "type": "unknown",
+   "town": "Hiouchi, CA",
+   "town_mi": 1.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "White Tank Campground",
+   "type": "unknown",
+   "town": "Twentynine Palms, CA",
+   "town_mi": 11.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ryan Campground",
+   "type": "unknown",
+   "town": "Indio Hills, CA",
+   "town_mi": 11.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pinnacles Campground",
+   "type": "unknown",
+   "town": "Soledad, CA",
+   "town_mi": 10.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mill Creek Campground - Del Norte Coast Redwoods State Park",
+   "type": "unknown",
+   "town": "Bertsch-Oceanview, CA",
+   "town_mi": 5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mid Hills Campground",
+   "type": "unknown",
+   "town": "Cal-Nev-Ari, NV",
+   "town_mi": 33.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Texas Springs Campground",
+   "type": "unknown",
+   "town": "Furnace Creek, CA",
+   "town_mi": 2.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Indian Cove Campground",
+   "type": "unknown",
+   "town": "Twentynine Palms, CA",
+   "town_mi": 6.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Indian Well Campground",
+   "type": "unknown",
+   "town": "Newell, CA",
+   "town_mi": 14,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gold Bluffs Beach Campground - Prairie Creek Redwoods State Park",
+   "type": "unknown",
+   "town": "Orick, CA",
+   "town_mi": 6.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hidden Valley Campground",
+   "type": "unknown",
+   "town": "Twentynine Palms, CA",
+   "town_mi": 10.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hole-in-the-Wall Campground",
+   "type": "unknown",
+   "town": "Cal-Nev-Ari, NV",
+   "town_mi": 34,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hawk Campground",
+   "type": "unknown",
+   "town": "Marin City, CA",
+   "town_mi": 1.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Haypress Campground",
+   "type": "unknown",
+   "town": "Tamalpais-Homestead Valley, CA",
+   "town_mi": 1.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bicentennial Campground",
+   "type": "unknown",
+   "town": "Sausalito, CA",
+   "town_mi": 3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Belle Campground",
+   "type": "unknown",
+   "town": "Twentynine Palms, CA",
+   "town_mi": 10.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Circle X Ranch Campground - CLOSED",
+   "type": "unknown",
+   "town": "Lake Sherwood, CA",
+   "town_mi": 2.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brandy Creek RV",
+   "type": "unknown",
+   "town": "Shasta, CA",
+   "town_mi": 5.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Elk Prairie Campground - Prairie Creek Redwoods State Park",
+   "type": "unknown",
+   "town": "Orick, CA",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rob Hill Campground",
+   "type": "unknown",
+   "town": "Sausalito, CA",
+   "town_mi": 4.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mesquite Spring Campground",
+   "type": "unknown",
+   "town": "Beatty, NV",
+   "town_mi": 35.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Glen Campground",
+   "type": "unknown",
+   "town": "Lagunitas-Forest Knolls, CA",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sky Campground",
+   "type": "unknown",
+   "town": "Point Reyes Station, CA",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Azalea Campground",
+   "type": "unknown",
+   "town": "Wilsonia, CA",
+   "town_mi": 0.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wildcat Campground",
+   "type": "unknown",
+   "town": "Bolinas, CA",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cold Springs Campground",
+   "type": "unknown",
+   "town": "Silver City, CA",
+   "town_mi": 2.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Water Canyon Campground",
+   "type": "unknown",
+   "town": "Isla Vista, CA",
+   "town_mi": 30.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Atwell Mill Campground",
+   "type": "unknown",
+   "town": "Silver City, CA",
+   "town_mi": 1.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Coast Campground",
+   "type": "unknown",
+   "town": "Inverness, CA",
+   "town_mi": 4.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Eureka Dunes Campground (Primitive)",
+   "type": "unknown",
+   "town": "Big Pine, CA",
+   "town_mi": 34.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wawona Campground",
+   "type": "unknown",
+   "town": "Wawona, CA",
+   "town_mi": 1.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Santa Rosa Island Backcountry Beach Camping",
+   "type": "unknown",
+   "town": "Isla Vista, CA",
+   "town_mi": 39.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Southwest Campground - Summer/Fall",
+   "type": "unknown",
+   "town": "Mineral, CA",
+   "town_mi": 2.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tomales Bay Boat-in Camping",
+   "type": "unknown",
+   "town": "Tomales, CA",
+   "town_mi": 5.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Southwest Campground - Winter/Spring",
+   "type": "unknown",
+   "town": "Mineral, CA",
+   "town_mi": 2.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Crane Flat Campground",
+   "type": "unknown",
+   "town": "Foresta, CA",
+   "town_mi": 4.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Camp 4 Campground",
+   "type": "unknown",
+   "town": "Yosemite Valley, CA",
+   "town_mi": 1.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "White Wolf Campground",
+   "type": "unknown",
+   "town": "Yosemite Valley, CA",
+   "town_mi": 9.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "South Fork Campground",
+   "type": "unknown",
+   "town": "Three Rivers, CA",
+   "town_mi": 8.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Warner Valley Campground",
+   "type": "unknown",
+   "town": "Warner Valley, CA",
+   "town_mi": 3.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Porcupine Flat Campground",
+   "type": "unknown",
+   "town": "Yosemite Valley, CA",
+   "town_mi": 4.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Backcountry Camping in Lassen's Wilderness",
+   "type": "unknown",
+   "town": "Warner Valley, CA",
+   "town_mi": 6.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Yosemite Creek Campground",
+   "type": "unknown",
+   "town": "Yosemite Valley, CA",
+   "town_mi": 5.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tamarack Flat Campground",
+   "type": "unknown",
+   "town": "Foresta, CA",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Moraine Campground",
+   "type": "unknown",
+   "town": "Wilsonia, CA",
+   "town_mi": 16.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wawona Horse Camp",
+   "type": "unknown",
+   "town": "Wawona, CA",
+   "town_mi": 0.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sheep Creek Campground",
+   "type": "unknown",
+   "town": "Wilsonia, CA",
+   "town_mi": 15.7,
    "badge": "agency",
    "policy": null,
    "osm": false

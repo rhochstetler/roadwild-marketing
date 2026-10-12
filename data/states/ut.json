@@ -1,6 +1,6 @@
 {
  "state": "UT",
- "generated_at": "2026-10-07",
+ "generated_at": "2026-10-12",
  "sample": false,
  "spots": [
   {
@@ -746,15 +746,6 @@
    "type": "paid_camp",
    "town": "Cedar Highlands, UT",
    "town_mi": 8.1,
-   "badge": "listed_business",
-   "policy": null,
-   "osm": false
-  },
-  {
-   "name": "Joes Valley Pavilion Group Site A",
-   "type": "paid_camp",
-   "town": "Orangeville, UT",
-   "town_mi": 13.3,
    "badge": "listed_business",
    "policy": null,
    "osm": false

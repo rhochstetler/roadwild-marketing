@@ -435,6 +435,12 @@ ${footer(false)}
 // shown exactly as the source wrote it.
 const GROUP_NAME = /\bgroup(sites?)?\b/i;   // also "Groupsite" (NC)
 const CORRAL_NAME = /\bstock\s+corrals?\b|\bcorrals?\s*$/i;
+// Not somewhere to stay at all (decided with Robyn 2026-10-12): residential
+// mobile home parks, storage lots and plain businesses ("R&T Diesel Repair")
+// that an old import typed rv_park. A name that also says RV, camp or resort is
+// a real mixed park and stays.
+const NOT_LODGING_NAME = /\bmobile\b|\bmhp\b|trailer (park|court)|\bhousing\b|\bestates\b|storage|trucking|repair|car ?wash|\bcapital\b|rv sales/i;
+const LODGING_WORD = /\bRV\b|camp|resort/i;
 
 const KEEP_UPPER = new Set(['RV', 'OHV', 'ATV', 'NF', 'NP', 'US', 'BLM', 'USFS', 'CCC', 'KOA', 'YMCA', 'II', 'III', 'IV']);
 const SMALL_WORDS = new Set(['of', 'and', 'the', 'at', 'on', 'in', 'by', 'to', 'a']);
@@ -474,7 +480,8 @@ for (const f of files) {
   // Same rule seedSpots applies to new imports (decided with Robyn
   // 2026-10-07/09): group-only sites and stock corrals are not a place one van
   // can spend the night. Older rows predate that rule, so drop them here too.
-  data.spots = (data.spots || []).filter(s => !GROUP_NAME.test(s.name) && !CORRAL_NAME.test(s.name));
+  data.spots = (data.spots || []).filter(s => !GROUP_NAME.test(s.name) && !CORRAL_NAME.test(s.name)
+    && !(NOT_LODGING_NAME.test(s.name) && !LODGING_WORD.test(s.name)));
   loaded[code] = data;
 }
 const built = new Set(Object.keys(loaded));

@@ -1,6 +1,6 @@
 {
  "state": "MO",
- "generated_at": "2026-10-07",
+ "generated_at": "2026-10-12",
  "sample": false,
  "spots": [
   {
@@ -1151,15 +1151,6 @@
    "type": "paid_camp",
    "town": "Branson, MO",
    "town_mi": 1.1,
-   "badge": "agency",
-   "policy": null,
-   "osm": false
-  },
-  {
-   "name": "SHELL KNOB REC SITE PAVILION",
-   "type": "paid_camp",
-   "town": "Shell Knob, MO",
-   "town_mi": 1.2,
    "badge": "agency",
    "policy": null,
    "osm": false

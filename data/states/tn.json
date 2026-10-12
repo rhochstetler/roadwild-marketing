@@ -1,6 +1,6 @@
 {
  "state": "TN",
- "generated_at": "2026-10-07",
+ "generated_at": "2026-10-12",
  "sample": false,
  "spots": [
   {
@@ -1727,15 +1727,6 @@
    "type": "paid_camp",
    "town": "Celina, TN",
    "town_mi": 1.9,
-   "badge": "agency",
-   "policy": null,
-   "osm": false
-  },
-  {
-   "name": "QUINN SPRINGS PAVILION",
-   "type": "paid_camp",
-   "town": "Delano, TN",
-   "town_mi": 2.1,
    "badge": "agency",
    "policy": null,
    "osm": false

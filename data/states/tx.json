@@ -1,6 +1,6 @@
 {
  "state": "TX",
- "generated_at": "2026-10-07",
+ "generated_at": "2026-10-12",
  "sample": false,
  "spots": [
   {
@@ -8073,15 +8073,6 @@
    "town": "Fort Clark Springs, TX",
    "town_mi": 0.6,
    "badge": "listed_business",
-   "policy": null,
-   "osm": false
-  },
-  {
-   "name": "HACKBERRY PAVILION",
-   "type": "paid_camp",
-   "town": "Wylie, TX",
-   "town_mi": 1.8,
-   "badge": "agency",
    "policy": null,
    "osm": false
   },

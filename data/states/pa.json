@@ -1,6 +1,6 @@
 {
  "state": "PA",
- "generated_at": "2026-10-07",
+ "generated_at": "2026-10-12",
  "sample": false,
  "spots": [
   {
@@ -1930,46 +1930,10 @@
    "osm": false
   },
   {
-   "name": "Weaver Falls Shelter",
-   "type": "paid_camp",
-   "town": "Saxton, PA",
-   "town_mi": 2.2,
-   "badge": "agency",
-   "policy": null,
-   "osm": false
-  },
-  {
-   "name": "Historic Bushman House (Gettysburg)",
-   "type": "paid_camp",
-   "town": "Gettysburg, PA",
-   "town_mi": 3,
-   "badge": "agency",
-   "policy": null,
-   "osm": false
-  },
-  {
    "name": "BUSH RECREATION AREA",
    "type": "paid_camp",
    "town": "New Alexandria, PA",
    "town_mi": 3.2,
-   "badge": "agency",
-   "policy": null,
-   "osm": false
-  },
-  {
-   "name": "Loyalhanna Lake Pavilions",
-   "type": "paid_camp",
-   "town": "Saltsburg, PA",
-   "town_mi": 1.8,
-   "badge": "agency",
-   "policy": null,
-   "osm": false
-  },
-  {
-   "name": "CONEMAUGH LAKE PAVILIONS",
-   "type": "paid_camp",
-   "town": "Saltsburg, PA",
-   "town_mi": 4.3,
    "badge": "agency",
    "policy": null,
    "osm": false

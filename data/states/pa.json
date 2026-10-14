@@ -1,6 +1,6 @@
 {
  "state": "PA",
- "generated_at": "2026-10-12",
+ "generated_at": "2026-10-14",
  "sample": false,
  "spots": [
   {
@@ -913,6 +913,33 @@
    "osm": false
   },
   {
+   "name": "Handsome Lake Boat Access Campground",
+   "type": "unknown",
+   "town": "Russell, PA",
+   "town_mi": 10.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hopewell Boat Access Campground",
+   "type": "unknown",
+   "town": "Russell, PA",
+   "town_mi": 10.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hooks Brook Boat Access Campground",
+   "type": "unknown",
+   "town": "Russell, PA",
+   "town_mi": 10.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Delaware Water Gap / Pocono Mountain KOA Holiday",
    "type": "paid_camp",
    "town": "Saw Creek, PA",
@@ -1197,6 +1224,15 @@
    "town": "Lake Arthur Estates, PA",
    "town_mi": 2,
    "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Dingmans Campground",
+   "type": "unknown",
+   "town": "Layton, NJ",
+   "town_mi": 2.6,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -1934,6 +1970,15 @@
    "type": "paid_camp",
    "town": "New Alexandria, PA",
    "town_mi": 3.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "River Camping",
+   "type": "unknown",
+   "town": "Saw Creek, PA",
+   "town_mi": 3.7,
    "badge": "agency",
    "policy": null,
    "osm": false
@@ -3113,7 +3158,7 @@
    "type": "paid_camp",
    "town": "Sheffield, PA",
    "town_mi": 8.5,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -3141,6 +3186,42 @@
    "town": "Bowmanstown, PA",
    "town_mi": 0.8,
    "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Clarion River Campsites",
+   "type": "free_camp",
+   "town": "Marienville, PA",
+   "town_mi": 9.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kelly Pines Horse Campground",
+   "type": "paid_camp",
+   "town": "Marienville, PA",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Farnsworth Cabin",
+   "type": "paid_camp",
+   "town": "Clarendon, PA",
+   "town_mi": 6.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pine Grove Boat Campground",
+   "type": "paid_camp",
+   "town": "Clarendon, PA",
+   "town_mi": 10,
+   "badge": "agency",
    "policy": null,
    "osm": false
   }

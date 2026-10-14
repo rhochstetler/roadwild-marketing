@@ -1,6 +1,6 @@
 {
  "state": "AZ",
- "generated_at": "2026-10-12",
+ "generated_at": "2026-10-14",
  "sample": false,
  "spots": [
   {
@@ -8,7 +8,7 @@
    "type": "paid_camp",
    "town": "Roosevelt, AZ",
    "town_mi": 4.9,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -17,7 +17,7 @@
    "type": "paid_camp",
    "town": "Grand Canyon Village, AZ",
    "town_mi": 11.8,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -26,7 +26,7 @@
    "type": "paid_camp",
    "town": "Alpine, AZ",
    "town_mi": 12.9,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -35,7 +35,7 @@
    "type": "paid_camp",
    "town": "Jerome, AZ",
    "town_mi": 3.7,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -53,7 +53,7 @@
    "type": "paid_camp",
    "town": "Parks, AZ",
    "town_mi": 5,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -62,7 +62,7 @@
    "type": "paid_camp",
    "town": "Roosevelt Estates, AZ",
    "town_mi": 2.2,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -71,7 +71,7 @@
    "type": "paid_camp",
    "town": "Alpine, AZ",
    "town_mi": 14.6,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -80,7 +80,7 @@
    "type": "paid_camp",
    "town": "Cordes Lakes, AZ",
    "town_mi": 8.3,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -89,7 +89,7 @@
    "type": "paid_camp",
    "town": "Willow Canyon, AZ",
    "town_mi": 2.5,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -98,7 +98,7 @@
    "type": "paid_camp",
    "town": "Greer, AZ",
    "town_mi": 9.8,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -125,7 +125,7 @@
    "type": "paid_camp",
    "town": "Parks, AZ",
    "town_mi": 12.1,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -134,7 +134,7 @@
    "type": "paid_camp",
    "town": "Christopher Creek, AZ",
    "town_mi": 3.8,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -152,7 +152,7 @@
    "type": "paid_camp",
    "town": "Clifton, AZ",
    "town_mi": 4.6,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -170,7 +170,7 @@
    "type": "paid_camp",
    "town": "Prescott, AZ",
    "town_mi": 6.1,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -179,7 +179,7 @@
    "type": "paid_camp",
    "town": "Prescott, AZ",
    "town_mi": 6.4,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -188,7 +188,7 @@
    "type": "paid_camp",
    "town": "Rodeo, NM",
    "town_mi": 8.9,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -197,7 +197,7 @@
    "type": "paid_camp",
    "town": "San Jose, AZ",
    "town_mi": 8.2,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -206,7 +206,7 @@
    "type": "paid_camp",
    "town": "Chloride, AZ",
    "town_mi": 2.8,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -215,7 +215,7 @@
    "type": "paid_camp",
    "town": "Willow Canyon, AZ",
    "town_mi": 0.8,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -224,7 +224,7 @@
    "type": "paid_camp",
    "town": "Theba, AZ",
    "town_mi": 11.6,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -233,7 +233,7 @@
    "type": "paid_camp",
    "town": "Greer, AZ",
    "town_mi": 9.6,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -242,7 +242,16 @@
    "type": "paid_camp",
    "town": "Oak Creek Canyon, AZ",
    "town_mi": 4.4,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lockett Meadow Campground",
+   "type": "boondocking",
+   "town": "Timberline-Fernwood, AZ",
+   "town_mi": 4.9,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -260,7 +269,16 @@
    "type": "paid_camp",
    "town": "Willow Canyon, AZ",
    "town_mi": 3.7,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Treasure Park North",
+   "type": "unknown",
+   "town": "Swift Trail Junction, AZ",
+   "town_mi": 9.9,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -269,7 +287,7 @@
    "type": "paid_camp",
    "town": "Greer, AZ",
    "town_mi": 2.6,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -278,7 +296,7 @@
    "type": "paid_camp",
    "town": "Campo Bonito, AZ",
    "town_mi": 2,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -287,7 +305,7 @@
    "type": "paid_camp",
    "town": "Roosevelt, AZ",
    "town_mi": 2.3,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -296,7 +314,7 @@
    "type": "paid_camp",
    "town": "Willow Canyon, AZ",
    "town_mi": 1.7,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -314,7 +332,7 @@
    "type": "paid_camp",
    "town": "Mormon Lake, AZ",
    "town_mi": 8.2,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -341,7 +359,7 @@
    "type": "paid_camp",
    "town": "Pine Lake, AZ",
    "town_mi": 1.9,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -350,7 +368,7 @@
    "type": "paid_camp",
    "town": "Alpine, AZ",
    "town_mi": 3.6,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -359,7 +377,7 @@
    "type": "paid_camp",
    "town": "Williams, AZ",
    "town_mi": 4.2,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -386,7 +404,7 @@
    "type": "paid_camp",
    "town": "Prescott, AZ",
    "town_mi": 6.9,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -395,7 +413,7 @@
    "type": "paid_camp",
    "town": "Forest Lakes, AZ",
    "town_mi": 1,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -413,7 +431,7 @@
    "type": "paid_camp",
    "town": "Oak Creek Canyon, AZ",
    "town_mi": 7.3,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -422,7 +440,7 @@
    "type": "paid_camp",
    "town": "Elephant Head, AZ",
    "town_mi": 7.7,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -431,7 +449,7 @@
    "type": "paid_camp",
    "town": "Jerome, AZ",
    "town_mi": 4.2,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -440,7 +458,7 @@
    "type": "paid_camp",
    "town": "Timberline-Fernwood, AZ",
    "town_mi": 3.6,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -449,7 +467,7 @@
    "type": "paid_camp",
    "town": "Swift Trail Junction, AZ",
    "town_mi": 7.9,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -458,7 +476,7 @@
    "type": "paid_camp",
    "town": "Roosevelt, AZ",
    "town_mi": 6.8,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -467,7 +485,7 @@
    "type": "paid_camp",
    "town": "Morenci, AZ",
    "town_mi": 30,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -494,7 +512,7 @@
    "type": "paid_camp",
    "town": "Oak Creek Canyon, AZ",
    "town_mi": 0.7,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -503,7 +521,7 @@
    "type": "paid_camp",
    "town": "Greer, AZ",
    "town_mi": 9.5,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -512,7 +530,7 @@
    "type": "paid_camp",
    "town": "Cienega Springs, AZ",
    "town_mi": 0.8,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -521,7 +539,7 @@
    "type": "paid_camp",
    "town": "Prescott, AZ",
    "town_mi": 5.3,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -530,7 +548,7 @@
    "type": "paid_camp",
    "town": "Tusayan, AZ",
    "town_mi": 1.3,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -548,7 +566,7 @@
    "type": "paid_camp",
    "town": "Christopher Creek, AZ",
    "town_mi": 4.1,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -557,7 +575,7 @@
    "type": "paid_camp",
    "town": "Prescott, AZ",
    "town_mi": 8.8,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -566,7 +584,7 @@
    "type": "paid_camp",
    "town": "Christopher Creek, AZ",
    "town_mi": 3.5,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -593,7 +611,7 @@
    "type": "paid_camp",
    "town": "Oak Creek Canyon, AZ",
    "town_mi": 3.3,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -602,7 +620,7 @@
    "type": "paid_camp",
    "town": "Greer, AZ",
    "town_mi": 9.5,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -611,7 +629,7 @@
    "type": "paid_camp",
    "town": "Tusayan, AZ",
    "town_mi": 9.8,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -629,7 +647,7 @@
    "type": "paid_camp",
    "town": "Kaibab, AZ",
    "town_mi": 22.6,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -643,11 +661,20 @@
    "osm": false
   },
   {
+   "name": "Margies Cove West Campground",
+   "type": "boondocking",
+   "town": "Gila Bend, AZ",
+   "town_mi": 13.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
    "name": "Winn Campground",
    "type": "paid_camp",
    "town": "Greer, AZ",
    "town_mi": 3.1,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -665,7 +692,16 @@
    "type": "paid_camp",
    "town": "Swift Trail Junction, AZ",
    "town_mi": 12.1,
-   "badge": "listed_business",
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brookchar Campground",
+   "type": "boondocking",
+   "town": "Greer, AZ",
+   "town_mi": 9.4,
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -683,7 +719,7 @@
    "type": "paid_camp",
    "town": "Prescott, AZ",
    "town_mi": 6.2,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -692,7 +728,7 @@
    "type": "paid_camp",
    "town": "Black Canyon City, AZ",
    "town_mi": 11.5,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -710,7 +746,7 @@
    "type": "paid_camp",
    "town": "Mormon Lake, AZ",
    "town_mi": 3.7,
-   "badge": "listed_business",
+   "badge": "agency",
    "policy": null,
    "osm": false
   },
@@ -720,6 +756,1230 @@
    "town": "Jerome, AZ",
    "town_mi": 3.7,
    "badge": "listed_business",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lake Havasu Shoreline Sites",
+   "type": "free_camp",
+   "town": "Parker Strip, AZ",
+   "town_mi": 2.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fr 171 Campground",
+   "type": "unknown",
+   "town": "Forest Lakes, AZ",
+   "town_mi": 4.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "LEWIS CANYON",
+   "type": "paid_camp",
+   "town": "Pinedale, AZ",
+   "town_mi": 2.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "THUMB BUTTE",
+   "type": "paid_camp",
+   "town": "Prescott, AZ",
+   "town_mi": 5.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "KENTUCKY CAMP CABIN AND HEADQUARTERS BUILDING",
+   "type": "paid_camp",
+   "town": "Sonoita, AZ",
+   "town_mi": 8.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "HALF MOON RANCH",
+   "type": "paid_camp",
+   "town": "Sunsites, AZ",
+   "town_mi": 6.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "SHAW HOUSE",
+   "type": "paid_camp",
+   "town": "Sunsites, AZ",
+   "town_mi": 7.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fr 9350 Campground",
+   "type": "unknown",
+   "town": "Christopher Creek, AZ",
+   "town_mi": 1.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fr 195 Campground",
+   "type": "unknown",
+   "town": "Christopher Creek, AZ",
+   "town_mi": 3.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fr 169 Campground",
+   "type": "unknown",
+   "town": "Christopher Creek, AZ",
+   "town_mi": 4.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fool Hollow Lake Recreation Area Campground",
+   "type": "unknown",
+   "town": "Show Low, AZ",
+   "town_mi": 1.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Knoll Lake Campground",
+   "type": "unknown",
+   "town": "Mead Ranch, AZ",
+   "town_mi": 6.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Forked Pine Campground",
+   "type": "unknown",
+   "town": "Mormon Lake, AZ",
+   "town_mi": 8.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hilltop Campground (AZ)",
+   "type": "paid_camp",
+   "town": "Prescott, AZ",
+   "town_mi": 6.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ponderosa Campground",
+   "type": "paid_camp",
+   "town": "Tonto Village, AZ",
+   "town_mi": 2.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Tortilla Campground",
+   "type": "paid_camp",
+   "town": "Gold Canyon, AZ",
+   "town_mi": 11.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Canyon Rim Campground",
+   "type": "paid_camp",
+   "town": "Forest Lakes, AZ",
+   "town_mi": 4.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bear Canyon Lake Cg",
+   "type": "free_camp",
+   "town": "Christopher Creek, AZ",
+   "town_mi": 5.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chevelon Canyon Lake Cg",
+   "type": "free_camp",
+   "town": "Forest Lakes, AZ",
+   "town_mi": 12.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Noon Creek Campground",
+   "type": "paid_camp",
+   "town": "Swift Trail Junction, AZ",
+   "town_mi": 6.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Raccoon Campground",
+   "type": "paid_camp",
+   "town": "Alpine, AZ",
+   "town_mi": 11.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bog Springs Campground",
+   "type": "paid_camp",
+   "town": "Elephant Head, AZ",
+   "town_mi": 7.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pinal Campground",
+   "type": "free_camp",
+   "town": "El Capitan, AZ",
+   "town_mi": 4.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lower Juan Miller Cg",
+   "type": "free_camp",
+   "town": "Morenci, AZ",
+   "town_mi": 14.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Demotte Cg",
+   "type": "paid_camp",
+   "town": "Grand Canyon Village, AZ",
+   "town_mi": 24.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Airplane Flat Campground",
+   "type": "free_camp",
+   "town": "Forest Lakes, AZ",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sunny Flat Campground",
+   "type": "paid_camp",
+   "town": "Rodeo, NM",
+   "town_mi": 9.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gordon Hirabayashi Campground",
+   "type": "paid_camp",
+   "town": "Willow Canyon, AZ",
+   "town_mi": 3.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Colcord Ridge Campground",
+   "type": "free_camp",
+   "town": "Forest Lakes, AZ",
+   "town_mi": 5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sharp Creek Campground",
+   "type": "paid_camp",
+   "town": "Hunter Creek, AZ",
+   "town_mi": 1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mesquite Campground",
+   "type": "paid_camp",
+   "town": "Carefree, AZ",
+   "town_mi": 14.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riggs Flat Campground",
+   "type": "paid_camp",
+   "town": "Thatcher, AZ",
+   "town_mi": 13.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lakeside",
+   "type": "free_camp",
+   "town": "Pinetop-Lakeside, AZ",
+   "town_mi": 0.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Clark Peak Corrals Horse Camp",
+   "type": "free_camp",
+   "town": "Thatcher, AZ",
+   "town_mi": 13.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bermuda Flat Camping Area",
+   "type": "paid_camp",
+   "town": "Tonto Basin, AZ",
+   "town_mi": 8.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hazlett Hollow Campground",
+   "type": "paid_camp",
+   "town": "Black Canyon City, AZ",
+   "town_mi": 11.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grapevine Bay Campground",
+   "type": "free_camp",
+   "town": "Roosevelt Estates, AZ",
+   "town_mi": 3.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Jones Water Campground",
+   "type": "free_camp",
+   "town": "Copper Hill, AZ",
+   "town_mi": 12.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Canyon Creek Campground",
+   "type": "free_camp",
+   "town": "Forest Lakes, AZ",
+   "town_mi": 2.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "White Rock Campground",
+   "type": "paid_camp",
+   "town": "Nogales, AZ",
+   "town_mi": 9.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Christopher Creek Campground",
+   "type": "paid_camp",
+   "town": "Hunter Creek, AZ",
+   "town_mi": 1.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fr 237 Camping Area",
+   "type": "free_camp",
+   "town": "Forest Lakes, AZ",
+   "town_mi": 2.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Forest Road 9354 (Camping Area)",
+   "type": "free_camp",
+   "town": "Christopher Creek, AZ",
+   "town_mi": 4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Clints Well",
+   "type": "paid_camp",
+   "town": "Washington Park, AZ",
+   "town_mi": 11,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Larson Ridge Camping Area",
+   "type": "free_camp",
+   "town": "Forest Lakes, AZ",
+   "town_mi": 1.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fr 84 Camping Area",
+   "type": "free_camp",
+   "town": "Christopher Creek, AZ",
+   "town_mi": 3.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Indian Point Campground",
+   "type": "free_camp",
+   "town": "Tonto Basin, AZ",
+   "town_mi": 6.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Horse Springs Cg",
+   "type": "paid_camp",
+   "town": "Alpine, AZ",
+   "town_mi": 12.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spencer Canyon Campground",
+   "type": "paid_camp",
+   "town": "Summerhaven, AZ",
+   "town_mi": 2.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Clear Creek",
+   "type": "paid_camp",
+   "town": "Camp Verde, AZ",
+   "town_mi": 6.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Granville Cg",
+   "type": "free_camp",
+   "town": "Morenci, AZ",
+   "town_mi": 9.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bonito",
+   "type": "paid_camp",
+   "town": "Timberline-Fernwood, AZ",
+   "town_mi": 3.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ten-X Campground",
+   "type": "paid_camp",
+   "town": "Tusayan, AZ",
+   "town_mi": 1.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Canyon Vista Campground",
+   "type": "paid_camp",
+   "town": "Mountainaire, AZ",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Portal Ccc House Cabin Rental",
+   "type": "paid_camp",
+   "town": "Rodeo, NM",
+   "town_mi": 21.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shannon Campground",
+   "type": "paid_camp",
+   "town": "Swift Trail Junction, AZ",
+   "town_mi": 9.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mogollon Campground",
+   "type": "paid_camp",
+   "town": "Christopher Creek, AZ",
+   "town_mi": 2.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Valentine Ridge Campground",
+   "type": "free_camp",
+   "town": "Forest Lakes, AZ",
+   "town_mi": 6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Diamond Rock Cg",
+   "type": "paid_camp",
+   "town": "Alpine, AZ",
+   "town_mi": 9.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Blue Campground",
+   "type": "free_camp",
+   "town": "Alpine, AZ",
+   "town_mi": 11.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sulfide Del Rey Campground",
+   "type": "free_camp",
+   "town": "Icehouse Canyon, AZ",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Houston Mesa Campground",
+   "type": "paid_camp",
+   "town": "Mesa del Caballo, AZ",
+   "town_mi": 1.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sycamore Campground",
+   "type": "paid_camp",
+   "town": "Sunizona, AZ",
+   "town_mi": 17.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Canelo Rental Cabins",
+   "type": "paid_camp",
+   "town": "Elgin, AZ",
+   "town_mi": 8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cunningham Campground",
+   "type": "paid_camp",
+   "town": "Swift Trail Junction, AZ",
+   "town_mi": 10.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Strayhorse Cg",
+   "type": "free_camp",
+   "town": "Alpine, AZ",
+   "town_mi": 22.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Coal Creek Cg",
+   "type": "free_camp",
+   "town": "Clifton, AZ",
+   "town_mi": 13.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "General Hitchcock Campground",
+   "type": "paid_camp",
+   "town": "Willow Canyon, AZ",
+   "town_mi": 1.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Blue Crossing Campground",
+   "type": "free_camp",
+   "town": "Rancho Grande, NM",
+   "town_mi": 14.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Los Burros #1",
+   "type": "free_camp",
+   "town": "McNary, AZ",
+   "town_mi": 5.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kp Cienega Cg",
+   "type": "free_camp",
+   "town": "Alpine, AZ",
+   "town_mi": 22.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Riverside Campground",
+   "type": "paid_camp",
+   "town": "Rio Verde, AZ",
+   "town_mi": 6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bagley Flat Campground",
+   "type": "free_camp",
+   "town": "Apache Junction, AZ",
+   "town_mi": 13.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Scott Reservoir Campground",
+   "type": "free_camp",
+   "town": "Pinetop-Lakeside, AZ",
+   "town_mi": 1.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ashurst Lake",
+   "type": "paid_camp",
+   "town": "Mormon Lake, AZ",
+   "town_mi": 7.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "The Point Campground",
+   "type": "free_camp",
+   "town": "Gold Canyon, AZ",
+   "town_mi": 13.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gabaldon Horse Camp",
+   "type": "free_camp",
+   "town": "Greer, AZ",
+   "town_mi": 5.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Idlewilde Campground",
+   "type": "paid_camp",
+   "town": "Rodeo, NM",
+   "town_mi": 8.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ccc Campground",
+   "type": "paid_camp",
+   "town": "Carefree, AZ",
+   "town_mi": 10.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kehl Springs",
+   "type": "paid_camp",
+   "town": "Washington Park, AZ",
+   "town_mi": 3.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sollers Cabin Rental",
+   "type": "paid_camp",
+   "town": "Willow Canyon, AZ",
+   "town_mi": 1.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Pioneer Pass Campground",
+   "type": "free_camp",
+   "town": "El Capitan, AZ",
+   "town_mi": 3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Shaw House Cabin Rental",
+   "type": "paid_camp",
+   "town": "McNeal, AZ",
+   "town_mi": 6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Horseshoe Campground",
+   "type": "paid_camp",
+   "town": "Carefree, AZ",
+   "town_mi": 15.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bartlett Flat Camping Area",
+   "type": "paid_camp",
+   "town": "Rio Verde, AZ",
+   "town_mi": 11.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Ramsey Vista Campground",
+   "type": "paid_camp",
+   "town": "Sierra Vista Southeast, AZ",
+   "town_mi": 5.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Cochise Stronghold Campground",
+   "type": "paid_camp",
+   "town": "Sunsites, AZ",
+   "town_mi": 7.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Stewart Campground",
+   "type": "paid_camp",
+   "town": "Rodeo, NM",
+   "town_mi": 9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Powell Springs Campground",
+   "type": "free_camp",
+   "town": "Verde Village, AZ",
+   "town_mi": 10.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "New Jacob Lake Cg",
+   "type": "paid_camp",
+   "town": "Fredonia, AZ",
+   "town_mi": 23.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Black Jack Cg",
+   "type": "free_camp",
+   "town": "York, AZ",
+   "town_mi": 11.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Chevelon Crossing Cg",
+   "type": "free_camp",
+   "town": "Heber-Overgaard, AZ",
+   "town_mi": 17.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Upper Tonto Creek Campground",
+   "type": "paid_camp",
+   "town": "Kohls Ranch, AZ",
+   "town_mi": 1.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Fraizer Horse Camp",
+   "type": "paid_camp",
+   "town": "Roosevelt, AZ",
+   "town_mi": 0.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Gentry Cg",
+   "type": "paid_camp",
+   "town": "Forest Lakes, AZ",
+   "town_mi": 6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rock Crossing",
+   "type": "paid_camp",
+   "town": "Blue Ridge, AZ",
+   "town_mi": 8.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Soldier Creek Campground",
+   "type": "paid_camp",
+   "town": "Thatcher, AZ",
+   "town_mi": 11.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rustler Park Campground",
+   "type": "paid_camp",
+   "town": "Rodeo, NM",
+   "town_mi": 15.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Rim Campground",
+   "type": "paid_camp",
+   "town": "Christopher Creek, AZ",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Haigler Canyon Campground",
+   "type": "free_camp",
+   "town": "Haigler Creek, AZ",
+   "town_mi": 0.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Hannagan Cg",
+   "type": "free_camp",
+   "town": "Alpine, AZ",
+   "town_mi": 18,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Apache Maid",
+   "type": "paid_camp",
+   "town": "Mormon Lake, AZ",
+   "town_mi": 14.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lakeview Campground",
+   "type": "paid_camp",
+   "town": "Sierra Vista, AZ",
+   "town_mi": 12.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Columbine Corrals Campground",
+   "type": "paid_camp",
+   "town": "Thatcher, AZ",
+   "town_mi": 11.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Aspen Campground",
+   "type": "paid_camp",
+   "town": "Alpine, AZ",
+   "town_mi": 10.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Alpine Divide Cg",
+   "type": "paid_camp",
+   "town": "Alpine, AZ",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lakeview",
+   "type": "paid_camp",
+   "town": "Mountainaire, AZ",
+   "town_mi": 8.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Deer Creek Campground",
+   "type": "paid_camp",
+   "town": "Alpine, AZ",
+   "town_mi": 10.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Big Lake Multi-Family Campground",
+   "type": "paid_camp",
+   "town": "Greer, AZ",
+   "town_mi": 9.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Herb Martyr Campground",
+   "type": "paid_camp",
+   "town": "Rodeo, NM",
+   "town_mi": 12.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Kaibab Lake",
+   "type": "paid_camp",
+   "town": "Williams, AZ",
+   "town_mi": 2.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sinkhole Cg",
+   "type": "paid_camp",
+   "town": "Forest Lakes, AZ",
+   "town_mi": 4.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Walnut Grove Campground",
+   "type": "paid_camp",
+   "town": "Sunizona, AZ",
+   "town_mi": 17.8,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Nelson Lake",
+   "type": "free_camp",
+   "town": "Forest Lakes, AZ",
+   "town_mi": 3.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Brookbank",
+   "type": "free_camp",
+   "town": "Forest Lakes, AZ",
+   "town_mi": 3.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Juniper Basin",
+   "type": "unknown",
+   "town": "Rincon Valley, AZ",
+   "town_mi": 5.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Alamo Canyon Campground",
+   "type": "unknown",
+   "town": "Why, AZ",
+   "town_mi": 12.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Mather Campground - South Rim",
+   "type": "unknown",
+   "town": "Grand Canyon Village, AZ",
+   "town_mi": 2.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Manning Camp",
+   "type": "unknown",
+   "town": "Rincon Valley, AZ",
+   "town_mi": 10.3,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Spud Rock Spring",
+   "type": "unknown",
+   "town": "Rincon Valley, AZ",
+   "town_mi": 11.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Sunset View Campground",
+   "type": "unknown",
+   "town": "Shonto, AZ",
+   "town_mi": 8.9,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Grass Shack",
+   "type": "unknown",
+   "town": "Rincon Valley, AZ",
+   "town_mi": 7.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Happy Valley Saddle",
+   "type": "unknown",
+   "town": "Rincon Valley, AZ",
+   "town_mi": 10.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Bonita Canyon Campground",
+   "type": "unknown",
+   "town": "Sunizona, AZ",
+   "town_mi": 18.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Desert View Campground (Reservations Required)",
+   "type": "unknown",
+   "town": "Tusayan, AZ",
+   "town_mi": 17.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Douglas Spring",
+   "type": "unknown",
+   "town": "Tanque Verde, AZ",
+   "town_mi": 8.5,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Wahweap Campground & RV Park",
+   "type": "unknown",
+   "town": "Greenehaven, AZ",
+   "town_mi": 3.2,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Twin Peaks Campground",
+   "type": "unknown",
+   "town": "Ali Chuk, AZ",
+   "town_mi": 17.1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Trailer Village RV Park - South Rim",
+   "type": "unknown",
+   "town": "Grand Canyon Village, AZ",
+   "town_mi": 2.4,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Lees Ferry Campground",
+   "type": "unknown",
+   "town": "Page, AZ",
+   "town_mi": 7.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Willow Beach Campground",
+   "type": "unknown",
+   "town": "Boulder City, NV",
+   "town_mi": 14.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Beehives Primitive Campground",
+   "type": "unknown",
+   "town": "Page, AZ",
+   "town_mi": 1,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Temple Bar Campground",
+   "type": "unknown",
+   "town": "Meadview, AZ",
+   "town_mi": 14.7,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Colorado River Primitive Camping Between Glen Canyon Dam and Lees Ferry",
+   "type": "unknown",
+   "town": "Page, AZ",
+   "town_mi": 6.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Antelope Point RV Park",
+   "type": "unknown",
+   "town": "Page, AZ",
+   "town_mi": 4.6,
+   "badge": "agency",
+   "policy": null,
+   "osm": false
+  },
+  {
+   "name": "Katherine Landing Campground",
+   "type": "unknown",
+   "town": "Katherine, AZ",
+   "town_mi": 0.3,
+   "badge": "agency",
    "policy": null,
    "osm": false
   }

@@ -1,6 +1,6 @@
 {
  "state": "OR",
- "generated_at": "2026-10-12",
+ "generated_at": "2026-10-14",
  "sample": false,
  "spots": [
   {
@@ -7577,15 +7577,6 @@
    "type": "paid_camp",
    "town": "Westfir, OR",
    "town_mi": 14.1,
-   "badge": "agency",
-   "policy": null,
-   "osm": false
-  },
-  {
-   "name": "MILLPOND PAVILION",
-   "type": "paid_camp",
-   "town": "Glide, OR",
-   "town_mi": 8.8,
    "badge": "agency",
    "policy": null,
    "osm": false

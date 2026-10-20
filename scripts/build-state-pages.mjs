@@ -446,7 +446,13 @@ const KEEP_UPPER = new Set(['RV', 'OHV', 'ATV', 'NF', 'NP', 'US', 'BLM', 'USFS',
 const SMALL_WORDS = new Set(['of', 'and', 'the', 'at', 'on', 'in', 'by', 'to', 'a']);
 
 function tidyName(name) {
-  const s = String(name || '').trim();
+  // A bracketed state code says nothing on a page that is already one state,
+  // and the source can be wrong: "Lake Creek Campground (ID)" is in Montana.
+  // "Peter'S" is how block-capital sources come out of a naive recase.
+  const s = String(name || '')
+    .replace(/\s*\(\s*([A-Za-z]{2})\s*\)/g, (m, st) => (STATES[st.toUpperCase()] ? '' : m))
+    .replace(/(\w)'S\b/g, "$1's")
+    .trim();
   if (!s || /[a-z]/.test(s)) return s;
   let out = s.split(/(\s+|-|\/|\(|\))/).map((tok, i) => {
     if (!/[A-Z]/.test(tok)) return tok;

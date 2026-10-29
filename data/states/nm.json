@@ -1,6 +1,6 @@
 {
   "state": "NM",
-  "generated_at": "2026-10-20",
+  "generated_at": "2026-10-29",
   "sample": false,
   "spots": [
     {
@@ -17,7 +17,7 @@
       "type": "paid_camp",
       "town": "Gila Hot Springs, NM",
       "town_mi": 9.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -26,7 +26,7 @@
       "type": "paid_camp",
       "town": "McGaffey, NM",
       "town_mi": 0.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -35,7 +35,7 @@
       "type": "paid_camp",
       "town": "Roy, NM",
       "town_mi": 12.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -44,7 +44,7 @@
       "type": "paid_camp",
       "town": "Las Tusas, NM",
       "town_mi": 8.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -53,7 +53,7 @@
       "type": "paid_camp",
       "town": "Ute Park, NM",
       "town_mi": 15.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -71,7 +71,7 @@
       "type": "paid_camp",
       "town": "Quemado, NM",
       "town_mi": 14.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -85,6 +85,15 @@
       "osm": false
     },
     {
+      "name": "Red Cloud Campground",
+      "type": "boondocking",
+      "town": "Corona, NM",
+      "town_mi": 7.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Chosa Campground",
       "type": "paid_camp",
       "town": "Whites City, NM",
@@ -94,11 +103,20 @@
       "osm": false
     },
     {
+      "name": "Apache Creek Campground",
+      "type": "boondocking",
+      "town": "Apache Creek, NM",
+      "town_mi": 2.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Clear Creek Campground (NM)",
       "type": "paid_camp",
       "town": "Cuba, NM",
       "town_mi": 8.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -107,7 +125,7 @@
       "type": "paid_camp",
       "town": "Tajique, NM",
       "town_mi": 5.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -116,7 +134,16 @@
       "type": "paid_camp",
       "town": "Kingston, NM",
       "town_mi": 0.5,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Johnson Mesa Campground",
+      "type": "boondocking",
+      "town": "East Pecos, NM",
+      "town_mi": 13.4,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -134,7 +161,7 @@
       "type": "paid_camp",
       "town": "Magdalena, NM",
       "town_mi": 8.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -152,16 +179,7 @@
       "type": "paid_camp",
       "town": "Lobo Canyon, NM",
       "town_mi": 1.3,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Gallo Campground",
-      "type": "paid_camp",
-      "town": "Lake Valley, NM",
-      "town_mi": 12.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -170,7 +188,16 @@
       "type": "paid_camp",
       "town": "La Cueva, NM",
       "town_mi": 4.4,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Links Tract Campground",
+      "type": "boondocking",
+      "town": "East Pecos, NM",
+      "town_mi": 12.5,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -179,7 +206,7 @@
       "type": "paid_camp",
       "town": "Kingston, NM",
       "town_mi": 5.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -188,7 +215,7 @@
       "type": "paid_camp",
       "town": "Cuba, NM",
       "town_mi": 9.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -215,7 +242,7 @@
       "type": "paid_camp",
       "town": "Santa Rosa, NM",
       "town_mi": 7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -224,7 +251,7 @@
       "type": "paid_camp",
       "town": "Quemado, NM",
       "town_mi": 14.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -233,7 +260,7 @@
       "type": "paid_camp",
       "town": "Red River, NM",
       "town_mi": 1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -242,7 +269,7 @@
       "type": "paid_camp",
       "town": "Taos, NM",
       "town_mi": 5.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -251,7 +278,7 @@
       "type": "paid_camp",
       "town": "La Cueva, NM",
       "town_mi": 1.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -269,7 +296,7 @@
       "type": "paid_camp",
       "town": "Deer Canyon, NM",
       "town_mi": 2.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -278,7 +305,7 @@
       "type": "paid_camp",
       "town": "Taos, NM",
       "town_mi": 3.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -287,7 +314,7 @@
       "type": "paid_camp",
       "town": "Gila Hot Springs, NM",
       "town_mi": 0.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -296,7 +323,7 @@
       "type": "paid_camp",
       "town": "White Rock, NM",
       "town_mi": 4.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -359,6 +386,834 @@
       "type": "paid_camp",
       "town": "Corona, NM",
       "town_mi": 7.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Columbine Campground",
+      "type": "paid_camp",
+      "town": "Questa, NM",
+      "town_mi": 5.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Tajique",
+      "type": "free_camp",
+      "town": "Tajique, NM",
+      "town_mi": 1.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Black Canyon (New)Cg",
+      "type": "paid_camp",
+      "town": "Hyde Park, NM",
+      "town_mi": 2.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Saddle",
+      "type": "paid_camp",
+      "town": "Cloudcroft, NM",
+      "town_mi": 1.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Red Canyon",
+      "type": "paid_camp",
+      "town": "Manzano, NM",
+      "town_mi": 2.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "La Junta Canyon",
+      "type": "paid_camp",
+      "town": "Vadito, NM",
+      "town_mi": 11.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Karr Canyon Upper",
+      "type": "free_camp",
+      "town": "High Rolls, NM",
+      "town_mi": 3.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Upper / Lower Lagunitas Campgrounds",
+      "type": "free_camp",
+      "town": "Chama, NM",
+      "town_mi": 14.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Quemado Lake - El Caso Cg #3",
+      "type": "free_camp",
+      "town": "Quemado, NM",
+      "town_mi": 14.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Borrego Mesa",
+      "type": "free_camp",
+      "town": "Truchas, NM",
+      "town_mi": 4.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cebolla Mesa",
+      "type": "paid_camp",
+      "town": "San Cristobal, NM",
+      "town_mi": 3.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lower Hondo Campground",
+      "type": "free_camp",
+      "town": "Arroyo Seco, NM",
+      "town_mi": 2.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Mesa",
+      "type": "paid_camp",
+      "town": "Lake Roberts, NM",
+      "town_mi": 0.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Rio De Los Pinos Cg",
+      "type": "free_camp",
+      "town": "Antonito, CO",
+      "town_mi": 12.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Capilla Peak",
+      "type": "paid_camp",
+      "town": "Manzano, NM",
+      "town_mi": 4.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Santa Barbara",
+      "type": "paid_camp",
+      "town": "Peñasco, NM",
+      "town_mi": 7.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Head Of Ditch",
+      "type": "paid_camp",
+      "town": "Luna, NM",
+      "town_mi": 2.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Rocky Canyon",
+      "type": "free_camp",
+      "town": "Lake Roberts Heights, NM",
+      "town_mi": 8.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Silver Overflow",
+      "type": "paid_camp",
+      "town": "Cloudcroft, NM",
+      "town_mi": 1.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Elephant Rock Campground",
+      "type": "paid_camp",
+      "town": "Red River, NM",
+      "town_mi": 2.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Aspen Basin",
+      "type": "free_camp",
+      "town": "Rio en Medio, NM",
+      "town_mi": 5.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "South Fork",
+      "type": "free_camp",
+      "town": "Lower Frisco, NM",
+      "town_mi": 14.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Skyline Fc",
+      "type": "free_camp",
+      "town": "Ruidoso, NM",
+      "town_mi": 6.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Railroad Rec. Mgt. Area",
+      "type": "paid_camp",
+      "town": "Kingston, NM",
+      "town_mi": 6.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Trout Lakes",
+      "type": "free_camp",
+      "town": "Canjilon, NM",
+      "town_mi": 8.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Upper Gallinas",
+      "type": "paid_camp",
+      "town": "Kingston, NM",
+      "town_mi": 6.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Upper End",
+      "type": "paid_camp",
+      "town": "Lake Roberts Heights, NM",
+      "town_mi": 0.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Rio Chama",
+      "type": "paid_camp",
+      "town": "Gallina, NM",
+      "town_mi": 11.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Agua Piedra Cg",
+      "type": "paid_camp",
+      "town": "Vadito, NM",
+      "town_mi": 9.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cherry Creek",
+      "type": "paid_camp",
+      "town": "Pinos Altos, NM",
+      "town_mi": 3.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Resumidero",
+      "type": "free_camp",
+      "town": "Coyote, NM",
+      "town_mi": 8.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Willow Creek",
+      "type": "free_camp",
+      "town": "Mogollon, NM",
+      "town_mi": 12.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Armijo Springs",
+      "type": "free_camp",
+      "town": "Aragon, NM",
+      "town_mi": 14.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Red Cloud -New",
+      "type": "free_camp",
+      "town": "Corona, NM",
+      "town_mi": 8.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "James Canyon",
+      "type": "free_camp",
+      "town": "Mayhill, NM",
+      "town_mi": 1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cottonwood",
+      "type": "free_camp",
+      "town": "Rancho Grande, NM",
+      "town_mi": 4.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Comales",
+      "type": "paid_camp",
+      "town": "Vadito, NM",
+      "town_mi": 5.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Goat Hill Campground",
+      "type": "paid_camp",
+      "town": "Questa, NM",
+      "town_mi": 3.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Wolf Hollow-Trail #773",
+      "type": "free_camp",
+      "town": "Gila Hot Springs, NM",
+      "town_mi": 16.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "McMillen",
+      "type": "paid_camp",
+      "town": "Pinos Altos, NM",
+      "town_mi": 4.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Sleepy Grass",
+      "type": "paid_camp",
+      "town": "Cloudcroft, NM",
+      "town_mi": 0.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Ben Lilly",
+      "type": "paid_camp",
+      "town": "Mogollon, NM",
+      "town_mi": 11.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Dipping Vat",
+      "type": "paid_camp",
+      "town": "Mogollon, NM",
+      "town_mi": 17.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cosmic",
+      "type": "paid_camp",
+      "town": "Alma, NM",
+      "town_mi": 6.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Three Rivers",
+      "type": "paid_camp",
+      "town": "Ruidoso, NM",
+      "town_mi": 13.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Bear Trap",
+      "type": "free_camp",
+      "town": "Magdalena, NM",
+      "town_mi": 22.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Aeroplane Mesa",
+      "type": "paid_camp",
+      "town": "Mogollon, NM",
+      "town_mi": 20.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Gwynn Tank",
+      "type": "free_camp",
+      "town": "Lower Frisco, NM",
+      "town_mi": 16.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Hughes Mill",
+      "type": "free_camp",
+      "town": "Magdalena, NM",
+      "town_mi": 24.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cuchilla Campground",
+      "type": "free_camp",
+      "town": "Arroyo Seco, NM",
+      "town_mi": 3.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Springtime",
+      "type": "free_camp",
+      "town": "Winston, NM",
+      "town_mi": 21.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Panchuela",
+      "type": "paid_camp",
+      "town": "Rio en Medio, NM",
+      "town_mi": 13.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "New Canyon",
+      "type": "free_camp",
+      "town": "Manzano, NM",
+      "town_mi": 3.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Paliza Family (New)",
+      "type": "paid_camp",
+      "town": "Ponderosa, NM",
+      "town_mi": 3.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "South Fork",
+      "type": "paid_camp",
+      "town": "Nogal, NM",
+      "town_mi": 6.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cabresto Lake Campground",
+      "type": "free_camp",
+      "town": "Red River, NM",
+      "town_mi": 5.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Oak Grove Fc",
+      "type": "paid_camp",
+      "town": "Ruidoso, NM",
+      "town_mi": 5.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Big Tesuque Campground",
+      "type": "paid_camp",
+      "town": "Hyde Park, NM",
+      "town_mi": 5.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Quemado Lake - Juniper Cg",
+      "type": "paid_camp",
+      "town": "Quemado, NM",
+      "town_mi": 14.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Luna Park",
+      "type": "free_camp",
+      "town": "Winston, NM",
+      "town_mi": 17,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Deerhead",
+      "type": "paid_camp",
+      "town": "Cloudcroft, NM",
+      "town_mi": 1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cuchillo Del Medio Campground",
+      "type": "free_camp",
+      "town": "Arroyo Seco, NM",
+      "town_mi": 3.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Twining Campground",
+      "type": "free_camp",
+      "town": "Taos Ski Valley, NM",
+      "town_mi": 0.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Pueblo Park",
+      "type": "paid_camp",
+      "town": "Rancho Grande, NM",
+      "town_mi": 8.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "El Porvenir Campground",
+      "type": "paid_camp",
+      "town": "Las Vegas, NM",
+      "town_mi": 13.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Big Horn Campground",
+      "type": "paid_camp",
+      "town": "Glenwood, NM",
+      "town_mi": 0.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Quaking Aspen",
+      "type": "paid_camp",
+      "town": "McGaffey, NM",
+      "town_mi": 2.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Coyote Canyon",
+      "type": "free_camp",
+      "town": "Coyote, NM",
+      "town_mi": 5.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Holy Ghost",
+      "type": "paid_camp",
+      "town": "Hyde Park, NM",
+      "town_mi": 11.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Mills Canyon",
+      "type": "paid_camp",
+      "town": "Roy, NM",
+      "town_mi": 12.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Apache",
+      "type": "paid_camp",
+      "town": "Cloudcroft, NM",
+      "town_mi": 1.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Rio Puerco",
+      "type": "free_camp",
+      "town": "Coyote, NM",
+      "town_mi": 7.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Baca",
+      "type": "paid_camp",
+      "town": "Capitan, NM",
+      "town_mi": 13.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Upper La Junta Campground",
+      "type": "paid_camp",
+      "town": "Vadito, NM",
+      "town_mi": 12.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Hopewell Cg",
+      "type": "paid_camp",
+      "town": "Ensenada, NM",
+      "town_mi": 16.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Capulin",
+      "type": "paid_camp",
+      "town": "Taos, NM",
+      "town_mi": 5.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Clear Creek Cg",
+      "type": "paid_camp",
+      "town": "Cuba, NM",
+      "town_mi": 7.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cimarron Campground",
+      "type": "paid_camp",
+      "town": "Red River, NM",
+      "town_mi": 12.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Redondo",
+      "type": "paid_camp",
+      "town": "La Cueva, NM",
+      "town_mi": 1.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Canjilon Lakes",
+      "type": "paid_camp",
+      "town": "Canjilon, NM",
+      "town_mi": 7.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Vista Linda",
+      "type": "paid_camp",
+      "town": "Cañon, NM",
+      "town_mi": 3.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Ev Long",
+      "type": "paid_camp",
+      "town": "Las Vegas, NM",
+      "town_mi": 13.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "El Rito",
+      "type": "paid_camp",
+      "town": "El Rito, NM",
+      "town_mi": 6.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Field Tract",
+      "type": "paid_camp",
+      "town": "Pecos, NM",
+      "town_mi": 7.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Iron Gate",
+      "type": "paid_camp",
+      "town": "Rio en Medio, NM",
+      "town_mi": 15.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Fawn Lakes Campground",
+      "type": "paid_camp",
+      "town": "Red River, NM",
+      "town_mi": 1.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cowles",
+      "type": "paid_camp",
+      "town": "Rio en Medio, NM",
+      "town_mi": 13.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Duran",
+      "type": "paid_camp",
+      "town": "Vadito, NM",
+      "town_mi": 11.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "TETILLA PEAK",
+      "type": "paid_camp",
+      "town": "Cochiti Lake, NM",
+      "town_mi": 2.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "El Morro Campground",
+      "type": "unknown",
+      "town": "El Morro Valley, NM",
+      "town_mi": 0.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Upper Scorpion Campground",
+      "type": "unknown",
+      "town": "Gila Hot Springs, NM",
+      "town_mi": 4.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Gallo Campground",
+      "type": "unknown",
+      "town": "Lake Valley, NM",
+      "town_mi": 15.7,
       "badge": "agency",
       "policy": null,
       "osm": false

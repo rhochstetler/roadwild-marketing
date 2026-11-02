@@ -566,7 +566,7 @@ figcaption {
 .crumbs { color: var(--ink-soft); margin-bottom: 18px; }
 .state-intro { margin-top: 22px; max-width: 70ch; display: grid; gap: 14px; }
 
-.glance { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); }
+.glance { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(min(150px, 100%), 1fr)); }
 .glance-item {
   display: grid; gap: 2px; padding: 16px 18px; border: 1px solid var(--line);
   border-radius: var(--r); background: var(--surface); color: var(--ink);
@@ -582,7 +582,7 @@ a.glance-item:hover { text-decoration: none; border-color: var(--sage-edge); }
 .score-slot h2 { font-size: 1.35rem; margin: 4px 0 8px; }
 .score-slot > div { max-width: 62ch; }
 
-.town-list { display: grid; gap: 6px 28px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+.town-list { display: grid; gap: 6px 28px; grid-template-columns: repeat(auto-fill, minmax(min(220px, 100%), 1fr)); }
 .town-list li { display: flex; justify-content: space-between; border-bottom: 1px solid var(--line); padding: 6px 0; }
 
 .spot-group { padding: 0; margin-top: 34px; }
@@ -619,5 +619,5 @@ a.glance-item:hover { text-decoration: none; border-color: var(--sage-edge); }
 .check-locally { max-width: 70ch; padding: 22px 24px; border-left: 4px solid var(--ember); background: var(--ember-tint); border-radius: 0 var(--r) var(--r) 0; }
 .check-locally p { color: var(--ink); }
 
-.regions { display: grid; gap: 28px 40px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+.regions { display: grid; gap: 28px 40px; grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr)); }
 .state-list li { display: flex; justify-content: space-between; padding: 5px 0; border-bottom: 1px solid var(--line); }

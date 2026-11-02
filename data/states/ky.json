@@ -1,6 +1,6 @@
 {
   "state": "KY",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
     {
@@ -175,6 +175,15 @@
       "osm": false
     },
     {
+      "name": "Houchin Ferry Campground",
+      "type": "unknown",
+      "town": "Brownsville, KY",
+      "town_mi": 1.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Smith Ridge Campgrounds",
       "type": "unknown",
       "town": "Campbellsville, KY",
@@ -288,6 +297,15 @@
       "town": "Cadiz, KY",
       "town_mi": 11.3,
       "badge": "listed_business",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Bear Creek Campground",
+      "type": "unknown",
+      "town": "Stearns, KY",
+      "town_mi": 4.6,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -463,6 +481,15 @@
       "osm": false
     },
     {
+      "name": "Mammoth Cave Campground",
+      "type": "unknown",
+      "town": "Park City, KY",
+      "town_mi": 6.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Paducah RV Park & Campground",
       "type": "rv_park",
       "town": "Reidland, KY",
@@ -620,6 +647,24 @@
       "type": "paid_camp",
       "town": "Prestonsburg, KY",
       "town_mi": 2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Alum Ford Campground",
+      "type": "unknown",
+      "town": "Whitley City, KY",
+      "town_mi": 4.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Blue Heron Campground",
+      "type": "unknown",
+      "town": "Stearns, KY",
+      "town_mi": 2.7,
       "badge": "agency",
       "policy": null,
       "osm": false

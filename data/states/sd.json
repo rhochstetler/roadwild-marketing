@@ -1,6 +1,6 @@
 {
   "state": "SD",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
     {
@@ -17,6 +17,15 @@
       "type": "paid_camp",
       "town": "Prairie City, SD",
       "town_mi": 17.2,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Summit Ridge Lookout Cabin",
+      "type": "paid_camp",
+      "town": "Hill View Heights, WY",
+      "town_mi": 5.6,
       "badge": "listed_business",
       "policy": null,
       "osm": false
@@ -323,6 +332,15 @@
       "type": "paid_camp",
       "town": "Lead, SD",
       "town_mi": 4.7,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Beaver Creek Campground (WY)",
+      "type": "paid_camp",
+      "town": "Newcastle, WY",
+      "town_mi": 17.2,
       "badge": "listed_business",
       "policy": null,
       "osm": false

@@ -1,13 +1,31 @@
 {
   "state": "WV",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
+    {
+      "name": "Camp Run Campground",
+      "type": "free_camp",
+      "town": "Brandywine, WV",
+      "town_mi": 11.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
     {
       "name": "Bee Run Campground",
       "type": "paid_camp",
       "town": "Sutton, WV",
       "town_mi": 1.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Hawk Campground",
+      "type": "free_camp",
+      "town": "Wardensville, WV",
+      "town_mi": 5.5,
       "badge": "agency",
       "policy": null,
       "osm": false
@@ -35,6 +53,15 @@
       "type": "paid_camp",
       "town": "Summersville, WV",
       "town_mi": 5.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Summit Lake Campground",
+      "type": "unknown",
+      "town": "Richwood, WV",
+      "town_mi": 5.5,
       "badge": "agency",
       "policy": null,
       "osm": false
@@ -99,6 +126,15 @@
       "town": "Richwood, WV",
       "town_mi": 5.2,
       "badge": "listed_business",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Bishop Knob Campground",
+      "type": "unknown",
+      "town": "Cowen, WV",
+      "town_mi": 6.1,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -310,6 +346,24 @@
       "osm": false
     },
     {
+      "name": "Day Run Campground",
+      "type": "unknown",
+      "town": "Marlinton, WV",
+      "town_mi": 8.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Wolf Gap Campground",
+      "type": "free_camp",
+      "town": "Columbia Furnace, VA",
+      "town_mi": 5.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Harpers Ferry Campground",
       "type": "paid_camp",
       "town": "Bolivar, WV",
@@ -332,7 +386,7 @@
       "type": "paid_camp",
       "town": "Whitmer, WV",
       "town_mi": 7.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -454,11 +508,38 @@
       "osm": false
     },
     {
+      "name": "Meadow Creek Camping Area",
+      "type": "unknown",
+      "town": "Hot Springs, VA",
+      "town_mi": 9.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Pine Run Camping Area",
+      "type": "unknown",
+      "town": "Hot Springs, VA",
+      "town_mi": 9.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "West Shore Camping Area",
+      "type": "unknown",
+      "town": "Hot Springs, VA",
+      "town_mi": 10,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Cales Knoll Camping Area",
       "type": "paid_camp",
       "town": "Hot Springs, VA",
       "town_mi": 10.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -737,6 +818,186 @@
       "type": "paid_camp",
       "town": "Prince, WV",
       "town_mi": 2.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Anthony Creek Dispersed Campsites",
+      "type": "free_camp",
+      "town": "Falling Spring, WV",
+      "town_mi": 6.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Buffalo Lake Dispersed",
+      "type": "free_camp",
+      "town": "Bartow, WV",
+      "town_mi": 5.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Johns Camp Shelter",
+      "type": "free_camp",
+      "town": "Durbin, WV",
+      "town_mi": 7.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "West Fork Fs 44 Dispersed",
+      "type": "free_camp",
+      "town": "Durbin, WV",
+      "town_mi": 1.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Middle Mountain Road Fs 14 Dispersed",
+      "type": "free_camp",
+      "town": "Bartow, WV",
+      "town_mi": 6.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Mower Basin Dispersed",
+      "type": "free_camp",
+      "town": "Huttonsville, WV",
+      "town_mi": 6.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Bear Run Campsites",
+      "type": "free_camp",
+      "town": "Hillsboro, WV",
+      "town_mi": 9.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "North Bend Campsites",
+      "type": "free_camp",
+      "town": "Richwood, WV",
+      "town_mi": 5.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lower Glady Dispersed Camp Site",
+      "type": "free_camp",
+      "town": "Harman, WV",
+      "town_mi": 5.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Dry Fork Camping Area",
+      "type": "free_camp",
+      "town": "Hendricks, WV",
+      "town_mi": 5.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Williams River Rua Sites D2",
+      "type": "paid_camp",
+      "town": "Bergoo, WV",
+      "town_mi": 10,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Johnny Meadows Camping",
+      "type": "free_camp",
+      "town": "Whitmer, WV",
+      "town_mi": 3.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Middle Mountain Cabins",
+      "type": "paid_camp",
+      "town": "Bartow, WV",
+      "town_mi": 10.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cranberry Rua Campsites",
+      "type": "paid_camp",
+      "town": "Richwood, WV",
+      "town_mi": 5.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Williams River Rua Sites D4",
+      "type": "paid_camp",
+      "town": "Marlinton, WV",
+      "town_mi": 9.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Stone Coal Camping Area",
+      "type": "free_camp",
+      "town": "Durbin, WV",
+      "town_mi": 6.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Little River Camping Area",
+      "type": "free_camp",
+      "town": "Bartow, WV",
+      "town_mi": 8.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Hopkins Mountain Fireman Cabin",
+      "type": "paid_camp",
+      "town": "Falling Spring, WV",
+      "town_mi": 6.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Gandy Creek Camping Area",
+      "type": "free_camp",
+      "town": "Whitmer, WV",
+      "town_mi": 6.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Third Bridge Campsites",
+      "type": "free_camp",
+      "town": "Richwood, WV",
+      "town_mi": 7.7,
       "badge": "agency",
       "policy": null,
       "osm": false

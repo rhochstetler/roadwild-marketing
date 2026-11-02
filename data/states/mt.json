@@ -1,6 +1,6 @@
 {
   "state": "MT",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
     {
@@ -215,42 +215,6 @@
       "type": "paid_camp",
       "town": "Trego, MT",
       "town_mi": 17.5,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Turner Flat Campground",
-      "type": "paid_camp",
-      "town": "Saltese, MT",
-      "town_mi": 13.8,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Spruce Tree Campground",
-      "type": "paid_camp",
-      "town": "St. Regis, MT",
-      "town_mi": 21.7,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Heller Creek Campground",
-      "type": "paid_camp",
-      "town": "Superior, MT",
-      "town_mi": 17.4,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Fly Flat Campground",
-      "type": "paid_camp",
-      "town": "De Borgia, MT",
-      "town_mi": 18.1,
       "badge": "agency",
       "policy": null,
       "osm": false
@@ -2047,6 +2011,15 @@
       "osm": false
     },
     {
+      "name": "Blacktail Cabin (East)",
+      "type": "paid_camp",
+      "town": "Jardine, MT",
+      "town_mi": 4.9,
+      "badge": "access_checked",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Moose Creek Flat Campground",
       "type": "paid_camp",
       "town": "Big Sky, MT",
@@ -2389,15 +2362,6 @@
       "osm": false
     },
     {
-      "name": "MAGRUDER RANGERS HOUSE",
-      "type": "paid_camp",
-      "town": "Conner, MT",
-      "town_mi": 32.1,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "ANTONE CABIN",
       "type": "paid_camp",
       "town": "Lima, MT",
@@ -2650,37 +2614,10 @@
       "osm": false
     },
     {
-      "name": "Reva Gap Campground",
-      "type": "unknown",
-      "town": "Prairie City, SD",
-      "town_mi": 17.2,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Picnic Spring Campground",
-      "type": "unknown",
-      "town": "Buffalo, SD",
-      "town_mi": 20.1,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "Holiday Spring Campground",
       "type": "unknown",
       "town": "Ashland, MT",
       "town_mi": 15.9,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Paradise Campground",
-      "type": "unknown",
-      "town": "Darby, MT",
-      "town_mi": 29.1,
       "badge": "agency",
       "policy": null,
       "osm": false

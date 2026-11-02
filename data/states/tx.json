@@ -1,6 +1,6 @@
 {
   "state": "TX",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
     {
@@ -8113,15 +8113,6 @@
       "osm": false
     },
     {
-      "name": "PLATTER FLATS",
-      "type": "paid_camp",
-      "town": "Platter, OK",
-      "town_mi": 1.2,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "SOWELL CREEK",
       "type": "paid_camp",
       "town": "Proctor, TX",
@@ -8252,15 +8243,6 @@
       "type": "paid_camp",
       "town": "Benbrook, TX",
       "town_mi": 1.9,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Spring Creek Campground",
-      "type": "paid_camp",
-      "town": "Durham, OK",
-      "town_mi": 6.9,
       "badge": "agency",
       "policy": null,
       "osm": false

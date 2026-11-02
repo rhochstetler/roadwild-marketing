@@ -1,6 +1,6 @@
 {
   "state": "GA",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
     {
@@ -1147,15 +1147,6 @@
       "osm": false
     },
     {
-      "name": "Veasey Creek Park",
-      "type": "paid_camp",
-      "town": "Fredonia, AL",
-      "town_mi": 3.3,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "Yellowjacket Creek Recreation Area",
       "type": "paid_camp",
       "town": "LaGrange, GA",
@@ -1201,24 +1192,6 @@
       "osm": false
     },
     {
-      "name": "BROYLES",
-      "type": "paid_camp",
-      "town": "Centerville, SC",
-      "town_mi": 6.4,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "CONEROSS PARK",
-      "type": "paid_camp",
-      "town": "Utica, SC",
-      "town_mi": 6.1,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "CRESCENT",
       "type": "paid_camp",
       "town": "Hartwell, GA",
@@ -1246,15 +1219,6 @@
       "osm": false
     },
     {
-      "name": "OCONEE POINT",
-      "type": "paid_camp",
-      "town": "Clemson University, SC",
-      "town_mi": 5.5,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "PAYNE CAMPGROUND-ALLATOONA LAKE",
       "type": "paid_camp",
       "town": "Woodstock, GA",
@@ -1268,33 +1232,6 @@
       "type": "paid_camp",
       "town": "Cumming, GA",
       "town_mi": 3.8,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "SINGING PINES",
-      "type": "paid_camp",
-      "town": "Homeland Park, SC",
-      "town_mi": 3.3,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "SPRINGFIELD",
-      "type": "paid_camp",
-      "town": "Reed Creek, GA",
-      "town_mi": 5.3,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "TWIN LAKES (SC)",
-      "type": "paid_camp",
-      "town": "Clemson University, SC",
-      "town_mi": 3.7,
       "badge": "agency",
       "policy": null,
       "osm": false
@@ -1448,6 +1385,15 @@
       "type": "paid_camp",
       "town": "Tallulah Falls, GA",
       "town_mi": 5.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "GILL POINT",
+      "type": "paid_camp",
+      "town": "Mount Carmel, SC",
+      "town_mi": 7.4,
       "badge": "agency",
       "policy": null,
       "osm": false

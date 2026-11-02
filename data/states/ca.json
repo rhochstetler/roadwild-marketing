@@ -1,6 +1,6 @@
 {
   "state": "CA",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
     {
@@ -3006,6 +3006,15 @@
       "town": "East Porterville, CA",
       "town_mi": 4.2,
       "badge": "listed_business",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "INDIAN CREEK CAMPGROUND (CA)",
+      "type": "paid_camp",
+      "town": "Alpine Village, CA",
+      "town_mi": 2.5,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },

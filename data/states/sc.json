@@ -1,13 +1,67 @@
 {
   "state": "SC",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
+    {
+      "name": "BROYLES",
+      "type": "paid_camp",
+      "town": "Centerville, SC",
+      "town_mi": 6.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "CONEROSS PARK",
+      "type": "paid_camp",
+      "town": "Utica, SC",
+      "town_mi": 6.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "OCONEE POINT",
+      "type": "paid_camp",
+      "town": "Clemson University, SC",
+      "town_mi": 5.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
     {
       "name": "POPLAR SPRINGS",
       "type": "paid_camp",
       "town": "Laurens, SC",
       "town_mi": 4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "SINGING PINES",
+      "type": "paid_camp",
+      "town": "Homeland Park, SC",
+      "town_mi": 3.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "SPRINGFIELD",
+      "type": "paid_camp",
+      "town": "Reed Creek, GA",
+      "town_mi": 5.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "TWIN LAKES (SC)",
+      "type": "paid_camp",
+      "town": "Clemson University, SC",
+      "town_mi": 3.7,
       "badge": "agency",
       "policy": null,
       "osm": false
@@ -620,15 +674,6 @@
       "type": "paid_camp",
       "town": "Clarks Hill, SC",
       "town_mi": 1.6,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "GILL POINT",
-      "type": "paid_camp",
-      "town": "Mount Carmel, SC",
-      "town_mi": 7.4,
       "badge": "agency",
       "policy": null,
       "osm": false

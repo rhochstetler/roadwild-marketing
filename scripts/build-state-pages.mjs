@@ -92,12 +92,86 @@ function badgeRank(b) {
   return i === -1 ? BADGE_ORDER.length : i;
 }
 
+// Types are listed in the order a page should reach for them when it picks
+// examples: the places a person drives to see come before the ones every town
+// has. `services` groups are utilities (decided for the planner too) -- the
+// page counts them and names none, because a list of laundromats is not a
+// reason to visit a state.
 const ACTIVITY_GROUPS = [
-  { title: 'Outdoors', types: ['hiking', 'camping', 'hot_springs', 'rock_climbing', 'fishing', 'biking', 'paddling', 'boating', 'swimming', 'wildlife_viewing', 'birding', 'horseback_riding', 'winter_sports', 'scenic_drive', 'off_roading', 'hunting', 'picnicking', 'stargazing', 'caving', 'photography'] },
-  { title: 'Culture and history', types: ['historic_site', 'interpretive_program', 'museum', 'arts_culture', 'historic_downtown', 'plaza', 'live_music', 'science_center', 'planetarium', 'library', 'workshop_class'] },
-  { title: 'Food and drink', types: ['brewery_distillery', 'market', 'local_eats'] },
-  { title: 'Nomad services', types: ['laundromat', 'shower', 'dump_station', 'drinking_water', 'coworking'] },
+  { title: 'Outdoors', types: ['hot_springs', 'hiking', 'scenic_drive', 'paddling', 'rock_climbing', 'wildlife_viewing', 'birding', 'stargazing', 'caving', 'fishing', 'biking', 'boating', 'swimming', 'winter_sports', 'horseback_riding', 'off_roading', 'camping', 'picnicking', 'hunting', 'photography'] },
+  { title: 'Culture and history', types: ['museum', 'historic_site', 'historic_downtown', 'science_center', 'planetarium', 'interpretive_program', 'live_music', 'arts_culture', 'plaza', 'workshop_class', 'library'] },
+  { title: 'Food and drink', types: ['brewery_distillery', 'farmers_market', 'market', 'local_eats'] },
+  { title: 'Nomad services', services: true, types: ['laundromat', 'shower', 'dump_station', 'drinking_water', 'coworking'] },
 ];
+const ACTIVITY_EXAMPLES = 12;
+
+// Plural labels for the per-type counts under each group.
+const TYPE_LABELS = {
+  hiking: 'Hikes and trails', camping: 'Camping', hot_springs: 'Hot springs', rock_climbing: 'Climbing',
+  fishing: 'Fishing', biking: 'Biking', paddling: 'Paddling', boating: 'Boating', swimming: 'Swimming',
+  wildlife_viewing: 'Wildlife viewing', birding: 'Birding', horseback_riding: 'Horseback riding',
+  winter_sports: 'Winter sports', scenic_drive: 'Scenic drives', off_roading: 'Off-roading', hunting: 'Hunting',
+  picnicking: 'Picnic areas', stargazing: 'Stargazing', caving: 'Caves', photography: 'Photo spots',
+  historic_site: 'Historic sites', interpretive_program: 'Ranger and interpretive programs', museum: 'Museums',
+  arts_culture: 'Arts and galleries', historic_downtown: 'Historic downtowns', plaza: 'Plazas',
+  live_music: 'Live music', science_center: 'Science centers', planetarium: 'Planetariums', library: 'Libraries',
+  workshop_class: 'Workshops and classes', brewery_distillery: 'Breweries, wineries and distilleries',
+  farmers_market: 'Markets and farm stands', market: 'Markets', local_eats: 'Local eats', laundromat: 'Laundromats',
+  shower: 'Showers', dump_station: 'Dump stations', drinking_water: 'Drinking water', coworking: 'Coworking',
+};
+
+// Examples for one group, chosen for range instead of taking the first rows of
+// the export (for Washington those were three trails on one Hanford reach):
+//   - cycle through the group's types in its order, one pick per type per turn;
+//   - prefer a town no earlier pick came from, so Seattle does not fill a card;
+//   - inside a type, order by a hash of the name, so the sample is not every
+//     name that starts with "A" and still comes out the same on every build.
+// Names that do not start with a letter (".01 - Weather Permitting", an
+// artwork; "1890 Seattle Fire Department Bell") are left out of the sample
+// only -- they still count.
+//
+// An activity's `city` is the town whose search radius found it, and the
+// export carries no state for it: Manhattan museums arrive on the New York
+// page labelled Weehawken or Guttenberg, NJ. Until the export sends the
+// town's state, a town name that also appears in a neighbouring state's
+// activities is only used once every other choice is spent. It still shows
+// in full if it gets picked; the label is the source's, not ours to rewrite.
+// farmers_market is the loosest type the importer writes: it holds real
+// farmers' markets and also "Juba Shopping Mall" and "Hoven Equipment". The
+// count stays as the data has it; the sample only shows names that say what
+// they are.
+const SAMPLE_NAME = { farmers_market: /market|farm|green|orchard|produce|stand|mercado/i };
+
+function nameHash(s) {
+  let h = 2166136261;
+  for (const c of s) h = Math.imul(h ^ c.charCodeAt(0), 16777619);
+  return h >>> 0;
+}
+function pickExamples(list, types, n, borderTowns) {
+  const queues = types
+    .map(t => list.filter(a => a.type === t && /^[A-Za-z]/.test(a.name) && (SAMPLE_NAME[t] || /./).test(a.name))
+      .sort((x, y) => nameHash(x.name) - nameHash(y.name) || x.name.localeCompare(y.name)))
+    .filter(q => q.length);
+  const picked = [], names = new Set(), towns = new Set();
+  const take = (q, strict) => {
+    const i = q.findIndex(a => !names.has(a.name.toLowerCase())
+      && !(strict && a.city && (towns.has(a.city) || borderTowns.has(a.city))));
+    if (i === -1) return false;
+    const [a] = q.splice(i, 1);
+    names.add(a.name.toLowerCase());
+    if (a.city) towns.add(a.city);
+    picked.push(a);
+    return true;
+  };
+  for (const strict of [true, false]) {
+    let moved = true;
+    while (picked.length < n && moved) {
+      moved = false;
+      for (const q of queues) if (picked.length < n && take(q, strict)) moved = true;
+    }
+  }
+  return picked;
+}
 
 const esc = s => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const slug = name => name.toLowerCase().replace(/[^a-z]+/g, '-').replace(/^-|-$/g, '');
@@ -213,7 +287,7 @@ function spotRows(spots, code) {
   return spots.map(s => `<li class="spot-row"><span class="spot-name">${esc(s.name)}</span><span class="spot-where">${esc(whereText(s, code))}</span>${badge(s.badge)}</li>`).join('\n');
 }
 
-function statePage(code, data, intro, built) {
+function statePage(code, data, intro, built, allActs) {
   const [name] = STATES[code];
   const spots = data.spots || [];
   const acts = data.activities || [];
@@ -234,10 +308,17 @@ function statePage(code, data, intro, built) {
   for (const s of spots) { const t = townLabel(s.town, code); if (t && (s.town_mi ?? 0) <= 25) towns[t] = (towns[t] || 0) + 1; }
   const topTowns = Object.entries(towns).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])).slice(0, 10);
 
+  const borderTowns = new Set();
+  for (const c of (NEIGHBORS[code] || '').split(' ').filter(Boolean)) {
+    for (const a of allActs[c] || []) if (a.city) borderTowns.add(a.city);
+  }
   const actGroups = ACTIVITY_GROUPS.map(g => {
     const list = acts.filter(a => g.types.includes(a.type));
-    return { ...g, count: list.length, examples: list.slice(0, 5) };
+    const byType = g.types.map(t => [t, list.filter(a => a.type === t).length]).filter(([, n]) => n)
+      .sort((a, b) => b[1] - a[1]);
+    return { ...g, count: list.length, byType, examples: g.services ? [] : pickExamples(list, g.types, ACTIVITY_EXAMPLES, borderTowns) };
   }).filter(g => g.count);
+
 
   const neighbors = (NEIGHBORS[code] || '').split(' ').filter(Boolean)
     .map(c => built.has(c) ? `<a href="/camping/${slug(STATES[c][0])}">${esc(STATES[c][0])}</a>` : `<span class="muted">${esc(STATES[c][0])}</span>`);
@@ -331,14 +412,16 @@ ${actGroups.length ? `
         <div class="wrap">
           <div class="section-head">
             <h2>Things to do in ${esc(name)}</h2>
-            <p class="lede">${fmt(acts.length)} places on the Road Wild map, from trailheads to laundromats.</p>
+            <p class="lede">${fmt(acts.length)} places on the Road Wild map, from trailheads and museums to laundromats. A sample of each below; the app shows them all on the map.</p>
           </div>
           <div class="grid grid-2">
 ${actGroups.map(g => `            <article class="card">
               <h3>${esc(g.title)} <span class="count">${fmt(g.count)}</span></h3>
+              <p class="act-types small">${[...g.byType.slice(0, 6).map(([t, n]) => `${esc(TYPE_LABELS[t] || t)} ${fmt(n)}`),
+                ...(g.byType.length > 6 ? [`${g.byType.length - 6} more kinds`] : [])].join(' · ')}</p>${g.examples.length ? `
               <ul class="act-list">
 ${g.examples.map(a => `                <li>${esc(a.name)}${a.city ? ` <span class="muted">· ${esc(a.city)}</span>` : ''}</li>`).join('\n')}
-              </ul>
+              </ul>` : ''}
             </article>`).join('\n')}
           </div>
         </div>
@@ -491,6 +574,7 @@ for (const f of files) {
   loaded[code] = data;
 }
 const built = new Set(Object.keys(loaded));
+const allActs = Object.fromEntries(Object.entries(loaded).map(([c, d]) => [c, d.activities || []]));
 mkdirSync(OUT, { recursive: true });
 const counts = {};
 let anySample = false;
@@ -498,7 +582,7 @@ for (const [code, data] of Object.entries(loaded)) {
   counts[code] = (data.spots || []).length;
   anySample ||= data.sample === true;
   const file = join(OUT, `${slug(STATES[code][0])}.html`);
-  writeFileSync(file, statePage(code, data, intros[code], built));
+  writeFileSync(file, statePage(code, data, intros[code], built, allActs));
   console.log(`wrote ${file.replace(ROOT + '/', '')} (${counts[code]} spots)`);
 }
 writeFileSync(join(OUT, 'index.html'), indexPage(built, counts, anySample));

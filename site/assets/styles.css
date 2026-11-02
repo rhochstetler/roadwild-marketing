@@ -584,7 +584,8 @@ a.glance-item:hover { text-decoration: none; border-color: var(--sage-edge); }
 .badge-key li { display: grid; grid-template-columns: auto 1fr; gap: 12px; align-items: baseline; font-size: .93rem; }
 @media (max-width: 640px) { .badge-key li { grid-template-columns: 1fr; gap: 4px; } }
 
-.act-list { display: grid; gap: 4px; margin-top: 6px; font-size: .95rem; }
+.act-types { color: var(--ink-soft); }
+.act-list { display: grid; gap: 4px; margin-top: 10px; font-size: .95rem; }
 
 .check-locally { max-width: 70ch; padding: 22px 24px; border-left: 4px solid var(--ember); background: var(--ember-tint); border-radius: 0 var(--r) var(--r) 0; }
 .check-locally p { color: var(--ink); }

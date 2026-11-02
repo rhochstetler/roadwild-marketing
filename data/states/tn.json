@@ -1,6 +1,6 @@
 {
   "state": "TN",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
     {
@@ -1516,15 +1516,6 @@
       "osm": false
     },
     {
-      "name": "BLUE HERON CAMPGROUND",
-      "type": "paid_camp",
-      "town": "Stearns, KY",
-      "town_mi": 2.7,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "CAGES BEND",
       "type": "paid_camp",
       "town": "Hendersonville, TN",
@@ -1732,15 +1723,6 @@
       "osm": false
     },
     {
-      "name": "Bear Creek Campground - KY",
-      "type": "paid_camp",
-      "town": "Stearns, KY",
-      "town_mi": 4.6,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "HARPETH RIVER BRIDGE CAMPGROUND (TN)",
       "type": "paid_camp",
       "town": "Ashland City, TN",
@@ -1763,15 +1745,6 @@
       "type": "paid_camp",
       "town": "Pleasant View, TN",
       "town_mi": 9.8,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "BIG CREEK CAMPGROUND (GREAT SMOKY MOUNTAINS NATIONAL PARK)",
-      "type": "paid_camp",
-      "town": "Cosby, TN",
-      "town_mi": 8.1,
       "badge": "agency",
       "policy": null,
       "osm": false

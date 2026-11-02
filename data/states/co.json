@@ -1,6 +1,6 @@
 {
   "state": "CO",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
     {
@@ -80,7 +80,7 @@
       "type": "paid_camp",
       "town": "Gunnison, CO",
       "town_mi": 14.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -665,7 +665,7 @@
       "type": "paid_camp",
       "town": "Estes Park, CO",
       "town_mi": 3.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -683,15 +683,6 @@
       "type": "paid_camp",
       "town": "Dolores, CO",
       "town_mi": 3.6,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Lake Fork Campground (Blue Mesa)",
-      "type": "paid_camp",
-      "town": "Crawford, CO",
-      "town_mi": 22.7,
       "badge": "listed_business",
       "policy": null,
       "osm": false
@@ -773,7 +764,7 @@
       "type": "paid_camp",
       "town": "Estes Park, CO",
       "town_mi": 4.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -854,7 +845,7 @@
       "type": "paid_camp",
       "town": "Fruita, CO",
       "town_mi": 3.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -980,7 +971,7 @@
       "type": "paid_camp",
       "town": "Estes Park, CO",
       "town_mi": 3.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1034,7 +1025,7 @@
       "type": "paid_camp",
       "town": "Gardner, CO",
       "town_mi": 18.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1061,7 +1052,7 @@
       "type": "paid_camp",
       "town": "Gunnison, CO",
       "town_mi": 10.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1777,6 +1768,15 @@
       "osm": false
     },
     {
+      "name": "Echo Park Campground",
+      "type": "unknown",
+      "town": "Dinosaur, CO",
+      "town_mi": 19.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Tahosa",
       "type": "paid_camp",
       "town": "Allenspark, CO",
@@ -1890,6 +1890,15 @@
       "town": "Grand Lake, CO",
       "town_mi": 10.7,
       "badge": "access_checked",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "East Portal Campground",
+      "type": "unknown",
+      "town": "Montrose, CO",
+      "town_mi": 12,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -2524,6 +2533,15 @@
       "osm": false
     },
     {
+      "name": "Deerlodge Park Campground",
+      "type": "unknown",
+      "town": "Maybell, CO",
+      "town_mi": 22.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Wade and Curtis River Camp",
       "type": "unknown",
       "town": "Dutch John, UT",
@@ -2789,6 +2807,15 @@
       "type": "paid_camp",
       "town": "Bayfield, CO",
       "town_mi": 15.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Timber Creek Campground",
+      "type": "unknown",
+      "town": "Grand Lake, CO",
+      "town_mi": 9.3,
       "badge": "agency",
       "policy": null,
       "osm": false
@@ -3550,6 +3577,42 @@
       "osm": false
     },
     {
+      "name": "South Rim Campground",
+      "type": "unknown",
+      "town": "Montrose, CO",
+      "town_mi": 10.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cimarron Campground",
+      "type": "unknown",
+      "town": "Colona, CO",
+      "town_mi": 14.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Ponderosa Campground",
+      "type": "unknown",
+      "town": "Crawford, CO",
+      "town_mi": 20.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Dry Gulch Campground",
+      "type": "unknown",
+      "town": "Gunnison, CO",
+      "town_mi": 14.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Gunnison Lakeside RV Park & Cabins",
       "type": "rv_park",
       "town": "Gunnison, CO",
@@ -3766,6 +3829,15 @@
       "osm": false
     },
     {
+      "name": "Longs Peak Campground",
+      "type": "unknown",
+      "town": "Allenspark, CO",
+      "town_mi": 3.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Lamar Sportsman RV Park and Horse Motel",
       "type": "rv_park",
       "town": "Lamar, CO",
@@ -3942,6 +4014,15 @@
       "town": "Laporte, CO",
       "town_mi": 2.5,
       "badge": "listed_business",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Morefield Campground",
+      "type": "unknown",
+      "town": "Mancos, CO",
+      "town_mi": 7.5,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -5107,6 +5188,15 @@
       "osm": false
     },
     {
+      "name": "Gates of Lodore Campground",
+      "type": "unknown",
+      "town": "Dutch John, UT",
+      "town_mi": 30.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Angel Creek Campground",
       "type": "paid_camp",
       "town": "Ouray, CO",
@@ -5435,6 +5525,42 @@
       "type": "paid_camp",
       "town": "Lake City, CO",
       "town_mi": 14.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Backpacking Campsites in the Dunes or Forest",
+      "type": "unknown",
+      "town": "Crestone, CO",
+      "town_mi": 17.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Gateview Campground",
+      "type": "unknown",
+      "town": "Gunnison, CO",
+      "town_mi": 20.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Medano Pass Primitive Road Campsites",
+      "type": "unknown",
+      "town": "Crestone, CO",
+      "town_mi": 17.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lake Fork Campground",
+      "type": "unknown",
+      "town": "Gunnison, CO",
+      "town_mi": 22.7,
       "badge": "agency",
       "policy": null,
       "osm": false

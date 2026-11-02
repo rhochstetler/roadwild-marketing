@@ -1,6 +1,6 @@
 {
   "state": "VA",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
     {
@@ -360,15 +360,6 @@
       "town": "Lake of the Woods, VA",
       "town_mi": 1.4,
       "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Wolf Gap Campground",
-      "type": "free_camp",
-      "town": "Columbia Furnace, VA",
-      "town_mi": 5.3,
-      "badge": "agency",
       "policy": null,
       "osm": false
     },

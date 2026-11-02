@@ -1,6 +1,6 @@
 {
   "state": "NC",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
     {
@@ -1174,6 +1174,15 @@
       "osm": false
     },
     {
+      "name": "Doughton Park Campground",
+      "type": "unknown",
+      "town": "Sparta, NC",
+      "town_mi": 5.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Group Campground",
       "type": "paid_camp",
       "town": "Mayodan, NC",
@@ -1246,6 +1255,15 @@
       "osm": false
     },
     {
+      "name": "Great Island Cabin Camp",
+      "type": "unknown",
+      "town": "Davis, NC",
+      "town_mi": 3.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Cedar Island RV Park",
       "type": "rv_park",
       "town": "Atlantic, NC",
@@ -1296,6 +1314,15 @@
       "town": "Spencer, NC",
       "town_mi": 3.1,
       "badge": "listed_business",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Mount Pisgah",
+      "type": "unknown",
+      "town": "Mills River, NC",
+      "town_mi": 9.6,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1453,6 +1480,15 @@
       "osm": false
     },
     {
+      "name": "Deep Creek Campground",
+      "type": "unknown",
+      "town": "Bryson City, NC",
+      "town_mi": 2.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "U.S. 221 Drive-in Campground",
       "type": "paid_camp",
       "town": "Jefferson, NC",
@@ -1597,10 +1633,28 @@
       "osm": false
     },
     {
+      "name": "Cape Point Campground",
+      "type": "unknown",
+      "town": "Buxton, NC",
+      "town_mi": 1.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Arrowhead Campground",
       "type": "unknown",
       "town": "Badin, NC",
       "town_mi": 3.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Frisco Campground",
+      "type": "unknown",
+      "town": "Frisco, NC",
+      "town_mi": 0.8,
       "badge": "agency",
       "policy": null,
       "osm": false
@@ -1611,6 +1665,24 @@
       "town": "Pilot Mountain, NC",
       "town_mi": 2.5,
       "badge": "listed_business",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Smokemont Campground",
+      "type": "unknown",
+      "town": "Cherokee, NC",
+      "town_mi": 4.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Crabtree Falls Campground",
+      "type": "unknown",
+      "town": "Spruce Pine, NC",
+      "town_mi": 8,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1660,15 +1732,6 @@
       "osm": false
     },
     {
-      "name": "Russell Field Shelter",
-      "type": "paid_camp",
-      "town": "Townsend, TN",
-      "town_mi": 7.9,
-      "badge": "access_checked",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "Spence Field Shelter",
       "type": "paid_camp",
       "town": "Townsend, TN",
@@ -1692,6 +1755,15 @@
       "town": "Surf City, NC",
       "town_mi": 0.9,
       "badge": "listed_business",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Ocracoke Campground",
+      "type": "unknown",
+      "town": "Ocracoke, NC",
+      "town_mi": 5.6,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1782,6 +1854,15 @@
       "town": "Canton, NC",
       "town_mi": 4.5,
       "badge": "listed_business",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Oregon Inlet Campground",
+      "type": "unknown",
+      "town": "Wanchese, NC",
+      "town_mi": 6.1,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1908,6 +1989,15 @@
       "town": "Cedar Point, NC",
       "town_mi": 0.7,
       "badge": "listed_business",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Linville Falls Campground",
+      "type": "unknown",
+      "town": "Crossnore, NC",
+      "town_mi": 3.8,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -2061,6 +2151,24 @@
       "town": "Bent Creek, NC",
       "town_mi": 1.9,
       "badge": "listed_business",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Big Creek Campground",
+      "type": "unknown",
+      "town": "Cosby, TN",
+      "town_mi": 8.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cataloochee Campground",
+      "type": "unknown",
+      "town": "Maggie Valley, NC",
+      "town_mi": 7.4,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -2537,6 +2645,33 @@
       "type": "paid_camp",
       "town": "Badin, NC",
       "town_mi": 2.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Julian Price Park Campground",
+      "type": "unknown",
+      "town": "Foscoe, NC",
+      "town_mi": 2.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "North Core Banks - Beach Camping",
+      "type": "unknown",
+      "town": "Atlantic, NC",
+      "town_mi": 5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "South Core Banks -- Beach camping",
+      "type": "unknown",
+      "town": "Davis, NC",
+      "town_mi": 3.8,
       "badge": "agency",
       "policy": null,
       "osm": false

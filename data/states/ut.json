@@ -1,6 +1,6 @@
 {
   "state": "UT",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
     {
@@ -8,7 +8,7 @@
       "type": "paid_camp",
       "town": "Helper, UT",
       "town_mi": 14.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -17,7 +17,7 @@
       "type": "paid_camp",
       "town": "Dutch John, UT",
       "town_mi": 1.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -26,7 +26,7 @@
       "type": "paid_camp",
       "town": "Moab, UT",
       "town_mi": 6.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -35,7 +35,7 @@
       "type": "paid_camp",
       "town": "Malta, ID",
       "town_mi": 24.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -44,7 +44,7 @@
       "type": "paid_camp",
       "town": "Thompson Springs, UT",
       "town_mi": 14.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -53,7 +53,7 @@
       "type": "paid_camp",
       "town": "Big Water, UT",
       "town_mi": 21.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -62,16 +62,7 @@
       "type": "paid_camp",
       "town": "Escalante, UT",
       "town_mi": 13.3,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Echo Park Campground",
-      "type": "paid_camp",
-      "town": "Dinosaur, CO",
-      "town_mi": 19.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -80,7 +71,7 @@
       "type": "paid_camp",
       "town": "Clear Creek, UT",
       "town_mi": 5.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -98,7 +89,7 @@
       "type": "paid_camp",
       "town": "Spanish Valley, UT",
       "town_mi": 28,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -107,7 +98,7 @@
       "type": "paid_camp",
       "town": "Moab, UT",
       "town_mi": 3.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -116,7 +107,7 @@
       "type": "paid_camp",
       "town": "Spanish Valley, UT",
       "town_mi": 12.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -125,7 +116,7 @@
       "type": "paid_camp",
       "town": "Dutch John, UT",
       "town_mi": 1.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -134,7 +125,7 @@
       "type": "paid_camp",
       "town": "Bear River, WY",
       "town_mi": 9.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -143,7 +134,7 @@
       "type": "paid_camp",
       "town": "Flaming Gorge, UT",
       "town_mi": 12.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -152,7 +143,7 @@
       "type": "paid_camp",
       "town": "Brian Head, UT",
       "town_mi": 13.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -161,7 +152,7 @@
       "type": "paid_camp",
       "town": "Flaming Gorge, UT",
       "town_mi": 1.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -179,7 +170,7 @@
       "type": "paid_camp",
       "town": "Torrey, UT",
       "town_mi": 9.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -188,7 +179,7 @@
       "type": "paid_camp",
       "town": "Castle Valley, UT",
       "town_mi": 4.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -197,7 +188,7 @@
       "type": "paid_camp",
       "town": "Oak City, UT",
       "town_mi": 4.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -206,7 +197,7 @@
       "type": "paid_camp",
       "town": "Moab, UT",
       "town_mi": 2.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -215,7 +206,16 @@
       "type": "paid_camp",
       "town": "Beaver, UT",
       "town_mi": 8.1,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Temple Mountain Campground East",
+      "type": "boondocking",
+      "town": "Hanksville, UT",
+      "town_mi": 19.9,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -224,7 +224,7 @@
       "type": "paid_camp",
       "town": "Tabiona, UT",
       "town_mi": 14.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -242,7 +242,7 @@
       "type": "paid_camp",
       "town": "Mount Pleasant, UT",
       "town_mi": 11.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -251,7 +251,7 @@
       "type": "paid_camp",
       "town": "North Logan, UT",
       "town_mi": 7.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -260,7 +260,7 @@
       "type": "paid_camp",
       "town": "Aurora, UT",
       "town_mi": 10.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -296,7 +296,7 @@
       "type": "paid_camp",
       "town": "Moab, UT",
       "town_mi": 14.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -310,11 +310,20 @@
       "osm": false
     },
     {
+      "name": "Wolverine ATV Trailhead Campground",
+      "type": "boondocking",
+      "town": "Oakley, UT",
+      "town_mi": 25.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "White Bridge Campground",
       "type": "paid_camp",
       "town": "Panguitch, UT",
       "town_mi": 9.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -341,7 +350,7 @@
       "type": "paid_camp",
       "town": "Moab, UT",
       "town_mi": 2.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -359,7 +368,7 @@
       "type": "paid_camp",
       "town": "Torrey, UT",
       "town_mi": 11.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -368,7 +377,7 @@
       "type": "paid_camp",
       "town": "Oakley, UT",
       "town_mi": 22.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -404,7 +413,7 @@
       "type": "paid_camp",
       "town": "La Sal, UT",
       "town_mi": 9.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -413,7 +422,7 @@
       "type": "paid_camp",
       "town": "Clear Creek, UT",
       "town_mi": 5.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -422,7 +431,7 @@
       "type": "paid_camp",
       "town": "Clear Creek, UT",
       "town_mi": 9.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -431,7 +440,7 @@
       "type": "paid_camp",
       "town": "Bicknell, UT",
       "town_mi": 1.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -440,7 +449,7 @@
       "type": "paid_camp",
       "town": "Tabiona, UT",
       "town_mi": 16.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -449,7 +458,7 @@
       "type": "paid_camp",
       "town": "Flaming Gorge, UT",
       "town_mi": 14.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -458,7 +467,7 @@
       "type": "paid_camp",
       "town": "Tabiona, UT",
       "town_mi": 13.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -481,11 +490,20 @@
       "osm": false
     },
     {
+      "name": "Hideout Canyon Boat-In Campground",
+      "type": "boondocking",
+      "town": "Manila, UT",
+      "town_mi": 6.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Tasha Equestrian Campground",
       "type": "paid_camp",
       "town": "Fremont, UT",
       "town_mi": 11.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -494,7 +512,7 @@
       "type": "paid_camp",
       "town": "Scofield, UT",
       "town_mi": 7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -503,7 +521,7 @@
       "type": "paid_camp",
       "town": "Clear Creek, UT",
       "town_mi": 7.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -521,7 +539,7 @@
       "type": "paid_camp",
       "town": "Orangeville, UT",
       "town_mi": 13.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -530,7 +548,7 @@
       "type": "paid_camp",
       "town": "Lyman, UT",
       "town_mi": 8.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -539,7 +557,7 @@
       "type": "paid_camp",
       "town": "Brian Head, UT",
       "town_mi": 13,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -548,7 +566,7 @@
       "type": "paid_camp",
       "town": "Flaming Gorge, UT",
       "town_mi": 6.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -566,7 +584,7 @@
       "type": "paid_camp",
       "town": "Evanston, WY",
       "town_mi": 25.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -580,11 +598,20 @@
       "osm": false
     },
     {
+      "name": "Limber Flag Yurt",
+      "type": "boondocking",
+      "town": "Flaming Gorge, UT",
+      "town_mi": 10.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Canyon Rim Campground",
       "type": "paid_camp",
       "town": "Flaming Gorge, UT",
       "town_mi": 3.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -593,7 +620,7 @@
       "type": "paid_camp",
       "town": "Dutch John, UT",
       "town_mi": 2.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -602,7 +629,7 @@
       "type": "paid_camp",
       "town": "Dutch John, UT",
       "town_mi": 1.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -620,7 +647,7 @@
       "type": "paid_camp",
       "town": "Ephraim, UT",
       "town_mi": 5.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -629,7 +656,7 @@
       "type": "paid_camp",
       "town": "Cleveland, UT",
       "town_mi": 21.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -638,7 +665,7 @@
       "type": "paid_camp",
       "town": "Manti, UT",
       "town_mi": 12.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -647,7 +674,7 @@
       "type": "paid_camp",
       "town": "Hanksville, UT",
       "town_mi": 18.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -665,7 +692,7 @@
       "type": "paid_camp",
       "town": "Manila, UT",
       "town_mi": 4.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -683,7 +710,7 @@
       "type": "paid_camp",
       "town": "Tropic, UT",
       "town_mi": 10.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -692,7 +719,7 @@
       "type": "paid_camp",
       "town": "Providence, UT",
       "town_mi": 8.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -701,7 +728,7 @@
       "type": "paid_camp",
       "town": "Mayfield, UT",
       "town_mi": 5.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -719,7 +746,7 @@
       "type": "paid_camp",
       "town": "Hanksville, UT",
       "town_mi": 20.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -728,7 +755,7 @@
       "type": "paid_camp",
       "town": "La Sal, UT",
       "town_mi": 13.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -737,7 +764,7 @@
       "type": "paid_camp",
       "town": "Manti, UT",
       "town_mi": 5.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -746,7 +773,7 @@
       "type": "paid_camp",
       "town": "Cedar Highlands, UT",
       "town_mi": 8.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -755,7 +782,16 @@
       "type": "paid_camp",
       "town": "Flaming Gorge, UT",
       "town_mi": 4.3,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Grizzly Ridge Yurt",
+      "type": "boondocking",
+      "town": "Flaming Gorge, UT",
+      "town_mi": 10.2,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -764,7 +800,7 @@
       "type": "paid_camp",
       "town": "Hanksville, UT",
       "town_mi": 22,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -773,7 +809,7 @@
       "type": "paid_camp",
       "town": "Flaming Gorge, UT",
       "town_mi": 2.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -791,7 +827,7 @@
       "type": "paid_camp",
       "town": "Springdale, UT",
       "town_mi": 1.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -800,7 +836,7 @@
       "type": "paid_camp",
       "town": "Tabiona, UT",
       "town_mi": 12.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -809,7 +845,7 @@
       "type": "paid_camp",
       "town": "Kanosh, UT",
       "town_mi": 4.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -818,7 +854,7 @@
       "type": "paid_camp",
       "town": "Jensen, UT",
       "town_mi": 6.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -827,7 +863,7 @@
       "type": "paid_camp",
       "town": "Brian Head, UT",
       "town_mi": 12.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -836,7 +872,7 @@
       "type": "paid_camp",
       "town": "Alton, UT",
       "town_mi": 11.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -845,7 +881,7 @@
       "type": "paid_camp",
       "town": "Flaming Gorge, UT",
       "town_mi": 1.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -863,7 +899,7 @@
       "type": "paid_camp",
       "town": "Fremont, UT",
       "town_mi": 8.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -872,7 +908,7 @@
       "type": "paid_camp",
       "town": "Flaming Gorge, UT",
       "town_mi": 3.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -881,7 +917,7 @@
       "type": "paid_camp",
       "town": "Clear Creek, UT",
       "town_mi": 9.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -899,7 +935,7 @@
       "type": "paid_camp",
       "town": "Fremont, UT",
       "town_mi": 11.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -908,7 +944,7 @@
       "type": "paid_camp",
       "town": "Cedar Highlands, UT",
       "town_mi": 8.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -926,7 +962,7 @@
       "type": "paid_camp",
       "town": "Blanding, UT",
       "town_mi": 11.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -935,7 +971,7 @@
       "type": "paid_camp",
       "town": "Blanding, UT",
       "town_mi": 9.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -944,7 +980,7 @@
       "type": "paid_camp",
       "town": "Flaming Gorge, UT",
       "town_mi": 1.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -953,7 +989,16 @@
       "type": "paid_camp",
       "town": "Salina, UT",
       "town_mi": 13.6,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Jaycee Park Campground",
+      "type": "boondocking",
+      "town": "Moab, UT",
+      "town_mi": 3.4,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -967,11 +1012,20 @@
       "osm": false
     },
     {
+      "name": "Carter Military Trail Yurt",
+      "type": "boondocking",
+      "town": "Manila, UT",
+      "town_mi": 14.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Rosebud ATV Campground",
       "type": "paid_camp",
       "town": "Boulder, UT",
       "town_mi": 13.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -980,7 +1034,7 @@
       "type": "paid_camp",
       "town": "Fountain Green, UT",
       "town_mi": 5.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -989,7 +1043,7 @@
       "type": "paid_camp",
       "town": "Ferron, UT",
       "town_mi": 13.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -998,7 +1052,7 @@
       "type": "paid_camp",
       "town": "Flaming Gorge, UT",
       "town_mi": 3.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1016,7 +1070,7 @@
       "type": "paid_camp",
       "town": "Mayfield, UT",
       "town_mi": 11.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1025,7 +1079,7 @@
       "type": "paid_camp",
       "town": "Tabiona, UT",
       "town_mi": 15.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1034,7 +1088,7 @@
       "type": "paid_camp",
       "town": "Flaming Gorge, UT",
       "town_mi": 5.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1043,7 +1097,7 @@
       "type": "paid_camp",
       "town": "Halls Crossing, UT",
       "town_mi": 26.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1070,7 +1124,7 @@
       "type": "paid_camp",
       "town": "Boulder, UT",
       "town_mi": 15.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1106,7 +1160,7 @@
       "type": "paid_camp",
       "town": "Mount Pleasant, UT",
       "town_mi": 13.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1115,16 +1169,7 @@
       "type": "paid_camp",
       "town": "Alta, UT",
       "town_mi": 0.6,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Meeks Cabin Campground",
-      "type": "paid_camp",
-      "town": "Robertson, WY",
-      "town_mi": 14.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1178,6 +1223,15 @@
       "type": "paid_camp",
       "town": "Huntsville, UT",
       "town_mi": 5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Bear River Campground",
+      "type": "paid_camp",
+      "town": "Evanston, WY",
+      "town_mi": 25.2,
       "badge": "agency",
       "policy": null,
       "osm": false
@@ -4558,64 +4612,10 @@
       "osm": false
     },
     {
-      "name": "NORTH FORK CAMPGROUND - St. CHARLES CANYON",
-      "type": "paid_camp",
-      "town": "St. Charles, ID",
-      "town_mi": 7.4,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "DAVIS CANYON CAMPGROUND",
-      "type": "paid_camp",
-      "town": "St. Charles, ID",
-      "town_mi": 5.1,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "WILLOW FLAT CAMPGROUND",
-      "type": "paid_camp",
-      "town": "Bloomington, ID",
-      "town_mi": 11.9,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "PARIS SPRINGS CAMPGROUND",
-      "type": "paid_camp",
-      "town": "Bloomington, ID",
-      "town_mi": 4.8,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "BARKER RECREATION AREA",
       "type": "paid_camp",
       "town": "Antimony, UT",
       "town_mi": 15.5,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "PORCUPINE (ID)",
-      "type": "paid_camp",
-      "town": "St. Charles, ID",
-      "town_mi": 6.7,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "ST. CHARLES CAMPGROUND",
-      "type": "paid_camp",
-      "town": "St. Charles, ID",
-      "town_mi": 2.9,
       "badge": "agency",
       "policy": null,
       "osm": false
@@ -4702,24 +4702,6 @@
       "osm": false
     },
     {
-      "name": "Stateline Cove Campground",
-      "type": "paid_camp",
-      "town": "Washam, WY",
-      "town_mi": 4.8,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Bostetter Campground",
-      "type": "paid_camp",
-      "town": "Oakley, ID",
-      "town_mi": 15.6,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "Wood Camp Campground",
       "type": "paid_camp",
       "town": "North Logan, UT",
@@ -4733,15 +4715,6 @@
       "type": "paid_camp",
       "town": "Huntsville, UT",
       "town_mi": 5,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Dead Horse Campground",
-      "type": "paid_camp",
-      "town": "Robertson, WY",
-      "town_mi": 10.7,
       "badge": "agency",
       "policy": null,
       "osm": false

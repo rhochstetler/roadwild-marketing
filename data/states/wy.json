@@ -1,6 +1,6 @@
 {
   "state": "WY",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
     {
@@ -26,33 +26,6 @@
       "type": "paid_camp",
       "town": "Warm River, ID",
       "town_mi": 15.4,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Blacktail Cabin (East)",
-      "type": "paid_camp",
-      "town": "Jardine, MT",
-      "town_mi": 4.9,
-      "badge": "access_checked",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Summit Ridge Lookout Cabin",
-      "type": "paid_camp",
-      "town": "Hill View Heights, WY",
-      "town_mi": 5.6,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Beaver Creek Campground (WY)",
-      "type": "paid_camp",
-      "town": "Newcastle, WY",
-      "town_mi": 17.2,
       "badge": "listed_business",
       "policy": null,
       "osm": false
@@ -3208,15 +3181,6 @@
       "osm": false
     },
     {
-      "name": "Blowout Campground",
-      "type": "paid_camp",
-      "town": "Alpine Northwest, WY",
-      "town_mi": 2.1,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "Dugway Campground",
       "type": "paid_camp",
       "town": "Sinclair, WY",
@@ -3424,46 +3388,10 @@
       "osm": false
     },
     {
-      "name": "Willows Campground",
-      "type": "paid_camp",
-      "town": "Manila, UT",
-      "town_mi": 4.8,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Wolverine ATV Trailhead/Campground",
-      "type": "paid_camp",
-      "town": "Oakley, UT",
-      "town_mi": 25.1,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Hayden Fork Campground",
-      "type": "paid_camp",
-      "town": "Oakley, UT",
-      "town_mi": 22.9,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "Meeks Cabin Campground",
       "type": "paid_camp",
       "town": "Robertson, WY",
       "town_mi": 14.6,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Bear River Campground",
-      "type": "paid_camp",
-      "town": "Evanston, WY",
-      "town_mi": 25.2,
       "badge": "agency",
       "policy": null,
       "osm": false
@@ -3482,15 +3410,6 @@
       "type": "paid_camp",
       "town": "Buffalo, WY",
       "town_mi": 15,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Black Fox Campground",
-      "type": "paid_camp",
-      "town": "Lead, SD",
-      "town_mi": 14.9,
       "badge": "agency",
       "policy": null,
       "osm": false

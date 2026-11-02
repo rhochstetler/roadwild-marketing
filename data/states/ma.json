@@ -1,6 +1,6 @@
 {
   "state": "MA",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
     {
@@ -260,15 +260,6 @@
       "type": "paid_camp",
       "town": "Forestdale, MA",
       "town_mi": 3.6,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Tuxbury Pond RV Campground",
-      "type": "rv_park",
-      "town": "Amesbury, MA",
-      "town_mi": 2,
       "badge": "listed_business",
       "policy": null,
       "osm": false

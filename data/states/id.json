@@ -1,6 +1,6 @@
 {
   "state": "ID",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
     {
@@ -310,15 +310,6 @@
       "osm": false
     },
     {
-      "name": "Red Top Campground",
-      "type": "paid_camp",
-      "town": "Sylvanite, MT",
-      "town_mi": 4.3,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "Deer Park Cabin",
       "type": "paid_camp",
       "town": "Lowman, ID",
@@ -346,15 +337,6 @@
       "osm": false
     },
     {
-      "name": "Bad Medicine Campground",
-      "type": "paid_camp",
-      "town": "Bull Lake, MT",
-      "town_mi": 5.3,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "Al Taylor Cabin",
       "type": "paid_camp",
       "town": "Spencer, ID",
@@ -368,15 +350,6 @@
       "type": "paid_camp",
       "town": "Elk City, ID",
       "town_mi": 18.7,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Big Eddy Campground",
-      "type": "paid_camp",
-      "town": "Heron, MT",
-      "town_mi": 2.6,
       "badge": "listed_business",
       "policy": null,
       "osm": false
@@ -458,15 +431,6 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 15,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "North Shore Campground (ID)",
-      "type": "paid_camp",
-      "town": "Trout Creek, MT",
-      "town_mi": 2.9,
       "badge": "listed_business",
       "policy": null,
       "osm": false
@@ -1426,6 +1390,15 @@
       "osm": false
     },
     {
+      "name": "Turner Flat Campground",
+      "type": "paid_camp",
+      "town": "Saltese, MT",
+      "town_mi": 13.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Eagle Cove Campground",
       "type": "paid_camp",
       "town": "Bruneau, ID",
@@ -1593,6 +1566,15 @@
       "town": "Salmon, ID",
       "town_mi": 21.8,
       "badge": "listed_business",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Spruce Tree Campground",
+      "type": "paid_camp",
+      "town": "St. Regis, MT",
+      "town_mi": 21.7,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1885,6 +1867,24 @@
       "osm": false
     },
     {
+      "name": "Heller Creek Campground",
+      "type": "paid_camp",
+      "town": "Superior, MT",
+      "town_mi": 17.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Fly Flat Campground",
+      "type": "paid_camp",
+      "town": "De Borgia, MT",
+      "town_mi": 18.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Huckleberry Campground (Panhandle)",
       "type": "paid_camp",
       "town": "Hope, ID",
@@ -1908,15 +1908,6 @@
       "town": "Gannett, ID",
       "town_mi": 3.7,
       "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Antone Cabin",
-      "type": "paid_camp",
-      "town": "Lima, MT",
-      "town_mi": 21.2,
-      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -2015,6 +2006,15 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 3.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "MAGRUDER RANGERS HOUSE",
+      "type": "paid_camp",
+      "town": "Conner, MT",
+      "town_mi": 32.1,
       "badge": "agency",
       "policy": null,
       "osm": false

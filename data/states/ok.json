@@ -1,6 +1,6 @@
 {
   "state": "OK",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
     {
@@ -342,15 +342,6 @@
       "town": "Sulphur, OK",
       "town_mi": 3.5,
       "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Juniper Point Campground",
-      "type": "paid_camp",
-      "town": "Sherwood Shores, TX",
-      "town_mi": 1.3,
-      "badge": "listed_business",
       "policy": null,
       "osm": false
     },

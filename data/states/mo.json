@@ -1,6 +1,6 @@
 {
   "state": "MO",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-11-02",
   "sample": false,
   "spots": [
     {
@@ -872,15 +872,6 @@
       "type": "paid_camp",
       "town": "Piedmont, MO",
       "town_mi": 5.6,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "BUCK CREEK (MO)",
-      "type": "paid_camp",
-      "town": "Diamond City, AR",
-      "town_mi": 6.9,
       "badge": "agency",
       "policy": null,
       "osm": false

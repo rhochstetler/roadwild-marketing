@@ -1,6 +1,6 @@
 {
   "state": "PA",
-  "generated_at": "2026-11-02",
+  "generated_at": "2026-11-09",
   "sample": false,
   "spots": [
     {
@@ -10,7 +10,7 @@
       "town_mi": 2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Black Walnut Bottom",
@@ -19,7 +19,7 @@
       "town_mi": 9.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lazy-K Campground",
@@ -37,7 +37,7 @@
       "town_mi": 8.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Trails End Campground",
@@ -46,7 +46,7 @@
       "town_mi": 4.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Alpine Meadows Lake Campground",
@@ -55,7 +55,7 @@
       "town_mi": 4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "IVES RUN",
@@ -73,7 +73,7 @@
       "town_mi": 2.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Rothrock State Forest Campsite #3",
@@ -82,7 +82,7 @@
       "town_mi": 3.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Morrison Boat Access Campground",
@@ -100,7 +100,7 @@
       "town_mi": 0.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Chestnut Lake Campground",
@@ -109,7 +109,7 @@
       "town_mi": 1.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Camp OUT Campground",
@@ -118,7 +118,7 @@
       "town_mi": 3.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Modern Cabins",
@@ -127,7 +127,7 @@
       "town_mi": 5.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Raccoon Run - Michaux Campsite #15",
@@ -136,7 +136,7 @@
       "town_mi": 4.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Otter Creek Campground",
@@ -145,7 +145,7 @@
       "town_mi": 5.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Boulder Woods Campground",
@@ -154,7 +154,7 @@
       "town_mi": 3.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Homestead Family Campground",
@@ -163,7 +163,7 @@
       "town_mi": 1.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Equestrian Camping",
@@ -172,7 +172,7 @@
       "town_mi": 4.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Loleta Bear Claw Campground",
@@ -181,7 +181,7 @@
       "town_mi": 1.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "The Forest Lodge & Campground",
@@ -190,7 +190,7 @@
       "town_mi": 6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Alosa Campsites",
@@ -208,7 +208,7 @@
       "town_mi": 2.4,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Willow Bay Campground",
@@ -235,7 +235,7 @@
       "town_mi": 7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Tomb Flats Campground",
@@ -244,7 +244,7 @@
       "town_mi": 10.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hartman Center Campground",
@@ -253,7 +253,7 @@
       "town_mi": 0.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Red Ridge Lake Campground",
@@ -262,7 +262,7 @@
       "town_mi": 2.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Cedar Lake Campground",
@@ -271,7 +271,7 @@
       "town_mi": 3.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Olde Forge Campground",
@@ -280,7 +280,7 @@
       "town_mi": 6.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Ben franklin RV Park",
@@ -289,7 +289,7 @@
       "town_mi": 2.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Blue Mountain Resort Campground",
@@ -298,7 +298,7 @@
       "town_mi": 4.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sunny Rest Campground",
@@ -307,7 +307,7 @@
       "town_mi": 1.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hickory Lake Campground",
@@ -316,7 +316,7 @@
       "town_mi": 2.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hidden Acres Campground",
@@ -325,7 +325,7 @@
       "town_mi": 3.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Cow Run",
@@ -334,7 +334,7 @@
       "town_mi": 5.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Colonial Woods Family Camping Resort",
@@ -343,7 +343,7 @@
       "town_mi": 4.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Tri-State RV Park",
@@ -352,7 +352,7 @@
       "town_mi": 0.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Kamp Kennerdell",
@@ -361,7 +361,7 @@
       "town_mi": 1.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Johnnycake Run Campsite",
@@ -370,7 +370,7 @@
       "town_mi": 11.3,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Tracy Run Campsites",
@@ -379,7 +379,7 @@
       "town_mi": 11.3,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Keen Lake Camping and Cottage Resort",
@@ -388,7 +388,7 @@
       "town_mi": 1.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sawmill - Michaux Campsite #5",
@@ -397,7 +397,7 @@
       "town_mi": 5.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Woodrow Campsite - Michaux Campsite #7",
@@ -406,7 +406,7 @@
       "town_mi": 6.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pitch Pine - Michaux Campsite #6",
@@ -415,7 +415,7 @@
       "town_mi": 6.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hairy Springs - Michaux Campsite #8",
@@ -424,7 +424,7 @@
       "town_mi": 7.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Flat Rock - Michaux Campsite #10",
@@ -433,7 +433,7 @@
       "town_mi": 6.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Muddy Run",
@@ -442,7 +442,7 @@
       "town_mi": 6.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Wildwood RV Resort",
@@ -451,7 +451,7 @@
       "town_mi": 6.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Irish Valley Campground",
@@ -460,7 +460,7 @@
       "town_mi": 1.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Black Bear Cabins",
@@ -469,7 +469,7 @@
       "town_mi": 6.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Mill Creek Camping Area",
@@ -478,7 +478,7 @@
       "town_mi": 2.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Popular Cove - Michaux Campsite #14",
@@ -487,7 +487,7 @@
       "town_mi": 5.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hemlock Hideaway Campground",
@@ -496,7 +496,7 @@
       "town_mi": 6.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Raystown Ridge Camp",
@@ -505,7 +505,7 @@
       "town_mi": 3.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Whispering Pines - Michaux Designated Motorized Campsite #3",
@@ -514,7 +514,7 @@
       "town_mi": 5.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "EUB/Wildcat - Michaux Campsite #13",
@@ -523,7 +523,7 @@
       "town_mi": 6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Honna's Bank - Michaux Campsite #12",
@@ -532,7 +532,7 @@
       "town_mi": 4.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Woodchuck - Michaux Campsite #23",
@@ -541,7 +541,7 @@
       "town_mi": 4.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Green Ridge - Michaux Campsite #18",
@@ -550,7 +550,7 @@
       "town_mi": 4.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Fire Fox - Michaux Campsite #17",
@@ -559,7 +559,7 @@
       "town_mi": 4.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Briar Mountain - Michaux Campsite #20",
@@ -568,7 +568,7 @@
       "town_mi": 4.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hillside Campgrounds",
@@ -577,7 +577,7 @@
       "town_mi": 3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Group Site 1",
@@ -586,7 +586,7 @@
       "town_mi": 5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Group Site 4",
@@ -595,7 +595,7 @@
       "town_mi": 5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Group Site 5",
@@ -604,7 +604,7 @@
       "town_mi": 4.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Group Site 2",
@@ -613,7 +613,7 @@
       "town_mi": 5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Group Site 3",
@@ -622,7 +622,7 @@
       "town_mi": 4.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Mountain Top Campground",
@@ -631,7 +631,7 @@
       "town_mi": 2.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lake Lucy RV Park",
@@ -640,7 +640,7 @@
       "town_mi": 3.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "065 Left Asaph",
@@ -649,7 +649,7 @@
       "town_mi": 5.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "064 Baker Branch",
@@ -658,7 +658,7 @@
       "town_mi": 5.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "BV013 - Lincoln Trail",
@@ -667,7 +667,7 @@
       "town_mi": 2.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "BV020 - Tower CCO",
@@ -676,7 +676,7 @@
       "town_mi": 2.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "BV009 - Tower",
@@ -685,7 +685,7 @@
       "town_mi": 2.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "BV014 - Route 75",
@@ -694,7 +694,7 @@
       "town_mi": 1.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sproul Forest SS026 Campsite",
@@ -703,7 +703,7 @@
       "town_mi": 7.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sproul Forest SS025 Campsite",
@@ -712,7 +712,7 @@
       "town_mi": 7.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Wolfkiel Run",
@@ -721,7 +721,7 @@
       "town_mi": 3.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Roamers Retreat Campground",
@@ -730,7 +730,7 @@
       "town_mi": 1.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Old Mill Stream Campground",
@@ -739,7 +739,7 @@
       "town_mi": 0.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Kentuck Campground",
@@ -748,7 +748,7 @@
       "town_mi": 1.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Tobyhanna State Park Campground",
@@ -757,7 +757,7 @@
       "town_mi": 3.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "High Pines RV Park",
@@ -766,7 +766,7 @@
       "town_mi": 3.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Meadville KOA Journey",
@@ -775,7 +775,7 @@
       "town_mi": 3.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "WaterSide Campground and RV Park",
@@ -784,7 +784,7 @@
       "town_mi": 1.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Seven Mountains Campgrounds",
@@ -793,7 +793,7 @@
       "town_mi": 2.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Spring Gulch RV Campground",
@@ -811,7 +811,7 @@
       "town_mi": 3.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Wolf's Camping Resort",
@@ -820,7 +820,7 @@
       "town_mi": 3.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sara's Campground",
@@ -829,7 +829,7 @@
       "town_mi": 4.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Four Seasons Resort",
@@ -838,7 +838,7 @@
       "town_mi": 4.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Bear Run Campground",
@@ -847,7 +847,7 @@
       "town_mi": 1.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Artillery Ridge Campground & Gettysburg Horse Park",
@@ -856,7 +856,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hufnagel & Majors Inc RV Sales",
@@ -865,7 +865,7 @@
       "town_mi": 0.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pymatuning Yacht Club",
@@ -874,7 +874,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Loleta Recreation Area",
@@ -892,7 +892,7 @@
       "town_mi": 2.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sun Retreats Lancaster County",
@@ -901,7 +901,7 @@
       "town_mi": 2.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "DEWDROP",
@@ -946,7 +946,7 @@
       "town_mi": 5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Fantasy Island Campground",
@@ -955,7 +955,7 @@
       "town_mi": 0.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Twin Lakes Recreation Area",
@@ -973,7 +973,7 @@
       "town_mi": 3.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hemlock Campgrounds & Cottages",
@@ -982,7 +982,7 @@
       "town_mi": 2.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pine Hill RV Park",
@@ -991,7 +991,7 @@
       "town_mi": 4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Milton Loop Campground",
@@ -1009,7 +1009,7 @@
       "town_mi": 4.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Timothy Lake North",
@@ -1018,7 +1018,7 @@
       "town_mi": 1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Timothy Lake South",
@@ -1027,7 +1027,7 @@
       "town_mi": 1.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "KELLETTVILLE RECREATION AREA (PA)",
@@ -1045,7 +1045,7 @@
       "town_mi": 0.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Alverthorpe Park Campground",
@@ -1054,7 +1054,7 @@
       "town_mi": 0.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Adventure Bound Eagles Peak Campground",
@@ -1063,7 +1063,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Quakerwoods Campground",
@@ -1072,7 +1072,7 @@
       "town_mi": 2.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Greenwood Furnace Camp",
@@ -1081,7 +1081,7 @@
       "town_mi": 3.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pettecote Junction Campground",
@@ -1090,7 +1090,7 @@
       "town_mi": 16.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Indian Brave Campground",
@@ -1099,7 +1099,7 @@
       "town_mi": 0.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hearts Content Campground",
@@ -1117,7 +1117,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Brady Hills Mobile Home Park",
@@ -1126,7 +1126,7 @@
       "town_mi": 4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "S. B. Elliot State Park Campground",
@@ -1135,7 +1135,7 @@
       "town_mi": 6.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Rhodes Grove RV Camping Area",
@@ -1144,7 +1144,7 @@
       "town_mi": 2.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Yogi Bear's Jellystone Park™",
@@ -1153,7 +1153,7 @@
       "town_mi": 6.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "OUTFLOW CAMPING",
@@ -1171,7 +1171,7 @@
       "town_mi": 1.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Brandywine Creek Campground",
@@ -1180,7 +1180,7 @@
       "town_mi": 2.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Glen Lake Estates",
@@ -1189,7 +1189,7 @@
       "town_mi": 2.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hersheypark Camping Resort",
@@ -1198,7 +1198,7 @@
       "town_mi": 1.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hillside Campground",
@@ -1207,7 +1207,7 @@
       "town_mi": 1.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lakeside Campground",
@@ -1216,7 +1216,7 @@
       "town_mi": 2.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Rose Point Park",
@@ -1225,7 +1225,7 @@
       "town_mi": 2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Dingmans Campground",
@@ -1243,7 +1243,7 @@
       "town_mi": 6.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Friendship Village Campground",
@@ -1252,7 +1252,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Buttonwood Campground",
@@ -1261,7 +1261,7 @@
       "town_mi": 0.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Camping Area",
@@ -1279,7 +1279,7 @@
       "town_mi": 5.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "KOA Kampground",
@@ -1288,7 +1288,7 @@
       "town_mi": 3.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Choice Camping Court",
@@ -1297,7 +1297,7 @@
       "town_mi": 0.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Scottyland Camping",
@@ -1306,7 +1306,7 @@
       "town_mi": 3.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Brown's Mobile Home Park",
@@ -1315,7 +1315,7 @@
       "town_mi": 0.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Peggys Hill Parking",
@@ -1324,7 +1324,7 @@
       "town_mi": 5.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lost Mountain Campground",
@@ -1333,7 +1333,7 @@
       "town_mi": 3.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Gettysburg Battlefield Resort",
@@ -1342,7 +1342,7 @@
       "town_mi": 3.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pocono Vacation Park",
@@ -1360,7 +1360,7 @@
       "town_mi": 4.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Shady Acres Campground",
@@ -1369,7 +1369,7 @@
       "town_mi": 1.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Marlowe's Scenic River Campground",
@@ -1378,7 +1378,7 @@
       "town_mi": 1.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lampe Campground",
@@ -1387,7 +1387,7 @@
       "town_mi": 2.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Gifford Pinchot State Park Campground",
@@ -1396,7 +1396,7 @@
       "town_mi": 1.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Big Flat Parking Lot",
@@ -1405,7 +1405,7 @@
       "town_mi": 7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Canyon Country Campground",
@@ -1414,7 +1414,7 @@
       "town_mi": 7.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Crooked Creek Campground",
@@ -1423,7 +1423,7 @@
       "town_mi": 4.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Snyder's Family Campground",
@@ -1432,7 +1432,7 @@
       "town_mi": 3.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Folly's End Campground",
@@ -1441,7 +1441,7 @@
       "town_mi": 3.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pine Lane Campground",
@@ -1450,7 +1450,7 @@
       "town_mi": 2.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pine Ridge Campground",
@@ -1459,7 +1459,7 @@
       "town_mi": 7.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Virginia’s Beach Campground",
@@ -1468,7 +1468,7 @@
       "town_mi": 5.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Centre Hall Associates Mobil Home Park",
@@ -1477,7 +1477,7 @@
       "town_mi": 1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Tracy Ridge Campground",
@@ -1495,7 +1495,7 @@
       "town_mi": 4.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Teaberry Parking Lot",
@@ -1504,7 +1504,7 @@
       "town_mi": 3.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pine Creek Vista Campgrounds",
@@ -1513,7 +1513,7 @@
       "town_mi": 3.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Clayton Park RV Escape",
@@ -1522,7 +1522,7 @@
       "town_mi": 3.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Yogi Bear's Jellystone Park Camp-Resort",
@@ -1531,7 +1531,7 @@
       "town_mi": 2.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Mount Pocono Campground",
@@ -1540,7 +1540,7 @@
       "town_mi": 1.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Woodcrest Retreat",
@@ -1549,7 +1549,7 @@
       "town_mi": 1.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Swift Run - Michaux Campsite #24",
@@ -1558,7 +1558,7 @@
       "town_mi": 4.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Piney Mountain Parking Lot - Michaux Campsite #2",
@@ -1567,7 +1567,7 @@
       "town_mi": 3.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Paradise Stream Family Campground",
@@ -1585,7 +1585,7 @@
       "town_mi": 3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Kittatiny Canoes - River Beach Campground",
@@ -1594,7 +1594,7 @@
       "town_mi": 2.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Jamestown Campground",
@@ -1603,7 +1603,7 @@
       "town_mi": 1.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Riverside Campground",
@@ -1612,7 +1612,7 @@
       "town_mi": 0.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Masten CCC Camp",
@@ -1621,7 +1621,7 @@
       "town_mi": 10.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Empire Court",
@@ -1630,7 +1630,7 @@
       "town_mi": 1.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Beaver Valley Campgrounds",
@@ -1639,7 +1639,7 @@
       "town_mi": 5.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Red Oak Campground",
@@ -1648,7 +1648,7 @@
       "town_mi": 8.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Alleghenyn I-80 Campground",
@@ -1657,7 +1657,7 @@
       "town_mi": 1.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Camp Wilhelm Campground",
@@ -1666,7 +1666,7 @@
       "town_mi": 2.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "James Creek RV Resort By RJourney",
@@ -1675,7 +1675,7 @@
       "town_mi": 2.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Yellow Creek Campground",
@@ -1684,7 +1684,7 @@
       "town_mi": 5.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Mercer / Grove City KOA Holiday Campground",
@@ -1693,7 +1693,7 @@
       "town_mi": 4.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Two Mile Run County Park Campground",
@@ -1702,7 +1702,7 @@
       "town_mi": 4.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Rustic Acres",
@@ -1711,7 +1711,7 @@
       "town_mi": 0.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Campers Paradise Campground",
@@ -1720,7 +1720,7 @@
       "town_mi": 10,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "TIONESTA REC. AREA CAMPGROUND",
@@ -1738,7 +1738,7 @@
       "town_mi": 6.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Round Top Campground",
@@ -1747,7 +1747,7 @@
       "town_mi": 3.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Drummer Boy Camping Resort",
@@ -1756,7 +1756,7 @@
       "town_mi": 1.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Granite Hill Camping Resort",
@@ -1765,7 +1765,7 @@
       "town_mi": 2.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Gettysburg Campground",
@@ -1774,7 +1774,7 @@
       "town_mi": 2.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Gettysburg / Battlefield KOA Holiday",
@@ -1783,7 +1783,7 @@
       "town_mi": 2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Twin Grove RV Resort & Cottages",
@@ -1792,7 +1792,7 @@
       "town_mi": 4.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Jonestown/Hershey NE KOA",
@@ -1801,7 +1801,7 @@
       "town_mi": 3.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Colonel Crawford Park",
@@ -1810,7 +1810,7 @@
       "town_mi": 2.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Harrisburg East Campground and Storage",
@@ -1819,7 +1819,7 @@
       "town_mi": 1.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Kiasutha Recreation Area",
@@ -1846,7 +1846,7 @@
       "town_mi": 3.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Nautical Mile Marina & Campground",
@@ -1855,7 +1855,7 @@
       "town_mi": 0.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Overlook Recreation Area",
@@ -1990,7 +1990,7 @@
       "town_mi": 2.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Highlands Campground",
@@ -2008,7 +2008,7 @@
       "town_mi": 12.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Loyalsock Bridle Trail Campground",
@@ -2017,7 +2017,7 @@
       "town_mi": 2.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "008 Tar Kiln Road",
@@ -2026,7 +2026,7 @@
       "town_mi": 4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Motorized Campsite 1",
@@ -2035,7 +2035,7 @@
       "town_mi": 6.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "KOA Kampground",
@@ -2044,7 +2044,7 @@
       "town_mi": 1.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Motorized Camp Site #2",
@@ -2053,7 +2053,7 @@
       "town_mi": 7.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Cozy Oaks RV Resort",
@@ -2062,7 +2062,7 @@
       "town_mi": 3.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Meadow Lake Campground",
@@ -2080,7 +2080,7 @@
       "town_mi": 2.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Erie KOA Holiday",
@@ -2089,7 +2089,7 @@
       "town_mi": 2.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Rocky Springs Campground",
@@ -2098,7 +2098,7 @@
       "town_mi": 4.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "RV Village Camping Resort",
@@ -2107,7 +2107,7 @@
       "town_mi": 2.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Oil Creek Family Campground",
@@ -2116,7 +2116,7 @@
       "town_mi": 4.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Adventure Bound Camping Resorts - Shenango Valley",
@@ -2125,7 +2125,7 @@
       "town_mi": 1.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Harts Content Campground",
@@ -2134,7 +2134,7 @@
       "town_mi": 2.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "L & M Campground",
@@ -2143,7 +2143,7 @@
       "town_mi": 6.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Buttercup Woodlands Campground",
@@ -2152,7 +2152,7 @@
       "town_mi": 1.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Wheel-In-Campground",
@@ -2161,7 +2161,7 @@
       "town_mi": 0.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lake Arthur Family Campground",
@@ -2170,7 +2170,7 @@
       "town_mi": 3.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Bear Ridge Campground & RV Resort",
@@ -2179,7 +2179,7 @@
       "town_mi": 2.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Peaceful Valley Campground",
@@ -2188,7 +2188,7 @@
       "town_mi": 0.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Austin Campground",
@@ -2197,7 +2197,7 @@
       "town_mi": 6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hemlock Campground",
@@ -2206,7 +2206,7 @@
       "town_mi": 5.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "White's Haven Campground",
@@ -2215,7 +2215,7 @@
       "town_mi": 7.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "DuBois / Treasure Lake KOA Holiday Campground",
@@ -2224,7 +2224,7 @@
       "town_mi": 2.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Holiday Pines Campground",
@@ -2233,7 +2233,7 @@
       "town_mi": 2.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Yogi Bear's Jellystone Park - PA Wilds",
@@ -2242,7 +2242,7 @@
       "town_mi": 1.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Forest Ridge Cabins and Campgrounds",
@@ -2251,7 +2251,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Twin Streams Campground",
@@ -2260,7 +2260,7 @@
       "town_mi": 10.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Allegheny River Campground",
@@ -2269,7 +2269,7 @@
       "town_mi": 2.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Whispering Winds",
@@ -2278,7 +2278,7 @@
       "town_mi": 0.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Squarewood Acres Campground",
@@ -2287,7 +2287,7 @@
       "town_mi": 8.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Happy Acres Resort",
@@ -2296,7 +2296,7 @@
       "town_mi": 8.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Woodland Campground",
@@ -2305,7 +2305,7 @@
       "town_mi": 1.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hoffman Campground",
@@ -2314,7 +2314,7 @@
       "town_mi": 14.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Showaker Equestrian Campground",
@@ -2323,7 +2323,7 @@
       "town_mi": 5.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lake Raystown Resort",
@@ -2332,7 +2332,7 @@
       "town_mi": 5.4,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Newburg Family Campground",
@@ -2341,7 +2341,7 @@
       "town_mi": 4.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Burnt Cabins Grist Mill & Campground",
@@ -2350,7 +2350,7 @@
       "town_mi": 0.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hidden Springs Campground",
@@ -2359,7 +2359,7 @@
       "town_mi": 3.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Wright's Orchard Station Campground",
@@ -2368,7 +2368,7 @@
       "town_mi": 1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Glendale Valley Campground",
@@ -2377,7 +2377,7 @@
       "town_mi": 4.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Rainbow Woods Campground",
@@ -2386,7 +2386,7 @@
       "town_mi": 2.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pleasant Hills Campground",
@@ -2395,7 +2395,7 @@
       "town_mi": 3.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lake Raystown Family Camping",
@@ -2404,7 +2404,7 @@
       "town_mi": 1.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Mirror Lake Campground",
@@ -2413,7 +2413,7 @@
       "town_mi": 2.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hickory Hollow Campground",
@@ -2422,7 +2422,7 @@
       "town_mi": 1.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Raystown Lake / Saxton KOA",
@@ -2431,7 +2431,7 @@
       "town_mi": 3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pioneer Lakes RV Park",
@@ -2440,7 +2440,7 @@
       "town_mi": 4.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hidden Creek Campground",
@@ -2449,7 +2449,7 @@
       "town_mi": 2.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Christmas Pines Campground",
@@ -2458,7 +2458,7 @@
       "town_mi": 1.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lakewood Park Campground",
@@ -2467,7 +2467,7 @@
       "town_mi": 0.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Shady Brook Campground",
@@ -2476,7 +2476,7 @@
       "town_mi": 2.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Indian Head Campground",
@@ -2485,7 +2485,7 @@
       "town_mi": 0.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Knoebels Campground",
@@ -2494,7 +2494,7 @@
       "town_mi": 2.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Camp-A-While",
@@ -2503,7 +2503,7 @@
       "town_mi": 2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Shore Forest Campground",
@@ -2512,7 +2512,7 @@
       "town_mi": 0.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Slumber Valley Campground",
@@ -2521,7 +2521,7 @@
       "town_mi": 1.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sunsational Family Campground",
@@ -2530,7 +2530,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pioneer Campground",
@@ -2539,7 +2539,7 @@
       "town_mi": 1.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Williamsport South / Nittany Mountain KOA",
@@ -2548,7 +2548,7 @@
       "town_mi": 4.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Montrose Campground",
@@ -2557,7 +2557,7 @@
       "town_mi": 3.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pine Cradle Lake Family Campground",
@@ -2566,7 +2566,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Penn Avon Campground",
@@ -2575,7 +2575,7 @@
       "town_mi": 1.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Whispering Pines Camping Estates",
@@ -2584,7 +2584,7 @@
       "town_mi": 1.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Echo Valley Campground",
@@ -2593,7 +2593,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Stony Mountain Family Campground",
@@ -2602,7 +2602,7 @@
       "town_mi": 3.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Little Mexico Campground",
@@ -2611,7 +2611,7 @@
       "town_mi": 2.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Western Village RV Park",
@@ -2620,7 +2620,7 @@
       "town_mi": 2.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Dutch Cousin Campground",
@@ -2629,7 +2629,7 @@
       "town_mi": 1.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hickory Run Campground",
@@ -2638,7 +2638,7 @@
       "town_mi": 1.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Shady Grove Campground",
@@ -2647,7 +2647,7 @@
       "town_mi": 0.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Walmar Manor Campground",
@@ -2656,7 +2656,7 @@
       "town_mi": 1.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Campground Island",
@@ -2665,7 +2665,7 @@
       "town_mi": 2.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Gettysburg Farm RV Campground",
@@ -2674,7 +2674,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Elizabethtown / Hershey KOA Holiday",
@@ -2683,7 +2683,7 @@
       "town_mi": 2.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hershey Road Campground",
@@ -2692,7 +2692,7 @@
       "town_mi": 3.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Deer Run Camping Resort",
@@ -2701,7 +2701,7 @@
       "town_mi": 1.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Mountain Creek Campground",
@@ -2710,7 +2710,7 @@
       "town_mi": 3.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Uncle John's Elk Creek Campground",
@@ -2719,7 +2719,7 @@
       "town_mi": 0.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Country Acres Campground",
@@ -2728,7 +2728,7 @@
       "town_mi": 0.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Mountain Springs Camping Resort",
@@ -2737,7 +2737,7 @@
       "town_mi": 1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Beacon Hill Camping",
@@ -2746,7 +2746,7 @@
       "town_mi": 0.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "The Loose Caboose Campground",
@@ -2755,7 +2755,7 @@
       "town_mi": 1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hershey RV & Camping Resort",
@@ -2764,7 +2764,7 @@
       "town_mi": 2.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "PA Dutch Country RV Resort",
@@ -2773,7 +2773,7 @@
       "town_mi": 1.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pinch Pond Family Campground",
@@ -2782,7 +2782,7 @@
       "town_mi": 1.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Saunderosa Park",
@@ -2791,7 +2791,7 @@
       "town_mi": 3.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sun Valley Campground",
@@ -2800,7 +2800,7 @@
       "town_mi": 1.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Red Run Campground",
@@ -2809,7 +2809,7 @@
       "town_mi": 1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Shady Oaks Family Campground",
@@ -2818,7 +2818,7 @@
       "town_mi": 1.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pequea Creek Campground",
@@ -2827,7 +2827,7 @@
       "town_mi": 3.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "White Oak Campground",
@@ -2836,7 +2836,7 @@
       "town_mi": 3.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Flory's Cottages & Camping",
@@ -2845,7 +2845,7 @@
       "town_mi": 0.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Mill Bridge Village Camp Resort",
@@ -2854,7 +2854,7 @@
       "town_mi": 0.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Appalachian Campground",
@@ -2863,7 +2863,7 @@
       "town_mi": 1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Starlite Camping Resort",
@@ -2872,7 +2872,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Mountain Vista Campground",
@@ -2881,7 +2881,7 @@
       "town_mi": 3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Otter Lake Camp Resort",
@@ -2890,7 +2890,7 @@
       "town_mi": 6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Soaring Eagle Campground & The Inn at Kellam's Bridge",
@@ -2899,7 +2899,7 @@
       "town_mi": 1.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Ironwood Point Recreation Area Campground",
@@ -2908,7 +2908,7 @@
       "town_mi": 1.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Wilsonville Recreation Area Campground",
@@ -2917,7 +2917,7 @@
       "town_mi": 1.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Secluded Acres Campground",
@@ -2926,7 +2926,7 @@
       "town_mi": 2.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lizard Creek Campground",
@@ -2935,7 +2935,7 @@
       "town_mi": 4.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pocono Point RV & Campground",
@@ -2944,7 +2944,7 @@
       "town_mi": 0.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "StonyBrook RV Resort",
@@ -2953,7 +2953,7 @@
       "town_mi": 5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Don Laine Campground",
@@ -2962,7 +2962,7 @@
       "town_mi": 6.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Silver Valley Campsites",
@@ -2971,7 +2971,7 @@
       "town_mi": 1.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Four Seasons Campground",
@@ -2980,7 +2980,7 @@
       "town_mi": 4.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Evergreen Lake Campground",
@@ -2989,7 +2989,7 @@
       "town_mi": 3.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Birchview Farm Campground",
@@ -2998,7 +2998,7 @@
       "town_mi": 3.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Blue Rocks Family Campground",
@@ -3007,7 +3007,7 @@
       "town_mi": 2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Robin Hill Campground",
@@ -3016,7 +3016,7 @@
       "town_mi": 2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Driftstone Campground",
@@ -3025,7 +3025,7 @@
       "town_mi": 1.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Little Red Barn Campground",
@@ -3034,7 +3034,7 @@
       "town_mi": 3.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Ringing Rocks Family Campground",
@@ -3043,7 +3043,7 @@
       "town_mi": 2.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Caledonia State Park Group Camping",
@@ -3052,7 +3052,7 @@
       "town_mi": 5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Green Lane Park Deep Creek Campground",
@@ -3061,7 +3061,7 @@
       "town_mi": 0.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Equestrian Campground",
@@ -3070,7 +3070,7 @@
       "town_mi": 9.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hickory Run State Park Campground",
@@ -3079,7 +3079,7 @@
       "town_mi": 4.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Kelly Pines Equestrian Campground",
@@ -3088,7 +3088,7 @@
       "town_mi": 5.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sharp's Campground",
@@ -3097,7 +3097,7 @@
       "town_mi": 0.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Two Mile Run Horse Camp",
@@ -3106,7 +3106,7 @@
       "town_mi": 3.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hall Mountain Group Campsite",
@@ -3115,7 +3115,7 @@
       "town_mi": 2.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Adventure Bound Camping Resort Oak Creek",
@@ -3124,7 +3124,7 @@
       "town_mi": 1.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Allentown KOA Journey",
@@ -3133,7 +3133,7 @@
       "town_mi": 3.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Modern Cabins",
@@ -3142,7 +3142,7 @@
       "town_mi": 2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Snowy Mountain - Michaux Campsite #19",
@@ -3151,7 +3151,7 @@
       "town_mi": 3.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Minister Creek Campground",
@@ -3169,7 +3169,7 @@
       "town_mi": 1.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Dilligaf RV",
@@ -3178,7 +3178,7 @@
       "town_mi": 1.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Primitive Camping at Riverview Park",
@@ -3187,7 +3187,7 @@
       "town_mi": 0.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Clarion River Campsites",

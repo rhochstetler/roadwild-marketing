@@ -1,6 +1,6 @@
 {
   "state": "ID",
-  "generated_at": "2026-11-02",
+  "generated_at": "2026-11-09",
   "sample": false,
   "spots": [
     {
@@ -8,7 +8,7 @@
       "type": "paid_camp",
       "town": "St. Charles, ID",
       "town_mi": 2.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -17,7 +17,7 @@
       "type": "paid_camp",
       "town": "Bloomington, ID",
       "town_mi": 4.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -26,7 +26,7 @@
       "type": "paid_camp",
       "town": "Oakley, ID",
       "town_mi": 15.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -35,7 +35,7 @@
       "type": "paid_camp",
       "town": "Albion, ID",
       "town_mi": 7.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -44,7 +44,7 @@
       "type": "paid_camp",
       "town": "Oakley, ID",
       "town_mi": 10.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -53,7 +53,7 @@
       "type": "paid_camp",
       "town": "St. Charles, ID",
       "town_mi": 7.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -62,7 +62,7 @@
       "type": "paid_camp",
       "town": "Bloomington, ID",
       "town_mi": 11.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -71,7 +71,7 @@
       "type": "paid_camp",
       "town": "St. Charles, ID",
       "town_mi": 6.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -80,7 +80,7 @@
       "type": "paid_camp",
       "town": "St. Charles, ID",
       "town_mi": 5.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -89,7 +89,7 @@
       "type": "paid_camp",
       "town": "Hollister, ID",
       "town_mi": 19.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -98,7 +98,7 @@
       "type": "paid_camp",
       "town": "Georgetown, ID",
       "town_mi": 6.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -107,7 +107,7 @@
       "type": "paid_camp",
       "town": "Hollister, ID",
       "town_mi": 20.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -116,7 +116,16 @@
       "type": "paid_camp",
       "town": "Alpine Northwest, WY",
       "town_mi": 2.1,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Pine Creek Campground",
+      "type": "boondocking",
+      "town": "Victor, ID",
+      "town_mi": 5.1,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -125,7 +134,16 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 3.8,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "McCoy Creek Campground",
+      "type": "boondocking",
+      "town": "Alpine Northwest, WY",
+      "town_mi": 3.3,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -134,7 +152,7 @@
       "type": "paid_camp",
       "town": "Island Park, ID",
       "town_mi": 10.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -143,7 +161,7 @@
       "type": "paid_camp",
       "town": "Fairfield, ID",
       "town_mi": 18.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -152,7 +170,7 @@
       "type": "paid_camp",
       "town": "Saltese, MT",
       "town_mi": 13.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -161,7 +179,7 @@
       "type": "paid_camp",
       "town": "De Borgia, MT",
       "town_mi": 15.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -170,7 +188,7 @@
       "type": "paid_camp",
       "town": "Moyie Springs, ID",
       "town_mi": 4.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -179,7 +197,16 @@
       "type": "paid_camp",
       "town": "White Bird, ID",
       "town_mi": 12.3,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Rainbow Point Campground",
+      "type": "boondocking",
+      "town": "Donnelly, ID",
+      "town_mi": 3,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -188,7 +215,7 @@
       "type": "paid_camp",
       "town": "Island Park, ID",
       "town_mi": 7.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -197,7 +224,7 @@
       "type": "paid_camp",
       "town": "Cascade, ID",
       "town_mi": 3.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -206,7 +233,7 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 10.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -215,7 +242,7 @@
       "type": "paid_camp",
       "town": "Garden Valley, ID",
       "town_mi": 2.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -233,7 +260,7 @@
       "type": "paid_camp",
       "town": "Island Park, ID",
       "town_mi": 2.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -242,7 +269,16 @@
       "type": "paid_camp",
       "town": "Idaho City, ID",
       "town_mi": 8.7,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Graves Creek Campground",
+      "type": "blm",
+      "town": "Bancroft, ID",
+      "town_mi": 22.4,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -251,7 +287,7 @@
       "type": "paid_camp",
       "town": "Inkom, ID",
       "town_mi": 8.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -260,7 +296,7 @@
       "type": "paid_camp",
       "town": "Leadore, ID",
       "town_mi": 13.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -269,7 +305,7 @@
       "type": "paid_camp",
       "town": "Lowman, ID",
       "town_mi": 18.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -287,7 +323,16 @@
       "type": "paid_camp",
       "town": "Sun Valley, ID",
       "town_mi": 13.5,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Amanita Campground",
+      "type": "boondocking",
+      "town": "Donnelly, ID",
+      "town_mi": 3.1,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -305,7 +350,7 @@
       "type": "paid_camp",
       "town": "Warm River, ID",
       "town_mi": 3.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -314,7 +359,7 @@
       "type": "paid_camp",
       "town": "Lowman, ID",
       "town_mi": 14.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -323,7 +368,7 @@
       "type": "paid_camp",
       "town": "Orofino, ID",
       "town_mi": 9.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -332,7 +377,16 @@
       "type": "paid_camp",
       "town": "Riverbend, MT",
       "town_mi": 27.1,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "River Side Campground (Boise NF)",
+      "type": "boondocking",
+      "town": "Lowman, ID",
+      "town_mi": 19.2,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -341,7 +395,7 @@
       "type": "paid_camp",
       "town": "Spencer, ID",
       "town_mi": 10.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -350,7 +404,7 @@
       "type": "paid_camp",
       "town": "Elk City, ID",
       "town_mi": 18.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -359,7 +413,7 @@
       "type": "paid_camp",
       "town": "Lowman, ID",
       "town_mi": 26.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -368,7 +422,7 @@
       "type": "paid_camp",
       "town": "Smiths Ferry, ID",
       "town_mi": 12.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -377,7 +431,7 @@
       "type": "paid_camp",
       "town": "Wallace, ID",
       "town_mi": 16.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -386,7 +440,7 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 2.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -395,7 +449,7 @@
       "type": "paid_camp",
       "town": "Victor, ID",
       "town_mi": 3.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -404,7 +458,7 @@
       "type": "paid_camp",
       "town": "Irwin, ID",
       "town_mi": 9.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -413,7 +467,7 @@
       "type": "paid_camp",
       "town": "Lowman, ID",
       "town_mi": 3.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -422,7 +476,16 @@
       "type": "paid_camp",
       "town": "Weippe, ID",
       "town_mi": 10.6,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Ninemeyer Campground",
+      "type": "boondocking",
+      "town": "Idaho City, ID",
+      "town_mi": 14,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -431,7 +494,7 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 15,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -440,7 +503,7 @@
       "type": "paid_camp",
       "town": "Salmon, ID",
       "town_mi": 23.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -450,6 +513,24 @@
       "town": "Stites, ID",
       "town_mi": 20,
       "badge": "listed_business",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Fish Creek Pavilion",
+      "type": "unknown",
+      "town": "Grangeville, ID",
+      "town_mi": 5.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Wallace Lake Campground",
+      "type": "boondocking",
+      "town": "Salmon, ID",
+      "town_mi": 7.4,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -467,7 +548,7 @@
       "type": "paid_camp",
       "town": "Ketchum, ID",
       "town_mi": 7.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -476,7 +557,7 @@
       "type": "paid_camp",
       "town": "Ririe, ID",
       "town_mi": 9.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -485,7 +566,7 @@
       "type": "paid_camp",
       "town": "Island Park, ID",
       "town_mi": 8.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -503,7 +584,7 @@
       "type": "paid_camp",
       "town": "Lowman, ID",
       "town_mi": 4.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -521,7 +602,16 @@
       "type": "paid_camp",
       "town": "Banks, ID",
       "town_mi": 6.9,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Antelope Campground (Boise NF)",
+      "type": "boondocking",
+      "town": "Smiths Ferry, ID",
+      "town_mi": 5.8,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -530,7 +620,7 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 7.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -539,7 +629,7 @@
       "type": "paid_camp",
       "town": "Cambridge, ID",
       "town_mi": 14.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -548,7 +638,7 @@
       "type": "paid_camp",
       "town": "Idaho City, ID",
       "town_mi": 24,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -566,7 +656,7 @@
       "type": "paid_camp",
       "town": "Clayton, ID",
       "town_mi": 16.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -580,11 +670,20 @@
       "osm": false
     },
     {
+      "name": "Mann Creek Campground",
+      "type": "boondocking",
+      "town": "Midvale, ID",
+      "town_mi": 9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Cold Springs Campground (Boise NF)",
       "type": "paid_camp",
       "town": "Smiths Ferry, ID",
       "town_mi": 7.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -593,7 +692,7 @@
       "type": "paid_camp",
       "town": "Kellogg, ID",
       "town_mi": 15.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -602,7 +701,7 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 4.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -611,16 +710,7 @@
       "type": "paid_camp",
       "town": "Osburn, ID",
       "town_mi": 13.1,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Meadow Lake Campground (ID)",
-      "type": "paid_camp",
-      "town": "Leadore, ID",
-      "town_mi": 17.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -638,7 +728,7 @@
       "type": "paid_camp",
       "town": "Hollister, ID",
       "town_mi": 18.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -647,16 +737,7 @@
       "type": "paid_camp",
       "town": "Lowman, ID",
       "town_mi": 16.2,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Table Meadows Campground",
-      "type": "paid_camp",
-      "town": "Elk City, ID",
-      "town_mi": 11.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -665,7 +746,7 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 5.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -674,7 +755,7 @@
       "type": "paid_camp",
       "town": "McCall, ID",
       "town_mi": 15.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -683,7 +764,7 @@
       "type": "paid_camp",
       "town": "Smiths Ferry, ID",
       "town_mi": 13.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -701,7 +782,7 @@
       "type": "paid_camp",
       "town": "Fairfield, ID",
       "town_mi": 28,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -710,7 +791,7 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 12.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -737,7 +818,7 @@
       "type": "paid_camp",
       "town": "Idaho City, ID",
       "town_mi": 12.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -746,7 +827,7 @@
       "type": "paid_camp",
       "town": "Pinesdale, MT",
       "town_mi": 20.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -755,7 +836,7 @@
       "type": "paid_camp",
       "town": "Cascade, ID",
       "town_mi": 19.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -773,7 +854,7 @@
       "type": "paid_camp",
       "town": "Kooskia, ID",
       "town_mi": 21.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -782,7 +863,7 @@
       "type": "paid_camp",
       "town": "Kooskia, ID",
       "town_mi": 17.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -791,7 +872,7 @@
       "type": "paid_camp",
       "town": "Preston, ID",
       "town_mi": 9.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -800,7 +881,7 @@
       "type": "paid_camp",
       "town": "Kooskia, ID",
       "town_mi": 0.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -818,7 +899,7 @@
       "type": "paid_camp",
       "town": "New Meadows, ID",
       "town_mi": 8.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -827,7 +908,7 @@
       "type": "paid_camp",
       "town": "Midvale, ID",
       "town_mi": 12.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -836,7 +917,7 @@
       "type": "paid_camp",
       "town": "Fairfield, ID",
       "town_mi": 17.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -845,7 +926,7 @@
       "type": "paid_camp",
       "town": "Smiths Ferry, ID",
       "town_mi": 15.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -859,11 +940,29 @@
       "osm": false
     },
     {
+      "name": "Spillway Campground",
+      "type": "boondocking",
+      "town": "Mountain Home, ID",
+      "town_mi": 20,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Riverside Campground (Targhee NF)",
+      "type": "boondocking",
+      "town": "Warm River, ID",
+      "town_mi": 12.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "White Sands Campground",
       "type": "paid_camp",
       "town": "Pinesdale, MT",
       "town_mi": 25.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -872,7 +971,7 @@
       "type": "paid_camp",
       "town": "Inkom, ID",
       "town_mi": 9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -881,7 +980,7 @@
       "type": "paid_camp",
       "town": "Idaho City, ID",
       "town_mi": 14.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -895,11 +994,20 @@
       "osm": false
     },
     {
+      "name": "Eastside Campground (Sagehen)",
+      "type": "boondocking",
+      "town": "Smiths Ferry, ID",
+      "town_mi": 5.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Bull Trout Campground",
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 17,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -908,7 +1016,7 @@
       "type": "paid_camp",
       "town": "Warm River, ID",
       "town_mi": 6.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -917,7 +1025,7 @@
       "type": "paid_camp",
       "town": "New Meadows, ID",
       "town_mi": 7.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -926,7 +1034,7 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 11.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -935,7 +1043,7 @@
       "type": "paid_camp",
       "town": "Heron, MT",
       "town_mi": 17.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -944,7 +1052,7 @@
       "type": "paid_camp",
       "town": "Montpelier, ID",
       "town_mi": 3.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -953,7 +1061,7 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 29.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -962,7 +1070,7 @@
       "type": "paid_camp",
       "town": "Irwin, ID",
       "town_mi": 6.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -971,7 +1079,7 @@
       "type": "paid_camp",
       "town": "Albion, ID",
       "town_mi": 6.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -989,7 +1097,25 @@
       "type": "paid_camp",
       "town": "Swan Valley, ID",
       "town_mi": 2,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Barneys Campground (Boise NF)",
+      "type": "boondocking",
+      "town": "Lowman, ID",
+      "town_mi": 18.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Orogrande Summit Campground",
+      "type": "boondocking",
+      "town": "Elk City, ID",
+      "town_mi": 14.9,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -998,7 +1124,7 @@
       "type": "paid_camp",
       "town": "Kellogg, ID",
       "town_mi": 16.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1007,7 +1133,16 @@
       "type": "paid_camp",
       "town": "Island Park, ID",
       "town_mi": 3.3,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cozy Cove Campground",
+      "type": "boondocking",
+      "town": "Lowman, ID",
+      "town_mi": 15.2,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1016,7 +1151,7 @@
       "type": "paid_camp",
       "town": "Pierce, ID",
       "town_mi": 30.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1025,7 +1160,7 @@
       "type": "paid_camp",
       "town": "Lowman, ID",
       "town_mi": 3.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1034,7 +1169,7 @@
       "type": "paid_camp",
       "town": "Riverbend, MT",
       "town_mi": 22.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1043,7 +1178,7 @@
       "type": "paid_camp",
       "town": "Spencer, ID",
       "town_mi": 3.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1070,7 +1205,7 @@
       "type": "paid_camp",
       "town": "Elk City, ID",
       "town_mi": 38.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1079,7 +1214,7 @@
       "type": "paid_camp",
       "town": "Island Park, ID",
       "town_mi": 5.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1088,7 +1223,7 @@
       "type": "paid_camp",
       "town": "Smiths Ferry, ID",
       "town_mi": 10.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1097,7 +1232,7 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 21.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1106,7 +1241,7 @@
       "type": "paid_camp",
       "town": "Pierce, ID",
       "town_mi": 24.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1115,7 +1250,16 @@
       "type": "paid_camp",
       "town": "Albion, ID",
       "town_mi": 6.9,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Williams Lake Walk-In Sites",
+      "type": "boondocking",
+      "town": "Salmon, ID",
+      "town_mi": 11.7,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1124,7 +1268,7 @@
       "type": "paid_camp",
       "town": "Mackay, ID",
       "town_mi": 23,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1133,7 +1277,7 @@
       "type": "paid_camp",
       "town": "Riggins, ID",
       "town_mi": 8.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1142,7 +1286,7 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 17,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1151,7 +1295,7 @@
       "type": "paid_camp",
       "town": "Bennington, ID",
       "town_mi": 12,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1160,7 +1304,7 @@
       "type": "paid_camp",
       "town": "Lowman, ID",
       "town_mi": 7.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1169,7 +1313,7 @@
       "type": "paid_camp",
       "town": "Kooskia, ID",
       "town_mi": 22,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1178,7 +1322,16 @@
       "type": "paid_camp",
       "town": "Lowman, ID",
       "town_mi": 3.8,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Warm Lake Campground",
+      "type": "boondocking",
+      "town": "Cascade, ID",
+      "town_mi": 21.5,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1187,7 +1340,7 @@
       "type": "paid_camp",
       "town": "Idaho City, ID",
       "town_mi": 24,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1196,7 +1349,7 @@
       "type": "paid_camp",
       "town": "Fairfield, ID",
       "town_mi": 28.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1205,7 +1358,7 @@
       "type": "paid_camp",
       "town": "Downey, ID",
       "town_mi": 9.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1214,7 +1367,7 @@
       "type": "paid_camp",
       "town": "Elk City, ID",
       "town_mi": 9.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1228,11 +1381,20 @@
       "osm": false
     },
     {
+      "name": "Sagehen Creek Campground",
+      "type": "boondocking",
+      "town": "Smiths Ferry, ID",
+      "town_mi": 5.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Washington Creek Campground",
       "type": "paid_camp",
       "town": "Pierce, ID",
       "town_mi": 18.5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1246,11 +1408,20 @@
       "osm": false
     },
     {
+      "name": "Howers Campground",
+      "type": "boondocking",
+      "town": "Lowman, ID",
+      "town_mi": 17.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Sheep Trail Campground",
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 8.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1259,7 +1430,7 @@
       "type": "paid_camp",
       "town": "Fairfield, ID",
       "town_mi": 19.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1268,7 +1439,7 @@
       "type": "paid_camp",
       "town": "Ketchum, ID",
       "town_mi": 10.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1304,7 +1475,7 @@
       "type": "paid_camp",
       "town": "Deary, ID",
       "town_mi": 5.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1322,7 +1493,16 @@
       "type": "paid_camp",
       "town": "St. Regis, MT",
       "town_mi": 20.7,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Stanley Lake Campground",
+      "type": "boondocking",
+      "town": "Stanley, ID",
+      "town_mi": 6.4,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1331,7 +1511,7 @@
       "type": "paid_camp",
       "town": "Elk City, ID",
       "town_mi": 7.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1340,7 +1520,7 @@
       "type": "paid_camp",
       "town": "Warm River, ID",
       "town_mi": 0.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1358,7 +1538,7 @@
       "type": "paid_camp",
       "town": "Lowman, ID",
       "town_mi": 0.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1367,7 +1547,7 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 5,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1385,7 +1565,25 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 28.3,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Kiwanis Campground",
+      "type": "boondocking",
+      "town": "Midvale, ID",
+      "town_mi": 11,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Shoreline Campground (Warm Lake)",
+      "type": "boondocking",
+      "town": "Cascade, ID",
+      "town_mi": 21.2,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1457,7 +1655,7 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 7.8,
-      "badge": "access_checked",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1466,7 +1664,7 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 25.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1475,7 +1673,7 @@
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 22.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1493,7 +1691,7 @@
       "type": "paid_camp",
       "town": "Elk City, ID",
       "town_mi": 31.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1502,7 +1700,7 @@
       "type": "paid_camp",
       "town": "Elk City, ID",
       "town_mi": 20.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1511,7 +1709,7 @@
       "type": "paid_camp",
       "town": "Conner, MT",
       "town_mi": 31.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1520,7 +1718,7 @@
       "type": "paid_camp",
       "town": "Elk City, ID",
       "town_mi": 32.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1529,7 +1727,7 @@
       "type": "paid_camp",
       "town": "Conner, MT",
       "town_mi": 32.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1547,7 +1745,7 @@
       "type": "paid_camp",
       "town": "Elk City, ID",
       "town_mi": 11.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1556,7 +1754,7 @@
       "type": "paid_camp",
       "town": "Crouch, ID",
       "town_mi": 9.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1565,7 +1763,7 @@
       "type": "paid_camp",
       "town": "Salmon, ID",
       "town_mi": 21.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1583,15 +1781,6 @@
       "type": "paid_camp",
       "town": "Donnelly, ID",
       "town_mi": 19.4,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Box Canyon Campground (Island Park)",
-      "type": "paid_camp",
-      "town": "Island Park, ID",
-      "town_mi": 9,
       "badge": "agency",
       "policy": null,
       "osm": false
@@ -1619,7 +1808,7 @@
       "type": "paid_camp",
       "town": "Yellow Pine, ID",
       "town_mi": 1.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1628,7 +1817,7 @@
       "type": "paid_camp",
       "town": "Lost River, ID",
       "town_mi": 7.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1646,7 +1835,7 @@
       "type": "paid_camp",
       "town": "Yellow Pine, ID",
       "town_mi": 15.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1781,7 +1970,7 @@
       "type": "paid_camp",
       "town": "Fernwood, ID",
       "town_mi": 6.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1799,7 +1988,7 @@
       "type": "paid_camp",
       "town": "Yellow Pine, ID",
       "town_mi": 23.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1835,7 +2024,7 @@
       "type": "paid_camp",
       "town": "Fairfield, ID",
       "town_mi": 27.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1844,7 +2033,7 @@
       "type": "paid_camp",
       "town": "Fairfield, ID",
       "town_mi": 26.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1853,7 +2042,7 @@
       "type": "paid_camp",
       "town": "Fairfield, ID",
       "town_mi": 24.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1898,7 +2087,7 @@
       "type": "paid_camp",
       "town": "Fairfield, ID",
       "town_mi": 27.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1912,78 +2101,6 @@
       "osm": false
     },
     {
-      "name": "Box Canyon Campground",
-      "type": "paid_camp",
-      "town": "Island Park, ID",
-      "town_mi": 10.3,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "McCoy Creek Campground",
-      "type": "paid_camp",
-      "town": "Alpine Northwest, WY",
-      "town_mi": 3.3,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Pine Creek Campground",
-      "type": "paid_camp",
-      "town": "Victor, ID",
-      "town_mi": 5.1,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "SUMMIT VIEW CAMPGROUND",
-      "type": "paid_camp",
-      "town": "Georgetown, ID",
-      "town_mi": 6.5,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Blowout Campground",
-      "type": "paid_camp",
-      "town": "Alpine Northwest, WY",
-      "town_mi": 2.1,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Bowns Campground",
-      "type": "paid_camp",
-      "town": "Fairfield, ID",
-      "town_mi": 18.3,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Diamondfield Jack Campground",
-      "type": "paid_camp",
-      "town": "Hollister, ID",
-      "town_mi": 20.1,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Pettit Campground",
-      "type": "paid_camp",
-      "town": "Hollister, ID",
-      "town_mi": 19.4,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "Lake Cleveland Campground - West Side",
       "type": "paid_camp",
       "town": "Albion, ID",
@@ -1993,16 +2110,2302 @@
       "osm": false
     },
     {
-      "name": "Independence Lakes Campground",
+      "name": "MAGRUDER RANGERS HOUSE",
       "type": "paid_camp",
-      "town": "Oakley, ID",
+      "town": "Conner, MT",
+      "town_mi": 32.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "ARID PEAK LOOKOUT",
+      "type": "paid_camp",
+      "town": "Mullan, ID",
+      "town_mi": 7.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "LITTLE GUARD LOOKOUT",
+      "type": "paid_camp",
+      "town": "Noxon, MT",
+      "town_mi": 16.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "SPRINGY POINT",
+      "type": "paid_camp",
+      "town": "Dover, ID",
+      "town_mi": 1.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "YELLOWJACKET GUARD STATION",
+      "type": "paid_camp",
+      "town": "Salmon, ID",
+      "town_mi": 31.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "COPPER BASIN GUARD STATION",
+      "type": "paid_camp",
+      "town": "Lost River, ID",
+      "town_mi": 13.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "KALISPELL ISLAND BOAT-IN CAMPGROUND",
+      "type": "paid_camp",
+      "town": "Coolin, ID",
+      "town_mi": 6.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "LUBY BAY",
+      "type": "paid_camp",
+      "town": "Coolin, ID",
+      "town_mi": 5.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "REEDER BAY",
+      "type": "paid_camp",
+      "town": "Coolin, ID",
+      "town_mi": 10.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "SAM OWEN",
+      "type": "paid_camp",
+      "town": "East Hope, ID",
+      "town_mi": 1.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "SHAFER BUTTE",
+      "type": "paid_camp",
+      "town": "Robie Creek, ID",
+      "town_mi": 8.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "BEAVER CREEK (IDAHO)",
+      "type": "paid_camp",
+      "town": "Coolin, ID",
+      "town_mi": 17.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "WARM SPRINGS GUARD STATION",
+      "type": "paid_camp",
+      "town": "Lowman, ID",
+      "town_mi": 15.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "LOOKOUT BUTTE LOOKOUT",
+      "type": "paid_camp",
+      "town": "Riggins, ID",
+      "town_mi": 22,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "ADAMS RANGER STATION",
+      "type": "paid_camp",
+      "town": "White Bird, ID",
+      "town_mi": 14.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "JOHNSON CREEK GUARD STATION",
+      "type": "paid_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 2.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "SNYDER GUARD STATION (ID)",
+      "type": "paid_camp",
+      "town": "Moyie Springs, ID",
+      "town_mi": 11.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "BARTOO ISLAND BOAT-IN CAMPGROUND",
+      "type": "paid_camp",
+      "town": "Coolin, ID",
+      "town_mi": 5.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "BEAUTY CREEK CAMPGROUND",
+      "type": "paid_camp",
+      "town": "Fernan Lake Village, ID",
+      "town_mi": 5.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "MOKINS BAY CAMPGROUND",
+      "type": "paid_camp",
+      "town": "Hayden Lake, ID",
+      "town_mi": 4.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "EDNA CREEK CAMPGROUND",
+      "type": "paid_camp",
+      "town": "Idaho City, ID",
+      "town_mi": 8.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "PRIEST RIVER",
+      "type": "paid_camp",
+      "town": "Priest River, ID",
+      "town_mi": 0.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "RILEY CREEK",
+      "type": "paid_camp",
+      "town": "Laclede, ID",
+      "town_mi": 1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "ALBENI COVE",
+      "type": "paid_camp",
+      "town": "Oldtown, ID",
+      "town_mi": 1.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "BIG SPRINGS WARMING HUT",
+      "type": "paid_camp",
+      "town": "Island Park, ID",
+      "town_mi": 3.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "BUMBLEBEE CAMPGROUND",
+      "type": "paid_camp",
+      "town": "Pinehurst, ID",
+      "town_mi": 7.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "OSPREY",
+      "type": "paid_camp",
+      "town": "Coolin, ID",
+      "town_mi": 2.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "BELL BAY CAMPGROUND",
+      "type": "paid_camp",
+      "town": "Harrison, ID",
+      "town_mi": 1.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "CLOVERLEAF CAMPGROUND",
+      "type": "paid_camp",
+      "town": "St. Charles, ID",
+      "town_mi": 7.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "EGAN BASIN GUARD STATION",
+      "type": "paid_camp",
+      "town": "St. Charles, ID",
+      "town_mi": 10.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "CLEAR CREEK GUARD STATION",
+      "type": "paid_camp",
+      "town": "Georgetown, ID",
+      "town_mi": 10.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "EIGHT MILE GUARD STATION",
+      "type": "paid_camp",
+      "town": "Grace, ID",
+      "town_mi": 8.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "CAPE HORN WINTER RENTAL",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 14.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "CASTLE BUTTE LOOKOUT",
+      "type": "paid_camp",
+      "town": "Pierce, ID",
+      "town_mi": 28.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "SHORTY PEAK LOOKOUT",
+      "type": "paid_camp",
+      "town": "Bonners Ferry, ID",
+      "town_mi": 24,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "SURVEYORS LOOKOUT",
+      "type": "paid_camp",
+      "town": "De Borgia, MT",
+      "town_mi": 27.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "LIZ BUTTE CABIN",
+      "type": "paid_camp",
+      "town": "Pierce, ID",
+      "town_mi": 22.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "DEER RIDGE LOOKOUT",
+      "type": "paid_camp",
+      "town": "Moyie Springs, ID",
+      "town_mi": 9.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "LUNCH PEAK LOOKOUT",
+      "type": "paid_camp",
+      "town": "Hope, ID",
+      "town_mi": 9.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "SHOSHONE PARK KITCHEN",
+      "type": "paid_camp",
+      "town": "Mullan, ID",
+      "town_mi": 3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "MAGEE RANGERS CABIN",
+      "type": "paid_camp",
+      "town": "Heron, MT",
+      "town_mi": 19.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Bald Mountain Lookout (Nez Perce-Clearwater National Forests, ID)",
+      "type": "paid_camp",
+      "town": "Fernwood, ID",
+      "town_mi": 10.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "BIG SPRINGS GRP. AREA - ISLAND PARK",
+      "type": "paid_camp",
+      "town": "Island Park, ID",
+      "town_mi": 4.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "PEBBLE GUARD STATION",
+      "type": "paid_camp",
+      "town": "Inkom, ID",
+      "town_mi": 8.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "OUTLET AT PRIEST LAKE",
+      "type": "paid_camp",
+      "town": "Coolin, ID",
+      "town_mi": 4.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "BERLIN FLATS",
+      "type": "paid_camp",
+      "town": "Kellogg, ID",
+      "town_mi": 16.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Diamond Creek Guard Station",
+      "type": "paid_camp",
+      "town": "Fairview, WY",
       "town_mi": 10.8,
       "badge": "agency",
       "policy": null,
       "osm": false
     },
     {
-      "name": "Mountain View Campground",
+      "name": "Mallard Creek Campground",
+      "type": "unknown",
+      "town": "Elk City, ID",
+      "town_mi": 17.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "O'Hara Saddle Campground",
+      "type": "unknown",
+      "town": "Elk City, ID",
+      "town_mi": 9.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Oxbow Campsite",
+      "type": "unknown",
+      "town": "Elk City, ID",
+      "town_mi": 8.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Rainy Day Campground",
+      "type": "unknown",
+      "town": "Elk City, ID",
+      "town_mi": 13.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Dixie Meadow Campground",
+      "type": "unknown",
+      "town": "Elk City, ID",
+      "town_mi": 21.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Laird Park Campground",
+      "type": "unknown",
+      "town": "Princeton, ID",
+      "town_mi": 8.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "PADDY FLAT GUARD STATION",
+      "type": "paid_camp",
+      "town": "Donnelly, ID",
+      "town_mi": 7.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Pine Campground Boat Ramp",
+      "type": "unknown",
+      "town": "Fairfield, ID",
+      "town_mi": 26.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "MEADOW LAKE CAMPGROUND",
+      "type": "paid_camp",
+      "town": "Leadore, ID",
+      "town_mi": 17.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lava Flow Campground",
+      "type": "unknown",
+      "town": "Lost River, ID",
+      "town_mi": 16.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "City of Rocks Campground",
+      "type": "unknown",
+      "town": "Oakley, ID",
+      "town_mi": 15.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Smoky Mountain Campground",
+      "type": "unknown",
+      "town": "Oakley, ID",
+      "town_mi": 16.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Morse Creek Campground",
+      "type": "paid_camp",
+      "town": "Leadore, ID",
+      "town_mi": 21.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Pole Bridge Campground",
+      "type": "free_camp",
+      "town": "Warm River, ID",
+      "town_mi": 10,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Corral Creek Campground",
+      "type": "free_camp",
+      "town": "White Bird, ID",
+      "town_mi": 14.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Wilderness Gateway Campground",
+      "type": "paid_camp",
+      "town": "Pierce, ID",
+      "town_mi": 25.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Copper Creek Campground",
+      "type": "paid_camp",
+      "town": "Moyie Springs, ID",
+      "town_mi": 18,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Yellow Pine Campground",
+      "type": "paid_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 0.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Paradise Campground",
+      "type": "free_camp",
+      "town": "Midvale, ID",
+      "town_mi": 11.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Queens River Campground",
+      "type": "free_camp",
+      "town": "Lowman, ID",
+      "town_mi": 26.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Deep Creek Campground",
+      "type": "free_camp",
+      "town": "Salmon, ID",
+      "town_mi": 16,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Packsaddle Campground",
+      "type": "paid_camp",
+      "town": "Saltese, MT",
+      "town_mi": 15.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Edna Creek Campground",
+      "type": "paid_camp",
+      "town": "Lowman, ID",
+      "town_mi": 7.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Big Eddy Campground",
+      "type": "paid_camp",
+      "town": "Smiths Ferry, ID",
+      "town_mi": 5.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Limber Luke Campground",
+      "type": "free_camp",
+      "town": "Elk City, ID",
+      "town_mi": 9.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Wendover Campground",
+      "type": "paid_camp",
+      "town": "Pinesdale, MT",
+      "town_mi": 29.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Trapper Campground",
+      "type": "paid_camp",
+      "town": "Metaline Falls, WA",
+      "town_mi": 22.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Riverside Campground",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 29.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Mt. Heyburn Campground",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 5.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Line Creek Stock Camp",
+      "type": "paid_camp",
+      "town": "St. Regis, MT",
+      "town_mi": 21.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Buckhorn Bar Campground",
+      "type": "paid_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 12.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Blowout Campground & Boat Ramp",
+      "type": "paid_camp",
+      "town": "Alpine Northwest, WY",
+      "town_mi": 8.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Sockeye Campground",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 5.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Chinook Bay Campground",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 3.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Flat Rock Campground Extension",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 12.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Plowboy Campground",
+      "type": "paid_camp",
+      "town": "Coolin, ID",
+      "town_mi": 20.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Wildhorse Campground",
+      "type": "paid_camp",
+      "town": "Sun Valley, ID",
+      "town_mi": 15.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Pine Bar Campground",
+      "type": "paid_camp",
+      "town": "Freedom, WY",
+      "town_mi": 9.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Yellowjacket Lake Campground",
+      "type": "paid_camp",
+      "town": "Salmon, ID",
+      "town_mi": 32.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Wildhorse Campground",
+      "type": "free_camp",
+      "town": "Elk City, ID",
+      "town_mi": 15.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Bear Gulch Campground",
+      "type": "paid_camp",
+      "town": "Hollister, ID",
+      "town_mi": 13.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Bear Valley Horse Camp",
+      "type": "free_camp",
+      "town": "Leadore, ID",
+      "town_mi": 22.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Justrite Campground",
+      "type": "free_camp",
+      "town": "Midvale, ID",
+      "town_mi": 11.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Indian Creek Campground",
+      "type": "free_camp",
+      "town": "Conner, MT",
+      "town_mi": 31.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lake Fork Campground",
+      "type": "paid_camp",
+      "town": "McCall, ID",
+      "town_mi": 8.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Rocky Bluff Campground",
+      "type": "free_camp",
+      "town": "White Bird, ID",
+      "town_mi": 16.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Flint Creek Campground",
+      "type": "free_camp",
+      "town": "Elk City, ID",
+      "town_mi": 5.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cabin Creek Campground",
+      "type": "paid_camp",
+      "town": "Council, ID",
+      "town_mi": 9.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Shadowy St. Joe Campground",
+      "type": "paid_camp",
+      "town": "St. Maries, ID",
+      "town_mi": 8.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Crags Campground Complex",
+      "type": "paid_camp",
+      "town": "Salmon, ID",
+      "town_mi": 31.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Broad Canyon Trailhead",
+      "type": "paid_camp",
+      "town": "Lost River, ID",
+      "town_mi": 16.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Slims",
+      "type": "free_camp",
+      "town": "Elk City, ID",
+      "town_mi": 16.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Deadwood Lookout Rec Cabin",
+      "type": "paid_camp",
+      "town": "Lowman, ID",
+      "town_mi": 5.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cold Springs Campground",
+      "type": "paid_camp",
+      "town": "New Meadows, ID",
+      "town_mi": 7.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Hazard Lake Campground",
+      "type": "paid_camp",
+      "town": "New Meadows, ID",
+      "town_mi": 17.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Robinson Lake Campground",
+      "type": "paid_camp",
+      "town": "Moyie Springs, ID",
+      "town_mi": 17,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cottonwood Campground",
+      "type": "free_camp",
+      "town": "Robie Creek, ID",
+      "town_mi": 9.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Mosquito Flat Reservoir Campground",
+      "type": "paid_camp",
+      "town": "Challis, ID",
+      "town_mi": 10.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Honeysuckle Campground",
+      "type": "paid_camp",
+      "town": "Hayden Lake, ID",
+      "town_mi": 13.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Camp 3 Campground",
+      "type": "paid_camp",
+      "town": "Fernwood, ID",
+      "town_mi": 13.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Hollywood Point Campground",
+      "type": "paid_camp",
+      "town": "Smiths Ferry, ID",
+      "town_mi": 5.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Sing Lee Campground",
+      "type": "free_camp",
+      "town": "Elk City, ID",
+      "town_mi": 9.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Mammoth Springs Campground",
+      "type": "paid_camp",
+      "town": "Saltese, MT",
+      "town_mi": 22,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Red River Campground",
+      "type": "paid_camp",
+      "town": "Elk City, ID",
+      "town_mi": 9.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Mt. Borah Trailhead",
+      "type": "paid_camp",
+      "town": "Mackay, ID",
+      "town_mi": 18.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Beaver Creek Campground",
+      "type": "paid_camp",
+      "town": "Garden City, UT",
+      "town_mi": 8.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Twenty Mile Bar",
+      "type": "free_camp",
+      "town": "Elk City, ID",
+      "town_mi": 18.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Ebenezer Campground",
+      "type": "paid_camp",
+      "town": "Salmon, ID",
+      "town_mi": 31.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Whiskey Flat Campground",
+      "type": "paid_camp",
+      "town": "Clayton, ID",
+      "town_mi": 8.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Willow Creek North Campground",
+      "type": "paid_camp",
+      "town": "Fairfield, ID",
+      "town_mi": 25.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Mill Flat Campground",
+      "type": "free_camp",
+      "town": "Rockland, ID",
+      "town_mi": 12.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Tincup",
+      "type": "free_camp",
+      "town": "Freedom, WY",
+      "town_mi": 3.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Weitas Butte Lookout",
+      "type": "paid_camp",
+      "town": "Pierce, ID",
+      "town_mi": 16.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Baker Creek Campground",
+      "type": "free_camp",
+      "town": "Ketchum, ID",
+      "town_mi": 11.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Skookum Butte Lookout",
+      "type": "free_camp",
+      "town": "Florence, MT",
+      "town_mi": 15,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Mill Creek Campground",
+      "type": "paid_camp",
+      "town": "Challis, ID",
+      "town_mi": 10.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Huckleberry Campground",
+      "type": "paid_camp",
+      "town": "New Meadows, ID",
+      "town_mi": 18,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Jerry Johnson Campground",
+      "type": "paid_camp",
+      "town": "Pinesdale, MT",
+      "town_mi": 34,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Palisades Creek Campground",
+      "type": "paid_camp",
+      "town": "Irwin, ID",
+      "town_mi": 3.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Giant White Pine Campground",
+      "type": "paid_camp",
+      "town": "Princeton, ID",
+      "town_mi": 9.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Weitas Campground",
+      "type": "paid_camp",
+      "town": "Pierce, ID",
+      "town_mi": 20.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Castle Creek Campground",
+      "type": "free_camp",
+      "town": "Mountain Home, ID",
+      "town_mi": 24.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cougar Point Campground",
+      "type": "paid_camp",
+      "town": "Salmon, ID",
+      "town_mi": 10,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Alturas Lake Tent Area",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 20.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Maiden Rock Campground",
+      "type": "free_camp",
+      "town": "Dover, ID",
+      "town_mi": 12,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Buck Mountain Campground",
+      "type": "free_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 19.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Windy Saddle Horse Camp",
+      "type": "paid_camp",
+      "town": "Riggins, ID",
+      "town_mi": 10.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Boiling Springs Campground",
+      "type": "paid_camp",
+      "town": "Smiths Ferry, ID",
+      "town_mi": 11.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Flatrock Campground",
+      "type": "paid_camp",
+      "town": "Island Park, ID",
+      "town_mi": 2.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Porcupine Springs Campground",
+      "type": "paid_camp",
+      "town": "Oakley, ID",
+      "town_mi": 20.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Eagle Bar Camping Area",
+      "type": "free_camp",
+      "town": "Riggins, ID",
+      "town_mi": 23.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Selway Falls Campground",
+      "type": "paid_camp",
+      "town": "Elk City, ID",
+      "town_mi": 16.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Gravel Creek Campground",
+      "type": "paid_camp",
+      "town": "Freedom, WY",
+      "town_mi": 18,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "West Fork Morgan Creek Campground",
+      "type": "free_camp",
+      "town": "Challis, ID",
+      "town_mi": 14.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Monte Cristo Camping Area",
+      "type": "free_camp",
+      "town": "Stanley, ID",
+      "town_mi": 23.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Hawley Creek, Lower Campground",
+      "type": "free_camp",
+      "town": "Leadore, ID",
+      "town_mi": 8.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lafferty Campground",
+      "type": "paid_camp",
+      "town": "Council, ID",
+      "town_mi": 17.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Granite Springs Campground",
+      "type": "free_camp",
+      "town": "Elk City, ID",
+      "town_mi": 16.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Bald Mountain Campground",
+      "type": "free_camp",
+      "town": "Idaho City, ID",
+      "town_mi": 7.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Curlew Campground",
+      "type": "paid_camp",
+      "town": "Snowville, UT",
+      "town_mi": 7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Nelson Creek Campground",
+      "type": "free_camp",
+      "town": "Grangeville, ID",
+      "town_mi": 9.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Mackay Bar Campground",
+      "type": "free_camp",
+      "town": "Elk City, ID",
+      "town_mi": 29.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Ten Mile Campground",
+      "type": "paid_camp",
+      "town": "Idaho City, ID",
+      "town_mi": 7.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "South Fork Salmon River Campground",
+      "type": "paid_camp",
+      "town": "Cascade, ID",
+      "town_mi": 19.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Dry Canyon Campground",
+      "type": "free_camp",
+      "town": "Portage, UT",
+      "town_mi": 7.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Five Mile Campground",
+      "type": "free_camp",
+      "town": "Elk City, ID",
+      "town_mi": 8.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lookout Butte Lookout",
+      "type": "paid_camp",
+      "town": "Stites, ID",
+      "town_mi": 15.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Black Lake Campground",
+      "type": "paid_camp",
+      "town": "Riggins, ID",
+      "town_mi": 19.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Pioneer Campground",
+      "type": "paid_camp",
+      "town": "Fairfield, ID",
+      "town_mi": 10,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Schipper Campground",
+      "type": "paid_camp",
+      "town": "Murtaugh, ID",
+      "town_mi": 12.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Roman Nose Campground",
+      "type": "free_camp",
+      "town": "Bonners Ferry, ID",
+      "town_mi": 12.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Big Creek Campground",
+      "type": "paid_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 14,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Ponderosa Campground",
+      "type": "paid_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 15.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Federal Gulch Campground",
+      "type": "free_camp",
+      "town": "Sun Valley, ID",
+      "town_mi": 9.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Josephus Lake Trailhead",
+      "type": "free_camp",
+      "town": "Stanley, ID",
+      "town_mi": 25.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Smokey Bear Campground",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 20.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Table Meadows Campground",
+      "type": "free_camp",
+      "town": "Elk City, ID",
+      "town_mi": 8.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Old East Fork Camping Area",
+      "type": "free_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 1.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Stump Creek Guard Station",
+      "type": "paid_camp",
+      "town": "Auburn, WY",
+      "town_mi": 2.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cold Springs Peak Cabin",
+      "type": "paid_camp",
+      "town": "Pierce, ID",
+      "town_mi": 31.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Shiefer Campground",
+      "type": "free_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 15.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Rapid Creek Dispersed",
+      "type": "free_camp",
+      "town": "Donnelly, ID",
+      "town_mi": 8.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Big Bayhorse Campground",
+      "type": "paid_camp",
+      "town": "Clayton, ID",
+      "town_mi": 10.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Split Creek Camping Area",
+      "type": "free_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 16.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Smokey Boulder Dispersed",
+      "type": "free_camp",
+      "town": "New Meadows, ID",
+      "town_mi": 13.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Bottle Bay Campground",
+      "type": "paid_camp",
+      "town": "Coolin, ID",
+      "town_mi": 15.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Reed Ranch Airstrip Camping Area",
+      "type": "free_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 12.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "East Fork Baker Creek Campground",
+      "type": "free_camp",
+      "town": "Clayton, ID",
+      "town_mi": 18.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Hitt Mountain Dispersed Campground And T",
+      "type": "free_camp",
+      "town": "Cambridge, ID",
+      "town_mi": 12.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Clark Mountain Camp",
+      "type": "free_camp",
+      "town": "Pierce, ID",
+      "town_mi": 13.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cold Meadows Airfield Camping Area",
+      "type": "free_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 34.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lost Valley Dispersed Sites",
+      "type": "free_camp",
+      "town": "New Meadows, ID",
+      "town_mi": 9.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Scurvy Mountain Lookout",
+      "type": "paid_camp",
+      "town": "Cyr, MT",
+      "town_mi": 33.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Fourth Of July Camp",
+      "type": "free_camp",
+      "town": "Pierce, ID",
+      "town_mi": 23.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cub River Guard Station",
+      "type": "paid_camp",
+      "town": "Preston, ID",
+      "town_mi": 10.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Rocky Ridge Campground",
+      "type": "free_camp",
+      "town": "Pierce, ID",
+      "town_mi": 15.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Goose Lake Dispersed",
+      "type": "free_camp",
+      "town": "New Meadows, ID",
+      "town_mi": 8.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Iron Phone Junction Campground",
+      "type": "free_camp",
+      "town": "Riggins, ID",
+      "town_mi": 9.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Jeanette Campground",
+      "type": "paid_camp",
+      "town": "Riggins, ID",
+      "town_mi": 21.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Boulder Meadows",
+      "type": "free_camp",
+      "town": "Bonners Ferry, ID",
+      "town_mi": 11.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Mill Creek Trailhead",
+      "type": "paid_camp",
+      "town": "Leadore, ID",
+      "town_mi": 21.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Isabella Landing Camp",
+      "type": "free_camp",
+      "town": "Pierce, ID",
+      "town_mi": 25.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Pettit Lake Campground",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 16,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Horse Camp (Palouse)",
+      "type": "free_camp",
+      "town": "Deary, ID",
+      "town_mi": 10.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Tule Bay Campground",
+      "type": "paid_camp",
+      "town": "Coolin, ID",
+      "town_mi": 17.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Whoop-Um-Up Equestrian Camp",
+      "type": "paid_camp",
+      "town": "Lowman, ID",
+      "town_mi": 7.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lake Creek Dispersed",
+      "type": "free_camp",
+      "town": "Riggins, ID",
+      "town_mi": 20.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Caribou Guard Station",
+      "type": "paid_camp",
+      "town": "Alpine Northwest, WY",
+      "town_mi": 14.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Shoshone Park Cabin",
+      "type": "paid_camp",
+      "town": "Mullan, ID",
+      "town_mi": 3.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Bishop Mountain Cabin",
+      "type": "paid_camp",
+      "town": "Island Park, ID",
+      "town_mi": 17.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Isabella Point Camp",
+      "type": "free_camp",
+      "town": "Elk River, ID",
+      "town_mi": 28.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Paddy Flat Dispersed",
+      "type": "free_camp",
+      "town": "Donnelly, ID",
+      "town_mi": 7.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lost Spring Campground",
+      "type": "free_camp",
+      "town": "Challis, ID",
+      "town_mi": 26.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Chamberlain Basin Camping Area",
+      "type": "free_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 31.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Secesh Campground",
+      "type": "paid_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 15.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Little Bayhorse Camping Area",
+      "type": "paid_camp",
+      "town": "Challis, ID",
+      "town_mi": 10.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Granite Lake Dispersed",
+      "type": "free_camp",
+      "town": "New Meadows, ID",
+      "town_mi": 13.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Soldier Bar Airfield Camping Area",
+      "type": "free_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 35.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cabin Creek Airfield Camping Area",
+      "type": "free_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 30,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Johnson Guard Station",
+      "type": "paid_camp",
+      "town": "Auburn, WY",
+      "town_mi": 10.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Deadman Bar Camping Area",
+      "type": "free_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 8.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Gold Meadows Cabin",
+      "type": "free_camp",
+      "town": "Pierce, ID",
+      "town_mi": 34.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Hard Creek Dispersed",
+      "type": "free_camp",
+      "town": "New Meadows, ID",
+      "town_mi": 15.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Liz Creek Cabin",
+      "type": "paid_camp",
+      "town": "Pierce, ID",
+      "town_mi": 24.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Burgdorf Campground",
+      "type": "paid_camp",
+      "town": "Riggins, ID",
+      "town_mi": 22.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Teacher Bay Campground",
+      "type": "paid_camp",
+      "town": "Coolin, ID",
+      "town_mi": 16.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Blind Creek Campground",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 11.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Tin Cup Campground",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 27.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Spring Creek Campground",
+      "type": "paid_camp",
+      "town": "Salmon, ID",
+      "town_mi": 23.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Powerplant Campground",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 28.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Van Creek Campground",
+      "type": "free_camp",
+      "town": "Riggins, ID",
+      "town_mi": 8.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Corn Creek Campground Complex",
+      "type": "paid_camp",
+      "town": "Salmon, ID",
+      "town_mi": 40.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Brownlee Campground",
+      "type": "paid_camp",
+      "town": "Cambridge, ID",
+      "town_mi": 13.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Summit Lake Campground",
+      "type": "free_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 22.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Big Bar Camping Area",
+      "type": "free_camp",
+      "town": "New Meadows, ID",
+      "town_mi": 24.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "25 Mile Camping Area",
+      "type": "free_camp",
+      "town": "Elk City, ID",
+      "town_mi": 17.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Geisinger Campground",
+      "type": "paid_camp",
+      "town": "Coolin, ID",
+      "town_mi": 20.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Four Mile Campground",
+      "type": "paid_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 12.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Green Bay Campground",
+      "type": "paid_camp",
+      "town": "Hope, ID",
+      "town_mi": 6.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Bear Creek Campground",
+      "type": "free_camp",
+      "town": "Ketchum, ID",
+      "town_mi": 26.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lolo Campground",
+      "type": "paid_camp",
+      "town": "Weippe, ID",
+      "town_mi": 10.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Ice Hole Campground",
+      "type": "paid_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 5.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Telichpah Campground",
+      "type": "paid_camp",
+      "town": "Mullan, ID",
+      "town_mi": 12,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Evans Creek Campground",
+      "type": "paid_camp",
+      "town": "Mountain Home, ID",
+      "town_mi": 23.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Kennally Creek Campground",
+      "type": "paid_camp",
+      "town": "Donnelly, ID",
+      "town_mi": 10.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Poverty Flat Campground",
+      "type": "paid_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 14.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Mormon Bend Campground",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 5.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Big Eightmile Campground/Trailhead",
+      "type": "free_camp",
+      "town": "Leadore, ID",
+      "town_mi": 11.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Sams Creek Campground",
+      "type": "free_camp",
+      "town": "Elk City, ID",
+      "town_mi": 19.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Meadow Creek Station",
+      "type": "paid_camp",
+      "town": "Elk City, ID",
+      "town_mi": 10.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Rackcliff Campground",
+      "type": "paid_camp",
+      "town": "Elk City, ID",
+      "town_mi": 18.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Marijuana Flat",
+      "type": "free_camp",
+      "town": "Preston, ID",
+      "town_mi": 11.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Eightmile Camping Area",
+      "type": "free_camp",
+      "town": "Clayton, ID",
+      "town_mi": 16.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Halfway House Campground",
+      "type": "free_camp",
+      "town": "Elk City, ID",
+      "town_mi": 21.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Willow Creek Campground",
+      "type": "free_camp",
+      "town": "Robie Creek, ID",
+      "town_mi": 13.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Five Points Campground",
+      "type": "free_camp",
+      "town": "Fairfield, ID",
+      "town_mi": 13.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Beaver Creek Campground",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 17.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Glover Creek Campground",
+      "type": "paid_camp",
+      "town": "Elk City, ID",
+      "town_mi": 17.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Ice Springs Campground",
+      "type": "paid_camp",
+      "town": "Mountain Home, ID",
+      "town_mi": 28.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Beaver Creek Campground",
+      "type": "free_camp",
+      "town": "St. Regis, MT",
+      "town_mi": 19.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Boundary Campground And Picnic Area",
+      "type": "paid_camp",
+      "town": "Sun Valley, ID",
+      "town_mi": 2.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Paddy Flat East Rental Cabin",
+      "type": "paid_camp",
+      "town": "Donnelly, ID",
+      "town_mi": 7.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lola Creek Campground",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 18.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Emerald Creek Campground",
+      "type": "paid_camp",
+      "town": "Fernwood, ID",
+      "town_mi": 7.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Reservoir Creek Campground",
+      "type": "free_camp",
+      "town": "Leadore, ID",
+      "town_mi": 9.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Timber Creek Campground",
+      "type": "paid_camp",
+      "town": "Leadore, ID",
+      "town_mi": 19.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "North Fork Slate Creek Campground",
+      "type": "free_camp",
+      "town": "White Bird, ID",
+      "town_mi": 12.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Copper Creek Campground",
+      "type": "free_camp",
+      "town": "Lost River, ID",
+      "town_mi": 15.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Iron Creek Campground (ID)",
       "type": "paid_camp",
       "town": "Stanley, ID",
       "town_mi": 3.8,
@@ -2011,10 +4414,415 @@
       "osm": false
     },
     {
-      "name": "MAGRUDER RANGERS HOUSE",
+      "name": "Salmon River Campground",
       "type": "paid_camp",
-      "town": "Conner, MT",
-      "town_mi": 32.1,
+      "town": "Stanley, ID",
+      "town_mi": 4.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Dagger Falls Campground",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 27.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Deer Creek Campground",
+      "type": "free_camp",
+      "town": "Hailey, ID",
+      "town_mi": 10.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Dutch Creek Guard Sta",
+      "type": "free_camp",
+      "town": "Lowman, ID",
+      "town_mi": 22,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Meadow Creek Campground",
+      "type": "free_camp",
+      "town": "Grangeville, ID",
+      "town_mi": 11.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Riverside Campground (id)",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 5.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Barber Flat Rental Cabin",
+      "type": "paid_camp",
+      "town": "Idaho City, ID",
+      "town_mi": 14.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Chinook Campground",
+      "type": "paid_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 23.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Willow Creek Campground",
+      "type": "free_camp",
+      "town": "Lowman, ID",
+      "town_mi": 8.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Whiskey Rock Bay Campground",
+      "type": "free_camp",
+      "town": "Athol, ID",
+      "town_mi": 13.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Camp Creek Campground",
+      "type": "paid_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 11.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "North Shore Campground",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 20.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lake Creek Trailhead & Campground",
+      "type": "paid_camp",
+      "town": "Lost River, ID",
+      "town_mi": 14.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Deadwood Campground",
+      "type": "paid_camp",
+      "town": "Lowman, ID",
+      "town_mi": 2.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Riverside Park Campground & Day Use Area",
+      "type": "paid_camp",
+      "town": "Irwin, ID",
+      "town_mi": 5.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Father And Sons Campground",
+      "type": "free_camp",
+      "town": "Oakley, ID",
+      "town_mi": 16.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Navigation Campground",
+      "type": "paid_camp",
+      "town": "Metaline Falls, WA",
+      "town_mi": 21.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Tie Creek Campground",
+      "type": "paid_camp",
+      "town": "Crouch, ID",
+      "town_mi": 6.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Casino Creek Campground",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Sawmill Campground",
+      "type": "free_camp",
+      "town": "Sun Valley, ID",
+      "town_mi": 8.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Bonanza Ccc Camp",
+      "type": "free_camp",
+      "town": "Stanley, ID",
+      "town_mi": 14.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lake View Campground",
+      "type": "paid_camp",
+      "town": "Stanley, ID",
+      "town_mi": 6.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Horse Heaven Cabin",
+      "type": "paid_camp",
+      "town": "Elk City, ID",
+      "town_mi": 28.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Boyd Creek Campground",
+      "type": "paid_camp",
+      "town": "Elk City, ID",
+      "town_mi": 18,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Star Hope Campground",
+      "type": "paid_camp",
+      "town": "Lost River, ID",
+      "town_mi": 15.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cartwright Ridge Campground",
+      "type": "paid_camp",
+      "town": "Smiths Ferry, ID",
+      "town_mi": 6.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Big Creek Campground",
+      "type": "paid_camp",
+      "town": "Wardner, ID",
+      "town_mi": 14.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Castle Creek Campground",
+      "type": "paid_camp",
+      "town": "Grangeville, ID",
+      "town_mi": 10,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Beaver Creek Rental Cabin",
+      "type": "paid_camp",
+      "town": "Lowman, ID",
+      "town_mi": 7.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Ditch Creek Campground",
+      "type": "free_camp",
+      "town": "Elk City, ID",
+      "town_mi": 8.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Deer Flat Campground",
+      "type": "paid_camp",
+      "town": "Lowman, ID",
+      "town_mi": 23.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Troutdale Campground",
+      "type": "free_camp",
+      "town": "Idaho City, ID",
+      "town_mi": 12.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Mill Canyon Campground",
+      "type": "paid_camp",
+      "town": "Soda Springs, ID",
+      "town_mi": 15.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Easley Campground",
+      "type": "paid_camp",
+      "town": "Ketchum, ID",
+      "town_mi": 8.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Big Creek Campground",
+      "type": "paid_camp",
+      "town": "Leadore, ID",
+      "town_mi": 20.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Caribou Campground",
+      "type": "paid_camp",
+      "town": "Ketchum, ID",
+      "town_mi": 9.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Meadow Creek Campground",
+      "type": "paid_camp",
+      "town": "Moyie Springs, ID",
+      "town_mi": 6.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Last Chance Campground",
+      "type": "paid_camp",
+      "town": "New Meadows, ID",
+      "town_mi": 4.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Austin Ridge Lookout",
+      "type": "paid_camp",
+      "town": "Pierce, ID",
+      "town_mi": 11.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Badger Creek Campground",
+      "type": "free_camp",
+      "town": "Idaho City, ID",
+      "town_mi": 12.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Confluence Camping Area",
+      "type": "free_camp",
+      "town": "Yellow Pine, ID",
+      "town_mi": 11.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Park Creek Campground",
+      "type": "paid_camp",
+      "town": "Sun Valley, ID",
+      "town_mi": 11.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Seven Devils Campground",
+      "type": "paid_camp",
+      "town": "Riggins, ID",
+      "town_mi": 11,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Canyon Campground",
+      "type": "paid_camp",
+      "town": "Smiths Ferry, ID",
+      "town_mi": 7.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Elbow",
+      "type": "free_camp",
+      "town": "Montpelier, ID",
+      "town_mi": 6.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Steer Basin Cg",
+      "type": "paid_camp",
+      "town": "Murtaugh, ID",
+      "town_mi": 15.5,
       "badge": "agency",
       "policy": null,
       "osm": false

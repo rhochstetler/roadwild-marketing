@@ -1,6 +1,6 @@
 {
   "state": "ME",
-  "generated_at": "2026-11-02",
+  "generated_at": "2026-11-09",
   "sample": false,
   "spots": [
     {
@@ -26,24 +26,6 @@
       "type": "paid_camp",
       "town": "Lubec, ME",
       "town_mi": 8.2,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Migis Lodge",
-      "type": "paid_camp",
-      "town": "Naples, ME",
-      "town_mi": 5.3,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Goodwins Lodge",
-      "type": "paid_camp",
-      "town": "Naples, ME",
-      "town_mi": 5.7,
       "badge": "listed_business",
       "policy": null,
       "osm": false
@@ -94,29 +76,11 @@
       "osm": false
     },
     {
-      "name": "Acadia Wilderness Lodge",
-      "type": "paid_camp",
-      "town": "Southwest Harbor, ME",
-      "town_mi": 3.1,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "Spacious Skies Campgrounds - Balsam Woods",
       "type": "rv_park",
       "town": "Guilford, ME",
       "town_mi": 4.4,
       "badge": "access_checked",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Myers Lodge West",
-      "type": "paid_camp",
-      "town": "Rangeley, ME",
-      "town_mi": 19.1,
-      "badge": "listed_business",
       "policy": null,
       "osm": false
     },
@@ -130,29 +94,11 @@
       "osm": false
     },
     {
-      "name": "Myers Lodge East",
-      "type": "paid_camp",
-      "town": "Rangeley, ME",
-      "town_mi": 19.2,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "Deep Cove Campsite",
       "type": "paid_camp",
       "town": "Lubec, ME",
       "town_mi": 13.2,
       "badge": "nomad",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Dead River Lodge",
-      "type": "paid_camp",
-      "town": "Bingham, ME",
-      "town_mi": 20.9,
-      "badge": "listed_business",
       "policy": null,
       "osm": false
     },
@@ -172,6 +118,438 @@
       "town_mi": 1.8,
       "badge": "nomad",
       "policy": "call_ahead",
+      "osm": true
+    },
+    {
+      "name": "100 Mile Wilderness Adventures",
+      "type": "paid_camp",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Oceanfront Camping at Reach Knolls",
+      "type": "paid_camp",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Boothbay Craft Brewery RV Resort",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "The Birches",
+      "type": "paid_camp",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Pleasant Hill Campground",
+      "type": "paid_camp",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Seawall Campground",
+      "type": "paid_camp",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Schoodic Woods Campground",
+      "type": "paid_camp",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Augusta / Gardiner KOA Journey",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Sandy Pines Campground",
+      "type": "paid_camp",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Libby's Oceanside Camp",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Burnette's Campground",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Apple Valley Campground",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Coastal Pines Camp Sites",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Bunganut Lake Camping Area",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Nesowadnehunk Field Campground",
+      "type": "paid_camp",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Blackwoods Campground",
+      "type": "paid_camp",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Fortland",
+      "type": "paid_camp",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Yellowstone Park Campground",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Skowhegan/Kennebec Valley KOA Journey",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Bentleys Campground",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Red Apple Campground",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Bar Harbor Campground",
+      "type": "paid_camp",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Sea-Vu Campground",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Sun Outdoors Saco Old Orchard Beach",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Old Orchard Beach Campground",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Silver Springs Campground and Cottages",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Pinehirst RV Resort",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Powder Horn Family Camping Resort",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Hid'n Pines Family Campground",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Acres of Wildlife",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Wassamki Springs Campground",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Wild Duck Campground & RV Park",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Bayley's Camping Resort",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Abol Campground",
+      "type": "paid_camp",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Moody Beach RV Campground",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Sun Outdoors Wells Beach",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Narrows Too Camping Resort",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Sea-Vu West Resort RV Park and Campground",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Sea-Vu South Campground",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Drakes Island Resort",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Homestead By The River Family Campground",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Freeport / Durham KOA Holiday",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Camping Field",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Beach Acres",
+      "type": "paid_camp",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Parks Pond Campground",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Fogg Brook Resort Campground",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Pleasant Lake Camping Area",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Shore Hills Campground & RV Park",
+      "type": "rv_park",
+      "town": null,
+      "town_mi": null,
+      "badge": "listed_business",
+      "policy": null,
       "osm": true
     }
   ],

@@ -1,6 +1,6 @@
 {
   "state": "AZ",
-  "generated_at": "2026-11-09",
+  "generated_at": "2026-11-20",
   "sample": false,
   "spots": [
     {
@@ -262,7 +262,7 @@
       "town_mi": 6.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Molino Campground",
@@ -586,7 +586,7 @@
       "town_mi": 13.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Reynolds Creek Group Campground",
@@ -730,7 +730,7 @@
       "town_mi": 9.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Dairy Springs Campground",

@@ -1,6 +1,6 @@
 {
   "state": "CA",
-  "generated_at": "2026-11-09",
+  "generated_at": "2026-11-20",
   "sample": false,
   "spots": [
     {
@@ -856,7 +856,7 @@
       "town_mi": 16.9,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Brightman Flat Campground",
@@ -2908,7 +2908,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Oak Bottom Campground (Salmon River)",
@@ -3016,7 +3016,7 @@
       "town_mi": 2.5,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Obsidian Campground",
@@ -3025,7 +3025,7 @@
       "town_mi": 11.1,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "(LAKE ALPINE) SILVER TIP CAMPGROUND",
@@ -3034,7 +3034,7 @@
       "town_mi": 2,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lower Virginia Creek Primitive Campground",
@@ -3043,7 +3043,7 @@
       "town_mi": 2.5,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Centerville Flat Campground",
@@ -3052,7 +3052,7 @@
       "town_mi": 6.5,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "(LAKE ALPINE) SILVER VALLEY CAMPGROUND",
@@ -3061,7 +3061,7 @@
       "town_mi": 3.7,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Emigrant Campground",
@@ -3142,7 +3142,7 @@
       "town_mi": 21.7,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Big Flat Campground",
@@ -3151,7 +3151,7 @@
       "town_mi": 11.4,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Chimney Creek Campground",

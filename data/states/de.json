@@ -1,6 +1,6 @@
 {
   "state": "DE",
-  "generated_at": "2026-11-09",
+  "generated_at": "2026-11-20",
   "sample": false,
   "spots": [
     {
@@ -10,7 +10,7 @@
       "town_mi": 2.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lighthouse Beach RV Resort",
@@ -19,7 +19,7 @@
       "town_mi": 1.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Gulls Way Campground",
@@ -28,7 +28,7 @@
       "town_mi": 1.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lost Lands RV Park",
@@ -37,7 +37,7 @@
       "town_mi": 2.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Trap Pond State Park Campground",
@@ -46,7 +46,7 @@
       "town_mi": 5.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     }
   ],
   "activities": [

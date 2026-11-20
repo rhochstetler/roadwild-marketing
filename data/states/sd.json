@@ -1,6 +1,6 @@
 {
   "state": "SD",
-  "generated_at": "2026-11-09",
+  "generated_at": "2026-11-20",
   "sample": false,
   "spots": [
     {
@@ -10,7 +10,7 @@
       "town_mi": 20.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Reva Gap Campground",
@@ -19,14 +19,14 @@
       "town_mi": 17.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Summit Ridge Lookout Cabin",
       "type": "paid_camp",
       "town": "Hill View Heights, WY",
       "town_mi": 5.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -37,7 +37,7 @@
       "town_mi": 14.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Mountain View Campground (SD)",
@@ -46,7 +46,7 @@
       "town_mi": 1.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sage Creek Campground (Badlands)",
@@ -55,7 +55,7 @@
       "town_mi": 10.9,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Whitetail Campground (SD)",
@@ -64,7 +64,7 @@
       "town_mi": 12.9,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Ditch Creek Campground",
@@ -73,7 +73,7 @@
       "town_mi": 13.7,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hanna Campground",
@@ -82,7 +82,7 @@
       "town_mi": 6.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Stockade Lake Campground South",
@@ -91,7 +91,7 @@
       "town_mi": 3.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Legion Lake Campground",
@@ -100,7 +100,7 @@
       "town_mi": 6.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Bismark Lake Campground",
@@ -109,7 +109,7 @@
       "town_mi": 4.5,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Boxelder Forks Campground",
@@ -118,7 +118,7 @@
       "town_mi": 8,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Dalton Lake Campground",
@@ -127,7 +127,7 @@
       "town_mi": 4.9,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "French Creek Campground (SD)",
@@ -136,7 +136,7 @@
       "town_mi": 9.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Castle Peak Campground",
@@ -145,7 +145,7 @@
       "town_mi": 12.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Center Lake Campground Upper Loop",
@@ -154,7 +154,7 @@
       "town_mi": 6.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Alkali Creek Campground",
@@ -163,7 +163,7 @@
       "town_mi": 1.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "R&R RV Park Campground",
@@ -172,7 +172,7 @@
       "town_mi": 2.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Melgaard Park Campground",
@@ -208,7 +208,7 @@
       "town_mi": 1.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lake Park Campground (SD)",
@@ -226,7 +226,7 @@
       "town_mi": 4.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Center Lake Campground Lower Loop",
@@ -235,7 +235,7 @@
       "town_mi": 6.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Flandreau Municipal Park Campground",
@@ -244,7 +244,7 @@
       "town_mi": 1.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Waubay City Campground",
@@ -253,7 +253,7 @@
       "town_mi": 0.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Maxwell Park Campground",
@@ -262,7 +262,7 @@
       "town_mi": 0.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Northland Park Campground",
@@ -271,7 +271,7 @@
       "town_mi": 0.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Memorial Park County Campground",
@@ -280,7 +280,7 @@
       "town_mi": 0.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "West Ball Park Campground",
@@ -289,7 +289,7 @@
       "town_mi": 0.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hieb Memorial Park Campground",
@@ -298,7 +298,7 @@
       "town_mi": 0.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Freeman City Park Campground",
@@ -307,7 +307,7 @@
       "town_mi": 0.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Roubaix Lake Campground",
@@ -316,7 +316,7 @@
       "town_mi": 11.8,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Steamboat Rock Tent Camping Area",
@@ -325,14 +325,14 @@
       "town_mi": 5.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Strawberry Tent Camping Area",
       "type": "paid_camp",
       "town": "Lead, SD",
       "town_mi": 4.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -341,7 +341,7 @@
       "type": "paid_camp",
       "town": "Newcastle, WY",
       "town_mi": 17.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -352,7 +352,7 @@
       "town_mi": 0.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sunrise Campground & RV Park",
@@ -361,7 +361,7 @@
       "town_mi": 0.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Stockade Lake Group Campground",
@@ -388,7 +388,7 @@
       "town_mi": 0.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Kickstands Campground",
@@ -397,7 +397,7 @@
       "town_mi": 1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Three Flags RV Park",
@@ -405,6 +405,150 @@
       "town": "Summerset, SD",
       "town_mi": 1.7,
       "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Elk Mountain Campground",
+      "type": "unknown",
+      "town": "Pringle, SD",
+      "town_mi": 6.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cedar Pass Campground",
+      "type": "unknown",
+      "town": "Interior, SD",
+      "town_mi": 1.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Willow Creek Horse Camp",
+      "type": "paid_camp",
+      "town": "Hill City, SD",
+      "town_mi": 2.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Oreville Campground",
+      "type": "paid_camp",
+      "town": "Hill City, SD",
+      "town_mi": 4.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Redbank Spring Campground",
+      "type": "paid_camp",
+      "town": "Newcastle, WY",
+      "town_mi": 14.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Horsethief Lake Campground",
+      "type": "paid_camp",
+      "town": "Keystone, SD",
+      "town_mi": 2.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Rod And Gun Campground",
+      "type": "paid_camp",
+      "town": "Lead, SD",
+      "town_mi": 9.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Custer Trail Campground",
+      "type": "paid_camp",
+      "town": "Hill City, SD",
+      "town_mi": 13.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Sheridan Southside Campground",
+      "type": "paid_camp",
+      "town": "Hill City, SD",
+      "town_mi": 5.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Timon Campground",
+      "type": "paid_camp",
+      "town": "Lead, SD",
+      "town_mi": 11.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Pactola Campground",
+      "type": "paid_camp",
+      "town": "Johnson Siding, SD",
+      "town_mi": 3.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Dutchman Campground",
+      "type": "paid_camp",
+      "town": "Hill City, SD",
+      "town_mi": 12.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Iron Creek Horse Camp",
+      "type": "paid_camp",
+      "town": "Keystone, SD",
+      "town_mi": 5.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Comanche Park Campground",
+      "type": "paid_camp",
+      "town": "Custer, SD",
+      "town_mi": 6.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Grizzly Bear Campground",
+      "type": "paid_camp",
+      "town": "Keystone, SD",
+      "town_mi": 1.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Pinnacles Camping Area",
+      "type": "free_camp",
+      "town": "Wall, SD",
+      "town_mi": 7,
+      "badge": "agency",
       "policy": null,
       "osm": false
     }

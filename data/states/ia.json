@@ -1,6 +1,6 @@
 {
   "state": "IA",
-  "generated_at": "2026-11-09",
+  "generated_at": "2026-11-20",
   "sample": false,
   "spots": [
     {
@@ -46,7 +46,7 @@
       "town_mi": 3.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Cutty's Okoboji Resort Club",
@@ -55,7 +55,7 @@
       "town_mi": 3.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pikes Peak State Park",
@@ -64,7 +64,7 @@
       "town_mi": 2.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Crystal Lake State Park Campground",
@@ -82,7 +82,7 @@
       "town_mi": 1.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Skip A Way Resort",
@@ -91,7 +91,7 @@
       "town_mi": 0.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Deer Run Resort",
@@ -100,7 +100,7 @@
       "town_mi": 0.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Bellevue State Park Campground - Dyas Unit",
@@ -109,7 +109,7 @@
       "town_mi": 2.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Black Hawk State Park Campground",
@@ -118,7 +118,7 @@
       "town_mi": 1.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Dolliver Memorial State Park Campground",
@@ -127,7 +127,7 @@
       "town_mi": 2.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Geode State Park Campground",
@@ -136,7 +136,7 @@
       "town_mi": 3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Green Valley State Park Campground",
@@ -145,7 +145,7 @@
       "town_mi": 3.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Gull Point State Park Campground",
@@ -154,7 +154,7 @@
       "town_mi": 0.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Honey Creek State Park Campground",
@@ -172,7 +172,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lake Ahquabi State Park Campground",
@@ -181,7 +181,7 @@
       "town_mi": 4.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lake Anita State Park Campground",
@@ -190,7 +190,7 @@
       "town_mi": 1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lake Darling State Park Campground",
@@ -199,7 +199,7 @@
       "town_mi": 3.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lake Keomah State Park Campground",
@@ -208,7 +208,7 @@
       "town_mi": 0.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lake of Three Fires State Park Campground",
@@ -217,7 +217,7 @@
       "town_mi": 3.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Ledges State Park Campground",
@@ -226,7 +226,7 @@
       "town_mi": 3.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "McIntosh Woods State Park Campground",
@@ -235,7 +235,7 @@
       "town_mi": 0.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Nine Eagles State Park Campground",
@@ -244,7 +244,7 @@
       "town_mi": 1.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Prairie Rose State Park West Campground",
@@ -253,7 +253,7 @@
       "town_mi": 4.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Prairie Rose State Park East Campground",
@@ -262,7 +262,7 @@
       "town_mi": 4.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Red Haw State Park Campground",
@@ -271,7 +271,7 @@
       "town_mi": 2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Springbrook State Park Campground",
@@ -280,7 +280,7 @@
       "town_mi": 4.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Stone State Park Campground",
@@ -289,7 +289,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Waubonsie State Park Campground",
@@ -298,7 +298,7 @@
       "town_mi": 4.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Wildcat Den State Park Campground",
@@ -307,7 +307,7 @@
       "town_mi": 2.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lake Macbride State Park Campground",
@@ -316,7 +316,7 @@
       "town_mi": 3.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lake Shore RV Resort & Campground",
@@ -325,7 +325,7 @@
       "town_mi": 1.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lakeside Marina Campground",
@@ -334,7 +334,7 @@
       "town_mi": 0.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Backbone State Park six Pines",
@@ -343,7 +343,7 @@
       "town_mi": 2.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Independence City RV Park",
@@ -352,7 +352,7 @@
       "town_mi": 0.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Wapsipinicon State Park Campground",
@@ -361,7 +361,7 @@
       "town_mi": 1.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Massey Marina and Park Campgrounds",
@@ -370,7 +370,7 @@
       "town_mi": 3.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Highland General Store & Campground",
@@ -379,7 +379,7 @@
       "town_mi": 7.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pilot Knob State Park Campground",
@@ -388,7 +388,7 @@
       "town_mi": 3.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Miners Creek Campground and RV Park",
@@ -397,7 +397,7 @@
       "town_mi": 0.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Latitudes RV Resort",

@@ -1,6 +1,6 @@
 {
   "state": "VT",
-  "generated_at": "2026-11-09",
+  "generated_at": "2026-11-20",
   "sample": false,
   "spots": [
     {
@@ -10,7 +10,7 @@
       "town_mi": 1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Greendale Campground",
@@ -28,7 +28,7 @@
       "town_mi": 5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Grout Pond Recreation Area",
@@ -37,7 +37,7 @@
       "town_mi": 5.5,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Smugglers Notch RV Village",
@@ -46,7 +46,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Campbell’s Bay Campground",
@@ -55,7 +55,7 @@
       "town_mi": 3.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Maidstone State Park Camping Area \"B\"",
@@ -64,7 +64,7 @@
       "town_mi": 7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Half Moon Pond State Park",
@@ -73,7 +73,7 @@
       "town_mi": 4.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lake Dunmore Kampersville",
@@ -82,7 +82,7 @@
       "town_mi": 3.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Stoughton Pond Rec Area",
@@ -109,7 +109,7 @@
       "town_mi": 6.1,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lakehurst Campground and Marina",
@@ -118,7 +118,7 @@
       "town_mi": 5.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "HAPGOOD POND",
@@ -127,7 +127,7 @@
       "town_mi": 4.5,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lakewood Campground",
@@ -145,7 +145,7 @@
       "town_mi": 2.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Group Camping Area",
@@ -163,7 +163,7 @@
       "town_mi": 2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Little Emma's Sweet Retreat",
@@ -172,7 +172,7 @@
       "town_mi": 5.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Goose Point Campground",
@@ -181,7 +181,7 @@
       "town_mi": 4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Alburgh Travel Trailer Park",
@@ -190,7 +190,7 @@
       "town_mi": 3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "MOOSALAMOO CAMPGROUND",
@@ -199,7 +199,7 @@
       "town_mi": 5.4,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Maple Hill Campsites",
@@ -217,7 +217,7 @@
       "town_mi": 2.3,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Brewster River Campground",
@@ -235,7 +235,7 @@
       "town_mi": 1.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Quechee / Pine Valley Kampgrounds of America",
@@ -244,7 +244,7 @@
       "town_mi": 2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Camp Farnsworth",
@@ -253,7 +253,7 @@
       "town_mi": 5.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Rest N' Nest Campground",
@@ -262,7 +262,7 @@
       "town_mi": 5.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Breezy Meadows Campground",
@@ -271,7 +271,7 @@
       "town_mi": 1.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Alpine Valley RV Park & Campground",
@@ -280,7 +280,7 @@
       "town_mi": 0.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Base Camp RV Park and Campground",
@@ -289,7 +289,7 @@
       "town_mi": 3.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Barrewood Campground",
@@ -298,7 +298,7 @@
       "town_mi": 3.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Abel Mountain Campground",
@@ -307,7 +307,7 @@
       "town_mi": 1.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Allis State Park Campground",
@@ -316,7 +316,7 @@
       "town_mi": 6.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Limehurst Lake Campground",
@@ -325,7 +325,7 @@
       "town_mi": 1.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Shelburne Camping Area",
@@ -334,7 +334,7 @@
       "town_mi": 0.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sunset Rock RV Park",
@@ -343,7 +343,7 @@
       "town_mi": 5.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Summer Place Lakeside Campground",
@@ -352,7 +352,7 @@
       "town_mi": 5.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Champlain Valley Campground",
@@ -361,7 +361,7 @@
       "town_mi": 4.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Camp Skyland, LLC",
@@ -370,7 +370,7 @@
       "town_mi": 3.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "10 Acre Campground",
@@ -379,7 +379,7 @@
       "town_mi": 2.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     }
   ],
   "activities": [

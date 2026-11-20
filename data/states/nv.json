@@ -1,6 +1,6 @@
 {
   "state": "NV",
-  "generated_at": "2026-11-09",
+  "generated_at": "2026-11-20",
   "sample": false,
   "spots": [
     {
@@ -10,7 +10,7 @@
       "town_mi": 7.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Red Rock Canyon Campground",
@@ -19,14 +19,14 @@
       "town_mi": 2.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Slide Creek Campground",
       "type": "paid_camp",
       "town": "Wells, NV",
       "town_mi": 28.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -37,7 +37,7 @@
       "town_mi": 4.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "McWilliams Campground",
@@ -46,7 +46,7 @@
       "town_mi": 5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Fletcher View Campground",
@@ -55,7 +55,7 @@
       "town_mi": 0.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Timber Creek Campground",
@@ -64,14 +64,14 @@
       "town_mi": 8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Mahogany Grove Campground",
       "type": "paid_camp",
       "town": "Mount Charleston, NV",
       "town_mi": 3.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -82,7 +82,7 @@
       "town_mi": 3.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Nevada Beach Campground",
@@ -91,7 +91,7 @@
       "town_mi": 1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Divine Springs Campground",
@@ -100,7 +100,7 @@
       "town_mi": 13.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Whispering Elms Campground",
@@ -109,7 +109,7 @@
       "town_mi": 0.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Beaver Dam Campground B",
@@ -118,7 +118,7 @@
       "town_mi": 18.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Valley of Fire Overflow Camping",
@@ -127,7 +127,7 @@
       "town_mi": 8.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Cherry Creek Campground (NV)",
@@ -136,7 +136,7 @@
       "town_mi": 36.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Desert Creek Campground",
@@ -145,7 +145,7 @@
       "town_mi": 8.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Jack Creek Campground",
@@ -154,7 +154,7 @@
       "town_mi": 14.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Kingston Campground (NV)",
@@ -163,7 +163,7 @@
       "town_mi": 4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lower Bluster Campground",
@@ -172,7 +172,7 @@
       "town_mi": 2.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lye Creek Campground",
@@ -181,7 +181,7 @@
       "town_mi": 13.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pavlak Campground",
@@ -190,7 +190,7 @@
       "town_mi": 2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Peavine Creek Campground",
@@ -199,7 +199,7 @@
       "town_mi": 37.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pine Creek Campground (Toiyabe)",
@@ -208,7 +208,7 @@
       "town_mi": 30.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pine Creek Campground (Jarbidge)",
@@ -217,7 +217,7 @@
       "town_mi": 2.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "San Juan Campground",
@@ -226,7 +226,7 @@
       "town_mi": 12.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sawmill Campground (NV)",
@@ -235,7 +235,7 @@
       "town_mi": 0.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Toquima Cave Campground",
@@ -244,7 +244,7 @@
       "town_mi": 14.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Columbine Campground (NV)",
@@ -253,7 +253,7 @@
       "town_mi": 27.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Topaz Lodge RV Park",
@@ -262,7 +262,7 @@
       "town_mi": 0.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Marlette Peak Campground",
@@ -271,7 +271,7 @@
       "town_mi": 6,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Fernley RV Park",
@@ -280,7 +280,7 @@
       "town_mi": 2.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Mountain Shadows RV Park",
@@ -298,7 +298,7 @@
       "town_mi": 27.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Terraces Campground & Picnic Area",
@@ -307,7 +307,7 @@
       "town_mi": 8.6,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Middlegate Station RV Park",
@@ -325,7 +325,7 @@
       "town_mi": 17,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Illipah Reservoir Campground",
@@ -334,7 +334,7 @@
       "town_mi": 21.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hidden Campsite (NV)",
@@ -343,7 +343,7 @@
       "town_mi": 16.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Major's Station RV Park",
@@ -352,7 +352,7 @@
       "town_mi": 22.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Snake Creek Campsite",
@@ -361,7 +361,7 @@
       "town_mi": 7.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "North Creek Campsite",
@@ -370,7 +370,7 @@
       "town_mi": 10.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Overton Wildlife Management Area Campground",
@@ -379,7 +379,7 @@
       "town_mi": 6.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Cabin Pines Campground",
@@ -388,7 +388,7 @@
       "town_mi": 10.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Slide Creek Campground (Jarbidge)",
@@ -397,7 +397,7 @@
       "town_mi": 8.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "West Shore Campground (NV)",
@@ -406,7 +406,7 @@
       "town_mi": 1.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Silver Crown Mobile Home Park",
@@ -424,7 +424,7 @@
       "town_mi": 1.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Agua Caliente",
@@ -433,7 +433,7 @@
       "town_mi": 1.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Double Dice",
@@ -442,7 +442,7 @@
       "town_mi": 2.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sacramento Pass Recreation Area",
@@ -451,7 +451,7 @@
       "town_mi": 12.2,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Flowers Camp",
@@ -460,7 +460,7 @@
       "town_mi": 31.4,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hawkeye R.V. Park",
@@ -469,7 +469,7 @@
       "town_mi": 4.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Clear Creek Mobile Home Park & RV",
@@ -478,7 +478,7 @@
       "town_mi": 2.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Concours Parts & Accessories",
@@ -487,7 +487,7 @@
       "town_mi": 3.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Space Station RV Park",
@@ -496,7 +496,7 @@
       "town_mi": 6.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "RV Country - Laughlin",
@@ -505,7 +505,7 @@
       "town_mi": 2.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Arch Rock Campground",
@@ -514,7 +514,7 @@
       "town_mi": 14.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Atlatl Rock Campground",
@@ -523,7 +523,7 @@
       "town_mi": 14.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "KOA Kampground",
@@ -532,7 +532,7 @@
       "town_mi": 4.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lakeside RV Park",
@@ -540,6 +540,15 @@
       "town": "Pahrump, NV",
       "town_mi": 6.6,
       "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Echo Bay Campground",
+      "type": "unknown",
+      "town": "Moapa Valley, NV",
+      "town_mi": 20.5,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -550,7 +559,7 @@
       "town_mi": 3.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Picketts RV Park",
@@ -559,7 +568,7 @@
       "town_mi": 0.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Wendover KOA",
@@ -568,7 +577,7 @@
       "town_mi": 0.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Las Vegas KOA at Sam's Town",
@@ -577,7 +586,7 @@
       "town_mi": 1.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Maycliff Mini Storage and RV Park",
@@ -586,7 +595,7 @@
       "town_mi": 2.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Angel Creek Campground",
@@ -595,7 +604,7 @@
       "town_mi": 7.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "South Ruby Campground",
@@ -604,7 +613,7 @@
       "town_mi": 36.2,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Thomas Canyon Campground",
@@ -613,7 +622,7 @@
       "town_mi": 6.4,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Bob Scott Campground",
@@ -622,7 +631,7 @@
       "town_mi": 5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Mount Rose Campground",
@@ -631,7 +640,7 @@
       "town_mi": 4.3,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sunresort RV",
@@ -640,7 +649,7 @@
       "town_mi": 2.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Virginia City RV Park",
@@ -649,7 +658,7 @@
       "town_mi": 0.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Main Street Station RV Park",
@@ -658,7 +667,7 @@
       "town_mi": 2.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Berlin Ichthyosaur Campground",
@@ -667,7 +676,7 @@
       "town_mi": 18.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Good Sam RV Park",
@@ -676,7 +685,7 @@
       "town_mi": 1.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Shamrock RV Park",
@@ -684,6 +693,33 @@
       "town": "Reno, NV",
       "town_mi": 2,
       "badge": "listed_business",
+      "policy": null,
+      "osm": true
+    },
+    {
+      "name": "Cottonwood Cove Campground",
+      "type": "unknown",
+      "town": "Searchlight, NV",
+      "town_mi": 12.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Dump Station",
+      "type": "unknown",
+      "town": "Baker, NV",
+      "town_mi": 5.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Snake Creek Primitive Campgrounds",
+      "type": "unknown",
+      "town": "Baker, NV",
+      "town_mi": 9.5,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -703,7 +739,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "RV Park at Grand Sierra Resort",
@@ -712,7 +748,7 @@
       "town_mi": 4.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Boulder Beach Residence RV Park",
@@ -721,7 +757,7 @@
       "town_mi": 12,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Desert Sands RV Park",
@@ -730,7 +766,7 @@
       "town_mi": 2.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Gold Ranch RV Resort",
@@ -739,7 +775,7 @@
       "town_mi": 1.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sparks Marina RV Park",
@@ -748,7 +784,7 @@
       "town_mi": 2.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "The RV Park at Circus Circus",
@@ -757,7 +793,7 @@
       "town_mi": 1.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Nevada Treasure RV Resort",
@@ -766,7 +802,7 @@
       "town_mi": 6.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Preferred RV Resort",
@@ -775,7 +811,7 @@
       "town_mi": 1.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Whiskey Flats RV Park",
@@ -784,7 +820,7 @@
       "town_mi": 1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Bermuda Palms RV Park",
@@ -793,7 +829,7 @@
       "town_mi": 5.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Esmerelda RV Park & Cabins",
@@ -802,7 +838,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Silver State RV Park",
@@ -811,7 +847,7 @@
       "town_mi": 1.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Winnemucca RV Park",
@@ -820,7 +856,7 @@
       "town_mi": 1.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Angel Lake RV Park",
@@ -829,7 +865,7 @@
       "town_mi": 1.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Silver City RV Resort",
@@ -838,7 +874,7 @@
       "town_mi": 1.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pahrump RV Park and Lodging",
@@ -847,7 +883,7 @@
       "town_mi": 2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Cleve Creek Campground",
@@ -856,7 +892,7 @@
       "town_mi": 18,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Wine Ridge RV Resort & Cottages",
@@ -865,7 +901,7 @@
       "town_mi": 3.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Star Point",
@@ -874,7 +910,7 @@
       "town_mi": 4.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hitchin' Post RV Park and Motel",
@@ -883,7 +919,7 @@
       "town_mi": 2.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Goldfield Miners Camp",
@@ -892,7 +928,7 @@
       "town_mi": 0.2,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Elk Flat Campground",
@@ -901,7 +937,7 @@
       "town_mi": 9.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "New Frontier RV Park",
@@ -910,7 +946,7 @@
       "town_mi": 1.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Beatty RV Park",
@@ -919,7 +955,7 @@
       "town_mi": 3.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Saguaro RV Park",
@@ -937,7 +973,7 @@
       "town_mi": 2.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Gold Country RV Park",
@@ -946,7 +982,7 @@
       "town_mi": 1.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Kyle Canyon Campground",
@@ -955,7 +991,7 @@
       "town_mi": 0.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Border Inn RV Park",
@@ -964,7 +1000,7 @@
       "town_mi": 4.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Mesquite RV and Trailer Park",
@@ -973,7 +1009,7 @@
       "town_mi": 3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Boulder Oaks RV Resort",
@@ -982,7 +1018,7 @@
       "town_mi": 10,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Solstice Motorcoach RV Resort",
@@ -991,7 +1027,7 @@
       "town_mi": 0.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Angel Lake Campground",
@@ -1000,7 +1036,7 @@
       "town_mi": 9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "RV Ranch Resort",
@@ -1009,7 +1045,7 @@
       "town_mi": 6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Valley View RV Park",
@@ -1018,7 +1054,7 @@
       "town_mi": 4.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Dayton RV Park",
@@ -1027,7 +1063,7 @@
       "town_mi": 2.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Thousand Trails Las Vegas",
@@ -1036,7 +1072,7 @@
       "town_mi": 3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Carson Valley Inn RV Resort",
@@ -1045,7 +1081,7 @@
       "town_mi": 0.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Canyon Trail RV Park",
@@ -1054,7 +1090,7 @@
       "town_mi": 9.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pioche RV Park and Campground",
@@ -1063,7 +1099,7 @@
       "town_mi": 1.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Model T RV Park",
@@ -1072,7 +1108,7 @@
       "town_mi": 1.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Riverside RV Park",
@@ -1081,7 +1117,7 @@
       "town_mi": 2.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "China Town",
@@ -1090,7 +1126,7 @@
       "town_mi": 1.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "American Quality Suites & Tonopah RV",
@@ -1099,7 +1135,7 @@
       "town_mi": 1.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Horsethief Gulch Campground",
@@ -1108,7 +1144,7 @@
       "town_mi": 3.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Las Vegas KOA Journey North Section",
@@ -1117,7 +1153,7 @@
       "town_mi": 1.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Echo Bay RV Village",
@@ -1126,7 +1162,7 @@
       "town_mi": 20.3,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Mesquite Trails RV Resort",
@@ -1135,7 +1171,7 @@
       "town_mi": 1.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Las Vegas RV Resort",
@@ -1144,7 +1180,7 @@
       "town_mi": 1.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Arizona Charlie's Boulder RV Park",
@@ -1153,7 +1189,7 @@
       "town_mi": 2.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "East Creek Campground",
@@ -1162,7 +1198,7 @@
       "town_mi": 9.5,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lake View Campground",
@@ -1171,7 +1207,7 @@
       "town_mi": 10.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Clark RV Park",
@@ -1180,7 +1216,7 @@
       "town_mi": 0.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Zephry Cove RV Park and Campground",
@@ -1189,7 +1225,7 @@
       "town_mi": 1.2,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Carson RV Resort",
@@ -1198,7 +1234,7 @@
       "town_mi": 2.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Bordertown RV Resort",
@@ -1207,7 +1243,7 @@
       "town_mi": 2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Panther Valley RV Park",
@@ -1216,7 +1252,7 @@
       "town_mi": 2.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Green Acres RV Park",
@@ -1225,7 +1261,7 @@
       "town_mi": 4.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Victorian RV Park",
@@ -1234,7 +1270,7 @@
       "town_mi": 2.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Broadway Colt RV Park",
@@ -1243,7 +1279,7 @@
       "town_mi": 1.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Coyote Summit Caravan",
@@ -1252,7 +1288,7 @@
       "town_mi": 7.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Fallon RV Park",
@@ -1270,7 +1306,7 @@
       "town_mi": 6.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "CasaBlanca Resort & Casino RV Park",
@@ -1279,7 +1315,7 @@
       "town_mi": 1.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Silver Sky Lodge Enterprise",
@@ -1288,7 +1324,7 @@
       "town_mi": 1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Slide Creek Campground",

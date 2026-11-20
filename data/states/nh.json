@@ -1,6 +1,6 @@
 {
   "state": "NH",
-  "generated_at": "2026-11-09",
+  "generated_at": "2026-11-20",
   "sample": false,
   "spots": [
     {
@@ -10,7 +10,7 @@
       "town_mi": 6.3,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Rogers Ledge Campsite",
@@ -19,7 +19,7 @@
       "town_mi": 6,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Thirteen Falls",
@@ -28,7 +28,7 @@
       "town_mi": 8.2,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Naumann Tentsite",
@@ -37,7 +37,7 @@
       "town_mi": 10.9,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Osgood Tentsite",
@@ -46,7 +46,7 @@
       "town_mi": 6.5,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Liberty Spring Tentsite",
@@ -55,7 +55,7 @@
       "town_mi": 4.1,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Valley Way Campsite",
@@ -64,7 +64,7 @@
       "town_mi": 6,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Saddleback Campground",
@@ -73,7 +73,7 @@
       "town_mi": 10.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "BASIN CAMPGROUND",
@@ -82,7 +82,7 @@
       "town_mi": 12.3,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Cold Springs Camp Resort",
@@ -91,7 +91,7 @@
       "town_mi": 4.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Kinsman Pond Tentsite",
@@ -100,7 +100,7 @@
       "town_mi": 6.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Blue Brook Tentsite",
@@ -109,7 +109,7 @@
       "town_mi": 10.5,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Camp Wilmot",
@@ -118,7 +118,7 @@
       "town_mi": 5.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Franconia Brook Tentsite",
@@ -127,7 +127,7 @@
       "town_mi": 5.7,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Blackberry Crossing Campground",
@@ -136,7 +136,7 @@
       "town_mi": 5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "COLD RIVER",
@@ -145,7 +145,7 @@
       "town_mi": 12.8,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Perkins Notch Tentsite",
@@ -154,7 +154,7 @@
       "town_mi": 10.8,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "CAMPTON CAMPGROUND",
@@ -163,7 +163,7 @@
       "town_mi": 10,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sea Coast Camping And RV Resort",
@@ -172,7 +172,7 @@
       "town_mi": 2.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pastures Campground",
@@ -181,7 +181,7 @@
       "town_mi": 0.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Camp Rich Tentsite",
@@ -190,7 +190,7 @@
       "town_mi": 9.9,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hidden Valley R.V. Park",
@@ -199,7 +199,7 @@
       "town_mi": 3.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Roger's Campground",
@@ -208,7 +208,7 @@
       "town_mi": 2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Wildwood Campground",
@@ -217,7 +217,7 @@
       "town_mi": 5.5,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "WATERVILLE CAMPGROUND",
@@ -226,7 +226,7 @@
       "town_mi": 9.6,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Barrington Shores Campground",
@@ -235,7 +235,7 @@
       "town_mi": 6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hampton Beach State RV Park",
@@ -244,7 +244,7 @@
       "town_mi": 1.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Wild River Campground",
@@ -253,7 +253,7 @@
       "town_mi": 9,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Rumney Rattlesnake Campground",
@@ -262,7 +262,7 @@
       "town_mi": 7.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lazy River Family Campground",
@@ -271,7 +271,7 @@
       "town_mi": 3.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "BARNES FIELD CAMPGROUND",
@@ -280,7 +280,7 @@
       "town_mi": 3.9,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Jefferson Campground",
@@ -289,7 +289,7 @@
       "town_mi": 9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Field & Stream RV Park",
@@ -298,7 +298,7 @@
       "town_mi": 4.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Friendly Beaver Campground",
@@ -307,7 +307,7 @@
       "town_mi": 1.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Circle 9 Ranch",
@@ -316,7 +316,7 @@
       "town_mi": 5.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Maple Grove Park",
@@ -325,7 +325,7 @@
       "town_mi": 3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "River Meadow Campground",
@@ -334,7 +334,7 @@
       "town_mi": 0.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Littleton / Franconia Notch KOA Holiday",
@@ -343,7 +343,7 @@
       "town_mi": 3.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "SUGARLOAF 2 CAMPGROUND",
@@ -352,7 +352,7 @@
       "town_mi": 9.2,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Twin Mountain Campground",
@@ -361,7 +361,7 @@
       "town_mi": 7.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Twin Mountain Motor Court & RV Park",
@@ -370,7 +370,7 @@
       "town_mi": 6.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Twin Mountain / Mt. Washington KOA Holiday",
@@ -379,7 +379,7 @@
       "town_mi": 6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Beech Hill Campground and Cabins",
@@ -388,7 +388,7 @@
       "town_mi": 5.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "DOLLY COPP",
@@ -397,7 +397,7 @@
       "town_mi": 4.3,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Along the River Campground & Cabins",
@@ -406,7 +406,7 @@
       "town_mi": 6.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hancock Campground",
@@ -415,7 +415,7 @@
       "town_mi": 3.7,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Big Rock",
@@ -424,7 +424,7 @@
       "town_mi": 5.5,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Jigger Johnson Campground",
@@ -433,7 +433,7 @@
       "town_mi": 5.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "COVERED BRIDGE",
@@ -442,7 +442,7 @@
       "town_mi": 5.5,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Dry River Campground",
@@ -451,7 +451,7 @@
       "town_mi": 6.9,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "OSCEOLA VISTA CAMPGROUND",
@@ -460,7 +460,7 @@
       "town_mi": 9.7,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "RUSSELL POND CAMPGROUND",
@@ -469,7 +469,7 @@
       "town_mi": 3.1,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lincoln / Woodstock KOA Holiday",
@@ -478,7 +478,7 @@
       "town_mi": 5.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Winding Rivers Campground",
@@ -487,7 +487,7 @@
       "town_mi": 1.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Cannon Mountain RV Park",
@@ -496,7 +496,7 @@
       "town_mi": 7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Tuxbury Pond RV Campground",
@@ -505,7 +505,7 @@
       "town_mi": 2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Champion Meadow Campground",
@@ -514,7 +514,7 @@
       "town_mi": 0.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Burns Lake Campground",
@@ -523,7 +523,7 @@
       "town_mi": 2.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pine Acres RV Campground",
@@ -532,7 +532,7 @@
       "town_mi": 1.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Cedar Waters Village",
@@ -541,7 +541,7 @@
       "town_mi": 6.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Saint Methodios Faith and Heritage Center",
@@ -550,7 +550,7 @@
       "town_mi": 3.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Mount Sunapee State Park Camping Area",
@@ -559,7 +559,7 @@
       "town_mi": 3.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Whispering Pines Campground",
@@ -568,7 +568,7 @@
       "town_mi": 5.6,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "WHITE LEDGE CAMPGROUND",

@@ -1,6 +1,6 @@
 {
   "state": "NE",
-  "generated_at": "2026-11-09",
+  "generated_at": "2026-11-20",
   "sample": false,
   "spots": [
     {
@@ -10,7 +10,7 @@
       "town_mi": 1.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Potter's Pasture New Campground",
@@ -19,7 +19,7 @@
       "town_mi": 10.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Potter's Pasture Old Campground",
@@ -28,7 +28,7 @@
       "town_mi": 10.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Southshore Campground Area 1",
@@ -37,7 +37,7 @@
       "town_mi": 3.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Holiday RV Park (NE)",
@@ -46,7 +46,7 @@
       "town_mi": 1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Gothenburg KOA Campground",
@@ -55,7 +55,7 @@
       "town_mi": 1.2,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Victorian Acres Campground",
@@ -73,7 +73,7 @@
       "town_mi": 3.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lake 18 Tent Camping",
@@ -91,7 +91,7 @@
       "town_mi": 16.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Kiwanis Point Campground",
@@ -100,7 +100,7 @@
       "town_mi": 11.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Willow View Campground",
@@ -109,7 +109,7 @@
       "town_mi": 11.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Buffalo Roam Campground",
@@ -118,7 +118,7 @@
       "town_mi": 11.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "K-1 Cabin Area",
@@ -127,7 +127,7 @@
       "town_mi": 3.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Saunders County Fairgrounds Campground",
@@ -136,7 +136,7 @@
       "town_mi": 1.1,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Roberts Tract Campground",
@@ -145,7 +145,7 @@
       "town_mi": 9,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Soldier Creek Campground",
@@ -154,7 +154,7 @@
       "town_mi": 7.8,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lake View Campground West",
@@ -163,7 +163,7 @@
       "town_mi": 8.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lake View Campground East",
@@ -172,7 +172,7 @@
       "town_mi": 8.5,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Patterson Harbor Marina Campground",
@@ -181,7 +181,7 @@
       "town_mi": 3.8,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Ewing RV Camping",
@@ -190,7 +190,7 @@
       "town_mi": 0.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "North Shore Campground (NE)",
@@ -199,7 +199,7 @@
       "town_mi": 1,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hunter Cove Campground",
@@ -208,7 +208,7 @@
       "town_mi": 1.1,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Gremil Cove Campground",
@@ -217,7 +217,7 @@
       "town_mi": 1,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Methodist Cove Campground",
@@ -226,7 +226,7 @@
       "town_mi": 2.5,
       "badge": "agency",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Youth Group Campsite A",
@@ -244,7 +244,7 @@
       "town_mi": 1.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Pawnee State Recreation Area, Area 3",
@@ -253,7 +253,7 @@
       "town_mi": 3.8,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Little Creek Campground",
@@ -262,7 +262,7 @@
       "town_mi": 2.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     }
   ],
   "activities": [

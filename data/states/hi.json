@@ -1,6 +1,6 @@
 {
   "state": "HI",
-  "generated_at": "2026-11-09",
+  "generated_at": "2026-11-20",
   "sample": false,
   "spots": [
     {
@@ -10,7 +10,7 @@
       "town_mi": 5.1,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hanakoa Camping",
@@ -19,7 +19,7 @@
       "town_mi": 4.3,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Kalalau Camping",
@@ -28,7 +28,7 @@
       "town_mi": 6.9,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Sugi Grove",
@@ -37,7 +37,7 @@
       "town_mi": 6.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "End trail",
@@ -46,7 +46,7 @@
       "town_mi": 8.4,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hipalau",
@@ -55,7 +55,7 @@
       "town_mi": 8.1,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Waialae",
@@ -64,7 +64,7 @@
       "town_mi": 8,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Lonomea",
@@ -73,7 +73,7 @@
       "town_mi": 8.6,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Camp Hale Koa",
@@ -82,7 +82,7 @@
       "town_mi": 9.3,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Camp Alan Faye",
@@ -91,7 +91,7 @@
       "town_mi": 9.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Kawaikoi",
@@ -100,7 +100,7 @@
       "town_mi": 6.4,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Ka'aha",
@@ -109,7 +109,7 @@
       "town_mi": 12.3,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "’Apua Point",
@@ -118,7 +118,7 @@
       "town_mi": 11.8,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Halapē Campsite",
@@ -127,7 +127,7 @@
       "town_mi": 11.1,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Waiʻānapanapa State Park",
@@ -154,7 +154,7 @@
       "town_mi": 11.1,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Papalaua Wayside Park",
@@ -163,7 +163,7 @@
       "town_mi": 3.9,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Palikū Campground",
@@ -172,7 +172,7 @@
       "town_mi": 9.1,
       "badge": "access_checked",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Hōlua Campground",
@@ -181,7 +181,7 @@
       "town_mi": 7.7,
       "badge": "listed_business",
       "policy": null,
-      "osm": false
+      "osm": true
     },
     {
       "name": "Haleakalā National Park (Cabin Permits)",

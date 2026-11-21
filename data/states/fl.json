@@ -373,6 +373,15 @@
       "osm": true
     },
     {
+      "name": "Pinecrest",
+      "type": "unknown",
+      "town": "Chokoloskee, FL",
+      "town_mi": 27.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Saint John's Campground",
       "type": "rv_park",
       "town": "East Palatka, FL",
@@ -2564,6 +2573,105 @@
       "type": "paid_camp",
       "town": "Watertown, FL",
       "town_mi": 10.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Canaveral National Seashore Backcountry Island Camping",
+      "type": "unknown",
+      "town": "Oak Hill, FL",
+      "town_mi": 3.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Fort Pickens Campground",
+      "type": "unknown",
+      "town": "Pensacola Station, FL",
+      "town_mi": 3.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "West Tower Primitive Camp",
+      "type": "paid_camp",
+      "town": "Five Points, FL",
+      "town_mi": 8.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Fore Lake Campground",
+      "type": "paid_camp",
+      "town": "Silver Springs, FL",
+      "town_mi": 9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Turkey Run Trailhead",
+      "type": "free_camp",
+      "town": "Watertown, FL",
+      "town_mi": 9.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "East Tower Primitive Camp",
+      "type": "free_camp",
+      "town": "Glen St. Mary, FL",
+      "town_mi": 12.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cobb Primitive Camp",
+      "type": "paid_camp",
+      "town": "Watertown, FL",
+      "town_mi": 12.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lake Delancy East Campground",
+      "type": "paid_camp",
+      "town": "Lake Kerr, FL",
+      "town_mi": 5.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Farles Prairie Campground",
+      "type": "paid_camp",
+      "town": "Pittman, FL",
+      "town_mi": 7.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Seventeen Mile Primitive Camp",
+      "type": "free_camp",
+      "town": "Glen St. Mary, FL",
+      "town_mi": 13.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lake Delancy West OHV Campground",
+      "type": "paid_camp",
+      "town": "Lake Kerr, FL",
+      "town_mi": 5.4,
       "badge": "agency",
       "policy": null,
       "osm": false

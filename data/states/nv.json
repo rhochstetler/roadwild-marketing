@@ -1,6 +1,6 @@
 {
   "state": "NV",
-  "generated_at": "2026-11-20",
+  "generated_at": "2026-11-23",
   "sample": false,
   "spots": [
     {
@@ -20,15 +20,6 @@
       "badge": "listed_business",
       "policy": null,
       "osm": true
-    },
-    {
-      "name": "Slide Creek Campground",
-      "type": "paid_camp",
-      "town": "Wells, NV",
-      "town_mi": 28.9,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
     },
     {
       "name": "Ward Mountain Campground (Murray Summit)",

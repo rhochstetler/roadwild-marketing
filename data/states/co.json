@@ -1,6 +1,6 @@
 {
   "state": "CO",
-  "generated_at": "2026-11-20",
+  "generated_at": "2026-11-23",
   "sample": false,
   "spots": [
     {
@@ -8,7 +8,7 @@
       "type": "paid_camp",
       "town": "Yampa, CO",
       "town_mi": 12.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -35,7 +35,7 @@
       "type": "paid_camp",
       "town": "Cedaredge, CO",
       "town_mi": 14.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -44,7 +44,7 @@
       "type": "paid_camp",
       "town": "Piedra, CO",
       "town_mi": 20.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -53,7 +53,7 @@
       "type": "paid_camp",
       "town": "Nucla, CO",
       "town_mi": 27.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -62,7 +62,7 @@
       "type": "paid_camp",
       "town": "Carbonate, CO",
       "town_mi": 11.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -134,7 +134,7 @@
       "type": "paid_camp",
       "town": "Red Feather Lakes, CO",
       "town_mi": 6.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -170,7 +170,7 @@
       "type": "paid_camp",
       "town": "Red Feather Lakes, CO",
       "town_mi": 17.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -251,7 +251,7 @@
       "type": "paid_camp",
       "town": "Twin Lakes, CO",
       "town_mi": 7.1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -269,7 +269,7 @@
       "type": "paid_camp",
       "town": "Norwood, CO",
       "town_mi": 16.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -332,7 +332,16 @@
       "type": "paid_camp",
       "town": "Gerrard, CO",
       "town_mi": 22.6,
-      "badge": "listed_business",
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Coaldale Campground",
+      "type": "boondocking",
+      "town": "Coaldale, CO",
+      "town_mi": 1.5,
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -341,7 +350,7 @@
       "type": "paid_camp",
       "town": "Walden, CO",
       "town_mi": 19.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -359,7 +368,7 @@
       "type": "paid_camp",
       "town": "Capulin, CO",
       "town_mi": 19.9,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -404,7 +413,7 @@
       "type": "paid_camp",
       "town": "Beulah Valley, CO",
       "town_mi": 7.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -440,7 +449,7 @@
       "type": "paid_camp",
       "town": "Carbondale, CO",
       "town_mi": 6.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -449,7 +458,7 @@
       "type": "paid_camp",
       "town": "Winter Park, CO",
       "town_mi": 1.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -458,7 +467,7 @@
       "type": "paid_camp",
       "town": "Wolcott, CO",
       "town_mi": 1,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -503,7 +512,7 @@
       "type": "paid_camp",
       "town": "Gerrard, CO",
       "town_mi": 14.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -539,7 +548,7 @@
       "type": "paid_camp",
       "town": "La Sal, UT",
       "town_mi": 15.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -566,7 +575,7 @@
       "type": "paid_camp",
       "town": "Steamboat Springs, CO",
       "town_mi": 26.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -602,16 +611,7 @@
       "type": "paid_camp",
       "town": "Woodland Park, CO",
       "town_mi": 5.9,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Meadow Lake Campground",
-      "type": "paid_camp",
-      "town": "Carbonate, CO",
-      "town_mi": 11.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -647,7 +647,7 @@
       "type": "paid_camp",
       "town": "Leadville North, CO",
       "town_mi": 2.6,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -665,6 +665,15 @@
       "type": "paid_camp",
       "town": "Estes Park, CO",
       "town_mi": 3.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Roberts Cabin",
+      "type": "boondocking",
+      "town": "Alma, CO",
+      "town_mi": 8.2,
       "badge": "agency",
       "policy": null,
       "osm": false
@@ -701,7 +710,7 @@
       "type": "paid_camp",
       "town": "Stonewall Gap, CO",
       "town_mi": 12,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -755,7 +764,7 @@
       "type": "paid_camp",
       "town": "Yampa, CO",
       "town_mi": 14,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -800,7 +809,7 @@
       "type": "paid_camp",
       "town": "Beulah Valley, CO",
       "town_mi": 7.3,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -868,6 +877,15 @@
       "osm": true
     },
     {
+      "name": "Grandview Campground",
+      "type": "boondocking",
+      "town": "Estes Park, CO",
+      "town_mi": 16.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Kelsey Campground",
       "type": "paid_camp",
       "town": "Westcreek, CO",
@@ -875,6 +893,15 @@
       "badge": "listed_business",
       "policy": null,
       "osm": true
+    },
+    {
+      "name": "Lakeview Campground (Taylor Park)",
+      "type": "boondocking",
+      "town": "Pitkin, CO",
+      "town_mi": 14.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
     },
     {
       "name": "Twin Peaks Campground",
@@ -904,6 +931,15 @@
       "osm": true
     },
     {
+      "name": "Big Creek Lakes Campground",
+      "type": "boondocking",
+      "town": "Encampment, WY",
+      "town_mi": 21.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
       "name": "Jouflas Campground",
       "type": "paid_camp",
       "town": "Loma, CO",
@@ -917,7 +953,7 @@
       "type": "paid_camp",
       "town": "Cedaredge, CO",
       "town_mi": 13.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -980,7 +1016,7 @@
       "type": "paid_camp",
       "town": "Piedra, CO",
       "town_mi": 7.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -998,7 +1034,7 @@
       "type": "paid_camp",
       "town": "Stonewall Gap, CO",
       "town_mi": 12.8,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1007,7 +1043,7 @@
       "type": "paid_camp",
       "town": "Gypsum, CO",
       "town_mi": 2.7,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1043,7 +1079,7 @@
       "type": "paid_camp",
       "town": "Gerrard, CO",
       "town_mi": 14.2,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1079,7 +1115,7 @@
       "type": "paid_camp",
       "town": "Estes Park, CO",
       "town_mi": 16,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1300,15 +1336,6 @@
       "osm": false
     },
     {
-      "name": "Buckeye Campground (CO)",
-      "type": "paid_camp",
-      "town": "La Sal, UT",
-      "town_mi": 15.3,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "Fireside RV Park",
       "type": "rv_park",
       "town": "Loveland, CO",
@@ -1520,7 +1547,7 @@
       "type": "paid_camp",
       "town": "Del Norte, CO",
       "town_mi": 16.4,
-      "badge": "listed_business",
+      "badge": "agency",
       "policy": null,
       "osm": false
     },
@@ -1534,28 +1561,10 @@
       "osm": true
     },
     {
-      "name": "Lynx Pass Campground",
-      "type": "paid_camp",
-      "town": "Yampa, CO",
-      "town_mi": 12.4,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "Aspen Campground",
       "type": "paid_camp",
       "town": "Walden, CO",
       "town_mi": 19.7,
-      "badge": "agency",
-      "policy": null,
-      "osm": false
-    },
-    {
-      "name": "Cold Springs Campground",
-      "type": "paid_camp",
-      "town": "Yampa, CO",
-      "town_mi": 14,
       "badge": "agency",
       "policy": null,
       "osm": false
@@ -2504,6 +2513,15 @@
       "badge": "listed_business",
       "policy": null,
       "osm": true
+    },
+    {
+      "name": "Denver Creek camping",
+      "type": "unknown",
+      "town": "Hot Sulphur Springs, CO",
+      "town_mi": 12.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
     },
     {
       "name": "Canyon View RV Resort",
@@ -4081,15 +4099,6 @@
       "osm": true
     },
     {
-      "name": "Sugar Loafin'",
-      "type": "paid_camp",
-      "town": "Leadville North, CO",
-      "town_mi": 3.7,
-      "badge": "listed_business",
-      "policy": null,
-      "osm": false
-    },
-    {
       "name": "Table Mountain RV Park",
       "type": "rv_park",
       "town": "Rye, CO",
@@ -5561,6 +5570,951 @@
       "type": "unknown",
       "town": "Gunnison, CO",
       "town_mi": 22.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Sage Campground",
+      "type": "free_camp",
+      "town": "Walden, CO",
+      "town_mi": 10.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Trout Creek Campground",
+      "type": "free_camp",
+      "town": "Phippsburg, CO",
+      "town_mi": 7.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Granite Campground",
+      "type": "paid_camp",
+      "town": "Steamboat Springs, CO",
+      "town_mi": 7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Corkscrew Camping Area",
+      "type": "free_camp",
+      "town": "Ouray, CO",
+      "town_mi": 6.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Crooked Creek Dispersed Area",
+      "type": "free_camp",
+      "town": "City of Creede, CO",
+      "town_mi": 13.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Little Mattie Campground",
+      "type": "paid_camp",
+      "town": "Woody Creek, CO",
+      "town_mi": 8.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cottonwood Lake Campground",
+      "type": "paid_camp",
+      "town": "Collbran, CO",
+      "town_mi": 11.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "East Dallas Camping Area",
+      "type": "free_camp",
+      "town": "Portland, CO",
+      "town_mi": 6.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "East Marvine Campground",
+      "type": "paid_camp",
+      "town": "Carbonate, CO",
+      "town_mi": 18.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Pearl Pass Dispersed Campground",
+      "type": "free_camp",
+      "town": "Mount Crested Butte, CO",
+      "town_mi": 10.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Elk Creek Overflow Campground",
+      "type": "paid_camp",
+      "town": "Capulin, CO",
+      "town_mi": 18,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cimarron Forks Camping Area",
+      "type": "free_camp",
+      "town": "Portland, CO",
+      "town_mi": 12.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Bull Mountain Campground",
+      "type": "free_camp",
+      "town": "Grand Lake, CO",
+      "town_mi": 3.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Little Maud Campground",
+      "type": "paid_camp",
+      "town": "Woody Creek, CO",
+      "town_mi": 8.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Rourke Ranch Cabin",
+      "type": "free_camp",
+      "town": "La Junta, CO",
+      "town_mi": 27.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Winfield Trailhead",
+      "type": "free_camp",
+      "town": "Twin Lakes, CO",
+      "town_mi": 10.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Silver Falls Guard Station",
+      "type": "free_camp",
+      "town": "Pagosa Springs, CO",
+      "town_mi": 16.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Jersey Jim Lookout Cabin",
+      "type": "paid_camp",
+      "town": "Mancos, CO",
+      "town_mi": 12,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Aspen Guard Station",
+      "type": "paid_camp",
+      "town": "Mancos, CO",
+      "town_mi": 10.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Glade Guard Station",
+      "type": "paid_camp",
+      "town": "Dove Creek, CO",
+      "town_mi": 15,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Alpine Plateau Dispersed Area",
+      "type": "free_camp",
+      "town": "Lake City, CO",
+      "town_mi": 13.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Schwartz Cabin",
+      "type": "free_camp",
+      "town": "Alma, CO",
+      "town_mi": 8.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Boreas Pass Section House, Cabin Rental",
+      "type": "paid_camp",
+      "town": "Blue River, CO",
+      "town_mi": 4.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lake Fork Campground",
+      "type": "paid_camp",
+      "town": "Capulin, CO",
+      "town_mi": 20.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Redstone Family Campground",
+      "type": "paid_camp",
+      "town": "Redstone, CO",
+      "town_mi": 1.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Hansen Mill Campground",
+      "type": "free_camp",
+      "town": "City of Creede, CO",
+      "town_mi": 10.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Bear River Designated Dispersed",
+      "type": "paid_camp",
+      "town": "Yampa, CO",
+      "town_mi": 8.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Trujillo Meadows Campground",
+      "type": "paid_camp",
+      "town": "Chama, NM",
+      "town_mi": 13.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Himes Peak Campground",
+      "type": "paid_camp",
+      "town": "Carbonate, CO",
+      "town_mi": 19.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "North Fork Campground",
+      "type": "paid_camp",
+      "town": "Carbonate, CO",
+      "town_mi": 22.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Kite Lake Campground",
+      "type": "paid_camp",
+      "town": "Alma, CO",
+      "town_mi": 4.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Red Dirt Reservoir Camground",
+      "type": "free_camp",
+      "town": "Kremmling, CO",
+      "town_mi": 13.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Elliott Creek Campground",
+      "type": "paid_camp",
+      "town": "Heeney, CO",
+      "town_mi": 1.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "West Lake Campground",
+      "type": "paid_camp",
+      "town": "Red Feather Lakes, CO",
+      "town_mi": 1.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Handcart Campground",
+      "type": "paid_camp",
+      "town": "Montezuma, CO",
+      "town_mi": 7.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Buckhorn Ranger Station",
+      "type": "paid_camp",
+      "town": "Estes Park, CO",
+      "town_mi": 15.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "West Magnolia Dispersed Camping",
+      "type": "free_camp",
+      "town": "Nederland, CO",
+      "town_mi": 1.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Camp Hale Memorial Campground",
+      "type": "paid_camp",
+      "town": "Red Cliff, CO",
+      "town_mi": 6.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Hidden Lakes Campground",
+      "type": "paid_camp",
+      "town": "Steamboat Springs, CO",
+      "town_mi": 11.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Thunder Ridge Campground",
+      "type": "paid_camp",
+      "town": "Cascade-Chipita Park, CO",
+      "town_mi": 2.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cold Springs Campground",
+      "type": "paid_camp",
+      "town": "Black Hawk, CO",
+      "town_mi": 2.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Horseshoe Campground",
+      "type": "paid_camp",
+      "town": "Heeney, CO",
+      "town_mi": 11.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Gothic Campground",
+      "type": "paid_camp",
+      "town": "Mount Crested Butte, CO",
+      "town_mi": 5.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Splains Gulch Camping Area",
+      "type": "free_camp",
+      "town": "Crested Butte, CO",
+      "town_mi": 5.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Horseshoe Campground",
+      "type": "paid_camp",
+      "town": "Yampa, CO",
+      "town_mi": 13.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Dowdy Lake Campground",
+      "type": "paid_camp",
+      "town": "Red Feather Lakes, CO",
+      "town_mi": 1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Blue Lake Campground",
+      "type": "paid_camp",
+      "town": "Stonewall Gap, CO",
+      "town_mi": 12,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cebolla Campground",
+      "type": "free_camp",
+      "town": "Cathedral, CO",
+      "town_mi": 4.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Rock Creek Camground",
+      "type": "free_camp",
+      "town": "McCoy, CO",
+      "town_mi": 12.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lone Cone Cabin",
+      "type": "paid_camp",
+      "town": "Placerville, CO",
+      "town_mi": 10.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "South Mineral Dispersed Area Campground",
+      "type": "free_camp",
+      "town": "Silverton, CO",
+      "town_mi": 2.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "North Fork Reservoir Campground",
+      "type": "paid_camp",
+      "town": "Garfield, CO",
+      "town_mi": 4.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Kelly Dahl Campground",
+      "type": "paid_camp",
+      "town": "Rollinsville, CO",
+      "town_mi": 1.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Tent City Camping Area",
+      "type": "free_camp",
+      "town": "Mount Crested Butte, CO",
+      "town_mi": 4.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Walrod Camping Area",
+      "type": "free_camp",
+      "town": "Crested Butte, CO",
+      "town_mi": 7.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Gothic Camping Area",
+      "type": "free_camp",
+      "town": "Mount Crested Butte, CO",
+      "town_mi": 7.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Washington Gulch Camping Area",
+      "type": "free_camp",
+      "town": "Mount Crested Butte, CO",
+      "town_mi": 3.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Poverty Gulch Camping Area",
+      "type": "free_camp",
+      "town": "Mount Crested Butte, CO",
+      "town_mi": 7.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Lost Trail Campground",
+      "type": "paid_camp",
+      "town": "Silverton, CO",
+      "town_mi": 17.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "West Brush Creek Camping Area",
+      "type": "free_camp",
+      "town": "Mount Crested Butte, CO",
+      "town_mi": 4.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Twin Eagles Campground",
+      "type": "paid_camp",
+      "town": "Westcreek, CO",
+      "town_mi": 17,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Prairie Point Campground",
+      "type": "paid_camp",
+      "town": "Heeney, CO",
+      "town_mi": 4.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Platte River Campground",
+      "type": "paid_camp",
+      "town": "Westcreek, CO",
+      "town_mi": 10.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Mizpah Campground",
+      "type": "paid_camp",
+      "town": "Empire, CO",
+      "town_mi": 6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Slate River Camping Area",
+      "type": "free_camp",
+      "town": "Mount Crested Butte, CO",
+      "town_mi": 6.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Green Mountain Campground",
+      "type": "paid_camp",
+      "town": "Aspen Park, CO",
+      "town_mi": 15.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Crosho Lake Camground",
+      "type": "free_camp",
+      "town": "Phippsburg, CO",
+      "town_mi": 6.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Hinman Park Campground",
+      "type": "paid_camp",
+      "town": "Steamboat Springs, CO",
+      "town_mi": 18.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "30 Mile Stock Unloading Area",
+      "type": "free_camp",
+      "town": "City of Creede, CO",
+      "town_mi": 19.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Trappers Lake/Shephards Rim Campground",
+      "type": "paid_camp",
+      "town": "Carbonate, CO",
+      "town_mi": 17.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Sheriff's Reservoir Campground",
+      "type": "paid_camp",
+      "town": "Phippsburg, CO",
+      "town_mi": 11.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "South Fork Campground",
+      "type": "paid_camp",
+      "town": "Carbonate, CO",
+      "town_mi": 13.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Willows Campground",
+      "type": "paid_camp",
+      "town": "Heeney, CO",
+      "town_mi": 1.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Farris Creek Camping Area",
+      "type": "free_camp",
+      "town": "Crested Butte, CO",
+      "town_mi": 4.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "McDonald Flats Campground",
+      "type": "paid_camp",
+      "town": "Heeney, CO",
+      "town_mi": 4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Alder Guard Station",
+      "type": "paid_camp",
+      "town": "South Fork, CO",
+      "town_mi": 2.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Fourmile Campground",
+      "type": "paid_camp",
+      "town": "Fairplay, CO",
+      "town_mi": 5.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Teal Lake Campground",
+      "type": "paid_camp",
+      "town": "Steamboat Springs, CO",
+      "town_mi": 13.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Bootleg Campground",
+      "type": "paid_camp",
+      "town": "Nathrop, CO",
+      "town_mi": 6.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Hay Press Camping Area",
+      "type": "free_camp",
+      "town": "Redlands, CO",
+      "town_mi": 17.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Round Mountain Campground",
+      "type": "paid_camp",
+      "town": "Florissant, CO",
+      "town_mi": 9.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Michigan Creek Campground",
+      "type": "paid_camp",
+      "town": "Blue River, CO",
+      "town_mi": 8.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Brush Creek Camping Area",
+      "type": "free_camp",
+      "town": "Mount Crested Butte, CO",
+      "town_mi": 3.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Chapman Reservoir Campground",
+      "type": "paid_camp",
+      "town": "Phippsburg, CO",
+      "town_mi": 7.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Red Feather Ranger Station",
+      "type": "paid_camp",
+      "town": "Red Feather Lakes, CO",
+      "town_mi": 1.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Silver Queen Campground",
+      "type": "paid_camp",
+      "town": "Aspen, CO",
+      "town_mi": 5.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Weston Pass Campground",
+      "type": "paid_camp",
+      "town": "Twin Lakes, CO",
+      "town_mi": 10.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Musicians Camp Camping Area",
+      "type": "free_camp",
+      "town": "Mount Crested Butte, CO",
+      "town_mi": 5.1,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Kebler Pass Camping Area",
+      "type": "free_camp",
+      "town": "Crested Butte, CO",
+      "town_mi": 6.2,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Ruedi Marina Campground",
+      "type": "paid_camp",
+      "town": "Woody Creek, CO",
+      "town_mi": 7.9,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Big Creek Campground",
+      "type": "paid_camp",
+      "town": "Collbran, CO",
+      "town_mi": 12,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Chambers Lake Campground",
+      "type": "paid_camp",
+      "town": "Red Feather Lakes, CO",
+      "town_mi": 20.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Bear Lake Campground",
+      "type": "paid_camp",
+      "town": "Yampa, CO",
+      "town_mi": 11.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Mollie B Campground",
+      "type": "paid_camp",
+      "town": "Woody Creek, CO",
+      "town_mi": 8.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Summit Lake Campground",
+      "type": "paid_camp",
+      "town": "Steamboat Springs, CO",
+      "town_mi": 8.8,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Pines Campground",
+      "type": "paid_camp",
+      "town": "Grand Lake, CO",
+      "town_mi": 19.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Vaughn Lake Campground",
+      "type": "paid_camp",
+      "town": "Phippsburg, CO",
+      "town_mi": 17.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Columbine Campground",
+      "type": "paid_camp",
+      "town": "Central, CO",
+      "town_mi": 2.6,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Pine Cove Campground",
+      "type": "paid_camp",
+      "town": "Frisco, CO",
+      "town_mi": 1.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "St. Louis Creek Campground",
+      "type": "paid_camp",
+      "town": "Fraser, CO",
+      "town_mi": 3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Freeman Reservoir Campground",
+      "type": "paid_camp",
+      "town": "Craig, CO",
+      "town_mi": 18.4,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Blacktail Creek Campground",
+      "type": "paid_camp",
+      "town": "Kremmling, CO",
+      "town_mi": 10.7,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Big Bend Campground",
+      "type": "paid_camp",
+      "town": "Red Feather Lakes, CO",
+      "town_mi": 10.3,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Yeoman Park Campground",
+      "type": "paid_camp",
+      "town": "Fulford, CO",
+      "town_mi": 1.5,
+      "badge": "agency",
+      "policy": null,
+      "osm": false
+    },
+    {
+      "name": "Cataract Creek Campground",
+      "type": "paid_camp",
+      "town": "Heeney, CO",
+      "town_mi": 2.4,
       "badge": "agency",
       "policy": null,
       "osm": false
